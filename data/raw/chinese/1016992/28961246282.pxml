@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.461+01:00</Created>
+        <LastChange>2023-06-29T13:30:24.116+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758444" pageNr="268" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961246282.jpg" imageWidth="960" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038224117" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="41,39 32,617 912,613 921,35"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,88 613,97 642,92 672,98 800,98 815,96 816,79 789,61 761,78 733,67 707,76 689,62 650,56 599,60"/>
+                <Baseline points="603,81 628,84 654,86 680,87 706,87 732,88 758,88 784,89 810,91"/>
+                <TextEquiv>
+                    <Unicode>15625.a.8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="86,122 295,123 325,113 325,96 307,85 197,86 169,77 145,85 86,84"/>
+                <Baseline points="91,112 116,112 141,112 167,113 192,113 218,114 243,114 269,115 294,115 320,114"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="42,218 118,216 126,226 154,218 254,227 269,218 270,188 244,180 226,190 128,180 113,191 104,181 43,179"/>
+                <Baseline points="48,208 75,208 102,209 129,210 156,210 183,211 210,212 237,213 264,215"/>
+                <TextEquiv>
+                    <Unicode>LIN (Jidong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="84,274 312,282 321,278 322,258 266,245 186,250 85,243"/>
+                <Baseline points="89,267 114,268 139,268 164,269 189,270 215,271 240,272 265,273 290,274 316,274"/>
+                <TextEquiv>
+                    <Unicode>Fa lü ci dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037279955_959" custom="readingOrder {index:4;}">
+                <Coords points="150,477 315,479 314,529 149,527"/>
+                <Baseline points="149,522 314,524"/>
+                <TextEquiv>
+                    <Unicode>52 [1963]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037296283_970" custom="readingOrder {index:5;}">
+                <Coords points="81,547 517,557 516,607 80,597"/>
+                <Baseline points="80,592 516,602"/>
+                <TextEquiv>
+                    <Unicode>2, 2, 83, 1358 p.; 20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.8&#13;
+FA LÜ CI DIAN&#13;
+LIN (Jidong)&#13;
+Fa lü ci dian&#13;
+52 [1963]&#13;
+2, 2, 83, 1358 p.; 20 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

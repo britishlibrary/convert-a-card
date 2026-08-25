@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.046+01:00</Created>
+        <LastChange>2023-05-03T17:39:26.296+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758157" pageNr="19"/>
+    </Metadata>
+    <Page imageFilename="28445612824.jpg" imageWidth="948" imageHeight="780">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128366329" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="69,50 76,623 907,625 911,49"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="508,101 798,98 815,106 838,96 838,55 789,55 773,67 508,69"/>
+                <Baseline points="513,92 539,92 566,92 593,93 619,93 646,93 673,93 699,93 726,93 753,92 779,92 806,91 833,91"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1109</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="104,233 167,233 180,222 194,235 308,234 308,194 297,189 229,200 209,189 187,196 104,194"/>
+                <Baseline points="109,224 136,222 164,222 192,223 219,224 247,225 275,225 303,223"/>
+                <TextEquiv>
+                    <Unicode>FENG (Hanji)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="126,290 718,286 718,249 686,245 126,249"/>
+                <Baseline points="131,271 160,273 189,274 218,274 247,275 276,275 305,275 334,275 363,275 392,274 422,274 451,274 480,273 509,273 538,273 567,273 596,273 625,274 654,275 683,276 713,278"/>
+                <TextEquiv>
+                    <Unicode>Feng Han ji kao gu xue lun wen ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128361267_359" custom="readingOrder {index:3;}">
+                <Coords points="321,424 417,423 417,473 321,474"/>
+                <Baseline points="321,469 417,468"/>
+                <TextEquiv>
+                    <Unicode>1985</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="134,530 631,529 630,503 605,493 133,501"/>
+                <Baseline points="139,521 164,521 190,522 215,522 241,522 267,522 292,521 318,521 344,521 369,521 395,521 420,520 446,520 472,520 497,520 523,519 549,519 574,519 600,519 626,519"/>
+                <TextEquiv>
+                    <Unicode>214 , 16 p. of plates. : ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="130,593 368,594 376,602 408,594 408,566 390,564 255,557 241,565 215,562 200,573 184,573 168,557 130,564"/>
+                <Baseline points="135,586 161,586 188,586 215,586 242,586 269,586 295,586 322,586 349,586 376,586 403,587"/>
+                <TextEquiv>
+                    <Unicode>s1. Archaeology.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1109&#13;
+FENG (Hanji)&#13;
+Feng Han ji kao gu xue lun wen ji&#13;
+1985&#13;
+214 , 16 p. of plates. : ill.&#13;
+s1. Archaeology.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

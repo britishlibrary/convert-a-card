@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.183+01:00</Created>
+        <LastChange>2023-05-03T17:42:25.575+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758164" pageNr="25"/>
+    </Metadata>
+    <Page imageFilename="28445614214.jpg" imageWidth="976" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128545575" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="54,70 52,620 854,619 856,69"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="556,110 808,109 808,89 783,77 735,77 717,90 704,77 681,77 666,88 644,69 614,79 556,76"/>
+                <Baseline points="561,102 587,102 614,103 641,103 668,103 695,104 722,104 749,104 776,105 803,105"/>
+                <TextEquiv>
+                    <Unicode>15408.c.291</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="69,171 118,170 134,186 150,186 174,161 232,160 255,178 270,163 327,162 326,114 307,114 288,133 262,118 68,123"/>
+                <Baseline points="73,158 100,157 128,156 155,155 183,155 210,155 238,155 265,154 293,154 321,153"/>
+                <TextEquiv>
+                    <Unicode>FENG CHI YIN GAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="55,242 263,251 275,241 328,251 343,247 344,201 306,213 55,210"/>
+                <Baseline points="60,235 85,236 110,236 135,236 161,236 186,236 211,237 236,237 262,238 287,238 312,240 338,241"/>
+                <TextEquiv>
+                    <Unicode>WANG (Guangyang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="99,386 704,386 727,376 727,348 403,341 377,364 99,349"/>
+                <Baseline points="104,372 134,373 165,374 196,374 227,375 258,375 289,375 320,375 351,375 382,375 413,375 443,374 474,374 505,374 536,374 567,374 598,374 629,374 660,374 691,375 722,375"/>
+                <TextEquiv>
+                    <Unicode>Fengchi yingao. [Collected poems by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="95,416 781,426 789,373 624,395 605,380 586,399 511,378 351,397 95,384"/>
+                <Baseline points="100,407 134,408 168,408 202,409 236,409 271,409 305,409 339,409 373,409 407,409 442,409 476,409 510,409 544,409 578,409 613,409 647,409 681,409 715,410 749,410 784,411"/>
+                <TextEquiv>
+                    <Unicode>Wang Guangyang of the Ming. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="100,456 311,458 319,450 382,450 382,427 366,429 350,413 297,428 282,417 263,430 228,417 203,433 173,417 145,431 126,418 100,421"/>
+                <Baseline points="105,444 132,444 159,444 186,444 213,444 241,444 268,444 295,444 322,444 349,444 377,444"/>
+                <TextEquiv>
+                    <Unicode>10 ch. in 1 vol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="666,451 674,451 680,457 695,458 710,445 717,450 729,451 774,450 774,428 765,428 757,420 718,421 710,426 697,418 686,421 666,419"/>
+                <Baseline points="671,445 703,444 736,444 769,444"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="94,530 708,518 686,485 583,484 566,501 544,485 94,485"/>
+                <Baseline points="99,512 129,512 159,512 189,512 219,513 250,513 280,513 310,513 340,513 370,513 401,513 431,513 461,513 491,513 521,513 552,513 582,514 612,515 642,515 672,516 703,517"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1973].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="91,586 480,588 503,602 657,582 618,549 565,566 91,557"/>
+                <Baseline points="96,580 123,580 151,580 179,580 207,580 235,580 262,580 290,580 318,580 346,580 374,580 401,581 429,581 457,581 485,581 513,581 540,581 568,582 596,582 624,582 652,583"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben sanji, 291.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.c.291&#13;
+FENG CHI YIN GAO&#13;
+WANG (Guangyang)&#13;
+Fengchi yingao. [Collected poems by&#13;
+Wang Guangyang of the Ming. A reprint.]&#13;
+10 ch. in 1 vol.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, [1973].&#13;
+Siku quanshu zhenben sanji, 291.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

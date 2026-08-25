@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.210+01:00</Created>
+        <LastChange>2023-06-29T13:28:54.371+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758425" pageNr="252"/>
+    </Metadata>
+    <Page imageFilename="28961240942.jpg" imageWidth="988" imageHeight="785">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038134371" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="128,112 128,574 876,574 876,112"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="577,147 729,136 783,146 825,134 825,102 760,101 742,119 703,109 684,121 672,109 576,109"/>
+                <Baseline points="582,138 608,137 634,136 661,135 687,133 714,133 740,132 767,132 793,133 820,133"/>
+                <TextEquiv>
+                    <Unicode>15037.a.4/2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="166,219 192,216 228,234 259,216 381,225 423,206 422,179 368,181 359,173 274,182 221,173 214,180 165,182"/>
+                <Baseline points="171,210 198,209 225,209 253,209 280,209 308,209 335,209 363,209 390,208 418,206"/>
+                <TextEquiv>
+                    <Unicode>FAN-MA CHAO XUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="123,290 544,277 537,245 122,253"/>
+                <Baseline points="128,276 153,276 179,275 205,275 230,274 256,274 282,273 307,273 333,273 359,273 384,272 410,272 436,272 461,272 487,271 513,271 539,270"/>
+                <TextEquiv>
+                    <Unicode>PERICDICAL PUBLICATIONS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688029568146_76" custom="readingOrder {index:3;}">
+                <Coords points="162,344 869,337 869,387 162,394"/>
+                <Baseline points="162,389 869,382"/>
+                <TextEquiv>
+                    <Unicode>Fan-Ma chaoxun. [Journal for Ch'ao-chou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688029640653_94" custom="readingOrder {index:4;}">
+                <Coords points="160,382 869,375 869,425 160,432"/>
+                <Baseline points="160,427 869,420"/>
+                <TextEquiv>
+                    <Unicode>Overseas Chinese, a successor to Ch'ao-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688029675074_111" custom="readingOrder {index:5;}">
+                <Coords points="160,416 829,416 829,466 160,466"/>
+                <Baseline points="160,461 829,461"/>
+                <TextEquiv>
+                    <Unicode>chou hsiang-hsün, Chaozhou xiangxun.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="161,505 176,506 186,498 198,505 203,500 223,498 230,491 246,499 256,499 265,494 265,474 251,467 225,477 214,477 204,469 161,468"/>
+                <Baseline points="166,494 197,493 228,494 260,492"/>
+                <TextEquiv>
+                    <Unicode>No. 1-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="162,572 271,578 303,569 330,579 357,566 430,572 449,563 449,541 384,532 332,547 161,533"/>
+                <Baseline points="166,563 191,564 216,564 241,564 267,564 292,564 317,563 342,563 368,563 393,563 418,563 444,563"/>
+                <TextEquiv>
+                    <Unicode>Singapore, 1964-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15037.a.4/2&#13;
+FAN-MA CHAO XUN&#13;
+PERICDICAL PUBLICATIONS&#13;
+Fan-Ma chaoxun. [Journal for Ch'ao-chou&#13;
+Overseas Chinese, a successor to Ch'ao-&#13;
+chou hsiang-hsün, Chaozhou xiangxun.]&#13;
+No. 1-&#13;
+Singapore, 1964-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

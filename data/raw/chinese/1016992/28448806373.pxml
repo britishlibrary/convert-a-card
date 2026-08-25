@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.845+01:00</Created>
+        <LastChange>2023-05-04T12:50:51.886+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758261" pageNr="110"/>
+    </Metadata>
+    <Page imageFilename="28448806373.jpg" imageWidth="976" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197451886" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,131 84,700 849,695 852,135"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="622,177 637,187 649,186 658,178 670,186 778,186 779,150 740,153 719,149 713,154 698,148 623,148"/>
+                <Baseline points="627,174 656,175 685,176 714,177 743,177 773,175"/>
+                <TextEquiv>
+                    <Unicode>15012.h.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="134,218 679,216 679,189 656,181 134,181"/>
+                <Baseline points="139,206 165,206 192,206 219,206 246,206 272,206 299,206 326,205 353,205 379,205 406,205 433,205 460,205 486,205 513,205 540,206 567,206 593,206 620,206 647,207 674,207"/>
+                <TextEquiv>
+                    <Unicode>THE FAR EAST AND SOUTH EAST ASIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="91,306 789,315 780,276 644,290 91,269"/>
+                <Baseline points="96,297 130,297 164,297 199,297 233,297 268,297 302,298 336,298 371,298 405,298 440,299 474,299 508,299 543,299 577,299 612,300 646,300 680,300 715,300 749,300 784,300"/>
+                <TextEquiv>
+                    <Unicode>LONDON.III.- University of London. School</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="311,346 804,354 798,301 312,302"/>
+                <Baseline points="317,330 342,331 367,332 393,332 418,333 444,333 469,333 494,333 520,334 545,334 571,334 596,334 622,334 647,334 672,334 698,334 723,334 749,335 774,335 800,335"/>
+                <TextEquiv>
+                    <Unicode>of Oriental &amp; African Studies.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="128,402 674,409 674,390 628,373 128,372"/>
+                <Baseline points="133,397 159,397 186,398 213,398 240,398 267,399 293,399 320,399 347,400 374,400 401,400 427,400 454,401 481,401 508,401 535,402 561,402 588,402 615,402 642,403 756,408"/>
+                <TextEquiv>
+                    <Unicode>The Far East and South East Asia. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="133,439 762,443 762,420 698,405 133,409"/>
+                <Baseline points="127,434 170,431 203,432 235,432 268,433 300,433 333,433 366,433 398,433 431,434 463,434 496,434 528,434 561,434 594,434 626,434 659,435 691,435 724,435 757,436"/>
+                <TextEquiv>
+                    <Unicode>cumulated list of periodical articles,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="128,474 489,474 489,445 464,440 393,448 362,437 267,450 254,440 128,441"/>
+                <Baseline points="133,464 158,464 183,465 208,465 233,465 258,465 283,465 308,465 333,465 358,465 383,465 408,466 433,467 458,467 484,468"/>
+                <TextEquiv>
+                    <Unicode>May 1957 - April 1958.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="125,515 165,514 173,506 194,505 214,505 223,514 240,513 248,505 327,512 327,486 317,485 300,468 286,478 255,477 245,485 230,485 215,475 177,476 167,484 125,477"/>
+                <Baseline points="130,503 157,502 184,501 212,500 239,500 267,500 294,500 322,501"/>
+                <TextEquiv>
+                    <Unicode>pp.xvi, 126.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="117,570 189,578 207,578 214,571 224,579 246,571 264,571 271,578 325,577 325,547 312,547 302,536 284,545 258,541 242,556 219,540 156,547 132,533 118,537"/>
+                <Baseline points="122,564 150,564 178,565 206,565 235,566 263,566 291,567 320,566"/>
+                <TextEquiv>
+                    <Unicode>London, n.d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="728,610 769,609 775,603 787,611 822,609 822,574 803,576 792,565 766,573 728,573"/>
+                <Baseline points="733,600 761,601 789,600 817,600"/>
+                <TextEquiv>
+                    <Unicode>23 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="121,682 403,671 416,683 563,676 582,691 617,675 617,640 121,641"/>
+                <Baseline points="126,668 151,668 177,669 202,669 228,669 253,669 279,669 305,669 330,669 356,669 381,669 407,669 432,669 458,669 484,670 509,670 535,670 560,671 586,672 612,673"/>
+                <TextEquiv>
+                    <Unicode>[Reproduced from typescript.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15012.h.1&#13;
+THE FAR EAST AND SOUTH EAST ASIA&#13;
+LONDON.III.- University of London. School&#13;
+of Oriental &amp; African Studies.&#13;
+The Far East and South East Asia. A&#13;
+cumulated list of periodical articles,&#13;
+May 1957 - April 1958.&#13;
+pp.xvi, 126.&#13;
+London, n.d.&#13;
+23 cm&#13;
+[Reproduced from typescript.]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

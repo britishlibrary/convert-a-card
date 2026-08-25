@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.443+01:00</Created>
+        <LastChange>2023-06-29T13:30:20.043+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758443" pageNr="267"/>
+    </Metadata>
+    <Page imageFilename="28961246162.jpg" imageWidth="932" imageHeight="780">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038220043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="134,69 141,547 878,539 871,61"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="556,105 823,107 853,97 853,73 838,69 775,76 556,70"/>
+                <Baseline points="561,96 587,96 613,96 639,96 665,97 691,97 717,97 743,96 769,96 795,95 821,94 848,93"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.594</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="151,280 658,274 679,265 679,246 151,248"/>
+                <Baseline points="156,274 181,274 207,274 233,273 259,273 285,273 311,272 337,272 363,272 389,271 415,271 440,270 466,270 492,270 518,269 544,269 570,269 596,269 622,269 648,269 674,269"/>
+                <TextEquiv>
+                    <Unicode>FA SHENG HE TONG JIU FEN ZEN MO BAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="201,311 689,313 689,272 201,282"/>
+                <Baseline points="206,301 231,302 256,303 281,303 306,303 331,303 356,303 382,303 407,303 432,303 457,303 482,302 507,302 533,302 558,302 583,302 608,301 633,301 658,302 684,302"/>
+                <TextEquiv>
+                    <Unicode>Fa sheng he tong jiu fen zen mo ban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037147530_928" custom="readingOrder {index:3;}">
+                <Coords points="539,328 596,330 594,380 537,378"/>
+                <Baseline points="537,373 594,375"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="183,408 210,410 220,403 226,409 240,409 247,402 263,401 263,388 254,388 246,380 236,378 225,371 183,373"/>
+                <Baseline points="188,396 223,398 258,396"/>
+                <TextEquiv>
+                    <Unicode>176p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;}">
+                <Coords points="186,531 343,530 351,527 351,493 259,492 243,506 230,506 223,500 186,503"/>
+                <Baseline points="191,522 216,523 242,522 268,521 294,521 320,520 346,521"/>
+                <TextEquiv>
+                    <Unicode>s1. Trade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.594&#13;
+FA SHENG HE TONG JIU FEN ZEN MO BAN&#13;
+Fa sheng he tong jiu fen zen mo ban&#13;
+1986&#13;
+176p.&#13;
+s1. Trade</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

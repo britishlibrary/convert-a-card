@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.188+01:00</Created>
+        <LastChange>2023-08-16T15:10:47.327+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758570" pageNr="377" tsid="128197502" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=GJITQOTUZDMOJVYHEIRGZDBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PORMZWOKITPYKLJTPXBPNFAY" imageId="35195876"/>
+    </Metadata>
+    <Page imageFilename="42758570.jpg" imageWidth="960" imageHeight="804">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191447328" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="38,76 882,76 882,641 38,641"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="494,135 529,138 542,130 577,138 586,131 602,138 619,128 655,138 667,127 678,138 704,138 718,129 718,95 676,97 662,111 644,111 629,96 601,110 582,91 513,89 494,102"/>
+                <Baseline points="499,126 523,128 547,128 571,128 595,128 619,128 643,128 667,128 691,128 715,126 720,128"/>
+                <TextEquiv>
+                    <Unicode>15628.b.77</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="33,251 100,246 121,257 133,248 200,248 265,258 282,250 281,197 236,214 84,215 74,205 60,215 45,200 32,203"/>
+                <Baseline points="38,241 62,241 86,241 110,241 134,240 158,241 182,241 206,241 230,243 254,245 278,245 283,245"/>
+                <TextEquiv>
+                    <Unicode>FEI (Xiaotong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="65,295 373,304 405,330 438,305 846,304 846,262 65,259"/>
+                <Baseline points="70,288 94,289 118,291 142,289 166,291 190,291 214,291 238,291 262,291 286,293 310,293 334,293 358,291 382,291 406,289 430,291 454,291 478,291 502,293 526,293 550,293 574,293 598,293 623,291 647,293 671,293 695,293 719,293 743,293 767,294 791,296 815,296 839,297 848,296"/>
+                <TextEquiv>
+                    <Unicode>Fei Xiao tong Qian Wei chang zai nei Meng gu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="65,334 394,328 394,307 376,303 338,303 323,315 311,303 298,309 226,292 65,295"/>
+                <Baseline points="70,326 83,323 107,323 131,325 155,325 179,323 203,323 227,321 251,323 275,325 299,325 323,325 347,325 371,325 395,325"/>
+                <TextEquiv>
+                    <Unicode>de xue xhu bao gao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="102,426 881,410 881,376 830,353 632,374 558,340 524,370 362,345 257,372 102,348"/>
+                <Baseline points="107,413 113,416 137,410 161,410 185,410 209,408 233,410 257,413 281,413 305,413 329,413 353,411 377,410 402,410 426,408 450,406 474,405 498,403 522,403 546,405 570,406 594,406 618,406 642,408 666,411 690,411 714,411 738,411 762,411 786,411 810,410 834,410 858,408 882,410"/>
+                <TextEquiv>
+                    <Unicode>Fe te la f ttrt de 1 c s dttee ef eate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="184,494 661,507 660,473 533,424 476,436 442,468 397,433 301,454 237,434 182,455"/>
+                <Baseline points="188,480 213,478 237,480 261,480 285,480 309,482 333,482 357,482 381,482 405,482 429,483 453,488 477,490 501,486 525,488 549,488 573,490 597,491 621,493 645,499 663,501"/>
+                <TextEquiv>
+                    <Unicode>1e c. te je : 19 ch t c8.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="696,504 713,506 724,495 735,506 745,506 754,497 767,498 774,491 802,496 802,471 793,471 772,450 751,449 742,440 733,448 721,440 696,444"/>
+                <Baseline points="701,494 707,494 731,488 755,490 779,491 804,491"/>
+                <TextEquiv>
+                    <Unicode>983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="71,550 80,554 92,551 97,555 128,554 143,563 158,553 178,553 177,529 166,530 155,521 134,523 121,512 99,513 97,517 69,516"/>
+                <Baseline points="75,542 99,544 123,546 147,547 171,549 180,549"/>
+                <TextEquiv>
+                    <Unicode>115 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="67,599 643,603 591,556 459,561 420,585 393,558 67,570"/>
+                <Baseline points="72,595 96,595 120,597 144,597 168,597 192,597 216,595 240,595 264,595 288,595 312,595 336,595 360,597 384,598 408,597 432,595 456,595 480,597 504,595 528,595 552,595 576,595 600,595 624,597 645,597"/>
+                <TextEquiv>
+                    <Unicode>a1. QIAN (Weichang) s1. Nat. Min.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="65,633 102,633 110,641 128,632 284,633 316,641 316,613 288,602 241,609 216,601 165,608 145,602 126,614 109,601 65,606"/>
+                <Baseline points="70,629 94,629 118,631 142,631 166,631 190,629 214,629 238,629 262,629 286,629 310,631 318,629"/>
+                <TextEquiv>
+                    <Unicode>s2. Economics.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

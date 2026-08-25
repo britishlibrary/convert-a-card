@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.936+01:00</Created>
+        <LastChange>2023-07-03T17:31:51.798+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758551" pageNr="360" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=VUPNVDVSNIAUKMPZGCTHYQQO&amp;fileType=view" imageId="35195857"/>
+    </Metadata>
+    <Page imageFilename="42758551.jpg" imageWidth="976" imageHeight="800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398311798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="107,107 848,107 848,632 107,632"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="573,164 642,170 676,158 703,169 722,159 752,171 776,162 786,170 847,169 847,141 791,125 737,130 719,148 695,129 672,140 627,125 573,133"/>
+                <Baseline points="578,157 603,157 627,159 652,159 676,157 684,157 692,157 717,157 741,159 765,160 790,160 814,160 839,160 848,162"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/513</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="108,197 267,218 312,192 488,219 582,194 766,221 819,202 819,168 777,162 108,164"/>
+                <Baseline points="113,191 138,191 162,191 186,191 211,191 235,191 260,191 284,191 308,191 333,191 357,191 382,191 406,193 430,193 455,193 479,193 504,193 528,193 552,193 577,193 601,193 626,195 650,193 674,195 699,195 723,195 747,195 772,195 796,195 821,196"/>
+                <TextEquiv>
+                    <Unicode>FANG WANG XI (BAO) XIAN SHENG QUAN JI (WEN JI)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="108,285 179,287 191,298 210,290 335,297 333,251 322,250 305,268 289,256 267,263 252,252 216,258 197,246 184,257 131,253 107,264"/>
+                <Baseline points="113,284 138,282 162,284 186,286 211,284 235,286 260,286 284,286 308,289 333,291 336,289"/>
+                <TextEquiv>
+                    <Unicode>DAI (Junheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;}">
+                <Coords points="110,386 534,393 574,413 688,391 807,410 825,377 109,355"/>
+                <Baseline points="115,378 139,380 164,382 188,382 213,382 237,383 261,383 286,385 310,385 334,385 359,385 383,386 408,388 432,388 456,386 481,386 505,388 530,388 554,391 578,391 603,391 627,391 652,391 676,391 700,391 725,390 749,393 773,393 798,395 822,395 827,395"/>
+                <TextEquiv>
+                    <Unicode>Fang Wangxi (Bao) xiansheng,quinji (wenji).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688398255180_2548" custom="readingOrder {index:4;}">
+                <Coords points="110,368 821,385 820,435 109,418"/>
+                <Baseline points="109,413 820,430"/>
+                <TextEquiv>
+                    <Unicode>Collected writings of Fang Bao, 1668-1749,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:5;}">
+                <Coords points="112,449 653,471 652,444 591,427 175,435 112,418"/>
+                <Baseline points="117,447 141,447 165,448 190,448 214,450 239,450 263,450 287,452 312,452 336,452 360,452 385,452 409,453 434,452 458,455 482,453 507,453 531,455 556,455 580,456 604,456 629,456 653,463 655,463"/>
+                <TextEquiv>
+                    <Unicode>the founder of the 1851 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:6;}">
+                <Coords points="108,489 217,489 217,467 186,459 177,450 163,460 138,460 132,454 123,453 114,460 107,460"/>
+                <Baseline points="113,481 138,481 162,481 186,481 211,484 219,486"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:7;}">
+                <Coords points="108,546 527,570 543,553 642,565 633,520 551,518 526,539 442,506 404,528 107,510"/>
+                <Baseline points="113,544 138,544 162,546 186,546 211,547 235,549 260,549 284,549 308,549 333,549 357,549 382,551 406,551 430,551 455,552 479,552 504,552 528,552 552,552 577,554 591,554"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1966-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:8;}">
+                <Coords points="103,614 677,626 651,585 597,604 532,584 450,599 102,582"/>
+                <Baseline points="107,609 131,611 156,613 180,613 204,614 229,614 253,616 278,616 302,616 326,616 351,616 375,617 400,617 424,617 448,617 473,617 497,619 521,619 546,619 570,621 595,622 619,622 643,622 668,621 678,622"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhong shiliao congkan, 513.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.29/513&#13;
+FANG WANG XI (BAO) XIAN SHENG QUAN JI (WEN JI)&#13;
+DAI (Junheng)&#13;
+Fang Wangxi (Bao) xiansheng,quinji (wenji).&#13;
+Collected writings of Fang Bao, 1668-1749,&#13;
+the founder of the 1851 edition.]&#13;
+2 vols.&#13;
+Wenhai chubanshe: Taipei, 1966-&#13;
+Jindai Zhong shiliao congkan, 513.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

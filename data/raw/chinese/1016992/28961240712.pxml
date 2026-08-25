@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.173+01:00</Created>
+        <LastChange>2023-06-27T10:15:53.345+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758423" pageNr="250" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961240712.jpg" imageWidth="952" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853753346" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="52,29 52,687 939,687 939,29"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="619,79 853,82 855,51 811,43 794,50 717,50 621,37"/>
+                <Baseline points="625,63 653,68 681,69 709,71 737,72 765,72 793,72 821,73 849,74"/>
+                <TextEquiv>
+                    <Unicode>15532.a.47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="61,129 345,138 465,118 465,95 449,94 61,93"/>
+                <Baseline points="66,120 92,120 118,119 144,119 171,119 197,119 223,119 249,119 276,119 302,119 328,119 354,119 381,119 407,119 433,118 460,117"/>
+                <TextEquiv>
+                    <Unicode>FAN NAN WEN JI JIAN ZHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="50,218 87,212 103,219 215,218 225,212 272,217 284,209 284,177 255,172 190,188 127,180 120,173 50,179"/>
+                <Baseline points="55,206 83,205 111,205 139,206 167,206 195,206 223,205 251,204 279,204"/>
+                <TextEquiv>
+                    <Unicode>LI (Shangyin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="81,282 336,274 433,291 537,279 551,250 405,258 287,245 269,260 211,245 182,263 162,246 81,252"/>
+                <Baseline points="86,275 111,275 137,275 162,275 188,275 213,275 239,275 264,274 290,274 316,274 341,274 367,273 392,273 418,273 443,272 469,272 494,272 520,271 546,271"/>
+                <TextEquiv>
+                    <Unicode>Li Yi shan shi wen quan ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853735528_459" custom="readingOrder {index:4;}">
+                <Coords points="835,392 931,391 931,441 835,442"/>
+                <Baseline points="835,437 931,436"/>
+                <TextEquiv>
+                    <Unicode>[197-]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="76,531 232,523 326,538 344,522 379,531 486,511 485,490 411,485 346,500 76,496"/>
+                <Baseline points="81,520 106,519 131,519 156,518 181,518 206,517 231,517 256,517 281,517 306,517 331,517 356,517 381,517 406,516 431,515 456,514 481,513"/>
+                <TextEquiv>
+                    <Unicode>32 v. in 3 tao : 32 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:6;}">
+                <Coords points="90,590 115,589 141,589 166,588 192,588 217,588 243,588 269,588 294,588 320,588 345,588 371,588 397,588 422,588 448,588 473,588 499,587 525,586 601,584 626,584 651,585 677,586 702,586 728,586 753,586 778,586 804,585 829,585 855,584 880,583 906,581 905,566 879,568 854,569 829,570 804,570 778,571 753,571 728,571 702,571 677,571 652,570 626,569 601,569 525,571 498,572 473,573 448,573 422,573 397,573 371,573 345,573 320,573 294,573 269,573 243,573 217,573 192,573 166,573 141,574 115,574 89,575"/>
+                <Baseline points="90,590 115,589 141,589 166,588 192,588 217,588 243,588 269,588 294,588 320,588 345,588 371,588 397,588 422,588 448,588 473,588 499,587 525,586 601,584 626,584 651,585 677,586 702,586 728,586 753,586 778,586 804,585 829,585 855,584 880,583 906,581"/>
+                <TextEquiv>
+                    <Unicode>Works, edited by Feng Hao of the Qing. - In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853723913_452" custom="readingOrder {index:7;}">
+                <Coords points="80,589 217,588 217,638 80,639"/>
+                <Baseline points="80,634 217,633"/>
+                <TextEquiv>
+                    <Unicode>2 parts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15532.a.47&#13;
+FAN NAN WEN JI JIAN ZHU&#13;
+LI (Shangyin)&#13;
+Li Yi shan shi wen quan ji&#13;
+[197-]&#13;
+32 v. in 3 tao : 32 cm&#13;
+Works, edited by Feng Hao of the Qing. - In&#13;
+2 parts</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

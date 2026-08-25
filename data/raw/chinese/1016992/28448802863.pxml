@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.600+01:00</Created>
+        <LastChange>2023-05-04T12:48:04.205+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758244" pageNr="95"/>
+    </Metadata>
+    <Page imageFilename="28448802863.jpg" imageWidth="992" imageHeight="799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197284206" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="37,50 36,686 933,684 934,48"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="554,93 583,99 621,82 816,78 816,48 799,44 751,45 737,58 689,45 554,44"/>
+                <Baseline points="559,71 584,71 609,71 634,71 659,71 685,72 710,72 735,72 760,73 785,74 811,75"/>
+                <TextEquiv>
+                    <Unicode>15266.fa.222</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="89,121 113,114 151,145 175,122 272,121 297,104 297,72 268,72 256,84 236,88 164,84 149,68 89,72"/>
+                <Baseline points="94,107 122,108 150,108 178,108 207,108 235,109 263,109 292,110"/>
+                <TextEquiv>
+                    <Unicode>FEN JIANG LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913675712_941" custom="readingOrder {index:2;}">
+                <Coords points="44,213 73,217 80,210 117,209 126,218 172,218 188,211 188,175 58,173 44,165"/>
+                <Baseline points="49,208 183,208"/>
+                <TextEquiv>
+                    <Unicode>LIN (E)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="88,383 840,387 840,359 699,341 319,363 254,340 88,349"/>
+                <Baseline points="93,372 130,373 167,374 204,375 241,375 278,375 315,376 352,376 389,376 426,375 464,375 501,375 538,375 575,375 612,375 649,376 686,376 723,377 760,378 797,379 835,381"/>
+                <TextEquiv>
+                    <Unicode>Fenjiang lu. [Description of the district,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="93,418 921,426 921,396 891,389 93,384"/>
+                <Baseline points="98,408 138,409 179,410 220,411 261,411 302,412 343,412 384,412 425,412 466,413 507,413 547,413 588,413 629,413 670,413 711,413 752,413 793,414 834,414 875,414 916,415"/>
+                <TextEquiv>
+                    <Unicode>Taishun, in Zhejiang province. A reprint of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="89,451 134,458 169,442 178,451 219,451 233,459 264,451 328,461 329,418 301,430 290,421 263,429 253,420 167,428 143,416 90,420"/>
+                <Baseline points="94,444 119,443 145,443 170,443 196,443 221,444 247,444 272,445 298,448 324,449"/>
+                <TextEquiv>
+                    <Unicode>1878 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="93,490 254,488 300,499 310,490 383,490 384,469 340,453 324,462 215,454 193,470 161,450 135,461 94,452"/>
+                <Baseline points="99,477 124,478 149,478 175,479 200,479 225,479 251,480 276,480 301,481 327,481 352,482 378,483"/>
+                <TextEquiv>
+                    <Unicode>12 ch. in 2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="747,483 761,493 781,493 785,499 802,488 841,491 848,499 854,499 875,493 876,470 863,469 855,461 782,460 773,452 765,456 748,455"/>
+                <Baseline points="752,482 781,483 811,484 840,486 870,487"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="83,557 646,563 669,534 83,517"/>
+                <Baseline points="88,545 116,545 145,545 174,545 203,546 231,546 260,546 289,547 318,547 346,547 375,548 404,548 433,548 461,549 490,549 519,550 548,550 576,551 605,551 634,552 663,553"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="83,628 841,630 763,596 518,611 84,588"/>
+                <Baseline points="89,615 126,616 163,616 201,617 238,618 275,618 313,619 350,619 387,620 425,620 462,620 499,621 537,621 574,621 611,622 649,622 686,623 723,623 761,624 798,625 836,626"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huazhong difang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="81,672 88,672 91,675 101,673 156,675 158,644 151,646 143,638 134,638 128,634 112,639 107,639 106,636 103,638 83,636"/>
+                <Baseline points="86,662 119,663 152,666"/>
+                <TextEquiv>
+                    <Unicode>222.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fa.222&#13;
+FEN JIANG LU&#13;
+LIN (E)&#13;
+Fenjiang lu. [Description of the district,&#13;
+Taishun, in Zhejiang province. A reprint of the&#13;
+1878 edition.]&#13;
+12 ch. in 2 vols.&#13;
+27 cm.&#13;
+Chengwen chubanshe: Taipei, 1975.&#13;
+Zhongguo fangzhi congshu. Huazhong difang,&#13;
+222.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

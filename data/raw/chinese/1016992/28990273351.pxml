@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.835+01:00</Created>
+        <LastChange>2023-07-03T14:54:36.875+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758470" pageNr="290" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=QHLCQTONTWHTUJYOHOFKPEXC&amp;fileType=view" imageId="35195776"/>
+    </Metadata>
+    <Page imageFilename="42758470.jpg" imageWidth="980" imageHeight="818">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388876875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="83,49 930,49 930,700 83,700"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="563,105 590,114 686,100 822,106 822,79 808,78 790,60 772,68 706,68 687,86 661,69 563,71"/>
+                <Baseline points="568,102 579,102 604,102 628,102 653,101 677,101 702,102 726,101 751,99 775,101 800,99 824,101"/>
+                <TextEquiv>
+                    <Unicode>15328.a.165</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="97,174 143,177 162,194 214,169 228,178 289,185 296,183 294,139 276,144 254,136 191,138 175,124 155,121 139,131 95,132"/>
+                <Baseline points="101,164 125,164 150,164 174,166 199,168 223,168 248,169 272,171 297,171"/>
+                <TextEquiv>
+                    <Unicode>FENG BO TING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="78,249 144,251 149,246 167,259 185,250 211,249 227,258 259,244 259,224 234,207 219,216 182,216 173,207 155,216 78,216"/>
+                <Baseline points="83,244 89,244 114,244 138,244 163,244 187,244 212,244 236,244 261,243"/>
+                <TextEquiv>
+                    <Unicode>GAO (Gao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="115,394 237,381 296,394 342,383 507,394 507,344 485,358 379,347 341,375 287,351 240,364 202,352 182,365 115,357"/>
+                <Baseline points="120,380 145,380 169,382 194,382 218,382 243,380 267,382 292,382 316,383 341,383 365,382 390,380 414,380 439,378 463,380 488,382 509,382"/>
+                <TextEquiv>
+                    <Unicode>Fengbo ting. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="120,434 160,434 181,421 205,426 213,434 234,425 258,429 266,426 267,401 257,401 245,387 205,387 176,405 162,395 140,399 121,394"/>
+                <Baseline points="125,419 146,421 171,421 195,421 220,417 244,417 269,417"/>
+                <TextEquiv>
+                    <Unicode>pp. 338.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="726,415 772,418 781,410 790,418 842,415 842,388 823,388 808,373 799,380 770,382 757,369 726,372"/>
+                <Baseline points="731,409 755,408 780,408 804,408 829,408 844,409"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="119,495 704,490 704,463 635,445 596,465 518,446 432,447 399,467 120,458"/>
+                <Baseline points="125,486 143,488 168,488 192,488 217,488 241,488 266,486 290,488 315,486 339,486 364,486 388,486 413,484 437,486 462,484 486,484 511,484 535,484 560,486 584,484 609,484 633,483 657,481 682,481 706,483"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.165&#13;
+FENG BO TING&#13;
+GAO (Gao)&#13;
+Fengbo ting. [Novel.]&#13;
+pp. 338.&#13;
+18 cm.&#13;
+Wulin chubanshe: Hong Kong, 1970.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

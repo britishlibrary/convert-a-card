@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.225+01:00</Created>
+        <LastChange>2023-07-03T16:29:57.490+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758497" pageNr="314" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=BMKXXLTVNFQJFKVTLITBFRJF&amp;fileType=view" imageId="35195803"/>
+    </Metadata>
+    <Page imageFilename="42758497.jpg" imageWidth="980" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394597491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="22,0 877,0 877,761 22,761"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="537,151 776,152 776,119 760,119 747,106 731,105 716,120 674,121 660,135 632,110 601,109 590,119 569,118 559,108 537,118"/>
+                <Baseline points="542,145 567,145 591,147 616,147 640,148 665,148 689,148 714,147 738,145 763,145 777,148"/>
+                <TextEquiv>
+                    <Unicode>15257.g.92</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="94,186 799,202 798,172 755,153 729,173 652,153 552,169 94,150"/>
+                <Baseline points="99,184 124,184 148,184 173,184 197,184 222,186 246,186 271,187 295,186 320,187 344,186 369,187 393,187 418,187 442,189 467,189 491,191 516,191 540,191 565,192 589,192 614,192 639,194 663,194 688,196 712,196 737,194 761,194 786,194 800,194"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHI RAN ZHU JI DE HUA XUE HE WU LI HUA XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="89,289 169,291 177,283 192,298 208,289 265,298 285,288 359,296 359,248 337,259 310,259 295,247 280,260 255,260 211,245 173,264 140,243 122,255 89,245"/>
+                <Baseline points="94,281 119,281 143,281 168,281 192,282 217,281 241,282 266,282 290,282 315,281 339,282 361,282"/>
+                <TextEquiv>
+                    <Unicode>WANG (Jingxian)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="122,426 857,426 857,397 743,384 122,387"/>
+                <Baseline points="127,418 151,418 176,418 201,420 225,418 250,416 274,418 299,416 323,418 348,418 372,416 397,416 421,415 446,415 470,416 495,416 519,416 544,416 568,415 593,415 617,413 642,413 666,415 691,415 715,415 740,415 764,415 789,415 813,415 838,416 859,418"/>
+                <TextEquiv>
+                    <Unicode>Fangzhi ranzhuji de huaxue he wuli huaxue.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="138,463 815,456 807,424 138,424"/>
+                <Baseline points="143,454 155,452 179,452 204,452 228,451 253,451 277,451 302,452 326,452 351,451 375,452 400,451 424,451 449,452 473,451 498,451 522,451 547,451 572,451 596,449 621,451 645,449 670,449 694,449 719,449 743,449 768,449 792,449 817,449"/>
+                <TextEquiv>
+                    <Unicode>[On chemistry and physical chemistry of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="130,491 805,489 791,456 131,465"/>
+                <Baseline points="135,487 147,487 171,485 196,485 220,485 245,487 269,485 294,485 318,485 343,485 367,485 392,485 416,485 441,485 465,485 490,485 514,485 539,485 563,485 588,485 612,485 637,483 661,483 686,483 710,483 735,483 759,482 784,482 808,483"/>
+                <TextEquiv>
+                    <Unicode>dyes. Translated from an unidentified</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="127,526 876,530 839,491 127,496"/>
+                <Baseline points="132,519 156,519 181,519 205,518 230,519 254,518 279,519 303,519 328,519 353,519 377,519 402,521 426,519 451,519 475,519 500,519 524,519 549,519 573,519 598,519 622,519 647,518 671,519 696,518 720,518 745,518 769,518 794,518 818,516 843,518 867,521 877,522"/>
+                <TextEquiv>
+                    <Unicode>German work into Chinese by Wang Jingxian.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="130,569 159,570 193,559 256,562 257,534 227,525 184,535 167,530 140,534 131,531"/>
+                <Baseline points="135,558 137,558 161,555 186,554 210,554 235,554 259,555"/>
+                <TextEquiv>
+                    <Unicode>pp. 210.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="697,552 715,554 724,562 747,551 756,551 766,561 816,559 815,533 766,530 753,534 743,524 696,524"/>
+                <Baseline points="702,550 727,552 751,550 776,552 800,554 817,554"/>
+                <TextEquiv>
+                    <Unicode>20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:9;}">
+                <Coords points="127,628 691,626 691,595 668,584 604,583 584,603 515,585 402,603 282,593 250,613 214,593 127,596"/>
+                <Baseline points="132,624 156,622 181,622 205,621 230,622 254,622 279,622 303,621 328,621 353,621 377,622 402,622 426,621 451,622 475,622 500,622 524,621 549,622 573,622 598,622 622,621 647,622 671,622 692,624"/>
+                <TextEquiv>
+                    <Unicode>Jinwen shudian: Hong Kong, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15257.g.92&#13;
+FANG ZHI RAN ZHU JI DE HUA XUE HE WU LI HUA XUE&#13;
+WANG (Jingxian)&#13;
+Fangzhi ranzhuji de huaxue he wuli huaxue.&#13;
+[On chemistry and physical chemistry of&#13;
+dyes. Translated from an unidentified&#13;
+German work into Chinese by Wang Jingxian.]&#13;
+pp. 210.&#13;
+20 cm.&#13;
+Jinwen shudian: Hong Kong, 1967.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

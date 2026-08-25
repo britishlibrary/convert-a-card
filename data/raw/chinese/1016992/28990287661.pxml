@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.838+01:00</Created>
+        <LastChange>2023-07-03T17:25:25.160+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758544" pageNr="354" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=QEVPQEQWSEZLTPERWQQMQIJY&amp;fileType=view" imageId="35195850"/>
+    </Metadata>
+    <Page imageFilename="42758544.jpg" imageWidth="988" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397925160" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="52,40 903,40 903,642 52,642"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="599,93 624,105 709,99 719,90 729,99 758,99 771,86 784,98 845,99 852,97 853,72 824,53 764,60 755,69 706,69 695,58 599,59"/>
+                <Baseline points="605,92 630,92 655,92 679,90 704,90 729,90 753,90 778,90 803,90 827,90 852,93 854,93"/>
+                <TextEquiv>
+                    <Unicode>15346.e.158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="53,150 222,154 244,171 327,147 445,152 445,103 349,102 318,125 264,78 239,102 53,104"/>
+                <Baseline points="59,146 83,146 108,144 133,144 158,144 182,144 207,144 232,144 256,144 281,144 306,144 330,144 355,146 380,146 404,144 429,146 447,146"/>
+                <TextEquiv>
+                    <Unicode>FA HAN HANG KONG CIDIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="47,237 623,230 622,190 48,199"/>
+                <Baseline points="52,232 57,232 82,228 106,228 131,227 156,228 181,228 205,228 230,228 255,227 279,225 304,227 329,227 353,227 378,227 403,227 427,227 452,225 477,225 501,225 526,225 551,227 576,225 600,225 625,223"/>
+                <TextEquiv>
+                    <Unicode>FA HAN HANGGONG CIDIAN BIANJI ZU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="84,338 900,330 861,290 502,318 85,300"/>
+                <Baseline points="90,329 113,329 138,329 162,329 187,329 212,330 237,329 261,329 286,329 311,329 335,330 360,330 385,329 409,329 434,327 459,327 483,327 508,327 533,327 557,327 582,325 607,325 632,325 656,325 681,325 706,325 730,325 755,324 780,324 804,325 829,325 854,325 878,324 903,322"/>
+                <TextEquiv>
+                    <Unicode>Fa Han hanggong cidian. Dictionnaire Français-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="86,369 477,370 477,347 417,333 225,347 86,339"/>
+                <Baseline points="92,363 116,363 141,363 166,363 190,363 215,363 240,363 264,363 289,363 314,363 339,363 363,363 388,362 413,363 437,363 462,363 480,363"/>
+                <TextEquiv>
+                    <Unicode>Chinois de l'aviation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="84,404 144,410 158,400 202,411 242,399 379,403 379,387 356,370 322,370 311,381 300,370 267,370 246,391 212,370 169,367 150,382 112,370 84,381"/>
+                <Baseline points="90,403 110,403 134,399 159,399 184,399 209,399 233,398 258,398 283,398 307,398 332,398 357,398 381,399"/>
+                <TextEquiv>
+                    <Unicode>pp. 809. 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="86,472 770,466 748,427 667,448 591,428 86,440"/>
+                <Baseline points="92,465 106,467 131,465 156,465 181,465 205,469 230,469 255,467 279,467 304,467 329,465 353,465 378,465 403,465 427,464 452,464 477,464 501,464 526,464 551,462 576,464 600,464 625,465 650,465 674,465 699,464 724,462 748,462 773,464"/>
+                <TextEquiv>
+                    <Unicode>Guofang gongye chubanshe: Peking, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15346.e.158&#13;
+FA HAN HANG KONG CIDIAN&#13;
+FA HAN HANGGONG CIDIAN BIANJI ZU&#13;
+Fa Han hanggong cidian. Dictionnaire Français-&#13;
+Chinois de l'aviation.&#13;
+pp. 809. 21 cm.&#13;
+Guofang gongye chubanshe: Peking, 1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

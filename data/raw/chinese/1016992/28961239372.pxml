@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.996+01:00</Created>
+        <LastChange>2023-06-27T10:10:23.318+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758409" pageNr="238"/>
+    </Metadata>
+    <Page imageFilename="28961239372.jpg" imageWidth="960" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853423318" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,94 49,770 888,770 888,94"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="534,127 633,129 644,120 708,131 887,130 887,106 835,85 813,96 729,85 637,102 615,85 535,85"/>
+                <Baseline points="539,114 565,116 591,118 618,119 644,119 670,119 697,118 723,118 750,117 776,117 802,117 829,118 855,119 882,121"/>
+                <TextEquiv>
+                    <Unicode>15293.a.35/601-604</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="86,202 517,203 518,141 87,140"/>
+                <Baseline points="91,196 117,195 143,195 169,195 196,195 222,195 248,196 275,196 301,196 327,196 354,196 380,196 406,196 433,196 459,196 485,196 512,197"/>
+                <TextEquiv>
+                    <Unicode>FAN XIE SHAN FANG QUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="49,252 75,253 101,255 128,256 154,257 157,257 157,242 155,242 129,241 102,240 76,238 50,237"/>
+                <Baseline points="49,252 75,253 101,255 128,256 154,257 157,257"/>
+                <TextEquiv>
+                    <Unicode>LI (E)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="71,362 872,362 872,324 518,344 482,325 461,345 71,329"/>
+                <Baseline points="76,354 115,355 155,355 194,355 234,356 273,356 313,356 352,356 392,356 431,356 471,355 511,355 550,355 590,355 629,355 669,355 708,355 748,355 787,355 827,355 867,355"/>
+                <TextEquiv>
+                    <Unicode>Fan xie shan fang quan ji. [ Collected works of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="72,394 805,391 791,365 72,364"/>
+                <Baseline points="77,388 113,389 149,389 185,390 221,390 257,390 293,390 330,390 366,390 402,390 438,390 474,390 510,390 546,389 583,389 619,389 655,390 691,390 727,390 763,391 800,391"/>
+                <TextEquiv>
+                    <Unicode>Li E. Facsimile of an edition published in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="75,429 845,434 845,403 749,393 656,413 602,392 528,412 75,398"/>
+                <Baseline points="80,425 118,424 156,424 194,424 232,424 270,424 308,424 346,424 384,424 422,424 460,425 498,425 536,425 574,426 612,426 650,426 688,426 726,426 764,426 802,425 840,425"/>
+                <TextEquiv>
+                    <Unicode>1884. In various sections: shi, ci, wen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_300" custom="readingOrder {index:6;}">
+                <Coords points="75,464 108,464 141,464 175,464 208,464 242,463 275,463 308,462 342,461 375,461 409,460 442,460 475,459 509,459 542,459 576,459 609,460 642,460 676,461 709,463 743,465 757,463 785,462 813,460 842,461 873,465 875,450 843,446 813,445 784,447 756,448 742,450 710,448 677,446 642,445 609,445 576,444 542,444 509,444 475,444 442,445 409,445 375,446 342,446 308,447 275,448 242,448 208,449 175,449 141,449 108,449 75,449"/>
+                <Baseline points="75,464 108,464 141,464 175,464 208,464 242,463 275,463 308,462 342,461 375,461 409,460 442,460 475,459 509,459 542,459 576,459 609,460 642,460 676,461 709,463 743,465 757,463 785,462 813,460 842,461 873,465"/>
+                <TextEquiv>
+                    <Unicode>ji, ji wai shi, ci, qu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="72,506 732,501 744,469 72,477"/>
+                <Baseline points="77,495 110,496 143,496 176,496 209,497 242,497 275,497 308,497 341,496 374,496 408,496 441,495 474,495 507,495 540,494 573,494 606,494 639,493 672,493 705,493 739,493"/>
+                <TextEquiv>
+                    <Unicode>ji wai shi ci, wen . With an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_302" custom="readingOrder {index:8;}">
+                <Coords points="87,530 124,529 162,528 199,528 237,528 274,528 312,528 349,528 387,528 424,529 462,529 500,529 537,530 575,530 591,530 591,515 575,515 537,515 500,514 462,514 424,514 387,513 349,513 312,513 274,513 237,513 199,513 162,513 124,514 87,515"/>
+                <Baseline points="87,530 124,529 162,528 199,528 237,528 274,528 312,528 349,528 387,528 424,529 462,529 500,529 537,530 575,530 591,530"/>
+                <TextEquiv>
+                    <Unicode>appendix: Zhen qi tang shi cun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_305" custom="readingOrder {index:9;}">
+                <Coords points="77,565 116,563 155,562 194,561 233,561 272,561 311,561 350,561 389,562 428,563 467,564 506,566 545,567 584,569 609,570 610,555 585,554 546,552 507,551 468,549 428,548 389,547 350,546 311,546 272,546 233,546 194,546 155,547 115,548 76,550"/>
+                <Baseline points="77,565 116,563 155,562 194,561 233,561 272,561 311,561 350,561 389,562 428,563 467,564 506,566 545,567 584,569 609,570"/>
+                <TextEquiv>
+                    <Unicode>and Song sheng chi guan shi cun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853406512_353" custom="readingOrder {index:10;}">
+                <Coords points="154,555 607,558 607,608 154,605"/>
+                <Baseline points="154,600 607,603"/>
+                <TextEquiv>
+                    <Unicode>Author's preface of 1740.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_307" custom="readingOrder {index:11;}">
+                <Coords points="75,632 100,631 125,631 150,632 175,634 200,635 225,635 250,633 264,632 290,631 317,631 344,633 371,635 372,620 345,618 318,616 290,616 263,617 249,618 224,620 200,620 176,619 151,617 125,616 100,616 74,617"/>
+                <Baseline points="75,632 100,631 125,631 150,632 175,634 200,635 225,635 250,633 264,632 290,631 317,631 344,633 371,635"/>
+                <TextEquiv>
+                    <Unicode>4 vols. 22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:12;}">
+                <Coords points="83,690 656,692 640,653 450,652 426,671 372,653 345,668 83,653"/>
+                <Baseline points="88,682 116,683 144,683 172,683 200,683 228,683 256,683 285,683 313,683 341,683 369,682 397,682 425,682 453,682 482,682 510,682 538,682 566,682 594,683 622,683 651,683"/>
+                <TextEquiv>
+                    <Unicode>Wen hai chu ban she: Taibei 1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:13;}">
+                <Coords points="79,730 832,738 832,707 789,700 79,700"/>
+                <Baseline points="84,724 121,724 158,725 195,725 232,726 269,726 306,727 344,727 381,727 418,727 455,728 492,728 529,728 566,728 604,728 641,728 678,728 715,728 752,728 789,728 827,728"/>
+                <TextEquiv>
+                    <Unicode>Jin dai Zhong guo shi ao cong kan. Xu bian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+                <Coords points="76,762 232,760 232,752 226,752 216,741 199,741 184,730 113,733 92,727 77,731"/>
+                <Baseline points="81,754 110,755 139,754 168,755 197,756 227,760"/>
+                <TextEquiv>
+                    <Unicode>601-604.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.35/601-604&#13;
+FAN XIE SHAN FANG QUAN JI&#13;
+LI (E)&#13;
+Fan xie shan fang quan ji. [ Collected works of&#13;
+Li E. Facsimile of an edition published in&#13;
+1884. In various sections: shi, ci, wen&#13;
+ji, ji wai shi, ci, qu,&#13;
+ji wai shi ci, wen . With an&#13;
+appendix: Zhen qi tang shi cun&#13;
+and Song sheng chi guan shi cun&#13;
+Author's preface of 1740.]&#13;
+4 vols. 22 cm.&#13;
+Wen hai chu ban she: Taibei 1978.&#13;
+Jin dai Zhong guo shi ao cong kan. Xu bian&#13;
+601-604.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

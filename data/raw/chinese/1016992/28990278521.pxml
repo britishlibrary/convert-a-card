@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.479+01:00</Created>
+        <LastChange>2023-07-03T16:52:05.737+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758515" pageNr="329" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=GZVIMRRSAOXWATZQVRUONJEC&amp;fileType=view" imageId="35195821"/>
+    </Metadata>
+    <Page imageFilename="42758515.jpg" imageWidth="984" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395925737" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="131,56 887,56 887,766 131,766"/>
+            <TextLine id="line_1688395828012_1647" custom="readingOrder {index:0;}">
+                <Coords points="548,71 863,71 863,121 548,121"/>
+                <Baseline points="548,116 863,116"/>
+                <TextEquiv>
+                    <Unicode>15408.c.346-348</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="126,173 171,194 187,182 235,186 246,175 259,185 303,184 303,143 217,142 211,137 201,144 126,146"/>
+                <Baseline points="131,175 155,173 180,173 205,173 229,172 254,173 278,173 303,175 305,175"/>
+                <TextEquiv>
+                    <Unicode>FANG LU JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="132,276 243,291 304,281 344,299 405,289 458,298 468,295 462,218 419,216 401,237 358,228 338,251 322,237 129,243"/>
+                <Baseline points="136,272 160,272 185,272 210,272 234,272 259,272 283,274 308,274 333,277 357,285 382,288 407,292 431,290 456,288 469,288"/>
+                <TextEquiv>
+                    <Unicode>WANG (Qiao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="170,460 704,459 704,426 676,409 644,427 410,414 372,439 322,416 290,429 170,412"/>
+                <Baseline points="175,444 200,446 224,448 249,448 274,448 298,451 323,448 347,449 372,449 397,448 421,446 446,446 471,446 495,446 520,448 544,448 569,448 594,448 618,448 643,448 667,446 692,448 705,446"/>
+                <TextEquiv>
+                    <Unicode>Fanglu ji. [Prose and poems by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="168,488 464,483 523,506 584,483 808,488 808,453 788,452 609,453 568,476 502,453 168,458"/>
+                <Baseline points="173,479 198,480 223,482 247,482 272,484 297,482 321,484 346,482 370,484 395,482 420,482 444,482 469,482 493,482 518,484 543,484 567,484 592,482 617,482 641,482 666,480 690,480 715,482 740,482 764,480 789,482 810,482"/>
+                <TextEquiv>
+                    <Unicode>Wang Qiao of the Ming. Facsimile of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="168,520 173,520 176,523 207,522 216,530 229,528 226,495 222,496 213,492 199,494 196,491 194,493 166,492"/>
+                <Baseline points="173,516 198,518 223,520 231,521"/>
+                <TextEquiv>
+                    <Unicode>MS.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="176,562 194,561 202,551 218,562 302,561 301,539 288,539 261,522 244,530 210,528 204,535 188,522 174,522"/>
+                <Baseline points="180,551 205,551 229,553 254,553 278,554 303,556"/>
+                <TextEquiv>
+                    <Unicode>3 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="769,553 775,553 784,562 817,562 827,552 863,553 873,562 885,561 885,526 867,526 861,520 855,526 808,525 794,512 776,526 769,526"/>
+                <Baseline points="774,551 799,551 823,551 848,551 873,551 887,554"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="165,621 789,633 789,588 769,586 165,598"/>
+                <Baseline points="170,620 195,620 219,620 244,620 269,620 293,621 318,621 342,621 367,621 392,621 416,621 441,621 466,620 490,620 515,620 539,620 564,620 589,620 613,618 638,620 663,621 687,621 712,620 736,620 761,620 786,623 791,621"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yisnhguguan: Taipei, [1972].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="168,705 796,714 775,668 168,676"/>
+                <Baseline points="173,700 198,700 223,700 247,702 272,702 297,702 321,702 346,702 370,704 395,704 420,704 444,704 469,704 493,704 518,705 543,705 567,705 592,707 617,705 641,707 666,707 690,707 715,707 740,705 764,705 789,707 797,707"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben san ji, 346-48.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.c.346-348&#13;
+FANG LU JI&#13;
+WANG (Qiao)&#13;
+Fanglu ji. [Prose and poems by&#13;
+Wang Qiao of the Ming. Facsimile of&#13;
+MS.]&#13;
+3 vols.&#13;
+19 cm.&#13;
+Shangwu yisnhguguan: Taipei, [1972].&#13;
+Siku quanshu zhenben san ji, 346-48.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

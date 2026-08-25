@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.121+01:00</Created>
+        <LastChange>2023-08-16T15:07:45.875+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758565" pageNr="373" tsid="128197492" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=DOERRXYJQIGYXHGHBEILIDKA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PNKOUVZOOMPMLEONBSHXVYRA" imageId="35195871"/>
+    </Metadata>
+    <Page imageFilename="42758565.jpg" imageWidth="944" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191265875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="56,20 891,20 891,753 56,753"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="595,81 679,82 692,73 707,82 884,82 884,38 830,40 814,51 688,43 675,56 654,39 595,35"/>
+                <Baseline points="600,70 623,72 647,74 670,74 694,72 718,72 741,74 765,74 789,74 812,74 836,72 859,72 883,70 885,72"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.583</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="163,242 178,246 233,235 251,240 262,229 276,241 358,236 358,200 342,202 329,215 303,212 292,201 249,202 237,212 219,197 207,205 163,205"/>
+                <Baseline points="168,234 171,234 195,234 218,234 242,236 266,236 289,236 313,234 337,233 360,229"/>
+                <TextEquiv>
+                    <Unicode>FANG (Jigen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="206,272 755,258 755,238 732,235 629,249 570,235 206,240"/>
+                <Baseline points="211,266 214,264 237,267 261,266 285,264 308,266 332,263 355,263 379,261 403,259 426,261 450,259 474,261 497,259 521,261 544,259 568,259 592,261 615,259 639,261 663,261 686,259 710,259 733,259 757,256"/>
+                <TextEquiv>
+                    <Unicode>Fei zhou hua qiao shi zi liao xuan ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="312,293 317,293 320,290 322,291 326,286 330,289 340,289 342,291 346,286 356,286 355,269 343,272 334,272 329,269 324,273 316,272 310,274"/>
+                <Baseline points="316,285 340,285 359,289"/>
+                <TextEquiv>
+                    <Unicode>Sch3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="354,297 593,298 587,265 485,269 472,278 458,267 354,269"/>
+                <Baseline points="359,289 382,292 406,294 429,291 453,291 477,291 500,291 524,291 548,289 571,289 595,288"/>
+                <TextEquiv>
+                    <Unicode>SEtlgE5 ; H1318</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="199,302 222,306 265,297 314,306 330,298 358,299 358,287 320,290 294,270 198,275"/>
+                <Baseline points="204,289 226,294 250,292 274,294 297,296 321,296 344,296 359,289"/>
+                <TextEquiv>
+                    <Unicode>3898666.m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="196,320 262,339 293,329 331,338 553,330 553,298 513,295 484,306 388,295 196,308"/>
+                <Baseline points="201,318 225,321 248,321 272,321 296,322 319,324 343,322 366,324 390,324 414,324 437,324 461,324 485,324 508,324 532,322 555,321"/>
+                <TextEquiv>
+                    <Unicode>-FEE: S-EHHR3I,1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="200,362 239,361 247,368 251,368 257,362 274,361 273,343 267,344 252,332 246,335 238,330 231,331 222,325 198,325"/>
+                <Baseline points="204,353 229,355 253,355 274,355"/>
+                <TextEquiv>
+                    <Unicode>515p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="180,468 213,483 250,463 297,475 531,466 531,439 459,431 274,442 261,430 242,449 204,431 180,449"/>
+                <Baseline points="185,466 203,466 226,466 250,466 274,464 297,464 321,463 344,464 368,463 392,464 415,464 439,464 463,463 486,463 510,463 533,463"/>
+                <TextEquiv>
+                    <Unicode>s1. Overseas Ciinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="787,706 858,704 867,706 875,714 889,711 888,676 873,675 865,683 854,683 840,669 786,669"/>
+                <Baseline points="792,700 815,702 839,703 863,703 886,705 891,702"/>
+                <TextEquiv>
+                    <Unicode>chi-p</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="51,747 158,745 157,708 150,708 138,717 122,716 110,707 88,706 79,717 67,714 63,717 56,710 50,710"/>
+                <Baseline points="56,740 80,738 103,740 127,741 151,741 160,743"/>
+                <TextEquiv>
+                    <Unicode>9U88653</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

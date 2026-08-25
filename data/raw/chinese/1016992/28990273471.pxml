@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.902+01:00</Created>
+        <LastChange>2023-07-03T16:03:28.301+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758474" pageNr="294" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=OLDQVNVMFEFKJYWMQSQPNERN&amp;fileType=view" imageId="35195780"/>
+    </Metadata>
+    <Page imageFilename="42758474.jpg" imageWidth="992" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393008302" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="91,29 908,29 908,726 91,726"/>
+            <TextLine id="line_1688392815809_580" custom="readingOrder {index:0;}">
+                <Coords points="519,42 777,42 777,92 519,92"/>
+                <Baseline points="519,87 777,87"/>
+                <TextEquiv>
+                    <Unicode>15266.fa.273</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="104,137 142,138 165,158 185,138 203,134 216,146 288,130 296,138 358,136 358,98 194,101 161,82 144,99 125,100 104,84"/>
+                <Baseline points="109,129 110,129 135,129 160,127 185,129 210,129 234,129 259,129 284,129 309,129 334,129 359,127"/>
+                <TextEquiv>
+                    <Unicode>FEN YI XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="86,214 109,226 121,217 179,214 196,227 225,217 326,225 325,179 241,187 228,176 196,175 173,188 164,179 110,179 86,161"/>
+                <Baseline points="91,213 115,213 140,211 165,213 190,211 215,213 239,213 264,213 289,213 314,213 327,215"/>
+                <TextEquiv>
+                    <Unicode>XIAO (Jiaxiu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="147,391 779,394 779,359 691,347 658,365 467,351 412,376 388,354 147,354"/>
+                <Baseline points="152,378 177,382 201,382 226,382 251,383 276,383 301,385 326,385 350,385 375,385 400,385 425,383 450,382 474,383 499,385 524,383 549,385 574,385 599,385 623,385 648,385 671,385 678,385 681,385 706,385 731,385 756,385 781,382"/>
+                <TextEquiv>
+                    <Unicode>Fenyi xian zhi. [Description of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="130,425 621,426 621,394 469,407 443,394 130,397"/>
+                <Baseline points="135,418 160,420 185,418 210,417 234,418 259,418 284,420 309,418 334,420 359,420 383,420 408,420 433,420 458,420 483,418 508,420 532,420 557,420 582,420 607,420 623,421"/>
+                <TextEquiv>
+                    <Unicode>district in Jiangxi province.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688392817897_585" custom="readingOrder {index:5;}">
+                <Coords points="673,377 851,380 850,430 672,427"/>
+                <Baseline points="672,422 850,425"/>
+                <TextEquiv>
+                    <Unicode>A reprint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="127,456 487,466 487,442 444,426 340,439 318,426 127,428"/>
+                <Baseline points="132,453 157,455 182,455 206,455 231,455 256,456 281,456 306,455 330,455 355,455 380,455 405,455 430,455 455,458 479,458 489,458"/>
+                <TextEquiv>
+                    <Unicode>of the 1940 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="129,498 151,506 244,493 327,498 335,490 343,498 433,498 433,476 384,460 358,469 267,463 243,475 208,461 191,470 176,460 129,461"/>
+                <Baseline points="134,491 158,491 183,491 208,491 233,491 258,491 282,491 307,491 332,489 357,491 382,491 407,491 431,493 435,493"/>
+                <TextEquiv>
+                    <Unicode>17 ch. in 6 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="712,504 730,497 749,505 764,490 774,498 808,498 809,464 780,464 771,471 746,454 739,454 732,461 709,461"/>
+                <Baseline points="716,486 741,489 766,489 791,491 812,491"/>
+                <TextEquiv>
+                    <Unicode>27 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:9;}">
+                <Coords points="124,560 207,578 287,562 598,578 598,541 581,531 124,539"/>
+                <Baseline points="129,557 153,559 178,559 203,559 228,559 253,559 278,559 302,557 327,559 352,559 377,559 402,559 426,559 451,559 476,559 501,559 526,559 551,559 575,559 599,559"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:10;}">
+                <Coords points="623,567 631,570 702,569 702,539 695,540 686,531 682,535 676,529 668,529 658,521 647,531 623,531"/>
+                <Baseline points="628,562 653,562 678,562 703,564"/>
+                <TextEquiv>
+                    <Unicode>1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:11;}">
+                <Coords points="125,650 489,659 584,635 616,658 859,657 859,616 812,610 125,615"/>
+                <Baseline points="130,640 155,640 180,642 205,642 230,642 254,642 279,642 304,642 329,643 354,643 378,642 403,642 428,643 453,643 478,643 503,645 527,643 552,645 577,643 602,643 627,643 652,643 676,643 701,642 726,643 751,642 776,643 800,643 825,645 850,645 860,645"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huazhong difang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:12;}">
+                <Coords points="123,699 141,697 150,706 190,707 207,703 205,674 196,674 176,659 162,658 155,662 146,657 121,670"/>
+                <Baseline points="127,690 152,693 177,695 201,696 208,696"/>
+                <TextEquiv>
+                    <Unicode>273.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fa.273&#13;
+FEN YI XIAN ZHI&#13;
+XIAO (Jiaxiu)&#13;
+Fenyi xian zhi. [Description of the&#13;
+district in Jiangxi province.&#13;
+A reprint&#13;
+of the 1940 edition.]&#13;
+17 ch. in 6 vols.&#13;
+27 cm&#13;
+Chengwen chubanshe: Taipei,&#13;
+1975.&#13;
+Zhongguo fangzhi congshu. Huazhong difang,&#13;
+273.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

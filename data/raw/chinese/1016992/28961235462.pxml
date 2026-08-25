@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.668+01:00</Created>
+        <LastChange>2023-06-21T18:09:52.519+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758386" pageNr="219"/>
+    </Metadata>
+    <Page imageFilename="28961235462.jpg" imageWidth="980" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687363792520" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="129,83 129,616 903,616 903,83"/>
+            <TextLine id="line_1654764052797_116" custom="readingOrder {index:0;}">
+                <Coords points="567,122 827,120 827,98 807,85 754,85 736,98 712,85 686,93 671,85 567,85"/>
+                <Baseline points="572,120 822,120"/>
+                <TextEquiv>
+                    <Unicode>15408.b.332</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654764055735_121" custom="readingOrder {index:1;}">
+                <Coords points="148,179 406,178 448,159 447,129 303,126 274,141 254,133 148,138"/>
+                <Baseline points="153,174 443,171"/>
+                <TextEquiv>
+                    <Unicode>FANG JIAN SU WEN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="124,266 204,257 226,267 247,258 413,266 414,215 357,229 303,228 245,213 217,224 125,220"/>
+                <Baseline points="129,247 154,247 179,248 205,248 230,249 255,249 281,249 306,250 331,250 357,251 382,252 408,253"/>
+                <TextEquiv>
+                    <Unicode>FANG (Liangyong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="168,394 908,387 908,365 707,348 366,378 168,357"/>
+                <Baseline points="173,386 209,386 246,385 282,385 319,385 355,385 392,385 428,385 465,385 501,385 538,385 574,385 611,385 647,385 684,385 720,385 757,385 793,386 830,386 866,386 903,386"/>
+                <TextEquiv>
+                    <Unicode>Fang Jiansu wenji. [Prose writings of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="170,419 196,420 222,420 248,420 274,420 300,420 326,420 352,420 378,420 404,420 430,420 456,420 482,420 508,420 534,420 560,420 587,421 611,423 637,423 637,408 612,408 588,406 560,405 534,405 508,405 482,405 456,405 430,405 404,405 378,405 352,405 326,405 300,405 274,405 248,405 222,405 196,405 171,404"/>
+                <Baseline points="170,419 196,420 222,420 248,420 274,420 300,420 326,420 352,420 378,420 404,420 430,420 456,420 482,420 508,420 534,420 560,420 587,421 611,423 637,423"/>
+                <TextEquiv>
+                    <Unicode>Ming official. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="171,466 449,466 449,440 428,429 402,436 375,429 367,437 352,430 334,442 295,429 271,445 249,429 217,440 203,428 171,428"/>
+                <Baseline points="176,454 202,455 229,455 256,455 283,455 310,455 336,455 363,455 390,455 417,455 444,456"/>
+                <TextEquiv>
+                    <Unicode>10 ch. in 1 vol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="676,454 720,454 747,457 774,455 773,440 748,442 721,439 676,439"/>
+                <Baseline points="676,454 720,454 747,457 774,455"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="168,522 194,523 220,523 246,524 273,524 299,524 325,524 351,524 378,524 404,524 430,524 456,524 483,524 509,523 535,523 561,523 588,523 614,524 640,524 666,524 693,525 739,527 740,512 694,510 666,509 640,509 614,509 588,508 561,508 535,508 509,508 483,509 456,509 430,509 404,509 378,509 351,509 325,509 299,509 273,509 246,509 220,508 194,508 169,507"/>
+                <Baseline points="168,522 194,523 220,523 246,524 273,524 299,524 325,524 351,524 378,524 404,524 430,524 456,524 483,524 509,523 535,523 561,523 588,523 614,524 640,524 666,524 693,525 739,527"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:8;}">
+                <Coords points="176,593 201,594 227,595 253,595 278,595 304,595 330,595 355,594 381,594 407,594 432,593 458,593 484,593 509,593 535,594 561,595 587,596 675,596 700,595 738,593 737,578 699,580 675,581 587,581 562,580 536,579 509,578 484,578 458,578 432,578 407,579 381,579 355,579 330,580 304,580 278,580 253,580 227,580 202,579 177,578"/>
+                <Baseline points="176,593 201,594 227,595 253,595 278,595 304,595 330,595 355,594 381,594 407,594 432,593 458,593 484,593 509,593 535,594 561,595 587,596 675,596 700,595 738,593"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben san ji, 332.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408. b. 332.
+FANG JIANBU WENbI
+FANG (Liangyong)
+ &amp;
+—/
+
+
+5
+5
+) 
+Fang Jiansu wenji. [Prose writings of the
+Ming official. A reprint
+19
+10 ch. in 1 vol.
+Shangwu yinshuguan: Taipei, 197
+332.
+Siku quanshu zhenben san
+Chinese (P)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

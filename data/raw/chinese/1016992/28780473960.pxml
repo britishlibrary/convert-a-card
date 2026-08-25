@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.867+01:00</Created>
+        <LastChange>2023-05-04T13:53:58.328+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758327" pageNr="168"/>
+    </Metadata>
+    <Page imageFilename="28780473960.jpg" imageWidth="960" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201238328" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="29,49 36,679 914,676 907,46"/>
+            <TextLine id="line_1654531613369_1114" custom="readingOrder {index:0;}">
+                <Coords points="541,70 568,90 594,82 642,88 804,82 804,54 757,44 726,45 716,56 678,46 668,57 632,44 540,45"/>
+                <Baseline points="546,88 799,86"/>
+                <TextEquiv>
+                    <Unicode>15408.j.217</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="24,155 293,154 339,144 339,114 24,115"/>
+                <Baseline points="29,144 54,144 79,144 105,143 130,142 156,142 181,142 206,141 232,141 257,141 283,142 308,142 334,143"/>
+                <TextEquiv>
+                    <Unicode>FA SHU KAO BA JUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="35,228 132,223 153,242 169,226 233,227 251,235 290,222 290,202 269,189 143,188 127,203 35,197"/>
+                <Baseline points="40,219 67,220 94,220 121,219 148,219 176,219 203,219 230,219 257,220 285,222"/>
+                <TextEquiv>
+                    <Unicode>SHENG (Ximing)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="64,298 214,299 245,289 325,298 399,283 398,269 361,260 325,258 307,272 272,261 136,261 112,275 97,261 63,261"/>
+                <Baseline points="69,288 94,288 119,288 144,288 169,288 194,287 219,287 244,286 269,286 294,285 319,285 344,284 369,284 394,284"/>
+                <TextEquiv>
+                    <Unicode>Fa shu kao ba juan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201211784_2008" custom="readingOrder {index:4;}">
+                <Coords points="400,410 509,412 508,462 399,460"/>
+                <Baseline points="399,455 508,457"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201224572_2018" custom="readingOrder {index:5;}">
+                <Coords points="71,535 280,540 279,590 70,585"/>
+                <Baseline points="70,580 279,585"/>
+                <TextEquiv>
+                    <Unicode>8 juan; 19cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="70,659 642,646 642,622 586,613 319,630 70,621"/>
+                <Baseline points="75,649 103,649 131,649 159,649 187,649 215,648 243,648 271,648 299,648 327,647 356,647 384,647 412,646 440,646 468,645 496,645 524,644 552,644 580,643 608,643 637,642"/>
+                <TextEquiv>
+                    <Unicode>Yuan work on calligraphic styles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.j.217&#13;
+FA SHU KAO BA JUAN&#13;
+SHENG (Ximing)&#13;
+Fa shu kao ba juan&#13;
+1979&#13;
+8 juan; 19cm.&#13;
+Yuan work on calligraphic styles</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

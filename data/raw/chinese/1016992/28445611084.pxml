@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.599+01:00</Created>
+        <LastChange>2023-05-03T17:32:34.061+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758136" pageNr="1"/>
+    </Metadata>
+    <Page imageFilename="28445611084.jpg" imageWidth="964" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127954062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="32,39 32,645 906,645 906,39"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="582,84 666,90 682,80 764,81 770,87 825,82 825,58 802,47 731,62 703,52 692,63 636,45 582,49"/>
+                <Baseline points="587,75 612,76 638,77 664,77 690,77 716,77 742,77 768,77 794,77 820,77"/>
+                <TextEquiv>
+                    <Unicode>15673.a.132</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="27,146 233,145 243,140 243,89 127,89 112,104 27,104"/>
+                <Baseline points="32,133 57,133 83,134 109,134 135,133 160,133 186,133 212,133 238,134"/>
+                <TextEquiv>
+                    <Unicode>FENG LING DU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="38,218 350,226 363,220 363,176 294,190 274,181 210,189 197,181 38,180"/>
+                <Baseline points="43,208 69,209 95,210 121,210 148,210 174,210 200,210 226,210 253,210 279,210 305,211 331,213 358,214"/>
+                <TextEquiv>
+                    <Unicode>DUANMU (Hongliang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="106,283 152,282 160,290 182,290 197,280 272,290 280,282 337,277 337,266 319,253 249,258 200,252 193,259 180,253 106,253"/>
+                <Baseline points="111,274 138,275 166,276 193,277 221,277 249,276 276,276 304,277 332,278"/>
+                <TextEquiv>
+                    <Unicode>Feng ling du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683127948185_122" custom="readingOrder {index:4;}">
+                <Coords points="359,398 452,398 452,448 359,448"/>
+                <Baseline points="359,443 452,443"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657125715960_31" custom="readingOrder {index:5;}">
+                <Coords points="109,476 458,476 458,526 109,526"/>
+                <Baseline points="109,521 458,521"/>
+                <TextEquiv>
+                    <Unicode>1, 202, 4 p.: 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="115,594 842,583 773,556 115,557"/>
+                <Baseline points="120,583 155,583 191,584 227,584 263,584 299,584 335,583 370,583 406,583 442,583 478,582 514,582 550,582 586,581 621,581 657,581 693,581 729,582 765,582 801,583 837,583"/>
+                <TextEquiv>
+                    <Unicode>Short stories written in the 1930s with a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="109,634 497,630 522,614 547,630 600,625 617,590 109,597"/>
+                <Baseline points="114,618 140,618 166,618 192,618 218,618 245,618 271,618 297,618 323,618 349,618 376,618 402,618 428,618 454,618 480,618 507,618 533,618 559,617 585,617 612,617"/>
+                <TextEquiv>
+                    <Unicode>postface by the author, 1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15673.a.132&#13;
+FENG LING DU&#13;
+DUANMU (Hongliang)&#13;
+Feng ling du&#13;
+1979&#13;
+1, 202, 4 p.: 19 cm.&#13;
+Short stories written in the 1930s with a&#13;
+postface by the author, 1978</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

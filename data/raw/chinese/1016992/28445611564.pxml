@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.732+01:00</Created>
+        <LastChange>2023-05-03T17:30:51.597+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758142" pageNr="6"/>
+    </Metadata>
+    <Page imageFilename="28445611564.jpg" imageWidth="956" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127851599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="39,38 48,545 911,545 910,40"/>
+            <TextLine id="line_1657126294139_244" custom="readingOrder {index:0;}">
+                <Coords points="578,51 801,51 801,101 578,101"/>
+                <Baseline points="578,96 801,96"/>
+                <TextEquiv>
+                    <Unicode>15652.d.21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="54,169 80,178 122,154 355,149 355,122 119,121 103,106 83,120 54,120"/>
+                <Baseline points="59,147 85,147 111,147 138,147 164,147 191,147 217,148 244,148 270,148 297,148 323,148 350,148"/>
+                <TextEquiv>
+                    <Unicode>FENG JIAN SHE HUI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="50,234 84,242 94,235 120,235 136,242 145,234 226,242 228,195 209,195 189,208 144,204 137,197 120,197 110,207 94,206 85,197 51,202"/>
+                <Baseline points="55,226 82,227 110,228 138,228 166,230 194,231 222,232"/>
+                <TextEquiv>
+                    <Unicode>SHI (Xing)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:3;}">
+                <Coords points="111,302 412,306 419,266 307,269 287,279 214,269 202,281 111,270"/>
+                <Baseline points="116,296 143,297 170,297 197,297 224,297 251,297 278,297 305,296 332,296 359,296 386,296 414,296"/>
+                <TextEquiv>
+                    <Unicode>Feng jian she hui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683127841562_62" custom="readingOrder {index:4;}">
+                <Coords points="316,410 426,406 428,456 318,460"/>
+                <Baseline points="318,455 428,451"/>
+                <TextEquiv>
+                    <Unicode>1973</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="135,511 189,514 204,503 215,514 310,514 329,501 360,513 373,500 440,504 440,486 375,478 364,468 290,485 216,469 198,487 167,469 135,469"/>
+                <Baseline points="140,499 166,501 193,502 220,503 247,503 274,503 300,503 327,502 354,502 381,501 408,500 435,499"/>
+                <TextEquiv>
+                    <Unicode>ii, 67 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15652.d.21&#13;
+FENG JIAN SHE HUI&#13;
+SHI (Xing)&#13;
+Feng jian she hui&#13;
+1973&#13;
+ii, 67 p.; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

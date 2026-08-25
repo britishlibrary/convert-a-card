@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.885+01:00</Created>
+        <LastChange>2023-07-03T15:59:49.970+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758473" pageNr="293" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=EPLBMFSCERVZANNFJBMQHFML&amp;fileType=view" imageId="35195779"/>
+    </Metadata>
+    <Page imageFilename="42758473.jpg" imageWidth="944" imageHeight="778">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688392789971" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="86,25 880,25 880,578 86,578"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="514,82 831,87 831,45 683,57 646,30 584,59 546,30 514,54"/>
+                <Baseline points="519,75 543,77 566,77 590,77 614,75 637,77 661,78 685,78 708,80 732,78 755,80 779,78 803,80 826,78 833,77"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1015</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="81,192 515,193 515,158 430,158 414,171 392,149 81,155"/>
+                <Baseline points="86,187 110,187 133,185 157,187 181,187 204,187 228,187 251,188 275,187 299,187 322,187 346,188 370,188 393,188 417,188 440,188 464,188 488,188 511,188 516,187"/>
+                <TextEquiv>
+                    <Unicode>FEN ZHUANG LOU QUAN ZHUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="113,246 146,257 557,249 557,210 500,205 113,215"/>
+                <Baseline points="118,240 141,239 165,239 188,239 212,239 236,239 259,239 283,240 307,237 330,239 354,239 377,239 401,239 425,239 448,239 472,239 496,239 519,240 543,240 559,242"/>
+                <TextEquiv>
+                    <Unicode>Fen zhuong Lon quan zhuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="165,448 172,448 183,438 188,442 201,441 208,434 227,434 232,429 240,435 267,430 272,435 281,434 279,391 187,388 180,397 164,397"/>
+                <Baseline points="170,428 193,428 217,426 240,429 264,429 283,433"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="116,488 174,487 188,498 233,485 338,490 337,461 326,462 313,449 274,449 261,462 238,461 226,474 213,461 181,459 165,446 115,447"/>
+                <Baseline points="121,483 144,481 168,483 192,483 215,485 239,485 263,485 286,485 310,485 333,485 340,485"/>
+                <TextEquiv>
+                    <Unicode>398 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="106,569 150,569 163,578 171,570 194,568 205,569 214,578 236,574 253,579 253,545 242,544 230,533 206,532 197,542 193,538 186,542 174,533 165,543 154,543 135,532 126,542 106,543"/>
+                <Baseline points="111,565 135,565 159,566 182,565 206,566 229,566 253,568 255,568"/>
+                <TextEquiv>
+                    <Unicode>s1. LF05.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1015&#13;
+FEN ZHUANG LOU QUAN ZHUAN&#13;
+Fen zhuong Lon quan zhuan&#13;
+1986&#13;
+398 p.: ill.&#13;
+s1. LF05.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

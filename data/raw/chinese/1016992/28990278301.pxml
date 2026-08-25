@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.423+01:00</Created>
+        <LastChange>2023-07-03T16:46:25.700+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758510" pageNr="325" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ODMFXDBLLAWZUCRMFASDXFJF&amp;fileType=view" imageId="35195816"/>
+    </Metadata>
+    <Page imageFilename="42758510.jpg" imageWidth="956" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395585700" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="60,12 907,12 907,726 60,726"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="590,64 607,74 651,66 662,75 697,74 708,63 734,74 757,65 766,74 819,74 819,37 716,43 708,51 661,27 590,37"/>
+                <Baseline points="595,62 619,62 643,62 667,63 691,63 715,63 738,65 762,65 786,63 810,65 821,65"/>
+                <TextEquiv>
+                    <Unicode>15665.c.30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="58,154 143,145 152,154 210,154 227,142 240,154 345,149 345,106 291,107 278,94 255,95 228,122 200,94 178,111 123,111 58,90"/>
+                <Baseline points="63,143 84,141 108,141 132,141 156,141 179,141 203,141 227,141 251,143 275,141 299,141 323,140 347,141"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN CAI PU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="55,202 550,202 566,201 566,172 54,162"/>
+                <Baseline points="60,194 84,194 108,194 132,195 156,194 179,194 203,194 227,195 251,195 275,195 299,195 323,195 347,195 371,195 394,195 418,195 442,195 466,197 490,195 514,195 538,195 562,195 568,195"/>
+                <TextEquiv>
+                    <Unicode>BEI JING FANG SHAN FAN ZHUANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="119,270 174,272 189,282 212,270 346,271 368,282 415,272 415,244 356,245 344,233 295,254 242,233 219,244 119,232"/>
+                <Baseline points="124,264 148,264 172,265 195,264 219,265 243,265 267,265 291,264 315,265 339,265 363,267 387,265 410,265 417,267"/>
+                <TextEquiv>
+                    <Unicode>Fang shan cai pu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="176,440 821,450 858,442 858,402 781,388 734,408 695,380 602,398 515,371 301,399 248,372 175,398"/>
+                <Baseline points="181,426 207,428 230,428 254,426 278,428 302,428 326,428 350,430 374,428 398,428 422,433 445,433 469,434 493,431 517,433 541,431 565,434 589,433 613,433 637,434 660,434 684,434 708,436 732,436 756,436 780,436 804,436 828,436 852,436 860,436"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="131,522 767,522 846,512 846,492 656,474 624,492 532,474 196,490 130,465"/>
+                <Baseline points="135,506 159,504 183,506 207,508 230,508 254,508 278,508 302,508 326,508 350,508 374,508 398,509 422,509 445,508 469,508 493,508 517,508 541,508 565,508 589,508 613,509 637,509 660,509 684,509 708,509 732,509 756,509 780,511 804,511 828,509 848,511"/>
+                <TextEquiv>
+                    <Unicode>[6], 142 p.: [12] p. of col. pls.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="124,576 881,585 851,544 447,542 416,564 375,540 124,546"/>
+                <Baseline points="129,568 152,571 176,571 200,573 224,573 248,573 272,573 296,573 320,574 344,574 367,573 391,574 415,574 439,574 463,574 487,574 511,574 535,574 559,576 582,576 606,576 630,576 654,578 678,578 702,578 726,576 750,578 774,578 797,578 821,578 845,578 869,578 883,576"/>
+                <TextEquiv>
+                    <Unicode>Recipes from the old imperial restaurant in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="125,614 324,618 335,615 335,589 310,578 299,587 261,579 244,592 229,582 201,587 168,580 158,589 147,579 124,579"/>
+                <Baseline points="130,606 154,606 178,608 202,609 226,609 250,609 273,609 297,609 321,611 337,611"/>
+                <TextEquiv>
+                    <Unicode>Beihai Park</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15665.c.30&#13;
+FANG SHAN CAI PU&#13;
+BEI JING FANG SHAN FAN ZHUANG&#13;
+Fang shan cai pu&#13;
+1980&#13;
+[6], 142 p.: [12] p. of col. pls.; 19 cm.&#13;
+Recipes from the old imperial restaurant in&#13;
+Beihai Park</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

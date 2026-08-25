@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.191+01:00</Created>
+        <LastChange>2023-05-04T12:51:55.555+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758279" pageNr="127"/>
+    </Metadata>
+    <Page imageFilename="28448819063.jpg" imageWidth="1004" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197515556" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,50 51,524 888,522 887,48"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="547,86 583,90 590,83 634,84 653,90 663,82 689,82 702,89 709,82 757,81 758,50 548,44"/>
+                <Baseline points="552,77 577,77 602,76 627,76 652,76 677,77 702,77 727,78 752,79"/>
+                <TextEquiv>
+                    <Unicode>15682.e.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="55,138 525,146 538,101 303,101 290,113 231,109 214,93 56,98"/>
+                <Baseline points="60,128 86,128 112,129 138,129 164,129 191,130 217,130 243,131 269,131 296,132 322,132 348,132 374,132 400,133 427,133 453,133 479,133 505,133 532,133"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ FAN YI DE LI LUN HE JI SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195923095_904" custom="readingOrder {index:2;}">
+                <Coords points="62,174 281,177 280,227 61,224"/>
+                <Baseline points="61,219 280,222"/>
+                <TextEquiv>
+                    <Unicode>YU (Wenjing)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="93,355 836,362 837,325 94,325"/>
+                <Baseline points="99,348 135,349 172,349 208,350 245,350 282,350 318,350 355,351 392,351 428,351 465,350 502,350 538,350 575,350 612,350 648,350 685,350 722,350 758,350 795,351 832,351"/>
+                <TextEquiv>
+                    <Unicode>Falü fanyi de lilun he jishu. Translation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="101,395 799,392 783,365 680,356 101,365"/>
+                <Baseline points="106,386 140,386 174,387 209,387 243,387 278,387 312,387 346,387 381,387 415,387 450,387 484,386 518,386 553,386 587,386 622,386 656,386 690,386 725,386 759,386 794,386"/>
+                <TextEquiv>
+                    <Unicode>of law: on its principles and technique.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="94,434 148,433 157,427 166,434 192,434 213,426 225,434 243,427 243,409 234,409 215,393 207,397 167,394 153,406 129,402 123,396 94,397"/>
+                <Baseline points="99,425 126,424 154,422 182,422 210,422 238,422"/>
+                <TextEquiv>
+                    <Unicode>pp. 190.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="673,427 689,427 700,434 721,420 728,427 757,426 766,435 786,429 786,410 779,410 765,397 750,395 722,407 711,396 674,395"/>
+                <Baseline points="678,421 703,420 729,420 755,420 781,422"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="97,498 763,498 746,460 97,461"/>
+                <Baseline points="102,489 134,490 167,490 200,490 233,490 266,490 298,490 331,490 364,490 397,490 430,490 462,490 495,490 528,490 561,490 593,490 626,490 659,490 692,490 725,490 758,490"/>
+                <TextEquiv>
+                    <Unicode>Dakuai chuban gongsi: Hong Kong, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15682.e.1&#13;
+FA LÜ FAN YI DE LI LUN HE JI SHU&#13;
+YU (Wenjing)&#13;
+Falü fanyi de lilun he jishu. Translation&#13;
+of law: on its principles and technique.&#13;
+pp. 190.&#13;
+19 cm.&#13;
+Dakuai chuban gongsi: Hong Kong, 1976.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.086+01:00</Created>
+        <LastChange>2023-05-04T12:45:43.162+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758209" pageNr="65"/>
+    </Metadata>
+    <Page imageFilename="28445628094.jpg" imageWidth="972" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197143162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="81,100 82,647 922,647 921,100"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="539,146 652,143 754,154 779,146 780,111 540,108"/>
+                <Baseline points="544,136 571,138 599,139 627,139 654,139 682,140 710,140 774,143"/>
+                <TextEquiv>
+                    <Unicode>15346.e.149</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="87,229 143,234 152,226 187,223 218,242 238,226 290,221 290,199 239,197 231,189 212,197 152,196 145,189 87,195"/>
+                <Baseline points="92,220 119,220 147,220 174,220 202,221 229,220 257,220 285,220"/>
+                <TextEquiv>
+                    <Unicode>FAN YI YI TAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="76,314 390,313 414,322 431,312 432,280 412,269 389,285 77,273"/>
+                <Baseline points="81,300 107,301 134,302 160,302 187,303 213,303 240,303 266,303 293,303 319,304 346,305 372,306 399,307 426,309"/>
+                <TextEquiv>
+                    <Unicode>HUO (Chongzhen Ling)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="109,482 819,490 835,466 110,445"/>
+                <Baseline points="115,473 150,474 186,474 222,475 258,475 293,476 329,476 365,476 401,477 436,477 472,477 508,477 544,477 579,477 615,478 651,478 687,478 722,478 758,479 794,479 830,479"/>
+                <TextEquiv>
+                    <Unicode>Fanyi yitan. A word in translation, with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="114,520 889,530 889,483 114,488"/>
+                <Baseline points="119,509 157,510 195,510 233,511 272,512 310,512 348,512 386,513 425,513 463,513 501,513 539,513 578,513 616,513 654,514 692,514 731,514 769,515 807,516 845,517 884,518"/>
+                <TextEquiv>
+                    <Unicode>examples. [English-Chinese; Chinese-English.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="118,562 152,562 174,548 184,554 248,551 248,535 223,533 205,520 186,522 173,535 158,533 149,525 118,525"/>
+                <Baseline points="123,550 153,548 183,547 213,548 243,550"/>
+                <TextEquiv>
+                    <Unicode>pp. 81.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="717,553 786,554 795,556 800,562 821,563 822,536 790,530 771,533 760,525 718,524"/>
+                <Baseline points="722,548 753,549 785,550 817,552"/>
+                <TextEquiv>
+                    <Unicode>22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="114,626 672,623 647,589 559,604 503,589 372,595 357,581 231,596 114,581"/>
+                <Baseline points="119,616 146,615 173,615 201,615 228,615 256,615 283,615 310,616 338,616 365,616 393,617 420,617 447,618 475,618 502,618 530,619 557,619 584,619 612,619 639,619 667,619"/>
+                <TextEquiv>
+                    <Unicode>[The author ?]: Hong Kong, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15346.e.149&#13;
+FAN YI YI TAN&#13;
+HUO (Chongzhen Ling)&#13;
+Fanyi yitan. A word in translation, with&#13;
+examples. [English-Chinese; Chinese-English.]&#13;
+pp. 81.&#13;
+22 cm.&#13;
+[The author ?]: Hong Kong, 1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.755+01:00</Created>
+        <LastChange>2023-05-03T17:31:07.978+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758143" pageNr="7"/>
+    </Metadata>
+    <Page imageFilename="28445611664.jpg" imageWidth="984" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127867978" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="33,39 34,574 899,575 901,40"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="574,95 591,106 664,106 687,91 696,98 742,95 753,106 787,97 787,75 769,62 754,61 732,75 717,61 690,71 674,71 665,62 574,61"/>
+                <Baseline points="579,94 604,94 629,94 655,94 680,94 705,93 731,93 756,94 782,94"/>
+                <TextEquiv>
+                    <Unicode>15313.d.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="57,154 103,161 130,180 158,154 260,153 277,142 277,112 157,117 143,103 127,100 106,120 57,123"/>
+                <Baseline points="62,147 88,146 114,145 140,145 167,145 193,145 219,144 245,144 272,144"/>
+                <TextEquiv>
+                    <Unicode>FENG JIAN LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657126416496_291" custom="readingOrder {index:2;}">
+                <Coords points="37,190 288,190 288,240 37,240"/>
+                <Baseline points="37,235 288,235"/>
+                <TextEquiv>
+                    <Unicode>ZHOU (Yiliang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="74,374 883,364 883,342 850,340 74,340"/>
+                <Baseline points="79,364 118,364 158,364 198,364 238,365 278,365 318,365 358,365 398,365 438,365 478,365 517,365 557,365 597,365 637,365 677,365 717,365 757,365 797,365 837,364 877,364"/>
+                <TextEquiv>
+                    <Unicode>Du Liu Zongyuan "Fengjian lun". [A critique of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="80,408 897,412 897,380 857,373 80,373"/>
+                <Baseline points="85,399 125,399 165,399 206,399 246,400 286,400 327,400 367,400 407,400 448,399 488,399 528,399 569,399 609,400 649,400 690,400 730,400 770,400 811,401 851,401 892,402"/>
+                <TextEquiv>
+                    <Unicode>the essay by the Tang dynasty poet, followed by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="88,443 564,451 663,434 772,451 773,407 88,414"/>
+                <Baseline points="93,433 126,434 160,434 194,434 227,435 261,435 295,435 328,435 362,435 396,435 430,435 463,435 497,435 531,435 564,435 598,435 632,435 665,435 699,436 733,436 767,437"/>
+                <TextEquiv>
+                    <Unicode>an annotated copy of the original text.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="79,484 125,482 136,473 146,482 203,476 325,482 343,479 343,456 314,445 240,444 207,463 182,441 133,455 121,446 78,445"/>
+                <Baseline points="84,474 109,473 134,473 160,472 185,471 211,471 236,470 261,470 287,470 312,470 338,470"/>
+                <TextEquiv>
+                    <Unicode>pp. 36. 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="79,546 466,546 486,561 628,540 591,509 513,523 456,509 79,509"/>
+                <Baseline points="84,538 112,537 140,537 169,536 197,536 225,536 254,536 282,536 310,536 339,536 367,536 396,536 424,537 452,537 481,537 509,538 537,538 566,538 594,539 623,539"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Peking, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15313.d.7&#13;
+FENG JIAN LUN&#13;
+ZHOU (Yiliang)&#13;
+Du Liu Zongyuan "Fengjian lun". [A critique of&#13;
+the essay by the Tang dynasty poet, followed by&#13;
+an annotated copy of the original text.]&#13;
+pp. 36. 21 cm.&#13;
+Renmin chubanshe: Peking, 1974.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.983+01:00</Created>
+        <LastChange>2023-07-03T16:11:08.664+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758480" pageNr="299" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=UJYNMRMXAGMAMBAWFVYRMLMV&amp;fileType=view" imageId="35195786"/>
+    </Metadata>
+    <Page imageFilename="42758480.jpg" imageWidth="980" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393468664" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="194,67 938,76 937,579 194,580"/>
+            <TextLine id="line_1688393421843_715" custom="readingOrder {index:0;}">
+                <Coords points="676,79 925,76 926,126 677,129"/>
+                <Baseline points="677,124 926,121"/>
+                <TextEquiv>
+                    <Unicode>15317.f.46/2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="233,167 245,170 298,170 298,139 279,139 270,131 262,136 233,135"/>
+                <Baseline points="238,165 263,165 287,165 300,165"/>
+                <TextEquiv>
+                    <Unicode>FEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="189,261 226,266 243,253 256,266 310,264 326,274 355,255 374,274 408,274 423,259 480,264 481,203 413,215 389,191 355,225 322,234 294,234 283,223 254,231 190,224"/>
+                <Baseline points="194,259 212,258 236,256 261,256 285,256 310,256 334,258 359,259 383,259 408,254 432,253 457,253 483,254"/>
+                <TextEquiv>
+                    <Unicode>LU (Xun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="231,370 888,360 888,330 858,319 793,341 722,320 507,324 475,346 231,330"/>
+                <Baseline points="236,359 253,359 277,359 302,359 326,359 351,359 375,359 400,357 424,357 449,357 473,357 498,359 522,357 547,357 571,357 596,356 620,356 645,354 669,356 694,354 718,354 743,354 767,354 792,356 816,356 841,354 865,356 890,354"/>
+                <TextEquiv>
+                    <Unicode>Fen. [Essays, written 1907-1925. With</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="238,412 645,394 795,410 870,401 871,372 239,372"/>
+                <Baseline points="243,397 259,395 284,395 308,395 333,395 357,395 382,395 406,395 431,395 455,395 480,395 504,393 529,395 553,395 578,393 602,393 627,393 651,392 676,393 700,392 725,392 749,392 774,393 798,393 823,392 847,392 872,392"/>
+                <TextEquiv>
+                    <Unicode>photosof Lu Xun's home in Shanghai.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="230,442 285,442 297,432 345,442 458,432 480,442 502,434 502,411 478,402 454,414 395,402 378,419 342,401 313,402 297,418 264,402 230,413"/>
+                <Baseline points="235,434 259,432 284,431 308,431 333,431 357,432 382,432 406,431 431,431 455,432 480,431 504,429"/>
+                <TextEquiv>
+                    <Unicode>pp. 264, pl. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="226,503 816,506 792,461 701,481 636,463 611,480 548,461 523,480 402,462 340,481 226,470"/>
+                <Baseline points="231,498 256,499 281,499 305,499 330,499 354,499 379,499 403,499 428,498 452,499 477,498 501,498 526,498 550,498 575,498 599,498 624,498 648,498 673,498 697,499 722,498 746,498 771,498 795,498 818,498"/>
+                <TextEquiv>
+                    <Unicode>Xinyi chubanshe: Hong Kong, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="230,572 682,572 682,549 661,539 614,550 585,533 566,550 230,541"/>
+                <Baseline points="235,568 259,568 284,568 308,568 333,568 357,568 382,568 406,568 431,568 455,568 480,568 504,568 529,566 553,568 578,570 602,568 627,568 651,566 676,568 684,570"/>
+                <TextEquiv>
+                    <Unicode>Lu Xun sanshi nian ji, 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15317.f.46/2&#13;
+FEN&#13;
+LU (Xun)&#13;
+Fen. [Essays, written 1907-1925. With&#13;
+photosof Lu Xun's home in Shanghai.]&#13;
+pp. 264, pl. 4.&#13;
+Xinyi chubanshe: Hong Kong, 1967.&#13;
+Lu Xun sanshi nian ji, 2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

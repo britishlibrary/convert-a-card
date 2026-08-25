@@ -2,205 +2,335 @@
 Removed any data processing prior to delivery of cards_df to simplify env for streamlit
 Will need to prepare elsewhere then pull in as pickle or csv
 """
-import re
 import os
 import pickle
-import xml.etree.ElementTree as ET
-from PIL import Image
+import platform
+
 import pandas as pd
 import streamlit as st
-import requests
+from PIL import Image
+import s3fs
 
-cards_df = pickle.load(open("notebooks/cards_df.p", "rb"))
+import cfg
+from src.utils import streamlit_utils as st_utils
+from src.docs import doc_strings as docs
 
-nulls = len(cards_df) - len(cards_df.dropna(subset="worldcat_result"))
-errors = len(cards_df.query("worldcat_result == 'Error'"))
-cards_to_show = cards_df.query("worldcat_result != 'Error'").dropna(subset="worldcat_result")
+st.set_page_config(layout="wide")
+st.session_state["testing"] = st.session_state.get("testing", False)
 
-st.markdown("# Worldcat results for searches for catalogue card title/author")
-st.write(f"\nTotal of {len(cards_df)} cards")
-st.write(f"Showing {len(cards_to_show)} cards with Worldcat results, "
-         f"omitting {nulls} without results and {errors} with errors in result retrieval")
-subset = ("title", "author", "shelfmark", "worldcat_result", "lines", "selected_record", "record_needs_editing")
-st.dataframe(cards_to_show.loc[:, subset])
-cards_to_show["author"][cards_to_show["author"].isna()] = ""  # handle None values
-option = st.selectbox(
-    "Which result set do you want to choose between?",
-    pd.Series(cards_to_show.index, index=cards_to_show.index, dtype=str)
-    + " ti: " + cards_to_show["title"] + " au: " + cards_to_show["author"]
-)
-st.write("Current selection: ", option)
+if platform.system() == "Linux":  # community cloud runs linux
+    LOCAL_DATA = False
+elif platform.system() == "Windows":
+    LOCAL_DATA = True  # edit if want to trial remote data locally
 
-# p5_root = (
-#     "G:/DigiSchol/Digital Research and Curator Team/Projects & Proposals/00_Current Projects"
-#     "/LibCrowds Convert-a-Card (Adi)/OCR/20230504 TKB Export P5 175 GT pp/1016992/P5_for_Transkribus"
-# )
+s3 = s3fs.S3FileSystem(anon=False)
 
-card_idx = int(option.split(" ")[0])
-card_jpg_path = os.path.join("data/images", cards_to_show.loc[card_idx, "xml"][:-4] + ".jpg")
+st.title("Worldcat results for searches for catalogue card title/author")
 
-st.image(Image.open(card_jpg_path))
+with open("sidebar_docs.txt", encoding="utf-8") as f:
+    sidebar_docs_txt = f.read()
+with st.sidebar:
+    st.markdown(sidebar_docs_txt)
 
-st.markdown("## Select from Worldcat results")
-search_ti = cards_to_show.loc[card_idx, 'title'].replace(' ', '+')
-search_au = cards_to_show.loc[card_idx, 'author'].replace(' ', '+')
-search_term = f"https://www.worldcat.org/search?q=ti%3A{search_ti}+AND+au%3A{search_au}"
-st.markdown(f"You can also check the [Worldcat search]({search_term}) for this card")
-match_df = pd.DataFrame({"record": list(cards_to_show.loc[card_idx, "worldcat_result"].values())})
-
-# filter options
-match_df["has_title"] = match_df["record"].apply(lambda x: bool(x.get_fields("245")))
-match_df["has_author"] = match_df["record"].apply(lambda x: bool(x.get_fields("100", "110", "111", "130")))
-au_exists = bool(search_au)
-match_df = match_df.query("has_title == True and (has_author == True or not @au_exists)")
-
-lang_xml = requests.get("https://www.loc.gov/standards/codelists/languages.xml")
-tree = ET.fromstring(lang_xml.text)
-lang_dict = {lang[2].text: lang[1].text for lang in tree[4]}
-
-re_040b = re.compile(r"\$b[a-z]+\$")
-match_df["language_040$b"] = match_df["record"].apply(lambda x: re_040b.search(x.get_fields("040")[0].__str__()).group())
-match_df["language"] = match_df["language_040$b"].str[2:-1].map(lang_dict)
-
-lang_select = st.radio(
-    "Select Cataloguing Language (040 $b)",
-    match_df["language"].unique(),
-    format_func=lambda x: f"{x} ({len(match_df.query('language == @x'))} total)"
-)
-
-filtered_df = match_df.query("language == @lang_select").copy()
-
-# sort options
-subject_access = [
-    "600", "610", "611", "630", "647", "648", "650", "651",
-    "653", "654", "655", "656", "657", "658", "662", "688"
-]
-
-filtered_df["num_subject_access"] = filtered_df["record"].apply(lambda x: len(x.get_fields(*subject_access)))
-filtered_df["num_linked"] = filtered_df["record"].apply(lambda x: len(x.get_fields("880")))
-filtered_df["has_phys_desc"] = filtered_df["record"].apply(lambda x: bool(x.get_fields("300")))
-filtered_df["good_encoding_level"] = filtered_df["record"].apply(lambda x: x.get_fields("LDR")[0][17] not in [3, 5, 7])
-filtered_df["record_length"] = filtered_df["record"].apply(lambda x: len(x.get_fields()))
-
-input_max = st.number_input("Max records to display", min_value=1, value=3)
-if input_max <= len(filtered_df):
-    max_to_display = int(input_max)
+if st.session_state["testing"]:
+    cards_df = st.session_state["cards_df"]
+    pass  # cards_df and save_file defined in tests
+elif LOCAL_DATA:
+    st.session_state["save_file"] = "data/processed/chinese_matches.p"
+    cards_df = pickle.load(open(st.session_state["save_file"], "rb"))
+    st.write("Loaded cards info from local")
 else:
-    max_to_display = len(filtered_df)
+    st.session_state["save_file"] = 'cac-bucket/chinese_matches.p'
+    cards_df = st_utils.load_s3(s3, st.session_state["save_file"])
+    st.write("Loaded cards info from AWS")
 
+number_of_cards_container = st.empty()
+card_table_instructions = st.empty()
+card_table_container = st.empty()
+subset = ["simple_id", "title", "author", "selected_match_ocn", "derivation_complete", "shelfmark", "lines"]
 
-def pretty_filter_option(option):
-    display_dict = {
-        "num_subject_access": "Number of subject access fields",
-        "num_linked": "Number of linked fields",
-        "has_phys_desc": "Has a physical description",
-        "good_encoding_level": "Encoding level not 3/5/7",
-        "record_length": "Number of fields in record"
-    }
-    return display_dict[option]
+card_selection = st_utils.update_card_table(df=cards_df, subset=subset, container=card_table_container)
 
-
-sort_options = st.multiselect(
-    label=(
-        "Select how to sort matching records. The default is the order the results are returned from Worldcat."
-        " Results will be sorted in the order options are selected"
-    ),
-    options=["num_subject_access", "num_linked", "has_phys_desc", "good_encoding_level", "record_length"],
-    format_func=pretty_filter_option
+nulls = len(cards_df) - len(cards_df.dropna(subset="worldcat_matches"))
+number_of_cards_container.write(
+    f"Showing {len(cards_df.dropna(subset='worldcat_matches'))} cards with Worldcat results."
+    # f"out of of {len(cards_df)} total cards, omitting {nulls} without results."
 )
 
+card_table_instructions.write(docs.card_table_instructions)
 
-def gen_unique_idx(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Generate a unique index from one that contains repeated fields
-    @param df: pd.DataFrame
-    @return: pd.DataFrame
-    """
-    df["Repeat Field ID"] = ""
-    dup_idx = df.index[df.index.duplicated()].unique()
-    unhandled_fields = [x for x in dup_idx if x not in ["650", "880"]]
-    if "650" in dup_idx:
-        str_add = df.loc["650", df.columns[0]].copy()
-        str_add = [" " + str(x) for x in range(len(str_add))]
-        df.loc["650", "Repeat Field ID"] = df.loc["650", df.columns[0]].str.split(" ").transform(lambda x: x[0]) + str_add
-    if "880" in dup_idx:
-        str_add = df.loc["880", df.columns[0]].copy()
-        str_add = [" " + str(x) for x in range(len(str_add))]
-        df.loc["880", "Repeat Field ID"] = df.loc["880", df.columns[0]].str.split("/").transform(lambda x: x[0]) + str_add
-    for dup in unhandled_fields:
-        df.loc[dup, "Repeat Field ID"] = [str(x) for x in range(len(df.loc[dup]))]
+if not card_selection["selection"]["rows"]:
+    st.session_state["readable_card_id"] = st.session_state.get("readable_card_id", 1)
+else:
+    st.session_state["readable_card_id"] = int(card_selection["selection"]["rows"][0]) + 1
 
-    return df.set_index("Repeat Field ID", append=True)
+card_idx = cards_df.query("simple_id == @st.session_state['readable_card_id']").index.values[0]
+st.session_state["card_idx"] = card_idx
 
+st.session_state["existing_match"] = cards_df.loc[card_idx, "selected_match"]
+st.session_state["match_exists"] = isinstance(st.session_state["existing_match"], int)
 
-def sort_fields_idx(index: pd.Index) -> pd.Index:
-    """
-    Specific keys to sort indices containing MARC fields
-    @param index: pd.Index
-    @return: pd.Index
-    """
-    if index.name == "MARC Field":
-        key = [0 if x == "LDR" else int(x) for x in index]
-        return pd.Index(key)
-    elif index.name == "Repeat Field ID":
-        key = [x.split("$")[1] if "$" in x else x for x in index]
-        return pd.Index(key)
+if st.session_state["match_exists"]:
+    apparent_oclc_num = cards_df.loc[card_idx, "selected_match_ocn"]
+    actual_oclc_num = cards_df.loc[card_idx, "worldcat_matches"][st.session_state["existing_match"]].get_fields("001")[0].data
+    if apparent_oclc_num != actual_oclc_num:
+        st.warning(docs.oclc_num_warning)
 
+cards_df["author"] = cards_df["author"].apply(lambda x: x if x else "")
 
-matches_to_show = filtered_df.sort_values(
-    by=sort_options,
-    ascending=False
-)
+st.write("\n")
+st.subheader("Select from Worldcat results")
 
-displayed_matches = []
-for i in range(len(matches_to_show)):
-    res = matches_to_show.iloc[i, 0].get_fields()
-    ldr = matches_to_show.iloc[i, 0].get_fields("LDR")
-    col = pd.DataFrame(
-        index=pd.Index(["LDR"] + [x.tag for x in res], name="MARC Field"),
-        data=ldr + [x.__str__()[6:] for x in res],
-        columns=[matches_to_show.iloc[i].name]
+card_jpg_path = os.path.join("data/raw/chinese/1016992", cards_df.loc[card_idx, "xml"][:-5] + ".jpg")
+
+search_ti = cards_df.loc[card_idx, 'title'].replace(' ', '+')
+search_au = cards_df.loc[card_idx, 'author'].replace(' ', '+')
+search_term = f"https://www.worldcat.org/search?q=ti%3A{search_ti}+AND+au%3A{search_au}"
+
+ic_left, ic_centred = st.columns([0.3, 0.7])
+ic_centred.image(Image.open(card_jpg_path), use_column_width=True)
+label_text = f"""You can check the [Worldcat search]({search_term}) for this card"""
+ic_left.write(label_text)
+sm = cards_df.loc[card_idx, 'shelfmark']
+sm_correction = ic_left.text_input(label=f"The extracted shelfmark is {sm}. If incorrect change the value below and press enter.", value=sm)
+if sm != sm_correction:
+    ic_left.markdown(f":green[Shelfmark updated]")
+    cards_df.loc[card_idx, 'shelfmark'] = sm_correction
+    st_utils.update_card_table(df=cards_df, subset=subset, container=card_table_container)
+    st_utils.push_to_storage(local=LOCAL_DATA, save_file=st.session_state["save_file"], df=cards_df, s3=s3)
+
+filtered_records_empty = ic_left.empty()
+
+minimal_cataloguing_view = ic_left.toggle("Minimal cataloguing view", value=True, help=docs.min_cat_help_text)
+
+marc_table = st.empty()
+match_df = pd.DataFrame({"record": list(cards_df.loc[card_idx, "worldcat_matches"])})
+match_df = st_utils.create_filter_columns(match_df, cfg.LANG_DICT, search_au)
+all_marc_fields = sorted(list(set(match_df["record"].apply(lambda x: [y.tag for y in x.get_fields()]).sum())))
+all_languages = match_df["language"].unique()
+
+# Filters form
+with st.form("filters"):
+    apply_col, max_to_display_col, removed_records_col = st.columns([0.1, 0.2, 0.7])
+
+    apply_filters = apply_col.form_submit_button(label="Apply filters")
+
+    max_to_display = int(
+        max_to_display_col.number_input("Max records to display", min_value=1, value=5, help=docs.max_to_display_help)
     )
-    displayed_matches.append(gen_unique_idx(col))
 
-st_display_df = pd.concat(displayed_matches, axis=1).sort_index(key=sort_fields_idx)
-match_ids = st_display_df.columns.tolist()
-records_to_ignore = st.multiselect(
-    label="Select any bad records you'd like to remove from the comparison",
-    options=match_ids
-)
+    # It is possible to remove a previously selected record from the comparison
+    records_to_ignore = removed_records_col.multiselect(
+        label="Select incorrect records you'd like to remove from the comparison",
+        options=match_df.index
+    )
 
-for rec in records_to_ignore:
-    match_ids.remove(rec)
-st.dataframe(st_display_df.loc[:, match_ids[:max_to_display]])
+    if "English" in all_languages:
+        default_lang = "English"
+    else:
+        default_lang = None
 
-# cols = st.columns(max_to_display)
-#
-# for i, c in enumerate(cols):
-#     with c:
-#         res = matches_to_show.iloc[i-1, 0].get_fields()
-#         st.dataframe(pd.DataFrame(
-#             index=[int(x.tag) for x in res],
-#             data=[x.__str__()[6:] for x in res],
-#             columns=[i]))
-col1, col2, col3 = st.columns(3)
-best_res = col1.radio(
-    label="Which is the closest Worldcat result?",
-    options=(match_ids[:max_to_display] + ["None of the results are correct"])
-)
-needs_editing = col2.radio(
-    label="Does this record need manual editing or is it ready to ingest?",
-    options=[True, False],
-    format_func=lambda x: {True: "Manual editing", False: "Ready to ingest"}[x]
-)
-save_res = col3.checkbox(  # TODO press button rather than tick to avoid weird state
-    label="Tick to save your selection"
-)
+    lang_select = st.multiselect(
+        "Select Cataloguing Language (040 $b)",
+        match_df["language"].unique(),
+        format_func=lambda x: f"{x} ({len(match_df.query('language == @x'))} total)",
+        default=default_lang
+    )
 
-if save_res:
-    # TODO fix assignment if record is already assigned and not None
-    pass
-    # cards_df.loc[card_idx, "selected_record"] = matches_to_show.loc[best_res, "record"]
-    # cards_df.loc[card_idx, "record_needs_editing"] = needs_editing
-    # pickle.dump(cards_df, open("notebooks/cards_df.p", "wb"))
-    # st.markdown("### Selection saved!")
+    st.write("####")
+    _, date_slider_col, _ = st.columns([0.05, 0.9, 0.05])
+    pub_dates = match_df.query("publication_date > -9999")["publication_date"].sort_values().dropna().unique().astype(int)
+    if len(pub_dates) == 0:
+        pub_dates = [1900, 2000]
+    elif len(pub_dates) == 1:
+        pub_dates = [pub_dates[0] - 1, pub_dates[0], pub_dates[0] + 1]
+    date_slider = date_slider_col.select_slider(
+        label='Select publication year',
+        options=pub_dates,
+        value=(min(pub_dates), max(pub_dates)),
+        help=(docs.date_select_help)
+    )
+
+    st.write("####")
+    generic_field_col, generic_field_contains_col, _, include_recs_without_field_col = st.columns([0.26, 0.38, 0.033, 0.19], vertical_alignment="bottom")
+    search_on_marc_fields = generic_field_col.multiselect(
+        "Select MARC field",
+        all_marc_fields,
+        help="[LoC MARC fields](https://www.loc.gov/marc/bibliographic/)"
+    )
+    search_terms = generic_field_contains_col.text_input("MARC field contains", help=(docs.generic_field_search_help))
+
+    search_terms = search_terms.split(";")
+    if search_terms == [""]:  # clear if no search terms
+        search_terms, search_on_marc_fields = [], []
+    include_recs_without_field = include_recs_without_field_col.checkbox("Allow records without specified MARC fields")
+
+    if len(search_on_marc_fields) != len(search_terms):
+        st.markdown(
+            (f":red[**Searching on {len(search_on_marc_fields)} MARC fields, "
+             f"but {len(search_terms.split(';'))} search terms specified. "
+             f"Please change number of searched on MARC fields or number of ';' seperated search terms**]")
+        )
+
+    # filter option columns defined below to display in the filters users can choose from
+    filter_options = ["num_subject_access", "num_rda", "num_linked", "has_phys_desc", "good_encoding_level", "record_length"]
+
+    sort_options_col, highlight_col = st.columns([0.65, 0.2], gap="large", vertical_alignment="center")
+    sort_options = sort_options_col.multiselect(label=("Select how to sort matching records."), options=filter_options,
+                                                format_func=st_utils.pretty_filter_option, help=(docs.sort_options_help))
+
+    highlight_button = highlight_col.checkbox("Highlight common fields", value=True,
+                                              help="Highlight field values that are common between two or more records.")
+
+
+if not lang_select:
+    lang_select = all_languages
+filter_query = "language in @lang_select" \
+               "& ((@date_slider[0] <= publication_date and publication_date <= @date_slider[1])" \
+               "or publication_date == -9999)"
+filtered_df = match_df.query(filter_query).copy()
+st.session_state["filtered_df"] = filtered_df
+sorted_filtered_df = filtered_df.sort_values(by=sort_options, ascending=False)
+
+formatted_records, fmt_new_idx = [], []
+for i in range(len(sorted_filtered_df)):
+    res = sorted_filtered_df.iloc[i, 0].get_fields()
+    ldr = sorted_filtered_df.iloc[i, 0].leader
+    col = pd.DataFrame(
+        index=pd.Index(["LDR"] + [x.tag for x in res], name="Field"),
+        data=[ldr] + [x.__str__()[6:] for x in res],
+        columns=[sorted_filtered_df.iloc[i].name]
+    )
+    formatted_records.append(st_utils.gen_unique_idx(col))
+    # fmt_new_idx.append(st_utils.gen_sf_rpt_unique_idx(col))
+
+marc_table_all_recs_df = pd.concat(formatted_records, axis=1).sort_index(key=st_utils.sort_fields_idx)
+st.session_state["marc_table_all_recs_df"] = marc_table_all_recs_df  # for testing
+# new_marc_table = pd.concat(fmt_new_idx, axis=1).sort_index()
+# st_utils.simplify_6xx(new_marc_table)
+
+marc_table_filtered_recs = st_utils.filter_on_generic_fields(marc_table_all_recs_df, search_on_marc_fields,
+                                                             search_terms, include_recs_without_field)
+st.session_state["marc_table_filtered_recs"] = marc_table_filtered_recs  # for testing
+match_ids = marc_table_filtered_recs.columns.tolist()
+
+record = "records"
+if len(records_to_ignore) == 1: record = "record"
+n_displayed = min([max_to_display, len(match_ids)])
+filtered_records_text = f"""
+[Max records to display](#filters) set to {max_to_display}. Displaying {n_displayed} of {len(match_ids)} filtered records.\n
+{len(match_df)} total records.  
+{len(match_df) - len(match_ids)} removed by filters.  
+{len(records_to_ignore)} incorrect {record} removed by user.
+"""
+filtered_records_empty.write(filtered_records_text)
+
+records_to_display = [x for x in match_ids if x not in records_to_ignore]
+excluded_fields = ["063", "064", "068", "072", "078", "079", "250", "776"]
+useful_fields = ~marc_table_all_recs_df.index.droplevel(1).isin(excluded_fields)
+marc_grid_df = marc_table_all_recs_df.loc[useful_fields, records_to_display[:max_to_display]].dropna(how="all")
+
+minimal_repeat_fields = [x for x in marc_grid_df.index.droplevel(1) if x[0] in ["3", "6"]]
+minimal_fields = minimal_repeat_fields + ["100", "245", "260", "880"]  # 100, 245, 260, 300s, 600s, 880s
+if minimal_cataloguing_view:
+    marc_grid_df = marc_grid_df.loc[marc_grid_df.index.droplevel(1).isin(minimal_fields)]
+
+marc_grid_df = marc_grid_df.reset_index().transform(lambda x: x.str.replace(r"\$\w", st_utils.new_line, regex=True))
+marc_grid_df.columns = [str(x) for x in marc_grid_df.columns]
+
+# for testing
+st.session_state["marc_grid_df"] = marc_grid_df
+st.session_state["ag"] = st_utils.update_marc_table(marc_table, marc_grid_df, highlight_button, st.session_state["existing_match"])
+
+select_col, derive_col = st.columns([0.35, 0.35], gap="large")
+with select_col:
+    with st.form("record_selection"):
+        closest_result_col, save_col = st.columns([0.6, 0.4])
+        no_correct_text = "No correct results"
+        selected_match = closest_result_col.radio(
+            label="Which is the closest Worldcat result?",
+            options=(records_to_display[:max_to_display] + [no_correct_text])
+        )
+
+        save_col.write("Saving will show the shelfmark and OCLC number for Record Manager. See sidebar for more info on Record Manager.")
+        save_res = save_col.form_submit_button(label="Save selection")
+        clear_res = save_col.form_submit_button(label="Clear selection")
+
+        success_empty = st.empty()
+
+        sm_field = "852"
+        info_text = f"""
+                    ➡️ Copy the OCLC Number to search in Record Manager    
+                    ➡️ Copy the shelfmark to field {sm_field}  
+                    ➡️ Copy the OCR text to a 500 field
+                    """
+        copy_instruction = st.empty()
+
+        oclc_label_col, oclc_num_col = st.columns([0.5, 0.5])
+        sm_label_col, sm_col = st.columns([0.5, 0.5])
+        ocr_text_label_col, ocr_text_col = st.columns([0.5, 0.5])
+
+        oclc_label_col.write("OCLC Number:")
+        oclc_num_copy = oclc_num_col.empty()
+
+        sm_label_col.write(f"Shelfmark ({sm_field} field):")
+        sm_col.code(sm)
+
+        ocr_text_label_col.write("OCR text (500 field):")
+        oclc_text_copy = ocr_text_col.empty()
+
+        if st.session_state["match_exists"]:
+            oclc_num = cards_df.loc[card_idx, "selected_match_ocn"]
+            copy_instruction.info(info_text)
+            oclc_num_copy.code(oclc_num.strip('ocn').strip('ocm').strip('on'))
+            oclc_text_copy.code("\n".join(cards_df.loc[card_idx, "lines"]))
+
+        if save_res:
+            if selected_match == no_correct_text:
+                cards_df.loc[card_idx, ["selected_match", "selected_match_ocn"]] = "No match"
+                st_utils.update_card_table(cards_df, subset, card_table_container)
+                st_utils.push_to_storage(local=LOCAL_DATA, save_file=st.session_state["save_file"], df=cards_df, s3=s3)
+                success_empty.success("Non-match recorded!", icon="✅")
+            else:
+                oclc_num = cards_df.loc[card_idx, "worldcat_matches"][selected_match].get_fields("001")[0].data
+                cards_df.loc[card_idx, "selected_match"] = selected_match
+                cards_df.loc[card_idx, "selected_match_ocn"] = oclc_num
+
+                st_utils.update_card_table(cards_df, subset, card_table_container)
+                st_utils.push_to_storage(local=LOCAL_DATA, save_file=st.session_state["save_file"], df=cards_df, s3=s3)
+                st_utils.update_marc_table(marc_table, marc_grid_df, highlight_button, st.session_state["existing_match"])
+
+                copy_instruction.info(info_text)
+                oclc_num_copy.code(oclc_num.strip('ocn').strip('ocm').strip('on'))
+                oclc_text_copy.code("\n".join(cards_df.loc[card_idx, "lines"]))
+
+                success_empty.success("Selection saved!", icon="✅")
+
+        if clear_res:
+            cards_df.loc[card_idx, ["selected_match", "selected_match_ocn", "derivation_complete"]] = None
+            st_utils.update_card_table(cards_df, subset, card_table_container)
+            st_utils.push_to_storage(local=LOCAL_DATA, save_file=st.session_state["save_file"], df=cards_df, s3=s3)
+            st_utils.update_marc_table(marc_table, marc_grid_df, highlight_button, existing_match=False)
+
+            copy_instruction.write("")
+            oclc_num_copy.code("")
+            oclc_text_copy.code("")
+
+            success_empty.success("Selection cleared!", icon="✅")
+
+with derive_col:
+    with st.form("derive_complete"):
+        st.write(docs.derivation_complete)
+        derivation_complete = st.form_submit_button(label="Derivation complete")
+        if derivation_complete:
+            cards_df.loc[card_idx, "derivation_complete"] = True
+            st_utils.update_card_table(cards_df, subset, card_table_container)
+            st_utils.push_to_storage(local=LOCAL_DATA, save_file=st.session_state["save_file"], df=cards_df, s3=s3)
+            st.success("Derivation complete!", icon="✅")
+
+        mark_uncomplete = st.form_submit_button(label="Undo derivation complete")
+        if mark_uncomplete:
+            cards_df.loc[card_idx, "derivation_complete"] = None
+            st_utils.update_card_table(cards_df, subset, card_table_container)
+            st_utils.push_to_storage(local=LOCAL_DATA, save_file=st.session_state["save_file"], df=cards_df, s3=s3)
+            st.success("Derivation cleared!", icon="✅")

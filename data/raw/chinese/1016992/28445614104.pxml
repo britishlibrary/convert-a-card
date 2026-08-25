@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.159+01:00</Created>
+        <LastChange>2023-05-03T17:42:11.999+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758163" pageNr="24"/>
+    </Metadata>
+    <Page imageFilename="28445614104.jpg" imageWidth="956" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128531999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="37,70 34,494 905,494 908,70"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="586,106 640,114 701,101 856,114 885,105 885,73 864,70 586,69"/>
+                <Baseline points="591,98 617,98 643,98 669,98 696,98 722,98 748,98 774,99 801,99 827,99 853,99 880,100"/>
+                <TextEquiv>
+                    <Unicode>15597.a.10/515</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="59,154 122,154 134,147 144,154 219,152 219,108 202,107 191,118 60,117"/>
+                <Baseline points="65,143 94,141 124,141 154,142 184,143 214,142"/>
+                <TextEquiv>
+                    <Unicode>FENG CHIH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="45,242 320,243 329,239 330,207 311,197 293,208 201,209 178,196 164,207 45,204"/>
+                <Baseline points="50,228 77,229 104,229 132,230 159,230 187,230 214,231 241,231 269,231 296,231 324,231"/>
+                <TextEquiv>
+                    <Unicode>CHEUNG (Dominic)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="77,306 907,302 893,278 718,269 77,269"/>
+                <Baseline points="82,293 123,294 164,295 205,295 246,295 287,296 328,296 369,296 410,296 451,296 492,296 533,296 574,297 615,297 656,297 697,298 738,298 779,299 820,300 861,300 902,302"/>
+                <TextEquiv>
+                    <Unicode>Feng Chih / by Dominic Cheung. — Boston: Twayne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="79,338 354,337 354,306 322,301 291,303 273,320 192,305 79,306"/>
+                <Baseline points="84,327 110,328 137,328 163,328 190,328 216,328 243,328 269,329 296,329 322,330 349,331"/>
+                <TextEquiv>
+                    <Unicode>Publishers, 1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="82,374 913,368 840,341 82,340"/>
+                <Baseline points="87,364 128,363 169,363 210,363 251,363 292,363 333,363 374,363 415,363 456,364 497,364 538,364 579,365 620,365 661,366 702,366 743,367 784,367 825,368 866,368 908,369"/>
+                <TextEquiv>
+                    <Unicode>121 p.: 1 ill.; 21 cm. — (Twaynes World Authors</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="84,409 494,409 494,375 474,367 328,383 215,373 199,388 84,374"/>
+                <Baseline points="89,397 114,397 139,398 164,398 189,398 214,398 239,398 264,398 289,398 314,398 339,398 364,398 389,399 414,399 439,400 464,401 489,402"/>
+                <TextEquiv>
+                    <Unicode>Series, China; TWAS 515)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="72,474 204,471 240,482 279,468 331,482 403,466 403,444 390,437 276,442 248,428 196,440 122,437 106,452 73,430"/>
+                <Baseline points="78,465 104,464 131,464 158,464 184,464 211,464 238,465 264,465 291,465 318,466 344,466 371,466 398,466"/>
+                <TextEquiv>
+                    <Unicode>ISBN O-8057-6356-2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15597.a.10/515&#13;
+FENG CHIH&#13;
+CHEUNG (Dominic)&#13;
+Feng Chih / by Dominic Cheung. — Boston: Twayne&#13;
+Publishers, 1979&#13;
+121 p.: 1 ill.; 21 cm. — (Twaynes World Authors&#13;
+Series, China; TWAS 515)&#13;
+ISBN O-8057-6356-2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.491+01:00</Created>
+        <LastChange>2023-05-04T12:53:53.331+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758300" pageNr="144"/>
+    </Metadata>
+    <Page imageFilename="28780460470.jpg" imageWidth="976" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197633332" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="79,75 81,603 950,603 948,75"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="569,111 819,114 837,104 837,85 809,77 737,76 722,83 693,76 666,83 569,72"/>
+                <Baseline points="574,101 599,101 625,101 651,102 676,102 702,102 728,102 753,103 779,104 805,105 831,106"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1460</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="89,167 222,157 235,166 282,171 294,162 325,160 325,121 303,116 232,126 89,120"/>
+                <Baseline points="94,152 119,151 144,151 169,151 194,151 219,152 244,152 269,152 294,152 320,152"/>
+                <TextEquiv>
+                    <Unicode>FEI LIAO FEN XI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="81,241 163,242 183,233 192,242 383,246 384,205 320,213 239,211 205,197 180,207 82,203"/>
+                <Baseline points="87,229 113,229 139,229 166,229 192,230 219,231 245,231 272,232 298,233 325,233 351,233 378,232"/>
+                <TextEquiv>
+                    <Unicode>SHENG (Chengyuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="117,376 954,380 843,348 118,341"/>
+                <Baseline points="122,364 163,366 204,367 245,368 287,369 328,369 369,370 411,370 452,370 493,371 535,371 576,371 617,371 658,371 700,371 741,372 782,372 824,373 865,374 906,375 948,376"/>
+                <TextEquiv>
+                    <Unicode>Feiliao fenxi. [On the analysis of fertilisers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="121,411 141,405 152,411 189,413 208,407 285,411 300,406 300,397 270,378 137,385 122,376"/>
+                <Baseline points="127,401 155,400 183,400 211,401 239,401 267,403 317,402"/>
+                <TextEquiv>
+                    <Unicode>A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="118,451 242,444 378,449 378,423 342,413 306,420 295,412 256,412 238,424 221,409 202,409 173,427 151,413 118,412"/>
+                <Baseline points="124,439 151,438 179,438 207,437 234,437 262,437 290,437 317,437 345,438 373,439"/>
+                <TextEquiv>
+                    <Unicode>pp. 86. tables.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="820,449 856,451 868,446 890,459 902,457 910,451 930,450 931,429 921,429 912,421 880,422 869,421 862,413 823,413"/>
+                <Baseline points="826,441 859,443 892,446 925,447"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="113,514 808,521 808,492 786,484 114,477"/>
+                <Baseline points="118,504 152,505 186,505 220,506 255,507 289,507 323,508 357,508 392,509 426,509 460,509 494,509 529,510 563,510 597,510 631,510 666,511 700,511 734,512 768,512 803,513"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="109,586 360,579 378,594 457,580 457,567 426,549 360,549 341,565 304,549 272,558 109,549"/>
+                <Baseline points="114,574 140,574 166,574 192,574 218,574 244,574 270,575 296,575 322,576 348,576 374,577 400,577 426,578 452,578"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, 1460.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1460&#13;
+FEI LIAO FEN XI&#13;
+SHENG (Chengyuan)&#13;
+Feiliao fenxi. [On the analysis of fertilisers.&#13;
+A reprint.]&#13;
+pp. 86. tables.&#13;
+18 cm.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1970.&#13;
+Renren wenku, 1460.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

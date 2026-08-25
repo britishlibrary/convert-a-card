@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.561+01:00</Created>
+        <LastChange>2023-05-04T12:47:35.217+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758241" pageNr="93"/>
+    </Metadata>
+    <Page imageFilename="28448802603.jpg" imageWidth="948" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197255217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="24,50 19,785 937,781 926,48"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="680,138 915,139 915,107 884,97 862,101 845,117 816,99 792,118 764,98 680,106"/>
+                <Baseline points="685,125 710,126 735,128 760,128 785,128 810,128 835,128 860,129 885,129 910,129"/>
+                <TextEquiv>
+                    <Unicode>15676.f.28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="51,116 223,114 245,102 245,81 50,78"/>
+                <Baseline points="56,104 82,103 108,102 134,102 160,102 186,102 212,102 239,101"/>
+                <TextEquiv>
+                    <Unicode>correction</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="58,196 118,202 311,194 330,186 330,159 58,164"/>
+                <Baseline points="64,186 90,187 116,187 142,187 168,186 194,185 220,185 246,184 272,183 298,183 325,184"/>
+                <TextEquiv>
+                    <Unicode>FEN MO CHUN QIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="45,251 92,250 102,241 118,250 196,242 210,249 250,243 286,250 298,243 298,211 279,204 264,212 201,216 120,205 106,219 45,213"/>
+                <Baseline points="50,238 77,238 104,237 131,237 158,237 185,237 212,237 239,237 266,236 293,235"/>
+                <TextEquiv>
+                    <Unicode>GAI (Jiaotian)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="74,316 183,313 189,306 211,315 312,314 355,301 354,279 337,269 298,270 288,281 73,278"/>
+                <Baseline points="79,303 106,303 133,303 160,302 187,302 214,301 241,301 268,300 295,300 322,298 349,297"/>
+                <TextEquiv>
+                    <Unicode>Fen mo chun qiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194331414_411" custom="readingOrder {index:5;}">
+                <Coords points="424,542 525,538 527,588 426,592"/>
+                <Baseline points="426,587 527,583"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="78,652 815,631 814,605 77,615"/>
+                <Baseline points="83,638 119,638 155,638 191,638 228,638 264,637 300,637 337,637 373,636 409,636 446,635 482,635 518,634 554,634 591,633 627,632 663,632 700,631 736,630 772,629 809,628"/>
+                <TextEquiv>
+                    <Unicode>4, 379 p.: ill., 8 lvs. of plates ; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913586870_865" custom="readingOrder {index:7;}">
+                <Coords points="92,714 924,711 897,681 524,683 488,660 425,683 92,684"/>
+                <Baseline points="98,707 918,710"/>
+                <TextEquiv>
+                    <Unicode>Memoirs of the Pekid era star (1888-1971). -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913589612_870" custom="readingOrder {index:8;}">
+                <Coords points="90,745 943,756 943,717 89,717"/>
+                <Baseline points="95,745 938,743"/>
+                <TextEquiv>
+                    <Unicode>Expanded and revised ed. of a work first publish-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913591608_875" custom="readingOrder {index:9;}">
+                <Coords points="70,769 178,763 212,770 277,767 277,747 226,743 175,751 158,744 109,752 103,745 92,750 70,741"/>
+                <Baseline points="76,769 272,766"/>
+                <TextEquiv>
+                    <Unicode>ed in 1958</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15676.f.28&#13;
+correction&#13;
+FEN MO CHUN QIU&#13;
+GAI (Jiaotian)&#13;
+Fen mo chun qiu&#13;
+1980&#13;
+4, 379 p.: ill., 8 lvs. of plates ; 19 cm&#13;
+Memoirs of the Pekid era star (1888-1971). -&#13;
+Expanded and revised ed. of a work first publish-&#13;
+ed in 1958</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

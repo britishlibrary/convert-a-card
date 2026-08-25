@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.802+01:00</Created>
+        <LastChange>2023-05-03T17:32:05.904+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758146" pageNr="9"/>
+    </Metadata>
+    <Page imageFilename="28445611824.jpg" imageWidth="956" imageHeight="726">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127925905" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="55,35 48,725 902,729 899,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="557,82 623,82 633,73 648,82 847,89 864,77 864,50 557,45"/>
+                <Baseline points="562,70 589,71 616,72 643,73 670,73 697,74 724,74 751,75 778,75 805,75 832,75 859,75"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1863</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="71,202 740,201 723,173 71,165"/>
+                <Baseline points="76,193 110,193 145,193 180,193 214,193 249,194 284,194 318,194 353,194 388,195 422,195 457,195 492,196 526,196 561,197 596,197 630,198 665,198 700,199 735,200"/>
+                <TextEquiv>
+                    <Unicode>FENG JIAN GUI ZU DA DI ZHU DE DIAN XING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="100,258 779,252 779,225 680,213 100,213"/>
+                <Baseline points="105,242 138,243 171,243 205,244 238,244 272,244 305,244 339,244 372,244 406,244 439,244 472,243 506,244 539,244 573,244 606,245 640,246 673,247 707,248 740,250 774,252"/>
+                <TextEquiv>
+                    <Unicode>Feng jian gui zu da di zhu de dian xing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683127920012_103" custom="readingOrder {index:3;}">
+                <Coords points="436,522 549,525 548,575 435,572"/>
+                <Baseline points="435,567 548,570"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="104,610 137,614 150,610 162,611 168,618 209,618 209,595 195,595 189,589 167,589 159,581 122,579 107,572"/>
+                <Baseline points="110,603 141,605 172,606 204,610"/>
+                <TextEquiv>
+                    <Unicode>628 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="103,665 859,683 895,681 896,651 103,635"/>
+                <Baseline points="108,658 147,657 186,657 225,657 264,658 303,658 342,659 382,659 421,660 460,661 499,662 538,663 577,664 616,665 656,666 695,667 734,668 773,669 812,671 851,672 891,673"/>
+                <TextEquiv>
+                    <Unicode>a1.ZHONG GUO SHE HUI KE XUE YUAN. Li shi yan jiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="145,705 165,706 170,703 172,706 218,705 226,702 227,683 216,683 209,677 162,676 154,678 146,676"/>
+                <Baseline points="151,694 186,695 222,697"/>
+                <TextEquiv>
+                    <Unicode>suo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="532,706 768,712 768,694 751,685 709,686 696,677 676,684 654,677 608,684 600,677 573,683 533,676"/>
+                <Baseline points="537,699 562,701 587,701 612,701 637,701 662,701 687,701 712,701 737,702 763,703"/>
+                <TextEquiv>
+                    <Unicode>s1.Confucious.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1863&#13;
+FENG JIAN GUI ZU DA DI ZHU DE DIAN XING&#13;
+Feng jian gui zu da di zhu de dian xing&#13;
+1981&#13;
+628 p.&#13;
+a1.ZHONG GUO SHE HUI KE XUE YUAN. Li shi yan jiu&#13;
+suo.&#13;
+s1.Confucious.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

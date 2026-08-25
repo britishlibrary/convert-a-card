@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.494+01:00</Created>
+        <LastChange>2023-08-16T15:24:19.793+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758592" pageNr="397" tsid="128197547" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=MZOHPYYRMPXTBYMWUCENCASG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CFTTZHNKQAPLIAUYGCZWMRNF" imageId="35195898"/>
+    </Metadata>
+    <Page imageFilename="42758592.jpg" imageWidth="992" imageHeight="809">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692192259793" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="102,108 875,108 875,719 102,719"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="583,166 612,174 697,170 704,163 711,170 742,170 755,157 768,170 810,164 810,131 769,132 756,145 737,134 716,135 705,145 678,129 583,125"/>
+                <Baseline points="588,158 613,160 638,160 663,160 688,158 713,160 737,160 762,160 787,160 812,158"/>
+                <TextEquiv>
+                    <Unicode>15227.a.47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="142,212 861,218 861,177 792,169 142,185"/>
+                <Baseline points="147,203 170,208 195,206 220,206 244,206 269,205 294,205 319,205 344,205 368,205 393,205 418,206 443,205 468,203 493,203 517,203 542,205 567,205 592,206 617,206 641,206 666,206 691,206 716,206 741,206 765,205 790,206 815,206 840,206 863,205"/>
+                <TextEquiv>
+                    <Unicode>FA XING XIN DE REN MIN-BI DE YI YI YU ZUO YONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="97,312 808,306 822,272 98,278"/>
+                <Baseline points="102,302 104,304 129,304 153,302 178,302 203,302 228,301 253,301 277,301 302,301 327,301 352,299 377,299 402,301 426,299 451,299 476,299 501,299 526,297 550,297 575,297 600,297 625,297 650,297 674,297 699,296 724,297 749,294 774,294 799,294 823,294"/>
+                <TextEquiv>
+                    <Unicode>CHINA [People's Republic]. Miscellaneous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="135,346 466,346 467,315 304,310 286,321 273,309 224,318 206,306 136,314"/>
+                <Baseline points="140,339 147,339 172,340 196,339 221,339 246,339 271,339 296,339 320,337 345,337 370,335 395,335 420,334 445,334 469,332"/>
+                <TextEquiv>
+                    <Unicode>Official Documents</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="710,377 721,378 733,391 744,386 756,385 759,331 751,333 741,331 728,342 724,338 712,337"/>
+                <Baseline points="716,370 734,372 759,368"/>
+                <TextEquiv>
+                    <Unicode>156</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="135,392 140,392 151,380 156,378 164,384 177,383 180,386 188,378 196,377 196,360 187,361 182,356 173,356 162,347 158,350 151,345 147,350 144,350 140,346 134,346"/>
+                <Baseline points="140,375 165,377 190,377 198,375"/>
+                <TextEquiv>
+                    <Unicode>9t.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="494,394 504,394 515,383 525,388 532,381 538,382 543,379 553,381 553,345 546,346 541,341 525,338 518,331 513,332 507,338 494,338"/>
+                <Baseline points="499,375 524,375 549,375 555,375"/>
+                <TextEquiv>
+                    <Unicode>C9ate.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="780,413 801,417 807,409 816,410 826,398 840,410 875,410 869,339 847,340 835,352 802,330 789,344 774,342"/>
+                <Baseline points="782,377 807,383 832,390 856,385 875,385"/>
+                <TextEquiv>
+                    <Unicode>188</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="135,421 188,427 201,417 220,425 282,410 300,426 322,405 354,418 380,412 379,369 342,348 314,366 299,354 288,364 269,346 239,364 221,347 182,386 135,382"/>
+                <Baseline points="140,393 165,400 190,397 215,392 239,392 264,395 289,398 314,400 339,398 363,397 382,398"/>
+                <TextEquiv>
+                    <Unicode>3 1. zf cee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="398,414 446,419 460,407 488,418 504,403 532,418 555,398 593,418 749,410 749,390 643,347 502,392 475,364 443,363 398,394"/>
+                <Baseline points="403,403 423,403 448,402 473,400 498,398 498,398 502,398 527,398 552,395 577,393 602,393 627,393 651,398 676,400 701,398 726,397 751,397"/>
+                <TextEquiv>
+                    <Unicode>-K6 8636.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="133,458 747,450 747,417 679,410 133,420"/>
+                <Baseline points="138,445 153,446 178,446 203,446 228,446 253,446 277,446 302,446 327,445 352,445 377,443 402,443 426,443 451,441 476,441 501,440 526,440 550,441 575,440 600,440 625,441 650,441 674,441 699,441 724,438 749,440"/>
+                <TextEquiv>
+                    <Unicode>Faxing xin de Renmin-bi de yiyi yu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="132,490 649,490 729,482 730,452 132,469"/>
+                <Baseline points="137,484 160,484 185,483 210,483 234,484 259,483 284,481 309,481 334,481 359,481 383,479 408,478 433,479 458,479 483,479 507,479 532,479 557,478 582,478 607,478 631,478 656,478 681,478 706,476 731,476"/>
+                <TextEquiv>
+                    <Unicode>zuoyong. [Editorials and official</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="133,525 734,521 735,491 661,482 134,503"/>
+                <Baseline points="138,519 142,519 167,519 191,519 216,519 241,517 266,517 291,517 315,517 340,517 365,517 390,516 415,516 440,516 464,516 489,516 514,514 539,516 564,514 588,514 613,514 638,512 663,512 688,512 713,512 737,512"/>
+                <TextEquiv>
+                    <Unicode>announcements on the introduction</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="137,560 337,570 383,555 591,553 572,522 137,535"/>
+                <Baseline points="142,554 147,555 172,555 196,554 221,554 246,554 271,554 296,554 320,552 345,552 370,552 395,552 420,552 445,552 469,550 494,549 519,550 544,549 569,550 593,550"/>
+                <TextEquiv>
+                    <Unicode>of the People's Currency.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="142,610 162,608 180,599 192,601 202,591 214,602 228,603 235,598 243,602 254,595 271,598 284,593 284,571 276,571 263,560 258,564 217,563 201,578 179,573 171,564 163,568 160,563 143,562"/>
+                <Baseline points="147,593 162,590 186,590 211,590 236,590 261,590 286,588"/>
+                <TextEquiv>
+                    <Unicode>pp. 112.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="138,673 732,682 732,643 684,633 315,633 298,649 138,635"/>
+                <Baseline points="143,668 163,666 188,668 213,668 238,666 263,668 287,668 312,670 337,670 362,670 387,668 411,668 436,666 461,666 486,666 511,666 536,665 560,665 585,663 610,663 635,663 660,665 684,665 709,666 734,666"/>
+                <TextEquiv>
+                    <Unicode>Caizheng jingji chubanshe: Peking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="152,722 436,713 476,741 518,741 551,714 586,715 587,683 498,675 478,691 447,674 310,691 153,674"/>
+                <Baseline points="157,708 165,708 190,708 215,708 239,708 264,708 289,709 314,709 339,708 363,706 388,706 413,706 438,706 463,708 488,703 512,706 537,706 562,706 587,704"/>
+                <TextEquiv>
+                    <Unicode>[Shanghai printed], 1955.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

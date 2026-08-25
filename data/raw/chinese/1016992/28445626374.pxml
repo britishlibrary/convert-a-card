@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.743+01:00</Created>
+        <LastChange>2023-05-04T12:44:31.050+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758195" pageNr="52"/>
+    </Metadata>
+    <Page imageFilename="28445626374.jpg" imageWidth="956" imageHeight="772">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197071050" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="62,61 66,646 903,646 899,61"/>
+            <TextLine id="line_1654530116594_346" custom="readingOrder {index:0;}">
+                <Coords points="523,85 543,98 847,98 860,90 861,54 798,54 775,68 523,59"/>
+                <Baseline points="528,100 855,103"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1272</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="71,234 139,235 148,228 191,234 200,225 212,234 256,234 266,228 266,190 154,201 71,197"/>
+                <Baseline points="76,224 102,223 128,222 155,222 181,223 208,223 234,222 261,220"/>
+                <TextEquiv>
+                    <Unicode>FANG JI XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="93,282 312,277 312,242 93,237"/>
+                <Baseline points="98,270 124,271 150,272 176,272 202,272 228,272 254,272 280,272 307,271"/>
+                <TextEquiv>
+                    <Unicode>Fang ji xue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129262577_789" custom="readingOrder {index:3;}">
+                <Coords points="564,413 659,410 660,460 565,463"/>
+                <Baseline points="565,458 660,455"/>
+                <TextEquiv>
+                    <Unicode>1975</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="106,530 161,530 168,523 175,530 209,530 218,526 219,506 204,506 198,501 167,501 160,493 107,492"/>
+                <Baseline points="111,520 136,521 162,522 187,522 213,523"/>
+                <TextEquiv>
+                    <Unicode>324 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="103,595 613,594 622,549 103,557"/>
+                <Baseline points="108,584 133,584 158,584 184,584 209,584 235,584 260,584 286,584 311,584 337,584 362,584 387,584 413,583 438,583 464,583 489,582 515,582 540,582 566,581 591,581 617,580"/>
+                <TextEquiv>
+                    <Unicode>a1.SHANG HAI ZHONG YI XUE YUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="109,632 312,634 313,612 297,605 264,605 250,596 236,604 224,597 199,597 191,605 178,596 149,602 110,597"/>
+                <Baseline points="114,620 141,621 169,621 196,621 224,621 251,621 279,622 307,625"/>
+                <TextEquiv>
+                    <Unicode>s1.Medicine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1272&#13;
+FANG JI XUE&#13;
+Fang ji xue&#13;
+1975&#13;
+324 p.&#13;
+a1.SHANG HAI ZHONG YI XUE YUAN&#13;
+s1.Medicine.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

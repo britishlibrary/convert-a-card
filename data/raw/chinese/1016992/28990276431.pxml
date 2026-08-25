@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.146+01:00</Created>
+        <LastChange>2023-07-03T16:20:46.808+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758491" pageNr="309" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=QDDCLRIORYPHOZQOWSQTYJNE&amp;fileType=view" imageId="35195797"/>
+    </Metadata>
+    <Page imageFilename="42758491.jpg" imageWidth="960" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394046808" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="45,35 928,34 927,751 54,754"/>
+            <TextLine id="line_1688394010037_979" custom="readingOrder {index:0;}">
+                <Coords points="621,40 922,42 922,92 621,90"/>
+                <Baseline points="621,85 922,87"/>
+                <TextEquiv>
+                    <Unicode>15408.k.357-359</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688394012244_984" custom="readingOrder {index:1;}">
+                <Coords points="667,72 901,76 900,126 666,122"/>
+                <Baseline points="666,117 900,121"/>
+                <TextEquiv>
+                    <Unicode>- card two -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;}">
+                <Coords points="49,225 103,218 185,226 194,218 215,226 239,217 303,234 316,221 363,222 363,180 49,187"/>
+                <Baseline points="54,215 78,215 102,217 126,215 150,214 174,215 198,215 222,215 246,215 270,215 294,215 318,215 342,215 364,215"/>
+                <TextEquiv>
+                    <Unicode>PO YANG WU JIA JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:3;}">
+                <Coords points="86,290 132,287 147,299 189,289 210,299 235,289 277,287 290,298 390,289 390,253 361,251 346,266 307,249 283,264 241,253 229,265 211,256 177,268 152,261 139,274 107,254 86,255"/>
+                <Baseline points="91,286 103,286 127,284 151,286 175,284 199,286 223,286 247,284 271,284 295,286 319,286 343,286 367,286 391,284"/>
+                <TextEquiv>
+                    <Unicode>Po yang wu jia ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:4;}">
+                <Coords points="84,365 95,370 203,371 255,366 254,342 118,341 106,329 83,329"/>
+                <Baseline points="89,361 113,362 137,362 161,362 185,362 209,362 233,362 257,364"/>
+                <TextEquiv>
+                    <Unicode>Contents:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.k.357-359&#13;
+- card two -&#13;
+PO YANG WU JIA JI&#13;
+Po yang wu jia ji&#13;
+Contents:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

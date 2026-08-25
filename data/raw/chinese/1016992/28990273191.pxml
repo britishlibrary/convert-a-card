@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.771+01:00</Created>
+        <LastChange>2023-07-03T14:51:47.512+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758465" pageNr="286" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=UVCBRCFADCXKBRKQYWJXJDLY&amp;fileType=view" imageId="35195771"/>
+    </Metadata>
+    <Page imageFilename="42758465.jpg" imageWidth="976" imageHeight="818">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388707513" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="32,78 900,78 900,658 32,658"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="533,133 559,143 649,138 656,131 680,139 703,130 726,138 778,134 778,92 731,92 698,115 643,109 612,92 533,95"/>
+                <Baseline points="538,128 562,130 587,130 611,130 635,130 660,130 684,131 709,131 733,131 757,131 780,131"/>
+                <TextEquiv>
+                    <Unicode>15328.a.313</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="27,183 45,186 56,175 109,202 133,183 153,178 166,186 180,173 230,203 256,178 281,175 281,152 222,119 202,139 109,135 101,127 73,142 26,135"/>
+                <Baseline points="32,167 56,167 81,167 105,167 130,167 154,167 178,167 203,167 227,169 252,170 276,170 282,169"/>
+                <TextEquiv>
+                    <Unicode>FENG CHEN NU XIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="31,276 188,271 211,283 241,273 325,288 324,249 294,234 255,245 214,230 192,243 152,230 131,245 102,237 30,244"/>
+                <Baseline points="35,266 60,266 84,266 108,266 133,266 157,266 182,266 206,266 230,268 255,268 279,269 304,271 326,273"/>
+                <TextEquiv>
+                    <Unicode>DONGFANG (Ying)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="69,410 208,426 346,409 560,414 559,383 535,367 381,377 358,400 313,378 235,378 220,393 68,376"/>
+                <Baseline points="74,406 99,404 123,406 147,406 172,408 196,408 221,408 245,408 269,408 294,406 318,408 343,408 367,408 391,408 416,408 440,408 465,406 489,408 513,409 538,413 562,414"/>
+                <TextEquiv>
+                    <Unicode>Fengchen nuxia. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="71,456 87,458 103,442 115,450 202,450 202,426 186,426 159,416 151,415 143,421 113,419 106,424 89,411 71,421"/>
+                <Baseline points="76,442 100,440 125,442 149,442 174,442 198,442 204,442"/>
+                <TextEquiv>
+                    <Unicode>3 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="677,453 695,458 706,449 721,449 727,443 738,450 789,450 788,426 780,426 769,415 744,415 736,421 719,404 676,404"/>
+                <Baseline points="681,439 705,439 730,439 754,440 778,440 791,443"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="73,514 162,531 363,511 574,530 653,522 653,490 619,472 552,492 72,481"/>
+                <Baseline points="78,507 102,510 126,510 151,510 175,510 200,512 224,512 248,512 273,512 297,512 321,510 346,509 370,510 395,512 419,512 443,510 468,512 492,512 517,512 541,512 565,512 590,512 614,512 639,510 655,512"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.313&#13;
+FENG CHEN NU XIA&#13;
+DONGFANG (Ying)&#13;
+Fengchen nuxia. [A novel.]&#13;
+3 vols.&#13;
+18 cm.&#13;
+Wulin chubanshe: Hong Kong, 1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

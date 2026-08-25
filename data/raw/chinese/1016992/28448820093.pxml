@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.338+01:00</Created>
+        <LastChange>2023-05-04T12:52:21.667+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758288" pageNr="135"/>
+    </Metadata>
+    <Page imageFilename="28448820093.jpg" imageWidth="992" imageHeight="809">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197541668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="68,106 73,620 971,620 966,106"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="565,150 882,146 891,141 891,97 750,102 738,116 565,109"/>
+                <Baseline points="570,139 596,139 622,139 649,139 675,138 701,138 728,138 754,137 780,137 807,136 833,136 859,135 886,135"/>
+                <TextEquiv>
+                    <Unicode>15328.b.431/297.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="74,210 112,217 134,202 221,202 221,165 186,165 179,172 128,172 96,152 74,154"/>
+                <Baseline points="79,196 106,195 133,195 161,196 188,195 216,195"/>
+                <TextEquiv>
+                    <Unicode>FA GUI JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512983916_356" custom="readingOrder {index:2;}">
+                <Coords points="73,249 325,244 326,294 74,299"/>
+                <Baseline points="74,294 326,289"/>
+                <TextEquiv>
+                    <Unicode>DANFEI, pseud.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="117,440 930,419 929,379 116,403"/>
+                <Baseline points="122,427 162,427 202,426 242,426 282,425 322,424 362,423 402,422 442,421 482,420 523,418 563,417 603,415 643,415 683,413 723,412 763,411 803,411 843,410 883,410 933,406"/>
+                <TextEquiv>
+                    <Unicode>Fagui ji. [Comments on current social events.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="124,475 168,474 175,466 191,474 204,471 211,474 220,468 228,474 246,470 245,437 174,435 165,444 123,443"/>
+                <Baseline points="128,462 156,464 184,463 212,461 241,461"/>
+                <TextEquiv>
+                    <Unicode>pp. 299.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="849,451 885,451 890,446 897,451 949,449 949,421 925,422 918,418 914,422 894,421 891,424 871,414 866,418 849,419"/>
+                <Baseline points="854,444 884,443 914,443 944,444"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="122,541 689,530 699,489 121,509"/>
+                <Baseline points="127,530 155,529 183,529 212,529 240,528 269,528 297,527 325,527 354,526 382,525 411,525 439,524 467,524 496,523 524,522 553,522 581,521 609,521 638,520 666,520 695,519"/>
+                <TextEquiv>
+                    <Unicode>Huangguan zazhishe: Taipei, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="115,612 517,603 529,596 529,565 440,575 382,565 283,585 114,573"/>
+                <Baseline points="120,600 145,600 170,600 195,600 221,600 246,599 271,599 296,598 322,597 347,597 372,596 397,595 423,595 448,595 473,594 498,594 524,594"/>
+                <TextEquiv>
+                    <Unicode>Huangguan congshu, 297.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.b.431/297.&#13;
+FA GUI JI&#13;
+DANFEI, pseud.&#13;
+Fagui ji. [Comments on current social events.]&#13;
+pp. 299.&#13;
+18 cm.&#13;
+Huangguan zazhishe: Taipei, 1971.&#13;
+Huangguan congshu, 297.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

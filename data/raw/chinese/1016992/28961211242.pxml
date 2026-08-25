@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.996+01:00</Created>
+        <LastChange>2023-05-10T14:56:11.049+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758337" pageNr="177"/>
+    </Metadata>
+    <Page imageFilename="28961211242.jpg" imageWidth="952" imageHeight="826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683723371049" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="95,102 95,711 944,711 942,102"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="626,139 762,129 865,139 873,130 905,129 914,125 914,65 898,66 872,91 626,85"/>
+                <Baseline points="631,131 656,129 681,127 706,126 732,125 757,125 782,125 807,125 833,126 858,126 883,127 909,127"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.612</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="107,194 149,203 167,194 221,203 314,194 329,209 357,198 358,147 108,142"/>
+                <Baseline points="112,186 138,188 165,188 192,188 218,188 245,189 272,189 298,190 325,193 352,196"/>
+                <TextEquiv>
+                    <Unicode>FENG (Mu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="102,283 176,307 220,285 510,283 592,308 629,273 681,290 707,271 821,275 820,244 667,249 648,230 559,254 202,260 101,228"/>
+                <Baseline points="106,274 141,276 176,278 212,279 247,280 283,280 318,280 354,280 389,279 425,279 460,278 495,277 531,276 566,275 602,274 637,273 673,273 708,272 744,271 779,271 815,271"/>
+                <TextEquiv>
+                    <Unicode>Feng mu wen xue ping lun xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:3;}">
+                <Coords points="316,455 364,455 364,440 316,440"/>
+                <Baseline points="316,455 364,455"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="115,477 215,477 252,476 289,476 326,476 363,475 399,475 436,474 473,474 510,474 547,473 583,473 620,473 657,473 657,458 620,458 583,458 547,458 510,459 473,459 436,459 399,460 363,460 326,461 289,461 252,461 215,462 115,462"/>
+                <Baseline points="115,477 215,477 252,476 289,476 326,476 363,475 399,475 436,474 473,474 510,474 547,473 583,473 620,473 657,473"/>
+                <TextEquiv>
+                    <Unicode>3, 2, 276 p., I1] leaf of plates : ill. ; 21 cm. --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="122,565 907,571 940,569 940,534 122,541"/>
+                <Baseline points="127,560 167,559 207,558 248,558 288,557 329,556 369,556 409,555 450,555 490,555 531,555 571,555 611,555 652,555 692,555 733,555 773,555 813,555 854,555 894,556 935,556"/>
+                <TextEquiv>
+                    <Unicode>1. Chinese literature--28th century--History and criticism--Addresses, essays,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="90,595 215,594 226,582 408,594 426,586 426,562 119,567 89,557"/>
+                <Baseline points="95,582 120,582 145,582 170,582 195,582 220,581 245,581 270,581 295,581 320,581 345,580 370,580 395,579 421,579"/>
+                <TextEquiv>
+                    <Unicode>lectures. I. Title. II. Series.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="114,639 164,643 173,634 214,643 225,637 258,643 273,636 307,638 307,610 176,613 171,618 155,612 113,613"/>
+                <Baseline points="119,635 145,634 171,633 197,633 223,633 249,633 275,633 302,632"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 83234662/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="114,661 256,656 287,667 436,666 443,635 320,629 302,639 114,640"/>
+                <Baseline points="119,658 145,657 172,655 198,655 225,655 251,654 278,655 305,655 331,655 358,655 384,655 411,655 438,654"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: PL2303.F457 1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="117,683 154,679 163,685 281,682 281,661 116,661"/>
+                <Baseline points="122,677 147,676 173,676 199,675 224,675 250,676 276,677"/>
+                <TextEquiv>
+                    <Unicode>ID: UKBO87-P230</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="450,683 543,682 555,671 607,682 785,681 798,673 798,647 734,648 721,659 450,653"/>
+                <Baseline points="455,676 481,676 507,676 533,676 559,676 585,676 611,677 637,677 663,677 689,677 715,677 741,676 767,676 793,675"/>
+                <TextEquiv>
+                    <Unicode>CC: 9110 DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="121,707 341,706 341,686 318,676 272,686 121,683"/>
+                <Baseline points="126,700 152,701 178,700 204,700 231,700 257,699 283,699 309,699 336,700"/>
+                <TextEquiv>
+                    <Unicode>CLL CHI.1987.a.612</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.612&#13;
+FENG (Mu)&#13;
+Feng mu wen xue ping lun xuan&#13;
+1983&#13;
+3, 2, 276 p., I1] leaf of plates : ill. ; 21 cm. --&#13;
+1. Chinese literature--28th century--History and criticism--Addresses, essays,&#13;
+lectures. I. Title. II. Series.&#13;
+LCCN: 83234662/ACN&#13;
+L.C. CALL NO: PL2303.F457 1983&#13;
+ID: UKBO87-P230&#13;
+CC: 9110 DCF: a [CJK]&#13;
+CLL CHI.1987.a.612</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

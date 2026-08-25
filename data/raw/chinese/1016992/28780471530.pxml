@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.708+01:00</Created>
+        <LastChange>2023-05-04T13:01:48.872+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758314" pageNr="157" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780471530.jpg" imageWidth="984" imageHeight="756">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683198108872" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="70,49 70,562 882,562 882,49"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="526,82 838,82 848,77 849,50 791,40 766,55 695,54 686,44 527,44"/>
+                <Baseline points="531,69 557,70 583,71 609,71 635,72 661,72 687,73 713,73 739,73 765,73 791,73 817,72 843,72"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1642</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="76,194 123,195 143,187 150,194 225,193 239,201 268,194 288,202 317,186 318,163 295,156 247,163 77,156"/>
+                <Baseline points="81,186 106,185 132,184 158,184 183,185 209,185 235,186 260,187 286,187 312,188"/>
+                <TextEquiv>
+                    <Unicode>FAN (Chengda)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="104,250 493,242 493,205 104,203"/>
+                <Baseline points="109,235 134,235 159,235 184,235 210,235 235,235 260,235 285,235 311,235 336,235 361,235 386,236 412,236 437,236 462,237 488,237"/>
+                <TextEquiv>
+                    <Unicode>Fan Chengda shi xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683198073198_1673" custom="readingOrder {index:3;}">
+                <Coords points="559,394 672,391 673,441 560,444"/>
+                <Baseline points="560,439 673,436"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="122,493 519,490 533,478 559,490 579,475 579,453 533,436 503,457 451,464 313,453 212,475 122,461"/>
+                <Baseline points="114,482 153,484 179,484 205,484 232,484 258,484 284,484 311,484 337,483 363,483 389,483 416,482 442,482 468,481 495,481 521,480 547,480 574,480"/>
+                <TextEquiv>
+                    <Unicode>180 p. ISBN 962 04 0351 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="104,562 241,561 248,559 248,527 167,525 155,531 149,525 135,525 128,532 104,532"/>
+                <Baseline points="109,551 135,552 162,552 189,552 216,551 243,552"/>
+                <TextEquiv>
+                    <Unicode>s1.LPO8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1642&#13;
+FAN (Chengda)&#13;
+Fan Chengda shi xuan&#13;
+1986&#13;
+180 p. ISBN 962 04 0351 7&#13;
+s1.LPO8</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

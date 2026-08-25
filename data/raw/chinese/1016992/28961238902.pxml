@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.927+01:00</Created>
+        <LastChange>2023-06-27T10:08:07.538+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758404" pageNr="234"/>
+    </Metadata>
+    <Page imageFilename="28961238902.jpg" imageWidth="952" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853287538" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="36,37 36,543 916,543 916,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="565,88 615,83 649,89 658,82 691,83 698,90 710,84 784,90 796,84 796,68 772,52 743,52 728,66 709,52 658,55 640,46 566,52"/>
+                <Baseline points="570,76 597,76 625,76 652,76 680,76 707,76 735,77 762,78 790,79"/>
+                <TextEquiv>
+                    <Unicode>15683.f.19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="44,155 261,153 287,162 345,148 345,116 235,117 227,125 44,118"/>
+                <Baseline points="49,146 75,146 101,146 128,147 154,147 181,148 207,148 234,148 260,148 287,148 313,147 340,146"/>
+                <TextEquiv>
+                    <Unicode>FAN YI DE JI QIAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="31,218 115,213 131,227 153,218 227,217 260,227 281,213 282,182 257,173 238,190 200,181 160,189 126,173 112,187 43,181 31,188"/>
+                <Baseline points="36,210 62,208 89,207 116,207 142,207 169,208 196,208 222,209 249,210 276,211"/>
+                <TextEquiv>
+                    <Unicode>QIAN (Gechuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="66,283 153,290 161,282 232,282 247,291 280,280 296,291 368,285 368,263 327,261 318,252 285,263 269,252 240,253 228,265 208,253 66,252"/>
+                <Baseline points="71,274 97,275 124,276 150,277 177,278 203,279 230,279 256,279 283,280 309,279 336,279 363,279"/>
+                <TextEquiv>
+                    <Unicode>Fan yi de ji qiao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_103" custom="readingOrder {index:4;}">
+                <Coords points="387,354 399,354 440,352 481,351 521,351 562,350 603,349 644,349 685,350 726,350 767,351 808,353 849,354 890,357 891,342 850,339 809,338 768,336 726,335 685,335 644,334 603,334 562,335 521,336 481,336 439,337 398,339 386,339"/>
+                <Baseline points="387,354 399,354 440,352 481,351 521,351 562,350 603,349 644,349 685,350 726,350 767,351 808,353 849,354 890,357"/>
+                <TextEquiv>
+                    <Unicode>The technique of translation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:5;}">
+                <Coords points="730,460 750,461 787,462 825,463 825,448 787,447 750,446 731,445"/>
+                <Baseline points="730,460 750,461 787,462 825,463"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="65,531 257,539 309,530 379,537 394,527 385,508 297,493 241,510 192,492 143,492 122,512 101,492 66,488"/>
+                <Baseline points="71,521 97,523 124,524 150,526 177,526 203,526 230,526 256,526 283,526 309,526 336,526 362,526 389,526"/>
+                <TextEquiv>
+                    <Unicode>10, 570 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15683.f.19&#13;
+FAN YI DE JI QIAO&#13;
+QIAN (Gechuan)&#13;
+Fan yi de ji qiao&#13;
+The technique of translation&#13;
+1981&#13;
+10, 570 p.; 21 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.260+01:00</Created>
+        <LastChange>2023-07-03T16:31:48.273+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758499" pageNr="316" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=NDGGUCNSUUKKRSPSDRGLLVEP&amp;fileType=view" imageId="35195805"/>
+    </Metadata>
+    <Page imageFilename="42758499.jpg" imageWidth="956" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394708273" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="55,32 930,32 930,742 55,742"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="583,97 703,86 731,91 751,81 772,92 771,65 682,63 655,42 642,50 581,51"/>
+                <Baseline points="587,82 611,84 635,84 659,86 683,86 707,87 731,87 755,89 795,90"/>
+                <TextEquiv>
+                    <Unicode>15662.e.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="59,160 127,165 145,148 412,152 413,105 341,115 174,109 159,123 144,110 123,127 101,113 60,114"/>
+                <Baseline points="65,151 79,149 103,149 127,149 151,149 175,148 199,148 223,146 246,146 270,146 294,144 318,144 342,144 366,144 390,143 414,144"/>
+                <TextEquiv>
+                    <Unicode>FANG WU JIAN ZHU XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="51,226 99,223 124,235 292,234 291,183 276,182 249,203 155,202 117,184 50,194"/>
+                <Baseline points="55,219 79,221 103,223 127,223 151,223 175,223 199,223 223,223 246,224 270,226 294,227"/>
+                <TextEquiv>
+                    <Unicode>WU (Zhongwei)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="133,290 202,306 226,293 281,294 296,307 504,296 504,266 394,266 381,254 366,266 133,262"/>
+                <Baseline points="138,289 162,289 186,291 210,291 234,291 258,294 281,294 305,294 329,294 353,293 377,293 401,294 425,293 449,294 473,293 497,293 506,294"/>
+                <TextEquiv>
+                    <Unicode>Fang wu jian zhu xue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="104,450 136,473 338,459 444,479 587,456 619,474 649,461 648,408 474,409 442,429 364,395 327,419 259,401 237,420 198,393 103,420"/>
+                <Baseline points="109,436 132,442 156,449 180,447 203,449 227,450 251,454 275,455 299,457 323,458 347,458 371,458 395,460 418,462 442,462 466,460 490,458 514,458 538,457 562,455 586,454 610,454 634,455 651,457"/>
+                <TextEquiv>
+                    <Unicode>[1976]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="119,514 576,510 550,483 507,490 493,476 427,490 330,476 312,491 227,470 170,490 119,475"/>
+                <Baseline points="124,505 148,506 172,506 195,506 219,508 243,508 267,506 291,506 315,508 339,506 363,506 387,506 411,506 434,506 458,506 482,506 506,506 530,506 554,506 578,506"/>
+                <TextEquiv>
+                    <Unicode>7, 329 p.; illus.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="116,578 516,578 554,595 703,581 703,542 399,555 116,540"/>
+                <Baseline points="121,573 144,571 168,571 192,571 216,573 240,575 264,575 288,576 312,575 336,575 360,573 383,573 407,573 431,575 455,575 479,575 503,575 527,575 551,576 575,575 599,575 622,575 646,575 670,575 694,575 705,575"/>
+                <TextEquiv>
+                    <Unicode>Reprint; preface written in 1950</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15662.e.4&#13;
+FANG WU JIAN ZHU XUE&#13;
+WU (Zhongwei)&#13;
+Fang wu jian zhu xue&#13;
+[1976]&#13;
+7, 329 p.; illus.; 21 cm.&#13;
+Reprint; preface written in 1950</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

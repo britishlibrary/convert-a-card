@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.744+01:00</Created>
+        <LastChange>2023-06-27T10:01:30.457+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758391" pageNr="223"/>
+    </Metadata>
+    <Page imageFilename="28961236052.jpg" imageWidth="976" imageHeight="816">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687852890457" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="97,75 97,595 874,595 874,75"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="530,112 614,111 625,102 652,112 675,103 691,112 829,103 827,80 804,72 695,75 674,85 530,80"/>
+                <Baseline points="533,103 560,103 587,102 614,102 641,101 668,101 695,101 722,102 749,102 776,102 803,103 830,104"/>
+                <TextEquiv>
+                    <Unicode>15408.d.279 (1)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="100,160 286,159 302,148 302,127 147,122 142,127 100,128"/>
+                <Baseline points="97,157 122,156 147,156 173,156 198,156 223,156 249,156 274,156 299,156 325,157"/>
+                <TextEquiv>
+                    <Unicode>FANG HU CUN GAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="102,237 128,236 154,235 181,236 207,236 234,237 260,237 285,238 285,225 260,224 234,224 207,223 181,223 154,222 128,223 102,224"/>
+                <Baseline points="102,237 128,236 154,235 181,236 207,236 234,237 260,237 285,238"/>
+                <TextEquiv>
+                    <Unicode>WANG (Xin) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687852758978_138" custom="readingOrder {index:3;}">
+                <Coords points="130,335 865,330 865,380 130,385"/>
+                <Baseline points="130,380 865,375"/>
+                <TextEquiv>
+                    <Unicode>Fanghu cungao. [Collected prose and poems</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687852805761_156" custom="readingOrder {index:4;}">
+                <Coords points="134,369 780,366 780,416 134,419"/>
+                <Baseline points="134,414 780,411"/>
+                <TextEquiv>
+                    <Unicode>by Wang Xin of the Song. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687852871651_196" custom="readingOrder {index:5;}">
+                <Coords points="133,407 232,409 231,459 132,457"/>
+                <Baseline points="132,452 231,454"/>
+                <TextEquiv>
+                    <Unicode>4 ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="650,381 682,381 693,373 703,381 744,380 745,355 731,355 726,350 719,349 705,355 693,355 688,350 681,349 659,350 651,354"/>
+                <Baseline points="773,439 798,437 823,437 848,439 874,440"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687852836300_175" custom="readingOrder {index:7;}">
+                <Coords points="129,476 741,474 741,524 129,526"/>
+                <Baseline points="129,521 741,519"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1973].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687852860310_188" custom="readingOrder {index:8;}">
+                <Coords points="141,540 695,539 695,589 141,590"/>
+                <Baseline points="141,585 695,584"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben si ji, 279.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.d.279 (1)&#13;
+FANG HU CUN GAO&#13;
+WANG (Xin) &#13;
+Fanghu cungao. [Collected prose and poems&#13;
+by Wang Xin of the Song. A reprint.]&#13;
+4 ch.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, [1973].&#13;
+Siku quanshu zhenben si ji, 279.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

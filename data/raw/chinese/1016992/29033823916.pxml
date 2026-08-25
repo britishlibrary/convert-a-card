@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.964+01:00</Created>
+        <LastChange>2023-07-03T17:34:50.659+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758553" pageNr="362" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TQVCDSPFAEREXNJWGMNWPYJY&amp;fileType=view" imageId="35195859"/>
+    </Metadata>
+    <Page imageFilename="42758553.jpg" imageWidth="960" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398490659" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="137,65 873,65 873,602 137,602"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="596,122 871,118 872,89 857,79 838,79 821,95 791,86 780,97 704,96 694,85 684,95 655,85 597,93"/>
+                <Baseline points="601,116 609,116 633,118 657,116 681,116 705,118 729,118 753,116 777,118 801,116 825,116 849,115 873,115"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.68</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="132,340 159,348 206,346 216,337 224,345 314,343 314,304 290,306 282,314 260,298 243,309 154,306 132,322"/>
+                <Baseline points="137,339 148,340 172,339 196,340 220,339 244,339 268,339 292,339 316,337"/>
+                <TextEquiv>
+                    <Unicode>WANG (Zihui)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="228,378 358,377 372,385 383,376 419,374 442,380 442,350 228,345"/>
+                <Baseline points="233,369 257,369 281,369 305,368 329,369 353,368 377,366 401,369 425,369 443,371"/>
+                <TextEquiv>
+                    <Unicode>Fang tang cai dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="193,433 764,434 764,404 734,393 193,411"/>
+                <Baseline points="198,430 214,430 238,430 262,428 286,428 310,428 334,430 358,428 382,430 406,432 430,430 454,430 478,430 502,428 526,430 550,428 574,428 598,428 622,427 646,427 670,428 694,427 718,428 742,428 766,428"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="172,467 191,468 213,464 222,468 241,466 241,449 235,449 223,439 201,435 172,436"/>
+                <Baseline points="177,460 201,460 225,460 243,462"/>
+                <TextEquiv>
+                    <Unicode>197p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="170,498 446,497 447,460 365,467 356,459 291,464 261,456 238,470 171,466"/>
+                <Baseline points="176,492 185,492 209,491 233,491 257,491 281,491 305,491 329,489 353,489 377,488 401,488 425,488 449,486"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962-7281-37-3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="161,599 217,602 228,592 264,594 271,601 319,595 381,594 342,561 308,570 298,560 283,560 270,573 257,573 239,558 220,576 200,564 161,563"/>
+                <Baseline points="166,590 171,588 195,592 219,590 243,590 267,590 291,590 315,590 339,589"/>
+                <TextEquiv>
+                    <Unicode>s1. Cookery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.68&#13;
+WANG (Zihui)&#13;
+Fang tang cai dian&#13;
+1992&#13;
+197p.&#13;
+ISBN 962-7281-37-3&#13;
+s1. Cookery</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

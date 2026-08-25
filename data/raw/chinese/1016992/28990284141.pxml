@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.610+01:00</Created>
+        <LastChange>2023-07-03T17:02:07.795+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758526" pageNr="338" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=IJVXKUPEENZVZXRQIVVGCZGY&amp;fileType=view" imageId="35195832"/>
+    </Metadata>
+    <Page imageFilename="42758526.jpg" imageWidth="952" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396527795" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="41,25 894,25 894,749 41,749"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="601,90 639,84 693,91 706,82 718,90 751,90 759,82 767,90 791,90 805,87 805,60 775,52 754,70 725,55 715,65 700,64 685,51 661,51 651,41 631,53 600,50"/>
+                <Baseline points="606,75 631,77 655,79 678,79 702,80 726,80 750,80 774,80 797,80 807,80"/>
+                <TextEquiv>
+                    <Unicode>15633.g.3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="36,169 791,159 791,117 641,140 617,119 476,119 454,140 431,119 408,142 385,121 312,142 227,120 86,142 36,119"/>
+                <Baseline points="41,158 55,157 79,157 103,157 126,157 150,157 174,157 198,157 222,157 245,157 269,158 293,157 317,157 341,157 364,157 388,157 412,157 436,155 460,155 483,155 507,155 531,157 555,157 578,157 602,155 626,155 650,157 674,157 697,157 721,157 745,157 769,155 793,153"/>
+                <TextEquiv>
+                    <Unicode>FA ZHAN XIN LIN, JIAO YU XIN LI LUN WEN XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="39,222 824,226 803,184 39,182"/>
+                <Baseline points="44,215 68,215 92,214 115,214 139,212 163,212 187,215 210,215 234,217 258,215 282,215 306,215 329,215 353,215 377,215 401,215 425,215 448,215 472,215 496,217 520,215 544,215 567,215 591,217 615,217 639,218 663,217 686,217 710,218 734,217 758,217 782,217 805,217 826,217"/>
+                <TextEquiv>
+                    <Unicode>ZHONG GUO XIN LI XUE HUI NIAN HUI (2nd: 1978:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="39,258 146,258 159,267 177,266 183,264 182,220 169,221 162,228 97,226 92,231 62,223 38,225"/>
+                <Baseline points="44,249 68,250 92,250 115,250 139,252 163,253 184,253"/>
+                <TextEquiv>
+                    <Unicode>Baoding)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="126,290 892,298 882,264 126,259"/>
+                <Baseline points="131,282 155,283 179,285 203,285 226,285 250,285 274,285 298,285 322,285 345,285 369,285 393,287 417,287 440,287 464,287 488,287 512,285 536,287 559,287 583,287 607,287 631,287 655,288 678,287 702,287 726,287 750,287 774,287 797,287 821,288 845,288 869,287 893,288 894,288"/>
+                <TextEquiv>
+                    <Unicode>Fa zhan xin lin, jiao yu xin li lun wen xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="88,600 359,618 410,600 514,616 539,598 635,601 635,563 567,549 532,576 489,549 359,559 338,538 195,566 162,546 88,557"/>
+                <Baseline points="93,591 117,593 141,593 164,591 188,593 212,594 236,594 260,594 283,594 307,596 331,599 355,599 379,598 402,596 426,596 450,596 474,594 498,594 521,594 545,594 569,594 593,594 617,594 637,591"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="107,667 216,667 289,682 335,682 351,668 469,673 469,647 443,640 310,647 242,636 211,656 183,635 107,641"/>
+                <Baseline points="112,661 136,664 160,664 184,666 207,666 231,666 255,666 279,666 302,667 326,667 350,667 374,667 398,666 421,666 445,667 469,667 471,666"/>
+                <TextEquiv>
+                    <Unicode>2, 1, 402 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15633.g.3&#13;
+FA ZHAN XIN LIN, JIAO YU XIN LI LUN WEN XUAN&#13;
+ZHONG GUO XIN LI XUE HUI NIAN HUI (2nd: 1978:&#13;
+Baoding)&#13;
+Fa zhan xin lin, jiao yu xin li lun wen xuan&#13;
+1980&#13;
+2, 1, 402 p.; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

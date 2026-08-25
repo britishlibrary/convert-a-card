@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.096+01:00</Created>
+        <LastChange>2023-06-27T10:13:43.806+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758417" pageNr="245"/>
+    </Metadata>
+    <Page imageFilename="28961240012.jpg" imageWidth="956" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853623806" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="81,48 81,741 935,741 935,48"/>
+            <TextLine id="line_1654764158887_235" custom="readingOrder {index:0;}">
+                <Coords points="636,73 708,82 788,71 813,71 823,82 881,77 881,28 865,22 636,29"/>
+                <Baseline points="641,76 876,77"/>
+                <TextEquiv>
+                    <Unicode>15674.f.77</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="77,128 131,121 153,130 167,122 293,122 307,114 307,81 290,76 266,85 248,77 199,85 176,76 156,92 134,92 114,76 77,69"/>
+                <Baseline points="82,117 109,116 137,116 164,116 192,116 219,116 247,115 274,115 302,114"/>
+                <TextEquiv>
+                    <Unicode>FAN SHI HU JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="95,217 155,219 170,211 185,226 208,216 263,226 292,215 315,225 337,223 337,179 320,172 273,189 232,189 217,177 192,181 183,173 164,185 95,182"/>
+                <Baseline points="100,208 125,208 151,208 177,208 203,209 228,209 254,210 280,210 306,210 332,209"/>
+                <TextEquiv>
+                    <Unicode>FAN (Chengda)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="167,282 221,277 247,283 270,270 282,281 304,282 319,269 336,285 359,280 360,248 212,254 168,239"/>
+                <Baseline points="172,275 198,274 224,274 250,275 276,276 302,276 328,275 355,274"/>
+                <TextEquiv>
+                    <Unicode>fan shi hu ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_259" custom="readingOrder {index:4;}">
+                <Coords points="815,361 830,360 863,360 886,360 886,345 863,345 829,345 813,346"/>
+                <Baseline points="815,361 830,360 863,360 886,360"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:5;}">
+                <Coords points="76,698 178,707 209,694 221,704 285,698 299,706 315,695 343,706 402,706 402,672 387,669 329,677 307,665 226,669 209,681 169,662 76,669"/>
+                <Baseline points="81,693 107,693 133,693 160,694 186,694 212,694 239,693 265,693 291,693 318,693 344,693 370,693 397,694"/>
+                <TextEquiv>
+                    <Unicode>1222.744 44.3546 I222</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_264" custom="readingOrder {index:6;}">
+                <Coords points="81,728 107,729 133,729 138,729 138,714 133,714 107,714 82,713"/>
+                <Baseline points="81,728 107,729 133,729 138,729"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:7;}">
+                <Coords points="812,668 836,667 842,674 860,673 867,667 875,672 892,667 910,671 927,669 930,635 911,633 896,638 846,635 837,640 814,636"/>
+                <Baseline points="818,655 844,659 870,661 896,663 922,665"/>
+                <TextEquiv>
+                    <Unicode>7-13[81]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853580538_411" custom="readingOrder {index:8;}">
+                <Coords points="758,656 926,658 925,708 757,706"/>
+                <Baseline points="757,701 925,703"/>
+                <TextEquiv>
+                    <Unicode>228-18 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:9;}">
+                <Coords points="666,730 692,729 718,729 745,729 771,730 798,731 824,731 851,731 877,729 921,733 922,718 877,714 850,716 824,716 798,716 772,715 745,714 718,714 692,714 665,715"/>
+                <Baseline points="666,730 692,729 718,729 745,729 771,730 798,731 824,731 851,731 877,729 921,733"/>
+                <TextEquiv>
+                    <Unicode>10186.246 82—8500</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15674.f.77&#13;
+FAN SHI HU JI&#13;
+FAN (Chengda)&#13;
+fan shi hu ji&#13;
+1981&#13;
+1222.744 44.3546 I222&#13;
+1982&#13;
+7-13[81]&#13;
+228-18 [31]&#13;
+10186.246 82—8500</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

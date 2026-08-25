@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.225+01:00</Created>
+        <LastChange>2023-05-03T17:43:12.007+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758166" pageNr="27"/>
+    </Metadata>
+    <Page imageFilename="28445615604.jpg" imageWidth="956" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128592008" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="81,71 87,653 898,652 892,70"/>
+            <TextLine id="line_1654529818028_181" custom="readingOrder {index:0;}">
+                <Coords points="535,92 561,107 839,106 877,91 876,60 814,61 792,73 534,69"/>
+                <Baseline points="540,106 872,100"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1276</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="86,242 120,242 131,232 148,243 244,242 244,205 228,197 149,198 140,207 86,205"/>
+                <Baseline points="91,230 120,230 150,231 179,230 209,230 239,228"/>
+                <TextEquiv>
+                    <Unicode>XU (Qile)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="123,298 496,296 521,280 521,254 394,245 122,253"/>
+                <Baseline points="127,276 152,277 178,277 204,278 230,278 256,278 282,278 308,278 334,278 360,277 386,277 412,277 438,276 464,276 490,275 516,275"/>
+                <TextEquiv>
+                    <Unicode>Fen lei gu jin shi hua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128584915_459" custom="readingOrder {index:3;}">
+                <Coords points="803,427 885,429 884,479 802,477"/>
+                <Baseline points="802,472 884,474"/>
+                <TextEquiv>
+                    <Unicode>1973</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="120,532 161,538 182,527 193,538 207,539 215,534 230,539 230,516 222,516 217,511 182,508 173,501 120,500"/>
+                <Baseline points="125,524 150,525 175,524 200,524 225,527"/>
+                <TextEquiv>
+                    <Unicode>816 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="118,569 375,570 375,539 279,533 193,540 182,533 145,540 118,533"/>
+                <Baseline points="123,560 150,560 177,560 205,560 232,559 260,559 287,559 315,558 342,559 370,560"/>
+                <TextEquiv>
+                    <Unicode>Includes index.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="121,632 204,634 231,639 236,634 252,634 252,601 176,605 171,610 158,605 121,605"/>
+                <Baseline points="126,624 156,626 186,627 216,626 247,624"/>
+                <TextEquiv>
+                    <Unicode>s1.LPO3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1276&#13;
+XU (Qile)&#13;
+Fen lei gu jin shi hua&#13;
+1973&#13;
+816 p.&#13;
+Includes index.&#13;
+s1.LPO3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

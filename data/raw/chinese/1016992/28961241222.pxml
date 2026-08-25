@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.242+01:00</Created>
+        <LastChange>2023-06-29T13:29:07.038+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758427" pageNr="254" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961241222.jpg" imageWidth="956" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038147039" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="75,28 75,617 879,617 879,28"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="605,75 641,74 648,67 831,74 838,72 839,45 805,29 778,34 767,45 734,37 695,43 671,29 606,37"/>
+                <Baseline points="610,63 637,62 665,62 693,62 721,62 749,63 777,63 805,64 833,64"/>
+                <TextEquiv>
+                    <Unicode>15661.e.25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="92,139 135,125 434,133 625,118 624,90 608,87 91,85"/>
+                <Baseline points="97,117 123,117 149,117 175,117 201,117 227,117 253,116 280,116 306,116 332,116 358,116 384,116 410,116 436,116 463,116 489,115 515,115 541,115 567,115 593,115 620,115"/>
+                <TextEquiv>
+                    <Unicode>FAN JIANG ZHAI JIN SHI CONG GAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="70,218 229,218 238,215 239,171 219,171 188,190 169,181 155,182 147,173 116,178 107,172 96,180 71,175"/>
+                <Baseline points="75,208 101,206 127,206 154,207 180,208 206,210 233,211"/>
+                <TextEquiv>
+                    <Unicode>MA (Heng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="109,288 624,290 669,274 669,248 413,251 383,237 368,252 109,253"/>
+                <Baseline points="114,277 141,277 169,277 196,278 224,278 251,277 279,277 306,277 334,277 361,277 389,276 416,276 444,276 471,275 499,275 526,275 554,274 581,274 609,274 636,274 664,274"/>
+                <TextEquiv>
+                    <Unicode>Fan jiang zhai jin shi cong gao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688029876838_165" custom="readingOrder {index:4;}">
+                <Coords points="601,398 728,400 727,450 600,448"/>
+                <Baseline points="600,443 727,445"/>
+                <TextEquiv>
+                    <Unicode>[1981]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="127,534 159,546 214,532 422,539 450,525 450,514 415,501 360,493 283,505 191,493 168,510 151,493 127,493"/>
+                <Baseline points="132,525 158,526 184,527 210,527 236,527 262,527 288,526 314,526 340,525 366,525 392,525 418,525 445,526"/>
+                <TextEquiv>
+                    <Unicode>6, 387 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="127,610 200,618 301,603 463,610 474,604 474,570 340,568 322,580 127,574"/>
+                <Baseline points="132,598 157,599 183,599 209,599 235,600 261,600 287,600 313,600 339,600 365,600 391,600 417,599 443,599 469,599"/>
+                <TextEquiv>
+                    <Unicode>Essays on epigraphy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15661.e.25&#13;
+FAN JIANG ZHAI JIN SHI CONG GAO&#13;
+MA (Heng)&#13;
+Fan jiang zhai jin shi cong gao&#13;
+[1981]&#13;
+6, 387 p.; 21 cm.&#13;
+Essays on epigraphy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

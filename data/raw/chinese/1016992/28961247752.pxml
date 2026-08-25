@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.588+01:00</Created>
+        <LastChange>2023-06-29T13:30:57.617+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758453" pageNr="275"/>
+    </Metadata>
+    <Page imageFilename="28961247752.jpg" imageWidth="964" imageHeight="826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038257617" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="63,15 63,602 895,602 895,15"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="637,87 662,98 677,90 697,98 829,99 847,92 867,107 897,94 898,54 847,53 816,74 798,61 768,63 759,53 730,56 711,45 637,51"/>
+                <Baseline points="642,83 667,85 692,87 717,88 742,89 767,89 792,89 817,88 842,87 867,86 892,84"/>
+                <TextEquiv>
+                    <Unicode>15635.a.13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="58,177 118,186 175,172 274,179 298,195 338,174 338,134 301,134 281,147 219,144 208,133 98,136 58,125"/>
+                <Baseline points="63,167 90,168 117,170 144,170 171,170 198,170 225,170 252,169 279,168 306,167 333,167"/>
+                <TextEquiv>
+                    <Unicode>DU (Hecong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="66,250 420,260 557,226 759,228 794,251 878,234 892,206 472,189 238,219 174,189 126,222 65,192"/>
+                <Baseline points="71,238 111,238 152,237 193,237 234,236 275,235 315,234 356,233 397,232 438,231 479,230 519,229 560,229 601,228 642,227 683,226 723,226 764,225 805,225 846,225 887,225"/>
+                <TextEquiv>
+                    <Unicode>Fa ding ji liang dan wei xuan guan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="71,298 122,290 128,298 145,299 154,290 196,286 221,306 230,298 256,299 258,272 236,260 226,269 193,263 178,276 168,276 152,261 114,260 96,241 74,249"/>
+                <Baseline points="77,284 106,285 135,286 164,289 193,291 222,292 251,292"/>
+                <TextEquiv>
+                    <Unicode>shou ce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037955578_1273" custom="readingOrder {index:4;}">
+                <Coords points="842,385 889,383 891,433 844,435"/>
+                <Baseline points="844,430 891,428"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="96,459 207,465 229,453 287,458 300,451 313,460 323,451 397,448 396,430 341,421 327,430 238,429 227,438 186,425 155,435 96,430"/>
+                <Baseline points="101,446 127,447 153,447 180,447 206,447 232,446 259,446 285,446 311,445 338,445 364,445 391,446"/>
+                <TextEquiv>
+                    <Unicode>VIII, 129 p. : ill. ; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688038023552_1291" custom="readingOrder {index:6;}">
+                <Coords points="95,453 671,452 671,502 95,503"/>
+                <Baseline points="95,498 671,497"/>
+                <TextEquiv>
+                    <Unicode>1. Metric system. 2. Metric system--Conversion tables.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688038038630_1302" custom="readingOrder {index:7;}">
+                <Coords points="156,475 278,476 278,526 156,525"/>
+                <Baseline points="156,520 278,521"/>
+                <TextEquiv>
+                    <Unicode>III. Title.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="97,575 124,576 130,571 150,581 161,575 207,571 217,578 245,578 265,571 265,551 232,548 225,541 196,549 174,548 168,542 132,550 96,548"/>
+                <Baseline points="102,570 128,570 154,570 181,570 207,570 233,569 260,568"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB086-B666</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;}">
+                <Coords points="99,602 144,602 154,596 160,602 277,603 277,571 233,580 216,579 207,571 171,577 99,575"/>
+                <Baseline points="104,590 132,591 160,592 188,592 216,591 244,591 272,592"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15635.a.13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="432,579 529,578 541,566 573,563 591,578 714,577 728,586 770,574 770,549 432,548"/>
+                <Baseline points="437,570 462,569 487,568 512,568 537,568 563,568 588,569 613,569 638,570 664,570 689,570 714,570 739,569 765,568"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114 DCF:a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15635.a.13&#13;
+DU (Hecong)&#13;
+Fa ding ji liang dan wei xuan guan&#13;
+shou ce&#13;
+1984&#13;
+VIII, 129 p. : ill. ; 19 cm.&#13;
+1. Metric system. 2. Metric system--Conversion tables.&#13;
+III. Title.&#13;
+ID: UKB086-B666&#13;
+CALL: 15635.a.13&#13;
+CC: 9114 DCF:a [CJK]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

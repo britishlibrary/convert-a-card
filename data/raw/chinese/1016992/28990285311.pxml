@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.712+01:00</Created>
+        <LastChange>2023-07-03T17:17:47.007+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758533" pageNr="345" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ZUEFSTIFGAEASMQOFXVHKBTP&amp;fileType=view" imageId="35195839"/>
+    </Metadata>
+    <Page imageFilename="42758533.jpg" imageWidth="948" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397467008" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="44,0 861,0 861,735 44,735"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="473,41 545,50 560,35 602,51 700,39 741,50 777,37 777,14 762,6 716,8 697,28 666,18 655,29 613,8 570,10 560,20 532,9 473,9"/>
+                <Baseline points="478,37 502,37 526,37 549,39 573,39 597,39 621,39 644,39 668,39 692,39 715,41 739,39 763,36 779,37"/>
+                <TextEquiv>
+                    <Unicode>CHI.1992.a.330</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="108,194 152,184 162,194 259,196 464,190 464,156 108,156"/>
+                <Baseline points="113,183 137,186 161,189 184,189 208,189 232,189 256,189 279,188 303,188 327,186 350,186 374,184 398,186 421,186 445,186 466,188"/>
+                <TextEquiv>
+                    <Unicode>FA XUE CHANG JIAN CI HUI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="138,221 495,221 495,207 458,197 328,210 182,207 155,192 138,201"/>
+                <Baseline points="143,216 167,218 191,219 214,218 238,218 262,219 286,219 309,218 333,218 357,218 380,216 404,216 428,214 451,213 475,214 497,216"/>
+                <TextEquiv>
+                    <Unicode>Fa xue chang Jian ci hui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="288,296 587,289 587,259 567,252 525,260 511,274 411,266 395,279 322,282 288,270"/>
+                <Baseline points="293,282 317,287 341,287 365,287 388,286 412,286 436,286 459,281 483,286 507,286 530,286 554,284 578,286 589,286"/>
+                <TextEquiv>
+                    <Unicode>1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="137,327 157,330 180,330 186,327 190,330 200,330 204,327 208,330 217,330 217,305 211,305 205,299 194,299 183,293 137,293"/>
+                <Baseline points="142,319 165,320 189,319 213,319 219,319"/>
+                <TextEquiv>
+                    <Unicode>347p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="160,545 317,546 377,538 377,514 339,513 329,503 281,501 258,512 241,501 215,525 194,504 160,518"/>
+                <Baseline points="165,534 189,537 213,537 237,535 260,535 284,535 308,535 331,535 355,534 379,535"/>
+                <TextEquiv>
+                    <Unicode>s1. Buddhism</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1992.a.330&#13;
+FA XUE CHANG JIAN CI HUI&#13;
+Fa xue chang Jian ci hui&#13;
+1991&#13;
+347p.&#13;
+s1. Buddhism</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

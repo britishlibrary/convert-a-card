@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.982+01:00</Created>
+        <LastChange>2023-05-10T14:55:48.648+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758336" pageNr="176" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961211222.jpg" imageWidth="948" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683723348648" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="27,41 16,559 876,580 880,41"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="539,70 746,71 770,64 770,54 752,50 735,34 715,36 699,51 660,42 647,52 629,35 540,33"/>
+                <Baseline points="575,61 600,62 626,63 652,63 678,64 703,64 729,65 755,66 781,67 807,68"/>
+                <TextEquiv>
+                    <Unicode>15660.m.62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="41,146 94,154 106,145 141,154 161,146 168,154 212,154 313,148 313,126 302,118 238,118 226,126 212,118 42,118"/>
+                <Baseline points="48,147 73,148 98,149 123,149 148,150 173,150 199,151 224,151 249,151 274,152 299,153 325,153"/>
+                <TextEquiv>
+                    <Unicode>FENG NI HUI BIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="45,216 241,229 353,223 362,221 363,184 247,186 180,181 171,172 159,180 45,177"/>
+                <Baseline points="53,215 78,216 103,217 128,218 153,219 178,220 203,220 228,220 253,220 278,221 303,221 328,221 353,222 378,223"/>
+                <TextEquiv>
+                    <Unicode>Feng ni hui bian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:3;}">
+                <Coords points="264,316 270,316 275,321 286,320 291,316 299,317 324,317 325,296 317,293 305,296 300,293 294,293 281,296 277,294 270,298 265,298"/>
+                <Baseline points="284,328 310,328 337,330"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:4;}">
+                <Coords points="39,334 85,343 163,333 197,343 221,335 375,343 376,323 276,317 257,301 214,322 194,308 153,319 119,308 100,317 40,307"/>
+                <Baseline points="46,342 72,343 99,345 125,346 152,347 179,348 205,349 232,350 258,351 285,351 312,352 338,353 365,354 392,355"/>
+                <TextEquiv>
+                    <Unicode>4, 18 [i.e. 36], 186 p.;  21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:5;}">
+                <Coords points="48,395 83,397 118,398 153,399 189,400 224,402 259,402 295,404 330,405 365,406 401,408 436,409 471,411 506,412 542,414 577,415 612,417 648,419 649,405 613,403 578,401 543,400 507,398 472,397 437,395 402,394 366,392 330,391 296,390 259,388 224,388 190,386 153,385 118,384 84,383 49,381"/>
+                <Baseline points="48,395 83,397 118,398 153,399 189,400 224,402 259,402 295,404 330,405 365,406 401,408 436,409 471,411 506,412 542,414 577,415 612,417 648,419"/>
+                <TextEquiv>
+                    <Unicode>1. Seals (Numismatics)--China. 2. Sealing compounds. I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:6;}">
+                <Coords points="39,439 76,444 94,436 138,445 153,441 231,444 232,412 154,413 145,407 136,416 40,413"/>
+                <Baseline points="46,456 73,457 101,459 128,460 156,461 183,461 211,462 239,462"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 85129566/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:7;}">
+                <Coords points="43,481 79,482 105,483 130,484 156,485 181,485 207,486 232,486 258,487 284,489 309,489 335,490 360,491 386,492 411,493 437,494 462,495 488,496 514,497 515,483 489,482 463,481 438,480 412,479 387,478 361,477 336,476 309,475 285,475 259,473 232,472 207,472 181,471 156,471 131,470 106,469 79,468 43,467"/>
+                <Baseline points="43,481 79,482 105,483 130,484 156,485 181,485 207,486 232,486 258,487 284,489 309,489 335,490 360,491 386,492 411,493 437,494 462,495 488,496 514,497"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: CD6173.F47 1984 (Orien China)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:8;}">
+                <Coords points="42,481 66,484 77,480 100,487 108,483 141,485 147,480 154,488 195,487 196,466 178,462 147,467 138,461 43,461"/>
+                <Baseline points="49,504 74,504 99,505 125,505 150,506 175,507 201,508"/>
+                <TextEquiv>
+                    <Unicode>ID: UKBO86-B516</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:9;}">
+                <Coords points="362,496 382,496 392,500 404,497 410,502 423,503 462,501 462,476 420,475 415,472 406,476 378,470 362,473"/>
+                <Baseline points="387,516 418,518 450,518 482,519"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:10;}">
+                <Coords points="512,498 526,503 631,503 638,510 697,508 698,483 645,475 622,483 574,482 563,475 513,473"/>
+                <Baseline points="545,521 571,523 598,524 625,525 651,526 678,527 705,528 732,529"/>
+                <TextEquiv>
+                    <Unicode>DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:11;}">
+                <Coords points="45,509 200,512 213,518 214,494 198,486 110,483 81,488 69,481 45,482"/>
+                <Baseline points="52,526 80,528 108,529 136,530 164,531 192,532 220,534"/>
+                <TextEquiv>
+                    <Unicode>CAll: 15660.m.62.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15660. m. 62.
+FENG NI HUI BIAN
+Feng ni hui bian
+—
+B 11
+
+2 1.  . EEE 31 5 MM 25
+*
+1984.
+4, 19 li.e. 361, 186 p.  21 es.
+1. Seals (Numissatics)--China. 2. Sealing compounds. I. 20.
+LCCNI 85129566/ACN
+.C. CALL NOI CD6173.F47 1984 (Orien China)
+IDI UKBO86-B516
+cci 9114
+DCFI à ICIXI
+ALLI 15660.n.68.
+25</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

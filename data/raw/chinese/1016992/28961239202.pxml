@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.981+01:00</Created>
+        <LastChange>2023-06-22T15:14:09.132+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758408" pageNr="237"/>
+    </Metadata>
+    <Page imageFilename="28961239202.jpg" imageWidth="984" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687439649132" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="31,93 31,559 878,559 878,93"/>
+            <TextLine id="line_1654764124104_200" custom="readingOrder {index:0;}">
+                <Coords points="572,129 605,138 618,129 690,126 748,125 774,138 795,129 838,128 852,138 882,130 882,92 762,92 747,105 682,107 669,93 573,91"/>
+                <Baseline points="578,128 877,131"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1311-2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="66,172 105,172 118,178 126,171 240,170 248,167 248,128 223,128 210,141 130,142 121,132 112,132 102,142 66,141"/>
+                <Baseline points="71,163 99,164 128,164 157,164 185,163 214,163 243,164"/>
+                <TextEquiv>
+                    <Unicode>FAN XING JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="25,275 87,274 96,265 107,275 125,268 133,275 305,271 305,232 291,229 262,238 239,229 226,238 157,240 104,229 91,242 67,229 26,231"/>
+                <Baseline points="31,263 57,263 84,262 111,261 138,261 165,261 192,261 219,262 246,262 273,263 300,265"/>
+                <TextEquiv>
+                    <Unicode>LIN (Zhonglong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="63,378 871,378 883,328 296,332 264,356 63,333"/>
+                <Baseline points="68,365 108,365 149,365 189,365 230,365 270,365 311,365 351,365 392,364 432,364 473,364 513,364 554,364 594,364 635,363 675,364 716,364 756,364 797,364 837,365 878,365"/>
+                <TextEquiv>
+                    <Unicode>Fanxing ji. [A collection of prose writings.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="59,419 104,418 112,411 134,411 140,405 222,410 222,387 214,387 199,373 169,378 161,372 142,391 118,381 59,382"/>
+                <Baseline points="64,401 89,401 115,400 140,400 166,400 191,400 217,400"/>
+                <TextEquiv>
+                    <Unicode>pps. 134.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="372,410 388,406 395,411 402,407 406,411 424,411 430,405 439,409 456,409 457,380 443,380 433,373 422,381 413,374 399,370 373,374"/>
+                <Baseline points="377,396 414,396 451,397"/>
+                <TextEquiv>
+                    <Unicode>18cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="60,483 800,471 744,433 693,454 659,437 60,444"/>
+                <Baseline points="65,472 101,472 138,472 174,471 211,471 247,471 284,471 320,471 357,470 393,470 430,470 466,470 503,470 539,470 576,469 612,469 649,469 685,469 722,469 758,469 795,469"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshugua n: Taipei, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="67,554 683,555 689,507 302,526 67,511"/>
+                <Baseline points="72,540 102,541 133,541 163,541 194,541 225,541 255,541 286,541 316,541 347,541 378,540 408,540 439,540 469,540 500,539 531,540 561,540 592,540 622,540 653,541 684,542"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no. 1311-2 [in 1 vol.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400. e. 1311-2.
+FAN XING JI
+
+
+LIN (Zhonglong)
++ 2.
+48
+E
+Fanxing ji. [A collection of prose writings.
+180m.
+pps. 134.
+Taiwan shangwu yinshugua n: Taipei, 1970.
+Renren wenku, no. 1311-2 (in 1 vol.]
+F</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

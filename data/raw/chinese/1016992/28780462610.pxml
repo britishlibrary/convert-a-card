@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.574+01:00</Created>
+        <LastChange>2023-05-04T12:54:09.192+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758305" pageNr="149"/>
+    </Metadata>
+    <Page imageFilename="28780462610.jpg" imageWidth="984" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197649192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="98,80 100,735 878,735 876,80"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="551,122 848,122 864,111 863,75 808,76 795,89 727,84 714,93 550,85"/>
+                <Baseline points="556,113 581,113 606,113 631,113 657,113 682,113 707,113 732,113 758,113 783,112 808,112 833,112 859,111"/>
+                <TextEquiv>
+                    <Unicode>15408.c.306-309</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="103,170 308,160 308,135 290,132 232,127 200,134 167,125 160,132 103,133"/>
+                <Baseline points="108,159 135,158 163,157 191,157 219,156 247,156 275,157 303,159"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHOU JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520125610_204" custom="readingOrder {index:2;}">
+                <Coords points="99,217 312,217 312,267 99,267"/>
+                <Baseline points="99,262 312,262"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Ning)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="140,460 701,466 713,425 140,429"/>
+                <Baseline points="145,453 173,453 201,454 229,454 257,454 285,454 313,454 342,454 370,454 398,454 426,454 454,453 482,453 510,453 539,453 567,453 595,453 623,454 651,454 679,454 708,455"/>
+                <TextEquiv>
+                    <Unicode>Fangzhou ji. [Prose and poems by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="134,499 784,495 784,461 588,461 549,479 461,460 134,461"/>
+                <Baseline points="139,487 171,488 203,488 235,488 267,489 299,489 331,489 363,489 395,489 427,489 459,489 491,489 523,489 555,489 587,489 619,489 651,489 683,489 715,489 747,489 779,489"/>
+                <TextEquiv>
+                    <Unicode>Zhang Ning of the Ming. Facsimile of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="134,528 154,531 166,529 177,538 188,538 190,510 183,510 174,501 168,499 136,500"/>
+                <Baseline points="140,523 216,524"/>
+                <TextEquiv>
+                    <Unicode>MS.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="131,570 159,570 171,565 175,570 255,571 267,565 267,549 245,548 221,532 200,540 166,540 162,544 150,541 143,533 133,533"/>
+                <Baseline points="137,558 162,558 187,558 212,558 237,560 262,563"/>
+                <TextEquiv>
+                    <Unicode>4 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="618,570 657,570 665,562 680,571 724,570 734,565 734,545 715,545 708,540 668,539 664,542 655,533 618,532"/>
+                <Baseline points="623,558 649,559 676,559 702,559 729,561"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="133,646 401,651 475,631 535,650 727,651 746,642 746,604 133,605"/>
+                <Baseline points="138,633 168,633 198,633 228,633 258,634 288,634 318,634 349,634 379,634 409,634 439,634 469,634 499,634 529,634 560,634 590,635 620,635 650,636 680,637 710,637 741,638"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1972].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="131,723 409,724 464,762 503,761 535,730 751,730 738,692 641,692 620,709 599,693 558,707 132,684"/>
+                <Baseline points="136,713 166,713 197,714 227,714 258,715 288,716 319,716 349,717 380,718 410,719 441,719 471,720 502,721 532,721 563,721 593,722 624,722 654,722 685,722 715,721 746,721"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben san ji, 306-09.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.c.306-309&#13;
+FANG ZHOU JI&#13;
+ZHANG (Ning)&#13;
+Fangzhou ji. [Prose and poems by&#13;
+Zhang Ning of the Ming. Facsimile of&#13;
+MS.]&#13;
+4 vols.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, [1972].&#13;
+Siku quanshu zhenben san ji, 306-09.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

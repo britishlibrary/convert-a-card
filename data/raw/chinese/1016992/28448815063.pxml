@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.994+01:00</Created>
+        <LastChange>2023-05-04T12:51:19.617+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758270" pageNr="118"/>
+    </Metadata>
+    <Page imageFilename="28448815063.jpg" imageWidth="988" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197479617" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="88,78 88,684 895,682 895,76"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="581,108 617,114 625,106 666,106 680,114 700,104 766,103 807,115 838,113 838,72 830,69 784,68 764,88 721,69 702,78 680,69 581,71"/>
+                <Baseline points="586,101 613,100 640,100 668,99 695,99 723,99 750,100 778,101 805,102 833,103"/>
+                <TextEquiv>
+                    <Unicode>15266.fa.249</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="118,163 191,155 423,163 464,152 463,115 117,123"/>
+                <Baseline points="123,151 148,150 174,149 200,148 226,148 252,148 278,149 303,149 329,149 355,150 381,149 407,149 433,148 459,146"/>
+                <TextEquiv>
+                    <Unicode>FAN CHANG XIAN ZHI SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="96,236 283,243 307,238 305,238 316,232 327,231 331,224 329,216 332,201 310,207 289,196 266,210 193,197 172,208 95,205"/>
+                <Baseline points="101,227 140,228 165,230 190,231 215,231 240,231 265,230 290,229"/>
+                <TextEquiv>
+                    <Unicode>CAO (Dezan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:3;}">
+                <Coords points="138,372 868,378 868,345 819,340 138,342"/>
+                <Baseline points="143,365 179,365 215,366 251,366 287,366 323,367 359,367 395,367 431,367 467,367 503,367 539,367 575,368 611,368 647,368 683,368 719,368 755,369 791,369 827,369 863,370"/>
+                <TextEquiv>
+                    <Unicode>Fanchang xian zhishu. [Description of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:4;}">
+                <Coords points="141,406 839,415 839,388 804,379 141,376"/>
+                <Baseline points="146,400 180,400 214,400 249,400 283,400 318,401 352,401 386,401 421,401 455,402 490,402 524,403 558,403 593,403 627,403 662,404 696,404 730,404 765,404 799,404 834,404"/>
+                <TextEquiv>
+                    <Unicode>district in Anhui province. Compiled in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:5;}">
+                <Coords points="138,445 797,452 797,407 772,424 268,411 248,428 204,406 138,411"/>
+                <Baseline points="143,436 175,436 207,436 240,437 272,437 305,437 337,437 370,437 402,437 435,438 467,438 499,438 532,438 564,439 597,439 629,439 662,439 694,440 727,440 759,440 792,440"/>
+                <TextEquiv>
+                    <Unicode>1826. A reprint of the 1937 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:6;}">
+                <Coords points="141,482 346,476 376,490 447,474 421,453 386,445 338,457 324,445 302,453 259,445 243,461 215,445 185,456 142,442"/>
+                <Baseline points="146,471 172,471 199,472 226,472 253,471 280,471 307,471 334,471 361,471 388,473 415,474 442,477"/>
+                <TextEquiv>
+                    <Unicode>19 ch. in 4 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:7;}">
+                <Coords points="710,493 723,497 731,489 742,490 754,479 763,482 819,480 819,460 803,460 779,446 768,454 758,455 753,450 711,445"/>
+                <Baseline points="716,474 748,474 781,474 814,477"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:8;}">
+                <Coords points="138,548 703,554 703,515 630,515 607,533 592,517 497,510 465,525 311,508 288,525 138,509"/>
+                <Baseline points="143,540 170,540 198,540 226,540 254,540 281,540 309,540 337,540 365,540 392,540 420,540 448,540 476,540 503,541 531,541 559,541 587,542 614,543 642,544 670,544 698,545"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:9;}">
+                <Coords points="139,626 235,642 285,622 762,629 745,598 684,589 600,588 580,608 526,589 427,603 139,590"/>
+                <Baseline points="144,617 174,618 205,618 235,619 266,619 297,619 327,619 358,619 389,619 419,619 450,619 481,619 511,619 542,619 573,619 603,620 634,620 665,620 695,621 726,622 757,623"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huazhong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:10;}">
+                <Coords points="139,674 214,673 223,682 249,683 271,672 320,682 329,674 349,675 350,653 322,636 281,637 262,654 247,646 205,645 197,637 140,637"/>
+                <Baseline points="144,662 169,663 194,664 219,665 244,666 269,667 294,668 319,669 344,670"/>
+                <TextEquiv>
+                    <Unicode>difang, 249.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fa.249&#13;
+FAN CHANG XIAN ZHI SHU&#13;
+CAO (Dezan)&#13;
+Fanchang xian zhishu. [Description of the&#13;
+district in Anhui province. Compiled in&#13;
+1826. A reprint of the 1937 edition.]&#13;
+19 ch. in 4 vols.&#13;
+27 cm.&#13;
+Chengwen chubanshe: Taipei, 1975.&#13;
+Zhongguo fangzhi congshu. Huazhong&#13;
+difang, 249.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

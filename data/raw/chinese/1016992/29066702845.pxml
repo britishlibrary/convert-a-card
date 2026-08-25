@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.107+01:00</Created>
+        <LastChange>2023-08-16T15:06:51.583+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758564" pageNr="372" tsid="128197491" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=LXANOUOLBSJGXACHBYUKMNWJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZAHMLRMNCYCIDMVEDIBPACTH" imageId="35195870"/>
+    </Metadata>
+    <Page imageFilename="42758564.jpg" imageWidth="988" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191211583" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="92,29 882,29 882,589 92,589"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="518,90 535,97 623,90 635,78 649,90 679,90 691,78 708,90 758,89 757,49 745,46 700,50 688,64 668,50 648,50 629,64 616,52 517,44"/>
+                <Baseline points="523,79 548,80 573,80 597,80 622,80 647,80 671,80 696,80 721,82 745,82 760,80"/>
+                <TextEquiv>
+                    <Unicode>15400.e.053</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="150,169 178,178 205,162 229,180 290,155 340,179 416,162 478,195 507,170 534,169 533,131 487,116 468,131 362,128 349,116 333,130 264,131 229,114 149,126"/>
+                <Baseline points="154,153 179,151 204,151 228,153 253,154 278,154 302,154 327,156 352,156 377,156 401,156 426,156 451,158 475,159 500,158 525,159 536,161"/>
+                <TextEquiv>
+                    <Unicode>FENG LIN GUI LONG KAO SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="87,227 145,226 166,242 268,238 308,218 345,235 414,217 441,234 477,215 508,233 533,226 534,179 513,169 481,196 434,179 403,208 351,173 302,210 275,185 216,204 170,185 145,204 88,189"/>
+                <Baseline points="92,225 115,223 139,222 164,222 189,222 214,222 238,222 263,223 288,220 312,217 337,217 362,215 386,217 411,217 436,215 461,214 485,214 510,214 535,217"/>
+                <TextEquiv>
+                    <Unicode>Du (Erwei)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="485,283 504,296 524,297 546,277 566,290 580,288 594,299 607,297 609,223 589,233 573,233 548,256 537,256 517,234 486,243"/>
+                <Baseline points="490,276 510,276 535,273 559,274 584,274 609,271"/>
+                <TextEquiv>
+                    <Unicode>3 116</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="148,294 190,306 288,298 308,284 330,302 378,306 398,289 453,298 454,238 421,226 385,253 365,234 346,235 315,265 284,242 243,235 224,251 196,233 149,245"/>
+                <Baseline points="153,281 158,281 182,286 207,286 232,288 256,286 281,284 306,283 330,284 355,283 380,283 405,283 429,278 455,282"/>
+                <TextEquiv>
+                    <Unicode>Fa4 W 4, 96</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="126,330 798,339 816,296 611,291 565,315 531,291 126,301"/>
+                <Baseline points="131,324 149,327 174,329 199,327 223,327 248,329 273,327 298,327 322,327 347,327 372,327 396,326 421,326 446,326 470,326 495,326 520,324 545,324 569,322 594,321 619,322 643,322 668,322 693,324 717,322 742,322 767,322 792,321 816,317"/>
+                <TextEquiv>
+                    <Unicode>Fenglin guilong kaoshi. [The history</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="130,369 880,371 865,328 130,343"/>
+                <Baseline points="135,362 141,362 166,362 191,362 215,362 240,362 265,362 289,363 314,363 339,362 363,362 388,360 413,360 437,360 462,360 487,358 512,358 536,360 561,358 586,358 610,358 635,358 660,358 684,358 709,358 734,357 759,357 783,358 808,357 833,357 857,358 882,360"/>
+                <TextEquiv>
+                    <Unicode>of marvellousanimals such as the phoenix,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="130,415 291,399 321,414 476,398 694,410 694,379 660,369 483,369 468,384 299,371 284,386 130,369"/>
+                <Baseline points="135,396 159,398 184,398 209,396 233,398 258,400 283,398 307,398 332,398 357,396 382,398 406,396 431,396 456,396 480,396 505,396 530,396 554,396 579,396 604,396 628,396 653,396 678,396 696,398"/>
+                <TextEquiv>
+                    <Unicode>unicorn, tortoise, and dragon.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="133,451 167,450 195,437 207,442 261,441 279,449 279,412 269,412 258,403 223,408 214,403 188,421 169,411 165,415 159,410 133,411"/>
+                <Baseline points="138,431 163,436 187,436 212,437 237,436 261,436 281,434"/>
+                <TextEquiv>
+                    <Unicode>pp. 200.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="128,512 560,530 616,504 863,514 870,481 129,475"/>
+                <Baseline points="133,508 154,507 179,505 204,505 228,505 253,505 278,505 302,505 327,505 352,503 377,505 401,505 426,505 451,505 475,505 500,505 525,503 549,503 574,503 599,503 624,503 648,503 673,503 698,503 722,503 747,503 772,502 796,503 821,503 846,502 871,503"/>
+                <TextEquiv>
+                    <Unicode>Taiwan Shangwu yinshuguan: Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="128,583 228,586 237,595 260,584 360,594 383,579 416,594 452,586 452,542 397,543 380,560 329,543 262,559 128,545"/>
+                <Baseline points="133,579 158,579 182,577 207,576 232,576 256,576 281,577 306,577 330,577 355,577 380,577 405,577 429,577 454,576"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, 053</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.713+01:00</Created>
+        <LastChange>2023-05-04T12:50:16.716+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758252" pageNr="102"/>
+    </Metadata>
+    <Page imageFilename="28448804513.jpg" imageWidth="1004" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197416717" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="83,61 83,627 915,627 915,61"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="541,91 567,98 592,91 605,98 648,98 657,89 678,89 696,98 705,89 725,89 734,98 753,98 771,86 771,64 760,61 718,61 710,69 672,61 664,69 647,69 632,60 541,55"/>
+                <Baseline points="546,86 573,86 601,86 628,85 656,85 683,85 711,86 738,86 766,87"/>
+                <TextEquiv>
+                    <Unicode>15295.c.13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="97,154 263,147 277,158 312,162 371,140 371,115 97,113"/>
+                <Baseline points="102,143 128,142 154,142 181,141 207,141 234,141 260,140 286,140 313,141 339,141 366,141"/>
+                <TextEquiv>
+                    <Unicode>FEI QING NIAN BAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="78,226 415,241 696,228 696,201 660,197 202,209 78,195"/>
+                <Baseline points="83,219 113,220 143,220 174,221 204,221 235,221 265,222 295,222 326,222 356,222 387,222 417,222 447,222 478,222 508,222 539,222 569,222 599,222 630,222 660,221 691,221"/>
+                <TextEquiv>
+                    <Unicode>TAIPEI. Zhonggong yanjiu zazhi she</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="112,370 795,369 795,340 715,333 457,332 441,348 112,334"/>
+                <Baseline points="117,361 150,361 184,361 217,361 251,361 285,361 318,361 352,361 386,361 419,360 453,360 487,360 520,360 554,360 588,360 621,360 655,360 689,360 722,360 756,361 790,361"/>
+                <TextEquiv>
+                    <Unicode>Zhonggong nianbao. Yearbook on Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="121,400 896,409 878,365 796,383 334,367 314,386 121,368"/>
+                <Baseline points="126,395 164,395 202,396 240,396 279,396 317,396 355,396 393,396 432,396 470,396 508,396 546,395 585,395 623,396 661,396 699,396 738,397 776,397 814,398 852,399 891,400"/>
+                <TextEquiv>
+                    <Unicode>Communism. [Issues for the years 1967, 1968,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="116,443 911,450 918,398 116,411"/>
+                <Baseline points="121,431 160,431 200,431 239,431 279,431 319,431 358,431 398,431 437,431 477,431 517,431 556,431 596,431 635,431 675,431 715,432 754,432 794,433 833,434 873,435 913,436"/>
+                <TextEquiv>
+                    <Unicode>and 1970 are under the title Feiqing nianbao.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682498869603_83" custom="readingOrder {index:6;}">
+                <Coords points="113,427 235,426 235,476 113,477"/>
+                <Baseline points="113,472 235,471"/>
+                <TextEquiv>
+                    <Unicode>1967 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="723,475 739,475 750,482 763,469 768,469 773,474 802,473 815,482 829,482 829,452 823,452 816,445 778,445 772,449 756,442 723,443"/>
+                <Baseline points="728,468 760,468 792,467 824,469"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="112,546 832,542 832,514 786,509 112,509"/>
+                <Baseline points="117,537 152,537 188,537 223,537 259,537 294,537 330,537 365,537 401,537 436,537 472,537 507,537 543,536 578,536 614,536 649,536 685,536 720,536 756,537 791,537 827,537"/>
+                <TextEquiv>
+                    <Unicode>Zhonggong yanjiu zazhi she (Institute for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="116,578 834,573 834,553 798,542 116,548"/>
+                <Baseline points="121,570 156,570 191,570 227,570 262,570 298,570 333,570 368,570 404,570 439,570 475,570 510,570 545,570 581,570 616,570 652,570 687,570 722,571 758,571 793,571 829,572"/>
+                <TextEquiv>
+                    <Unicode>the Study of Chinese Communist Problems):</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="118,618 167,619 176,626 217,618 231,625 244,614 320,617 339,604 339,583 327,581 256,582 242,595 228,595 212,582 190,589 167,581 145,587 118,581"/>
+                <Baseline points="123,606 149,607 175,607 202,608 228,608 254,609 281,609 307,609 368,607"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1967 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15295.c.13&#13;
+FEI QING NIAN BAO&#13;
+TAIPEI. Zhonggong yanjiu zazhi she&#13;
+Zhonggong nianbao. Yearbook on Chinese&#13;
+Communism. [Issues for the years 1967, 1968,&#13;
+and 1970 are under the title Feiqing nianbao.]&#13;
+1967 -&#13;
+27 cm.&#13;
+Zhonggong yanjiu zazhi she (Institute for&#13;
+the Study of Chinese Communist Problems):&#13;
+Taipei, 1967 -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

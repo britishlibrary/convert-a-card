@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.794+01:00</Created>
+        <LastChange>2023-05-04T13:48:41.796+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758321" pageNr="163"/>
+    </Metadata>
+    <Page imageFilename="28780472930.jpg" imageWidth="960" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683200921797" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,27 38,582 918,580 918,27"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="619,78 840,75 859,68 859,57 825,36 812,42 798,37 781,54 738,36 720,49 699,37 619,42"/>
+                <Baseline points="624,67 649,68 675,68 700,68 726,68 751,68 777,68 802,69 828,70 854,71"/>
+                <TextEquiv>
+                    <Unicode>15612.h.19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="84,130 451,130 451,88 84,90"/>
+                <Baseline points="89,120 114,119 140,119 165,120 191,120 216,120 242,120 267,120 293,120 318,120 344,120 369,120 395,119 420,119 446,118"/>
+                <TextEquiv>
+                    <Unicode>FA YUAN ZU ZHI FA LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531583725_1091" custom="readingOrder {index:2;}">
+                <Coords points="34,212 95,218 104,226 129,218 189,226 212,217 267,226 285,217 284,181 259,173 246,182 67,176 34,186"/>
+                <Baseline points="39,221 279,220"/>
+                <TextEquiv>
+                    <Unicode>LÜ (Dingwang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="75,290 143,299 214,283 461,282 461,259 74,253"/>
+                <Baseline points="80,280 105,280 130,280 155,280 180,280 205,280 230,280 255,280 280,280 305,279 330,279 355,278 380,278 405,277 430,276 456,275"/>
+                <TextEquiv>
+                    <Unicode>Fa yuan zu zhi fa lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683200912819_1851" custom="readingOrder {index:4;}">
+                <Coords points="678,400 761,399 762,449 679,450"/>
+                <Baseline points="679,445 762,444"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="86,564 256,571 267,561 360,563 378,554 378,537 305,524 271,525 236,540 193,525 143,525 121,541 105,525 85,525"/>
+                <Baseline points="91,555 116,557 142,559 167,560 193,560 219,560 244,559 270,559 296,558 321,556 347,555 373,554"/>
+                <TextEquiv>
+                    <Unicode>8, 227 p.; 22 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15612.h.19&#13;
+FA YUAN ZU ZHI FA LUN&#13;
+LÜ (Dingwang)&#13;
+Fa yuan zu zhi fa lun&#13;
+1981&#13;
+8, 227 p.; 22 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

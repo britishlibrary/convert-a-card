@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.709+01:00</Created>
+        <LastChange>2023-06-21T18:31:28.508+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961235772.jpg" imageWidth="956" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687365088509" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,52 77,735 933,735 933,52"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="605,85 624,98 649,89 717,86 735,98 769,84 857,89 857,63 831,53 783,53 762,68 750,61 707,67 692,52 605,60"/>
+                <Baseline points="610,83 636,84 663,85 690,85 717,84 744,84 771,84 798,82 825,82 852,81"/>
+                <TextEquiv>
+                    <Unicode>15675.g.434</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="87,162 430,162 439,112 409,131 368,121 304,140 276,117 239,133 195,117 170,141 122,118 87,131"/>
+                <Baseline points="92,155 118,155 144,155 170,155 196,155 223,155 249,156 275,156 301,156 328,156 354,156 380,156 406,156 433,156"/>
+                <TextEquiv>
+                    <Unicode>FANG JI XIAO SHUO JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="89,241 98,236 149,244 170,229 183,242 199,242 206,235 250,242 249,197 212,204 182,197 170,210 156,204 88,205"/>
+                <Baseline points="94,232 119,230 144,229 169,229 194,229 219,229 245,228"/>
+                <TextEquiv>
+                    <Unicode>FANG (Ji)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="154,290 226,288 252,276 281,287 322,279 402,285 440,269 440,252 395,253 384,242 353,245 335,258 304,250 268,258 154,251"/>
+                <Baseline points="159,278 184,278 209,278 234,278 259,278 284,278 309,278 334,277 359,276 384,275 409,274 435,272"/>
+                <TextEquiv>
+                    <Unicode>fang ji xiao shuo ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_189" custom="readingOrder {index:4;}">
+                <Coords points="744,353 757,353 791,353 810,352 809,337 791,338 757,338 744,338"/>
+                <Baseline points="744,353 757,353 791,353 810,352"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="783,658 793,654 805,657 813,651 828,658 866,658 870,654 903,658 913,653 913,618 803,622 797,627 783,627"/>
+                <Baseline points="788,648 818,647 848,648 878,648 908,646"/>
+                <TextEquiv>
+                    <Unicode>57-26[80]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="75,704 94,696 143,701 167,690 176,698 256,699 283,679 323,698 381,696 380,659 232,662 168,677 159,669 74,667"/>
+                <Baseline points="79,691 105,690 132,690 159,690 186,689 213,689 240,688 267,688 294,687 321,687 348,686 375,685"/>
+                <TextEquiv>
+                    <Unicode>I247.5 44.5728 I247.5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_186" custom="readingOrder {index:7;}">
+                <Coords points="77,725 102,724 128,724 131,724 131,709 128,709 102,709 76,710"/>
+                <Baseline points="77,725 102,724 128,724 131,724"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="648,721 821,723 836,713 849,722 902,722 910,719 910,692 838,699 826,693 784,699 773,692 648,694"/>
+                <Baseline points="653,717 678,717 703,716 728,716 753,716 779,715 804,715 829,715 854,714 879,713 905,713"/>
+                <TextEquiv>
+                    <Unicode>10151•529 81—5336</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675. g. 434.
+FANG JI XIXO SHUO JI
+FANG (Ji)
+föng 17 xlöo shuö 11
+3 2 / N 4
+/ 2.— Xi: EEXZME, 198141 
+3371 X32F 0.9670
++kAT3.XbE, 
+Fm.
+57-261801
+E4680-14-1 (31)
+1247.5 44.5728 1247.5
+10151•529 81—5336
+19814 6 H 5 HMEI
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

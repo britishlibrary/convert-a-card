@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.584+01:00</Created>
+        <LastChange>2023-06-21T17:50:00.347+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758380" pageNr="214"/>
+    </Metadata>
+    <Page imageFilename="28961232842.jpg" imageWidth="956" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687362600348" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="79,44 79,669 549,669 927,669 927,44"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="578,90 678,90 694,99 727,85 772,90 773,47 579,43"/>
+                <Baseline points="583,79 609,78 635,78 662,79 688,79 715,80 741,81 768,81"/>
+                <TextEquiv>
+                    <Unicode>15662.d.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="141,147 375,146 386,141 386,101 322,110 141,108"/>
+                <Baseline points="146,135 172,134 198,134 224,134 250,134 276,134 302,135 328,135 354,135 381,134"/>
+                <TextEquiv>
+                    <Unicode>FANG SHUI GONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="74,218 885,219 885,186 74,181"/>
+                <Baseline points="79,207 119,208 159,208 199,209 239,209 279,209 319,209 359,210 399,210 439,210 479,210 519,210 559,210 599,210 639,210 679,211 719,211 759,212 799,213 839,214 880,215"/>
+                <TextEquiv>
+                    <Unicode>SHAN XI SHENG JIAN ZHU GONG CHENG JU. Fang shui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:3;}">
+                <Coords points="83,245 109,245 136,245 176,242 201,243 227,243 252,243 278,244 303,244 329,244 355,245 356,230 329,229 303,229 278,229 252,228 227,228 201,228 176,227 135,230 109,230 83,230"/>
+                <Baseline points="83,245 109,245 136,245 176,242 201,243 227,243 252,243 278,244 303,244 329,244 355,245"/>
+                <TextEquiv>
+                    <Unicode>gong bian xie zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="146,283 181,282 199,291 222,283 397,290 396,258 309,266 295,254 274,262 261,252 242,258 147,252"/>
+                <Baseline points="151,276 177,277 204,277 231,278 258,278 284,278 311,278 338,279 365,280 392,280"/>
+                <TextEquiv>
+                    <Unicode>Fang shui gong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_175" custom="readingOrder {index:5;}">
+                <Coords points="506,524 529,524 555,524 581,526 608,526 608,511 582,511 556,509 529,509 506,509"/>
+                <Baseline points="506,524 529,524 555,524 581,526 608,526"/>
+                <TextEquiv>
+                    <Unicode>1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_168" custom="readingOrder {index:6;}">
+                <Coords points="156,585 194,585 233,585 271,585 310,585 348,585 387,585 425,585 464,585 502,585 541,585 580,585 585,585 585,570 580,570 541,570 502,570 464,570 425,570 387,570 348,570 310,570 271,570 233,570 194,570 156,570"/>
+                <Baseline points="156,585 194,585 233,585 271,585 310,585 348,585 387,585 425,585 464,585 502,585 541,585 580,585 585,585"/>
+                <TextEquiv>
+                    <Unicode>[4], 110 p.: figs.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="141,658 434,673 553,666 543,630 141,628"/>
+                <Baseline points="146,652 171,652 196,653 221,653 246,653 271,654 296,654 321,654 347,654 372,654 397,654 422,654 447,654 472,654 497,655 522,655 548,655"/>
+                <TextEquiv>
+                    <Unicode>Waterproofing buildings</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15662. d. 4.
+FANG SHUI GONG
+SHAN XI SHENG JIAN ZHU GONG CHENG JU. Fang shui
+bian xie zu
+gong
+Fang shui gong
+ I/FK44F1
+4 5 44. —3 * F0/5) — 34. 4 2
+T HR4E. 1975.
+(4.), 110 p.: figs.; 19 em. (+)
+Waterproofing buildings
+chi¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

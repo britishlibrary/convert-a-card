@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.409+01:00</Created>
+        <LastChange>2023-05-04T12:52:35.486+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758293" pageNr="139"/>
+    </Metadata>
+    <Page imageFilename="28780456900.jpg" imageWidth="964" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197555486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="37,21 39,745 910,750 910,24"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="617,75 724,74 734,65 757,66 766,75 878,74 878,47 844,38 790,45 738,36 720,45 712,37 617,37"/>
+                <Baseline points="622,67 647,67 672,68 697,68 722,68 747,67 772,67 797,67 822,68 847,69 873,70"/>
+                <TextEquiv>
+                    <Unicode>15676.f.101</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="93,154 280,155 306,148 306,34 93,36"/>
+                <Baseline points="98,142 123,143 148,144 174,144 199,144 224,143 250,143 275,143 301,143"/>
+                <TextEquiv>
+                    <Unicode>FEN XIANG JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="49,206 110,209 119,218 131,214 197,218 211,212 212,178 192,171 177,178 50,171"/>
+                <Baseline points="55,202 94,199 122,201 150,202 178,204 207,203"/>
+                <TextEquiv>
+                    <Unicode>YU (Ren)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="98,282 119,282 133,274 144,282 166,282 175,274 237,275 251,267 251,245 226,245 218,253 203,252 191,244 133,251 127,245 98,245"/>
+                <Baseline points="103,271 131,271 160,270 188,269 217,269 246,269"/>
+                <TextEquiv>
+                    <Unicode>Qing tan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513521386_545" custom="readingOrder {index:4;}">
+                <Coords points="560,408 654,408 654,458 560,458"/>
+                <Baseline points="560,453 654,453"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="94,574 391,578 429,562 429,541 278,544 260,527 221,542 94,533"/>
+                <Baseline points="99,561 124,562 149,562 174,563 199,563 224,564 249,564 274,564 299,564 324,564 349,564 374,564 399,564 424,564"/>
+                <TextEquiv>
+                    <Unicode>96 p.: ill.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15676.f.101&#13;
+FEN XIANG JI&#13;
+YU (Ren)&#13;
+Qing tan&#13;
+1983&#13;
+96 p.: ill.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

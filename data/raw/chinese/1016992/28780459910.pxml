@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.458+01:00</Created>
+        <LastChange>2023-05-04T12:52:45.113+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758297" pageNr="142"/>
+    </Metadata>
+    <Page imageFilename="28780459910.jpg" imageWidth="976" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197565113" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="123,77 128,601 844,600 844,71"/>
+            <TextLine id="line_1654531374853_908" custom="readingOrder {index:0;}">
+                <Coords points="585,91 619,106 680,106 705,97 821,98 833,93 833,58 783,57 759,76 718,69 710,77 693,77 673,61 585,63"/>
+                <Baseline points="590,95 828,97"/>
+                <TextEquiv>
+                    <Unicode>15274.a.126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531372721_903" custom="readingOrder {index:1;}">
+                <Coords points="163,158 225,178 291,158 532,170 575,159 575,120 316,125 257,102 215,125 163,125"/>
+                <Baseline points="168,159 570,157"/>
+                <TextEquiv>
+                    <Unicode>FEI LÜ BIN HUA QIAO JING JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513767525_600" custom="readingOrder {index:2;}">
+                <Coords points="131,197 388,195 388,245 131,247"/>
+                <Baseline points="131,242 388,240"/>
+                <TextEquiv>
+                    <Unicode>HUANG (Mingde)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="166,346 783,347 809,339 809,310 166,315"/>
+                <Baseline points="171,337 202,337 234,337 265,337 297,337 329,337 360,337 392,337 424,336 455,336 487,336 519,336 550,336 582,335 614,335 645,335 677,335 709,335 740,334 772,334 804,334"/>
+                <TextEquiv>
+                    <Unicode>Feilübin huaqiao jingji. [On overseas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="176,386 641,375 622,349 557,344 176,349"/>
+                <Baseline points="181,372 206,373 231,373 256,373 282,373 307,372 332,372 357,372 383,372 408,372 433,371 459,371 484,371 509,371 534,371 560,371 585,371 610,371 657,369"/>
+                <TextEquiv>
+                    <Unicode>Chinese in the Philippines.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="165,427 199,425 229,412 257,426 272,425 282,415 366,417 366,393 344,381 289,381 272,397 244,381 224,398 203,388 165,389"/>
+                <Baseline points="170,407 197,409 224,410 251,409 279,409 306,408 333,408 361,409"/>
+                <TextEquiv>
+                    <Unicode>pp. 4, 220.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="175,489 841,477 822,445 174,453"/>
+                <Baseline points="180,477 212,477 245,477 278,477 311,476 344,476 376,476 409,476 442,476 475,476 508,476 540,476 573,476 606,476 639,475 671,475 704,475 737,474 770,474 803,473 836,473"/>
+                <TextEquiv>
+                    <Unicode>Haiwai chubanshe: Taipei, 1957 [Second</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="173,521 276,522 301,530 340,512 340,499 305,483 290,483 278,494 262,493 251,484 207,484 188,493 173,493"/>
+                <Baseline points="178,511 204,512 230,512 256,512 282,512 308,512 335,513"/>
+                <TextEquiv>
+                    <Unicode>edition].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="166,594 376,602 428,588 496,601 571,588 571,563 542,557 166,556"/>
+                <Baseline points="171,582 197,583 223,583 250,584 276,584 302,584 329,584 355,584 381,584 408,583 434,583 460,583 487,583 513,582 539,582 566,582"/>
+                <TextEquiv>
+                    <Unicode>Huaqiao jingji congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15274.a.126&#13;
+FEI LÜ BIN HUA QIAO JING JI&#13;
+HUANG (Mingde)&#13;
+Feilübin huaqiao jingji. [On overseas&#13;
+Chinese in the Philippines.]&#13;
+pp. 4, 220.&#13;
+Haiwai chubanshe: Taipei, 1957 [Second&#13;
+edition].&#13;
+Huaqiao jingji congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

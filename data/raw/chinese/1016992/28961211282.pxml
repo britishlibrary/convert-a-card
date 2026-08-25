@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.010+01:00</Created>
+        <LastChange>2023-05-10T14:57:23.143+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758338" pageNr="178"/>
+    </Metadata>
+    <Page imageFilename="28961211282.jpg" imageWidth="960" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683723443144" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="56,40 55,641 889,641 890,40"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="588,78 608,90 626,84 672,90 679,83 775,90 783,82 825,77 825,68 806,68 792,53 768,53 751,69 720,52 703,66 683,52 640,46 629,53 588,53"/>
+                <Baseline points="593,75 618,76 643,77 668,77 693,77 719,78 744,78 769,78 794,78 820,79"/>
+                <TextEquiv>
+                    <Unicode>15675.d.41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="51,154 453,154 479,144 472,117 51,115"/>
+                <Baseline points="56,141 82,141 108,141 134,141 160,141 186,141 212,141 238,141 265,141 291,141 317,142 343,142 369,142 395,142 421,142 447,141 474,141"/>
+                <TextEquiv>
+                    <Unicode>FENG MENG LONG HE SAN YAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="50,213 279,218 288,215 289,176 265,175 250,190 233,181 204,190 154,172 134,189 124,181 51,175"/>
+                <Baseline points="56,204 81,205 106,206 131,206 156,207 182,207 207,207 232,208 257,209 283,210"/>
+                <TextEquiv>
+                    <Unicode>MIAO (Yonghe)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="119,277 177,290 564,289 564,251 377,257 293,245 280,257 119,243"/>
+                <Baseline points="124,272 149,273 175,274 200,274 226,275 251,275 277,276 303,276 328,277 354,277 379,277 405,277 431,278 456,278 482,278 507,279 533,279 559,280"/>
+                <TextEquiv>
+                    <Unicode>Feng Meng Long he san yan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723412741_80" custom="readingOrder {index:4;}">
+                <Coords points="464,405 565,405 565,455 464,455"/>
+                <Baseline points="464,450 565,450"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723431882_93" custom="readingOrder {index:5;}">
+                <Coords points="129,474 422,479 421,529 128,524"/>
+                <Baseline points="128,519 421,524"/>
+                <TextEquiv>
+                    <Unicode>2, 100 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="120,598 870,603 884,568 121,556"/>
+                <Baseline points="125,583 162,584 200,585 237,585 275,586 313,586 350,587 388,588 426,588 463,589 501,589 539,590 576,591 614,591 652,592 689,592 727,593 765,594 802,595 840,596 878,596"/>
+                <TextEquiv>
+                    <Unicode>Feng Menglong's three collections of hua ben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.d.41&#13;
+FENG MENG LONG HE SAN YAN&#13;
+MIAO (Yonghe)&#13;
+Feng Meng Long he san yan&#13;
+1979&#13;
+2, 100 p.; 19 cm.&#13;
+Feng Menglong's three collections of hua ben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.451+01:00</Created>
+        <LastChange>2023-05-16T12:53:24.020+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758371" pageNr="206"/>
+    </Metadata>
+    <Page imageFilename="28961229302.jpg" imageWidth="948" imageHeight="801">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684234404020" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="83,70 84,578 886,578 889,64"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="498,116 804,113 804,98 498,101"/>
+                <Baseline points="498,116 804,113"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.818
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="83,250 147,251 160,241 181,252 294,252 311,248 311,212 260,213 253,220 217,220 208,213 83,213"/>
+                <Baseline points="88,240 115,241 142,241 169,241 197,241 224,240 251,240 278,240 306,241"/>
+                <TextEquiv>
+                    <Unicode>FANG (Zhimin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="115,306 231,297 455,306 455,260 247,253 115,262"/>
+                <Baseline points="120,292 145,292 170,291 196,291 221,291 246,290 272,290 297,290 323,290 348,290 373,291 399,291 424,293 450,294"/>
+                <TextEquiv>
+                    <Unicode>Fang Zhi min wen ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:3;}">
+                <Coords points="758,386 855,388 856,373 758,371"/>
+                <Baseline points="758,386 855,388"/>
+                <TextEquiv>
+                    <Unicode>1985</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:4;}">
+                <Coords points="112,466 452,466 452,430 332,442 319,429 235,441 112,429"/>
+                <Baseline points="117,454 142,454 167,455 193,455 218,456 243,456 269,456 294,457 320,457 345,457 370,457 396,456 421,456 447,455"/>
+                <TextEquiv>
+                    <Unicode>427 p. : ill., port.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:5;}">
+                <Coords points="110,565 256,562 272,551 273,527 180,531 161,539 152,533 111,532"/>
+                <Baseline points="115,554 140,555 165,556 191,556 216,556 241,557 267,558"/>
+                <TextEquiv>
+                    <Unicode>s1.L17.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>FANG (Zhimin)
+Fang Zhi min wen ji
+
+427 p. : ill., port.
+s1.L17.2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

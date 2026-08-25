@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.523+01:00</Created>
+        <LastChange>2023-06-27T09:47:28.823+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758375" pageNr="210"/>
+    </Metadata>
+    <Page imageFilename="28961230132.jpg" imageWidth="1012" imageHeight="802">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687852048823" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="114,73 113,783 958,783 959,73"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="479,116 540,120 631,110 640,119 676,122 761,105 761,88 742,77 640,77 628,89 561,77 479,77"/>
+                <Baseline points="484,106 511,106 538,106 565,107 592,107 620,107 647,107 674,107 701,107 728,106 756,105"/>
+                <TextEquiv>
+                    <Unicode>15293.a.35/235</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="123,177 139,185 260,165 334,176 434,170 433,122 122,133"/>
+                <Baseline points="128,166 153,165 178,164 203,163 228,162 253,162 278,161 303,161 328,161 353,161 378,162 403,163 429,164"/>
+                <TextEquiv>
+                    <Unicode>FANG YING LOU JI SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="118,242 144,244 170,245 196,246 222,246 249,247 275,247 301,247 327,246 331,246 330,231 326,231 301,232 275,232 249,232 222,231 196,231 171,230 145,229 119,227"/>
+                <Baseline points="118,242 144,244 170,245 196,246 222,246 249,247 275,247 301,247 327,246 331,246"/>
+                <TextEquiv>
+                    <Unicode>WU (Zhiying)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:3;}">
+                <Coords points="146,393 940,394 939,362 865,357 564,377 523,357 502,378 458,357 145,363"/>
+                <Baseline points="151,387 190,388 229,388 268,389 307,389 347,389 386,389 425,389 464,388 503,388 543,388 582,387 621,387 660,386 699,386 739,386 778,385 817,385 856,385 895,385 935,385"/>
+                <TextEquiv>
+                    <Unicode>Fangying lou jishi. [A collection of letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_327" custom="readingOrder {index:4;}">
+                <Coords points="159,422 184,422 209,423 234,423 260,423 285,423 310,423 335,423 361,422 386,422 411,422 436,422 462,422 487,422 512,422 537,422 563,422 588,422 613,423 639,423 666,422 691,421 716,421 742,421 767,420 792,420 818,419 843,419 869,418 868,403 843,404 818,404 792,405 767,405 742,406 716,406 691,406 665,407 639,408 613,408 588,407 563,407 537,407 512,407 487,407 462,407 436,407 411,407 386,407 361,407 335,408 310,408 285,408 260,408 234,408 209,408 184,407 159,407"/>
+                <Baseline points="159,422 184,422 209,423 234,423 260,423 285,423 310,423 335,423 361,422 386,422 411,422 436,422 462,422 487,422 512,422 537,422 563,422 588,422 613,423 639,423 666,422 691,421 716,421 742,421 767,420 792,420 818,419 843,419 869,418"/>
+                <TextEquiv>
+                    <Unicode>by Lian Quan relating to the payment owed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:5;}">
+                <Coords points="154,466 791,472 860,464 860,434 154,436"/>
+                <Baseline points="159,456 193,457 228,457 263,457 298,458 333,458 367,458 402,458 437,458 472,458 507,458 541,458 576,458 611,458 646,458 681,458 715,457 750,457 785,456 820,456 855,455"/>
+                <TextEquiv>
+                    <Unicode>by Li Jingmai in printing his father, Li</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:6;}">
+                <Coords points="147,503 877,494 877,471 836,465 658,483 147,468"/>
+                <Baseline points="152,494 188,494 224,494 260,494 296,494 332,494 368,494 404,494 440,494 476,494 512,493 548,493 584,493 620,493 656,493 692,493 728,492 764,492 800,492 836,491 872,491"/>
+                <TextEquiv>
+                    <Unicode>Hongzhang's collected works. Compiled by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:7;}">
+                <Coords points="150,538 867,538 889,537 889,507 578,518 473,500 361,522 149,504"/>
+                <Baseline points="155,528 191,528 227,528 264,528 300,528 337,528 373,528 410,528 446,528 483,528 519,528 555,528 592,528 628,528 665,528 701,528 738,527 774,527 811,527 847,526 884,525"/>
+                <TextEquiv>
+                    <Unicode>Lian's wife, Wu Zhiying; and reproduced in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:8;}">
+                <Coords points="150,575 961,568 961,543 897,534 150,541"/>
+                <Baseline points="155,564 195,564 235,563 275,563 315,562 355,562 395,562 435,562 475,562 515,561 555,561 595,561 635,561 675,561 715,561 755,561 795,561 835,561 875,560 915,560 956,560"/>
+                <TextEquiv>
+                    <Unicode>fascimile. With another collection of letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:9;}">
+                <Coords points="153,610 795,611 860,596 860,572 153,581"/>
+                <Baseline points="158,597 192,597 227,597 262,597 297,597 332,597 367,597 401,597 436,597 471,597 506,596 541,596 576,596 611,596 645,596 680,596 715,596 750,595 785,595 820,595 855,595"/>
+                <TextEquiv>
+                    <Unicode>relating to a lawsuit over a founding of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:10;}">
+                <Coords points="157,650 844,642 822,605 157,620"/>
+                <Baseline points="162,638 195,638 229,638 263,637 297,637 331,637 365,636 398,636 432,636 466,635 500,635 534,635 568,635 602,634 635,634 669,634 703,634 737,634 771,634 805,634 839,634"/>
+                <TextEquiv>
+                    <Unicode>a school by Wu. The latter is entitled</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:11;}">
+                <Coords points="157,675 188,676 219,676 250,676 281,676 312,676 343,676 374,676 405,676 436,675 468,675 499,675 530,674 561,674 592,674 623,673 654,673 685,673 716,673 747,673 805,676 806,661 747,658 716,658 685,658 654,658 623,658 592,659 561,659 530,659 499,660 468,660 436,660 405,661 374,661 343,661 312,661 281,661 250,661 219,661 188,661 157,660"/>
+                <Baseline points="157,675 188,676 219,676 250,676 281,676 312,676 343,676 374,676 405,676 436,675 468,675 499,675 530,674 561,674 592,674 623,673 654,673 685,673 716,673 747,673 805,676"/>
+                <TextEquiv>
+                    <Unicode>Juyin andu huicun (1906). A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:12;}">
+                <Coords points="154,720 197,717 224,717 250,717 277,717 303,717 330,717 356,716 383,715 382,700 355,701 330,702 303,702 277,702 250,702 224,702 197,702 153,705"/>
+                <Baseline points="154,720 197,717 224,717 250,717 277,717 303,717 330,717 356,716 383,715"/>
+                <TextEquiv>
+                    <Unicode>pp. 106. port.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:13;}">
+                <Coords points="812,713 862,711 865,714 897,714 904,722 914,722 915,693 909,693 903,686 871,684 859,695 843,679 835,684 813,679"/>
+                <Baseline points="817,706 847,707 878,708 909,710"/>
+                <TextEquiv>
+                    <Unicode>22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:14;}">
+                <Coords points="155,745 689,750 689,719 581,731 528,695 487,696 453,727 156,720"/>
+                <Baseline points="160,738 186,739 212,740 238,740 264,741 291,741 317,741 343,741 369,741 395,741 422,741 448,741 474,741 500,741 526,741 553,741 579,742 605,742 631,743 657,744 684,744"/>
+                <TextEquiv>
+                    <Unicode>Wenhai Chubanshe: Taipei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:15;}">
+                <Coords points="147,774 824,787 909,779 910,757 148,745"/>
+                <Baseline points="153,766 190,766 228,766 265,767 303,767 340,767 378,767 415,767 453,768 490,768 528,768 566,768 603,768 641,769 678,769 716,769 753,770 791,770 828,771 866,772 904,773"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan. Xuji, 235.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a. 35/235
+FANG YING LOU JI SHI
+
+WU (Zhiying)
+
+/E
+
+Fangying lou jishi. [A collection of letters
+payment owed
+by Lian Quan relating to the
+by Li Jingmai in printing his father, Li
+Hongzhang's collected works. Compiled by
+Lian's wife, Wu Zhiying; and reproduced in
+fascimile. With another collection of letters
+relating to a lawsuit over a founding of
+a school by Wu. The latter is entitled
+Juyin andu huicun (1906). A reprint.
+22 cm.
+p. 106. port.
+Chinese
+(P)
+Wenhai Chubanshe: ei, 1975.
+Jindai Zhongguo shiliao congkan. Xuji, 235.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

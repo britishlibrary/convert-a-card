@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.154+01:00</Created>
+        <LastChange>2023-08-16T15:09:17.023+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758568" pageNr="375" tsid="128197500" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=GYDENXYORZREWLZURDPQVUQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SKFQBOANLTWFJQXTQSGJRPOD" imageId="35195874"/>
+    </Metadata>
+    <Page imageFilename="42758568.jpg" imageWidth="992" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191357024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="66,52 871,52 871,618 66,618"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="592,104 617,115 694,106 704,97 713,106 759,99 789,114 826,99 826,79 808,78 793,63 769,67 755,81 739,80 726,67 708,82 693,82 675,64 592,71"/>
+                <Baseline points="597,105 605,104 630,104 655,102 679,104 704,102 729,102 754,104 779,104 803,102 828,104"/>
+                <TextEquiv>
+                    <Unicode>15318.e.29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="79,152 378,154 379,106 323,104 306,121 290,121 270,101 80,106"/>
+                <Baseline points="84,147 107,147 132,145 157,145 181,145 206,145 231,145 256,145 281,145 306,145 330,145 355,145 380,145"/>
+                <TextEquiv>
+                    <Unicode>FEI XUE YING CHUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="61,238 542,256 541,224 498,231 428,177 405,198 357,185 272,212 60,201"/>
+                <Baseline points="66,234 90,234 115,234 140,234 165,234 190,234 215,234 239,234 264,234 289,236 314,238 339,241 363,243 388,246 403,243 408,241 433,244 458,246 483,243 507,246 532,248 544,249"/>
+                <TextEquiv>
+                    <Unicode>ZHON (Liangsi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="253,289 258,289 267,283 282,282 291,289 297,286 308,295 315,292 310,250 302,254 289,251 271,274 252,276"/>
+                <Baseline points="258,284 282,282 307,287 317,293"/>
+                <TextEquiv>
+                    <Unicode>: 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="312,314 353,311 366,299 397,308 416,302 415,259 402,260 389,251 365,275 343,253 326,259 311,249"/>
+                <Baseline points="317,293 344,292 368,294 393,296 418,292"/>
+                <TextEquiv>
+                    <Unicode>Il 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="259,304 264,305 267,302 276,302 287,313 312,315 315,292 308,291 298,285 291,288 285,294 261,292"/>
+                <Baseline points="264,301 271,302 296,302 317,293"/>
+                <TextEquiv>
+                    <Unicode>26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="99,346 586,346 586,300 571,298 456,297 426,327 389,308 236,321 99,308"/>
+                <Baseline points="104,335 129,335 153,335 178,335 203,335 228,335 253,335 277,335 302,339 327,337 352,335 377,335 401,335 426,335 451,337 476,335 501,335 526,334 550,335 575,339 588,340"/>
+                <TextEquiv>
+                    <Unicode>Fei xue ying chun. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="97,384 140,386 162,374 178,386 246,372 313,378 321,370 386,378 386,352 373,347 317,351 287,341 260,365 229,338 180,343 162,360 138,346 97,346"/>
+                <Baseline points="102,375 115,373 140,373 165,373 190,372 215,372 239,372 264,372 289,372 314,370 339,370 363,370 388,370"/>
+                <TextEquiv>
+                    <Unicode>pp. 327. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="95,443 677,449 677,416 632,399 572,423 547,406 95,412"/>
+                <Baseline points="100,438 125,438 150,438 175,438 200,438 224,438 249,438 274,438 299,438 324,440 349,440 373,440 398,438 423,438 448,438 473,440 497,440 522,440 547,441 572,441 597,440 621,441 646,441 671,443 679,444"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Shanghai, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="664,610 804,606 817,617 838,611 847,619 869,611 869,565 828,559 813,574 794,577 739,579 697,569 664,574"/>
+                <Baseline points="669,605 694,605 719,605 744,607 769,605 794,607 818,607 843,608 868,608 871,608"/>
+                <TextEquiv>
+                    <Unicode>Chinese (P)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

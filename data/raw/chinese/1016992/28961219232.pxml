@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.254+01:00</Created>
+        <LastChange>2023-05-10T17:06:55.768+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758356" pageNr="194"/>
+    </Metadata>
+    <Page imageFilename="28961219232.jpg" imageWidth="980" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731215768" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,84 80,592 920,595 921,83"/>
+            <TextLine id="line_1654531846166_1308" custom="readingOrder {index:0;}">
+                <Coords points="581,119 617,138 704,128 824,138 835,128 889,130 899,125 900,106 850,93 837,102 827,93 776,92 761,107 702,107 687,93 582,97"/>
+                <Baseline points="586,133 894,137"/>
+                <TextEquiv>
+                    <Unicode>15400.e.737-8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="135,186 178,202 220,182 320,187 360,210 384,186 441,185 441,156 378,157 361,140 285,158 229,156 186,141 135,146"/>
+                <Baseline points="140,179 166,178 193,178 220,178 247,179 274,179 301,179 328,179 355,179 382,179 409,178 436,178"/>
+                <TextEquiv>
+                    <Unicode>FEN NU DE DAN JIANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731156170_2107" custom="readingOrder {index:2;}">
+                <Coords points="93,255 364,252 364,302 93,305"/>
+                <Baseline points="93,300 364,297"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Huoquan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731169871_2119" custom="readingOrder {index:3;}">
+                <Coords points="127,356 779,366 778,416 126,406"/>
+                <Baseline points="126,401 778,411"/>
+                <TextEquiv>
+                    <Unicode>Fennu de Danjiang. [Short stories.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="133,450 168,450 176,442 223,441 240,450 256,450 264,442 282,442 282,419 270,419 262,411 248,411 239,405 226,405 221,410 212,407 197,415 133,413"/>
+                <Baseline points="138,433 165,433 193,433 221,433 249,433 277,433"/>
+                <TextEquiv>
+                    <Unicode>pps.285.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731202052_2132" custom="readingOrder {index:5;}">
+                <Coords points="129,471 838,476 838,526 129,521"/>
+                <Baseline points="129,516 838,521"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="128,587 534,594 552,583 552,567 524,549 431,548 371,570 320,549 284,559 129,549"/>
+                <Baseline points="133,573 158,574 184,575 210,575 236,575 262,576 288,577 314,577 340,578 365,578 391,579 417,579 443,580 469,580 495,580 521,581 547,581"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no.737-8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.737-8&#13;
+FEN NU DE DAN JIANG&#13;
+CHEN (Huoquan)&#13;
+Fennu de Danjiang. [Short stories.]&#13;
+pps.285.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1968.&#13;
+Renren wenku, no.737-8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

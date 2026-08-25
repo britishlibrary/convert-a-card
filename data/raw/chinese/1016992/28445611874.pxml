@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.825+01:00</Created>
+        <LastChange>2023-05-03T17:37:41.863+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758147" pageNr="10"/>
+    </Metadata>
+    <Page imageFilename="28445611874.jpg" imageWidth="956" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128261864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="41,28 47,577 909,571 904,27"/>
+            <TextLine id="line_1657126686207_406" custom="readingOrder {index:0;}">
+                <Coords points="603,40 876,39 876,89 603,90"/>
+                <Baseline points="603,85 876,84"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="124,294 501,285 500,252 304,253 293,264 197,267 123,260"/>
+                <Baseline points="129,285 155,285 181,285 207,285 233,285 260,284 286,284 312,283 338,283 364,283 391,282 417,282 443,282 469,281 496,281"/>
+                <TextEquiv>
+                    <Unicode>FENG JIA DA XUE GAI KUANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="162,330 540,324 540,293 453,285 162,295"/>
+                <Baseline points="167,317 193,317 219,317 245,317 272,317 298,317 324,316 351,316 377,316 403,316 429,316 456,316 482,317 508,318 535,318"/>
+                <TextEquiv>
+                    <Unicode>Feng jia da xue gai kuang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128022430_179" custom="readingOrder {index:3;}">
+                <Coords points="431,344 495,342 496,392 432,394"/>
+                <Baseline points="432,389 496,387"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="161,420 191,420 198,426 216,426 223,419 303,418 303,400 297,400 284,388 252,385 210,395 199,388 161,387"/>
+                <Baseline points="166,413 192,412 218,412 245,412 271,412 298,412"/>
+                <TextEquiv>
+                    <Unicode>451p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="179,552 472,551 472,528 421,516 254,517 244,527 225,517 179,516"/>
+                <Baseline points="184,540 209,541 235,541 261,541 286,542 312,542 338,542 364,542 389,542 415,542 441,543 467,543"/>
+                <TextEquiv>
+                    <Unicode>s1. Universities</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.46&#13;
+FENG JIA DA XUE GAI KUANG&#13;
+Feng jia da xue gai kuang&#13;
+1992&#13;
+451p.: ill.&#13;
+s1. Universities</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

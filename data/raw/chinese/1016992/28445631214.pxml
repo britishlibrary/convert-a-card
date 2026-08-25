@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.331+01:00</Created>
+        <LastChange>2023-05-04T12:46:33.308+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758226" pageNr="79"/>
+    </Metadata>
+    <Page imageFilename="28445631214.jpg" imageWidth="976" imageHeight="808">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197193308" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="66,99 67,592 901,591 900,98"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="595,137 689,138 696,131 758,130 768,121 784,137 809,131 830,138 851,130 851,103 805,93 759,93 748,104 723,105 595,101"/>
+                <Baseline points="600,126 627,126 654,125 682,125 709,125 736,125 764,125 791,125 818,125 846,125"/>
+                <TextEquiv>
+                    <Unicode>15221.a.114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="110,207 175,210 184,202 293,197 307,211 327,194 366,194 366,161 110,157"/>
+                <Baseline points="115,190 142,190 169,190 197,189 224,189 251,189 279,189 306,189 333,189 361,189"/>
+                <TextEquiv>
+                    <Unicode>FAN GONG YUE KAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="76,274 480,274 496,263 496,236 76,237"/>
+                <Baseline points="81,261 106,261 132,261 157,261 183,261 209,261 234,261 260,261 286,261 311,261 337,261 362,261 388,261 414,261 439,261 465,261 491,261"/>
+                <TextEquiv>
+                    <Unicode>PERICDICAL PUBLICATIONS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="109,405 905,406 874,373 109,374"/>
+                <Baseline points="114,398 153,399 192,399 231,399 271,399 310,399 349,398 389,398 428,398 467,398 507,398 546,398 585,398 624,398 664,397 703,397 742,397 782,398 821,398 860,398 900,398"/>
+                <TextEquiv>
+                    <Unicode>Fangong yuekan. The Counter-attack Magazine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913061999_347" custom="readingOrder {index:4;}">
+                <Coords points="122,438 650,447 674,432 650,404 630,417 614,404 490,418 476,405 304,407 260,424 239,409 121,405"/>
+                <Baseline points="127,441 669,438"/>
+                <TextEquiv>
+                    <Unicode>[Journal of political comment.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="112,477 781,474 758,437 659,458 492,439 238,441 192,459 112,444"/>
+                <Baseline points="117,469 151,469 186,469 221,470 255,470 290,470 325,470 359,469 394,469 429,469 463,469 498,468 533,468 567,468 602,468 637,468 671,469 706,469 741,470 776,470"/>
+                <TextEquiv>
+                    <Unicode>Nos. 285-294 (Dec. 1965 - Sept. 1966).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="107,546 729,545 729,521 686,508 592,509 574,527 538,509 247,523 107,509"/>
+                <Baseline points="112,538 142,538 173,538 203,538 234,538 265,538 295,539 326,539 356,539 387,539 418,539 448,539 479,539 509,539 540,539 571,539 601,539 632,539 662,539 693,539 724,539"/>
+                <TextEquiv>
+                    <Unicode>Fangong zazhi she: Taipei, 1965-66.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15221.a.114&#13;
+FAN GONG YUE KAN&#13;
+PERICDICAL PUBLICATIONS&#13;
+Fangong yuekan. The Counter-attack Magazine.&#13;
+[Journal of political comment.]&#13;
+Nos. 285-294 (Dec. 1965 - Sept. 1966).&#13;
+Fangong zazhi she: Taipei, 1965-66.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

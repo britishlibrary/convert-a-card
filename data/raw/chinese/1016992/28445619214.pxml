@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.444+01:00</Created>
+        <LastChange>2023-05-03T17:47:33.888+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758177" pageNr="37"/>
+    </Metadata>
+    <Page imageFilename="28445619214.jpg" imageWidth="952" imageHeight="773">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128853889" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="36,33 42,647 911,647 905,33"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="584,71 600,82 808,81 808,50 798,46 761,45 745,60 726,53 685,57 672,45 584,46"/>
+                <Baseline points="589,69 615,70 642,71 669,71 696,71 722,71 749,72 776,72 803,74"/>
+                <TextEquiv>
+                    <Unicode>15633.e.27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="47,141 448,125 448,98 103,98 48,62"/>
+                <Baseline points="52,121 78,122 104,122 130,122 156,122 182,122 208,123 234,123 260,123 286,123 312,123 338,124 364,124 390,124 416,124 443,124"/>
+                <TextEquiv>
+                    <Unicode>FEI JIE HE BING ZHI SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="44,210 93,206 106,218 118,218 128,210 172,209 198,218 230,218 249,206 250,173 223,165 207,180 167,181 154,173 138,179 112,165 93,178 45,165"/>
+                <Baseline points="49,199 76,199 104,200 132,200 160,202 188,203 216,204 244,205"/>
+                <TextEquiv>
+                    <Unicode>LI (Dehong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="89,278 131,290 144,278 486,282 511,271 511,253 491,245 270,251 238,238 226,250 157,250 90,237"/>
+                <Baseline points="95,267 120,267 146,268 172,268 197,268 223,269 249,269 274,269 300,270 326,270 351,270 377,270 403,270 428,270 454,270 480,271 506,271"/>
+                <TextEquiv>
+                    <Unicode>Fei jie he bing zhi shi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128846505_591" custom="readingOrder {index:4;}">
+                <Coords points="807,415 904,417 903,467 806,465"/>
+                <Baseline points="806,460 903,462"/>
+                <TextEquiv>
+                    <Unicode>1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283123391_652" custom="readingOrder {index:5;}">
+                <Coords points="98,502 347,505 346,555 97,552"/>
+                <Baseline points="97,547 346,550"/>
+                <TextEquiv>
+                    <Unicode>112 p.; 19 cm. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="90,619 197,629 368,620 434,634 500,620 500,601 464,589 90,582"/>
+                <Baseline points="95,609 120,610 145,610 170,611 195,611 220,612 245,612 270,613 295,613 320,613 345,613 370,613 395,614 420,614 445,614 470,614 495,614"/>
+                <TextEquiv>
+                    <Unicode>Pulmonary tuberculosis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15633.e.27&#13;
+FEI JIE HE BING ZHI SHI&#13;
+LI (Dehong)&#13;
+Fei jie he bing zhi shi&#13;
+1978&#13;
+112 p.; 19 cm. &#13;
+Pulmonary tuberculosis</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

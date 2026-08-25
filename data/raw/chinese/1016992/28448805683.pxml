@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.795+01:00</Created>
+        <LastChange>2023-05-04T12:50:33.021+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758257" pageNr="107"/>
+    </Metadata>
+    <Page imageFilename="28448805683.jpg" imageWidth="952" imageHeight="772">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197433022" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="47,37 48,734 923,739 896,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="471,90 588,91 603,82 771,76 771,56 761,53 704,60 567,53 556,64 535,53 471,53"/>
+                <Baseline points="476,76 502,76 528,76 555,76 581,76 607,76 634,76 660,75 686,75 713,75 739,76 766,76"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.c.251</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654530668471_661" custom="readingOrder {index:1;}">
+                <Coords points="66,139 420,141 465,161 494,138 680,127 671,103 67,112"/>
+                <Baseline points="71,136 674,138"/>
+                <TextEquiv>
+                    <Unicode>Fauna Sinica: Crustacea: Freshwater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654530670575_666" custom="readingOrder {index:2;}">
+                <Coords points="61,170 231,170 240,166 240,142 176,142 161,149 153,141 132,145 79,141 70,150 61,150"/>
+                <Baseline points="66,168 235,168"/>
+                <TextEquiv>
+                    <Unicode>Cladocera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654530672181_671" custom="readingOrder {index:3;}">
+                <Coords points="75,226 158,226 169,216 187,231 232,224 306,229 306,185 287,197 198,196 190,189 75,195"/>
+                <Baseline points="80,221 301,224"/>
+                <TextEquiv>
+                    <Unicode>JIANG (Xiezhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="110,264 720,266 856,247 833,228 110,229"/>
+                <Baseline points="115,257 151,257 188,257 225,257 262,257 299,257 335,256 372,256 409,255 446,255 483,254 519,254 556,253 593,253 630,252 667,252 703,252 740,252 777,253 814,254 851,254"/>
+                <TextEquiv>
+                    <Unicode>Zhong guo dong wu zhi : Jie zhi dong wu men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195209828_625" custom="readingOrder {index:5;}">
+                <Coords points="752,461 847,463 846,513 751,511"/>
+                <Baseline points="751,506 846,508"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="119,561 146,564 177,556 193,567 246,563 252,556 264,562 342,561 341,538 320,525 271,526 257,539 243,533 228,545 154,526 118,531"/>
+                <Baseline points="123,555 149,556 176,556 203,555 230,554 256,553 283,552 310,552 337,553"/>
+                <TextEquiv>
+                    <Unicode>297 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="118,593 368,593 368,573 316,560 262,567 118,564"/>
+                <Baseline points="123,587 149,587 176,586 203,586 229,585 256,585 283,585 309,585 336,586 363,587"/>
+                <TextEquiv>
+                    <Unicode>Includes index.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="117,629 221,624 263,634 295,623 460,634 460,605 420,597 383,605 359,592 344,605 309,597 296,610 250,597 117,597"/>
+                <Baseline points="122,621 147,620 173,620 198,620 224,620 250,620 275,621 301,621 326,622 352,623 378,623 403,624 429,624 455,624"/>
+                <TextEquiv>
+                    <Unicode>Added t.p. in Latin:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="117,682 727,690 832,682 832,644 532,654 200,629 164,658 117,645"/>
+                <Baseline points="122,673 157,672 192,672 227,671 263,671 298,671 333,671 368,671 404,671 439,671 474,671 509,671 545,672 580,672 615,672 650,672 686,672 721,672 756,672 791,672 827,672"/>
+                <TextEquiv>
+                    <Unicode>t1. Fauna Sinica: Crustacea: Freshwater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="107,743 356,738 356,701 332,685 297,700 271,684 240,689 223,682 198,691 107,685"/>
+                <Baseline points="112,711 138,712 165,713 191,712 218,712 244,711 271,711 297,711 324,711 351,712"/>
+                <TextEquiv>
+                    <Unicode>Cladocera. s1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="506,721 517,716 562,720 568,714 624,713 640,714 648,722 686,721 687,687 652,692 625,685 601,692 572,686 562,693 543,687 506,699"/>
+                <Baseline points="511,707 539,708 567,709 596,709 624,709 652,710 681,712"/>
+                <TextEquiv>
+                    <Unicode>s1.Zoology</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.c.251&#13;
+Fauna Sinica: Crustacea: Freshwater&#13;
+Cladocera&#13;
+JIANG (Xiezhi)&#13;
+Zhong guo dong wu zhi : Jie zhi dong wu men&#13;
+1979&#13;
+297 p.: ill.&#13;
+Includes index.&#13;
+Added t.p. in Latin:&#13;
+t1. Fauna Sinica: Crustacea: Freshwater&#13;
+Cladocera. s1.&#13;
+s1.Zoology</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

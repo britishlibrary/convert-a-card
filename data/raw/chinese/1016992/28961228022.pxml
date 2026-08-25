@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.419+01:00</Created>
+        <LastChange>2023-05-16T11:41:44.895+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758368" pageNr="204" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961228022.jpg" imageWidth="980" imageHeight="822">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684230104895" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="53,61 57,579 915,577 911,59"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="566,126 662,130 684,119 715,130 735,120 747,130 766,130 820,117 820,103 791,86 770,94 738,85 724,99 566,93"/>
+                <Baseline points="571,119 598,119 625,119 652,118 679,118 706,118 733,118 760,119 787,119 815,119"/>
+                <TextEquiv>
+                    <Unicode>15235.a.749</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="69,209 199,210 207,207 207,165 183,166 176,173 148,173 141,180 117,180 106,173 69,173"/>
+                <Baseline points="74,200 99,199 125,199 150,199 176,200 202,199"/>
+                <TextEquiv>
+                    <Unicode>FAR EAST</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="61,266 864,254 826,229 61,228"/>
+                <Baseline points="66,256 105,256 145,256 184,256 224,256 264,256 303,255 343,255 383,255 422,255 462,255 502,255 541,255 581,255 621,255 660,254 700,254 740,254 779,254 819,253 859,253"/>
+                <TextEquiv>
+                    <Unicode>CHICAGO. University of Chicago. Committee on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="97,299 913,298 912,269 816,261 97,266"/>
+                <Baseline points="103,291 143,291 183,291 223,291 264,291 304,290 344,290 384,290 425,290 465,289 505,289 545,289 586,289 626,289 666,289 706,289 747,289 787,289 827,289 867,290 908,290"/>
+                <TextEquiv>
+                    <Unicode>Far Eastern Studies and the University Library.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="98,402 881,389 837,365 98,365"/>
+                <Baseline points="103,392 141,392 180,392 218,392 257,392 296,392 334,392 373,392 412,392 450,392 489,392 528,392 566,392 605,392 644,392 682,392 721,392 760,392 798,392 837,392 876,392"/>
+                <TextEquiv>
+                    <Unicode>Far East. An exhibition of resources in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="102,439 597,442 624,434 624,407 101,405"/>
+                <Baseline points="107,429 132,429 158,428 183,428 209,428 235,428 260,428 286,428 311,428 337,428 363,427 388,427 414,427 439,427 465,426 491,426 516,426 542,425 567,425 593,424 619,424"/>
+                <TextEquiv>
+                    <Unicode>University of Chicago library.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="93,474 665,469 665,449 629,436 560,436 529,455 502,437 93,437"/>
+                <Baseline points="98,465 126,464 154,464 182,463 210,463 238,462 266,462 294,462 322,462 350,462 379,462 407,462 435,462 463,462 491,462 519,462 547,462 575,462 603,462 631,462 660,461"/>
+                <TextEquiv>
+                    <Unicode>Pages unnumbered; illus. 22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="101,546 889,536 869,501 780,520 687,500 101,509"/>
+                <Baseline points="106,534 144,534 183,533 222,533 261,532 300,532 339,531 378,531 417,531 456,531 495,530 533,530 572,530 611,530 650,531 689,531 728,531 767,532 806,532 845,532 884,533"/>
+                <TextEquiv>
+                    <Unicode>The Joseph Regenstein Library: Chicago, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15235.a.749&#13;
+FAR EAST&#13;
+CHICAGO. University of Chicago. Committee on&#13;
+Far Eastern Studies and the University Library.&#13;
+Far East. An exhibition of resources in the&#13;
+University of Chicago library.&#13;
+Pages unnumbered; illus. 22 cm.&#13;
+The Joseph Regenstein Library: Chicago, 1973.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

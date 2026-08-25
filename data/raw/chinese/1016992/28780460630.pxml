@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.507+01:00</Created>
+        <LastChange>2023-05-04T12:53:57.508+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758301" pageNr="145"/>
+    </Metadata>
+    <Page imageFilename="28780460630.jpg" imageWidth="980" imageHeight="797">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197637508" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="72,92 71,622 937,622 938,92"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="618,131 811,130 917,146 942,134 942,86 926,97 891,85 860,96 806,93 790,106 618,101"/>
+                <Baseline points="623,124 649,125 675,125 701,124 727,124 753,124 780,124 806,124 832,124 858,124 884,126 910,127 937,128"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1249-50.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="96,189 221,194 281,183 344,194 352,186 407,185 408,157 97,148"/>
+                <Baseline points="101,176 126,175 151,175 176,175 201,175 226,175 251,176 276,176 301,176 326,177 351,177 376,177 402,178"/>
+                <TextEquiv>
+                    <Unicode>FEI-JIN SHU CAI LIAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="66,277 84,282 93,274 154,269 286,279 287,223 260,239 190,239 175,229 151,244 139,236 67,236"/>
+                <Baseline points="71,258 97,260 123,261 149,262 176,262 202,262 228,262 254,263 281,266"/>
+                <TextEquiv>
+                    <Unicode>FENG (Xiong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="103,378 771,378 771,347 744,341 494,338 462,358 103,344"/>
+                <Baseline points="108,363 140,364 173,365 206,365 239,366 272,366 305,367 338,367 371,367 404,367 437,367 469,367 502,367 535,367 568,367 601,368 634,368 667,368 700,368 733,369 766,369"/>
+                <TextEquiv>
+                    <Unicode>Fei-jinshu cailiao. [On non-metallic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="102,410 306,405 406,418 508,405 478,381 342,388 327,379 306,395 241,378 102,381"/>
+                <Baseline points="107,400 133,401 159,402 186,402 212,403 239,403 265,403 291,403 318,403 344,403 371,403 397,403 423,404 450,404 476,404 503,405"/>
+                <TextEquiv>
+                    <Unicode>materials. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="104,449 528,450 537,423 424,412 399,429 367,413 196,413 179,425 105,414"/>
+                <Baseline points="110,438 136,438 162,438 189,438 215,438 241,438 268,438 294,439 321,439 347,439 373,439 400,439 426,439 452,439 479,439 505,439 532,439"/>
+                <TextEquiv>
+                    <Unicode>pps. 193; tables, illus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="708,451 799,450 798,421 752,421 743,412 707,413"/>
+                <Baseline points="713,439 740,439 767,439 794,438"/>
+                <TextEquiv>
+                    <Unicode>18cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="109,514 817,522 817,494 782,477 713,499 109,485"/>
+                <Baseline points="114,506 148,506 183,506 218,506 253,507 288,507 323,507 358,507 393,508 428,508 463,508 497,509 532,509 567,509 602,509 637,510 672,510 707,510 742,510 777,511 812,511"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="106,586 741,594 741,547 342,565 106,549"/>
+                <Baseline points="111,575 142,576 173,577 204,577 236,577 267,578 298,578 329,578 361,578 392,578 423,578 454,578 486,578 517,578 548,578 579,579 611,579 642,579 673,580 704,581 736,582"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no.1249-50 [in 1 vol.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1249-50.&#13;
+FEI-JIN SHU CAI LIAO&#13;
+FENG (Xiong)&#13;
+Fei-jinshu cailiao. [On non-metallic&#13;
+materials. A reprint.]&#13;
+pps. 193; tables, illus.&#13;
+18cm.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1969.&#13;
+Renren wenku, no.1249-50 [in 1 vol.]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

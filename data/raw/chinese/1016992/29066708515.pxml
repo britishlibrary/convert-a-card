@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.326+01:00</Created>
+        <LastChange>2023-08-16T15:17:51.892+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758579" pageNr="385" tsid="128197521" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=SVCFZKQUKFVXUSMYLLDWITIW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNOVLZOABUQJNOLCCHWDQSYF" imageId="35195885"/>
+    </Metadata>
+    <Page imageFilename="42758579.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191871892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="41,37 845,37 845,732 41,732"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="610,91 675,99 709,90 722,103 747,106 759,95 773,106 801,90 844,106 845,40 823,48 803,33 786,42 759,26 739,41 721,24 700,21 663,35 611,26"/>
+                <Baseline points="615,89 630,89 654,91 678,89 702,87 726,87 750,87 774,87 797,87 821,87 845,87"/>
+                <TextEquiv>
+                    <Unicode>15530.d.23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="36,191 453,178 453,137 340,134 306,149 223,137 199,154 101,145 70,114 36,107"/>
+                <Baseline points="41,175 47,175 71,174 95,175 119,175 143,175 167,174 191,174 215,174 239,174 263,174 287,174 311,174 335,172 359,172 383,172 407,172 431,172 455,174"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHAO LING PORTFOLIO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="47,248 125,243 139,233 154,242 327,239 327,190 288,207 236,200 194,208 152,195 86,209 70,197 47,208"/>
+                <Baseline points="52,231 76,231 100,231 124,231 148,233 172,231 196,231 220,231 244,230 268,230 292,230 316,231 329,231"/>
+                <TextEquiv>
+                    <Unicode>FANG (Zhaoling)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="84,300 113,314 267,301 323,314 352,299 581,297 581,271 458,260 386,277 299,261 240,276 216,259 177,276 84,273"/>
+                <Baseline points="89,297 103,299 127,299 151,299 175,300 199,299 223,299 247,297 271,299 295,297 319,297 343,297 367,295 391,295 415,295 439,294 463,294 487,294 511,292 535,292 559,292 583,292"/>
+                <TextEquiv>
+                    <Unicode>Fang Zhao ling zuo pin xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="71,387 800,383 799,336 552,340 499,364 452,322 393,349 307,321 267,351 225,311 119,345 70,329"/>
+                <Baseline points="76,369 99,374 123,374 147,374 171,374 195,374 219,372 243,371 267,371 291,372 315,371 339,369 363,369 387,371 410,371 434,372 458,372 482,374 506,374 530,374 554,372 578,372 602,374 626,374 650,374 674,374 698,374 722,374 746,375 770,375 794,377 801,379"/>
+                <TextEquiv>
+                    <Unicode>5 e  /7 S5.[ Fertfolle Fang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="62,439 839,449 839,408 305,405 244,430 62,402"/>
+                <Baseline points="67,436 91,438 115,438 139,438 163,439 187,439 211,439 235,439 259,441 283,439 307,439 331,439 355,439 379,439 402,439 426,439 450,439 474,439 498,439 522,439 546,439 570,439 594,441 618,439 642,439 666,439 690,439 714,441 738,439 762,439 786,441 810,442 834,442 841,444"/>
+                <TextEquiv>
+                    <Unicode>Zhaoling. - Hong Kong: Hong Kong University</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="66,494 151,498 161,506 196,493 209,506 241,514 268,501 267,458 235,452 214,466 202,459 184,478 145,458 129,458 119,468 90,457 65,460"/>
+                <Baseline points="71,489 95,489 119,490 143,492 167,492 191,492 215,492 239,490 263,492 270,492"/>
+                <TextEquiv>
+                    <Unicode>Press. 1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="100,594 147,572 187,592 212,573 225,586 240,577 286,586 322,569 337,578 423,571 433,541 396,529 377,547 362,533 290,545 276,533 176,533 163,522 145,534 133,521 101,534"/>
+                <Baseline points="105,569 123,569 147,569 171,569 195,569 219,570 243,569 267,569 291,569 315,569 339,567 363,566 387,564 410,564 434,564"/>
+                <TextEquiv>
+                    <Unicode>76 p.: ill.; 41 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="749,722 779,720 805,727 814,721 824,730 840,729 835,656 817,659 805,672 795,664 776,667 765,664 760,671 746,675"/>
+                <Baseline points="754,718 778,716 802,718 826,721 841,722"/>
+                <TextEquiv>
+                    <Unicode>ch1-9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

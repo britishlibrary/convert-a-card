@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.317+01:00</Created>
+        <LastChange>2023-05-10T17:12:37.070+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758361" pageNr="198"/>
+    </Metadata>
+    <Page imageFilename="28961220862.jpg" imageWidth="976" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731557071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="80,65 79,571 879,573 880,67"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="557,107 789,106 804,99 804,75 792,69 734,69 723,80 679,69 667,81 655,69 557,71"/>
+                <Baseline points="562,97 588,97 614,98 641,98 667,98 693,99 720,99 746,98 772,97 799,96"/>
+                <TextEquiv>
+                    <Unicode>15278.b.112</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="89,171 397,162 396,95 88,98"/>
+                <Baseline points="94,157 121,157 148,157 175,156 202,156 229,155 256,154 283,154 310,154 337,154 364,155 392,156"/>
+                <TextEquiv>
+                    <Unicode>FEI ZHOU LIE GUO ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731517900_2254" custom="readingOrder {index:2;}">
+                <Coords points="95,196 344,196 344,246 95,246"/>
+                <Baseline points="95,241 344,241"/>
+                <TextEquiv>
+                    <Unicode>ZHU (Tianming)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="133,409 768,410 776,370 729,387 495,373 477,391 436,373 133,373"/>
+                <Baseline points="138,399 169,400 201,400 232,400 264,401 296,401 327,401 359,401 391,401 422,401 454,401 486,401 517,401 549,401 581,401 612,401 644,401 676,401 707,401 739,402 771,402"/>
+                <TextEquiv>
+                    <Unicode>Feizhou lieguo zhi. [Descriptions of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="134,442 745,445 745,423 713,413 629,411 607,428 585,413 134,413"/>
+                <Baseline points="139,434 169,434 199,434 229,435 259,435 289,435 319,435 349,435 379,435 409,435 439,435 469,435 499,435 529,435 559,435 589,435 619,435 649,435 679,435 709,436 756,435"/>
+                <TextEquiv>
+                    <Unicode>the individual countries in Africa.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="136,482 283,477 328,491 343,482 407,482 407,460 350,445 335,453 304,445 279,462 246,461 216,445 165,455 136,445"/>
+                <Baseline points="141,469 167,470 193,470 219,470 245,471 271,471 297,471 323,470 349,470 375,470 402,471"/>
+                <TextEquiv>
+                    <Unicode>2 vols. plates.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="663,482 703,481 711,474 719,482 772,481 773,461 766,460 757,452 715,454 699,444 664,446"/>
+                <Baseline points="668,470 701,470 734,470 767,472"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="126,546 885,542 850,508 126,514"/>
+                <Baseline points="131,539 168,540 205,540 243,540 280,540 318,540 355,540 393,540 430,540 468,540 505,540 542,540 580,540 617,540 655,540 692,540 730,540 767,541 805,541 842,541 880,542"/>
+                <TextEquiv>
+                    <Unicode>Xianggang yiqun chubanshe: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15278.b.112&#13;
+FEI ZHOU LIE GUO ZHI&#13;
+ZHU (Tianming)&#13;
+Feizhou lieguo zhi. [Descriptions of&#13;
+the individual countries in Africa.]&#13;
+2 vols. plates.&#13;
+19 cm.&#13;
+Xianggang yiqun chubanshe: Hong Kong, 1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

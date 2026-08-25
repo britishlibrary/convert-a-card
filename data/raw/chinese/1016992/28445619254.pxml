@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.462+01:00</Created>
+        <LastChange>2023-05-03T17:48:06.521+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758178" pageNr="38"/>
+    </Metadata>
+    <Page imageFilename="28445619254.jpg" imageWidth="964" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128886521" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="15,34 20,600 912,603 924,43"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="615,93 869,96 869,70 854,61 798,61 780,79 759,61 735,70 696,60 615,62"/>
+                <Baseline points="621,87 648,89 675,89 702,90 729,89 756,89 783,89 810,89 837,89 864,89"/>
+                <TextEquiv>
+                    <Unicode>15675.d.159</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="21,191 41,195 64,184 140,187 162,181 191,194 235,194 236,145 162,146 152,156 120,156 49,149 22,139"/>
+                <Baseline points="27,178 69,177 96,177 123,177 149,178 176,179 203,180 230,181"/>
+                <TextEquiv>
+                    <Unicode>FEI HUA YONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="59,234 120,235 131,229 181,235 197,228 278,234 295,223 291,197 60,197"/>
+                <Baseline points="65,221 93,221 121,222 149,222 177,222 205,222 233,222 261,222 289,222"/>
+                <TextEquiv>
+                    <Unicode>FEI HUA YONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="91,302 226,297 241,307 320,303 320,279 282,276 275,269 161,274 91,268"/>
+                <Baseline points="96,291 123,292 150,292 178,292 205,293 232,293 260,294 287,295 315,297"/>
+                <TextEquiv>
+                    <Unicode>Fei hua yong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128876271_608" custom="readingOrder {index:4;}">
+                <Coords points="490,331 545,334 543,384 488,381"/>
+                <Baseline points="488,376 543,379"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283205351_693" custom="readingOrder {index:5;}">
+                <Coords points="58,364 287,362 287,412 58,414"/>
+                <Baseline points="58,409 287,407"/>
+                <TextEquiv>
+                    <Unicode>[4], 157 p. : 1 cm,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283241215_704" custom="readingOrder {index:6;}">
+                <Coords points="62,422 357,423 357,473 62,472"/>
+                <Baseline points="62,467 357,468"/>
+                <TextEquiv>
+                    <Unicode>Reprint ef the early Qing,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283256808_711" custom="readingOrder {index:7;}">
+                <Coords points="477,419 514,417 516,467 479,469"/>
+                <Baseline points="479,464 516,462"/>
+                <TextEquiv>
+                    <Unicode>ed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283283162_724" custom="readingOrder {index:8;}">
+                <Coords points="60,446 227,446 227,496 60,496"/>
+                <Baseline points="60,491 227,491"/>
+                <TextEquiv>
+                    <Unicode>Preface signed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283315014_739" custom="readingOrder {index:9;}">
+                <Coords points="66,502 289,504 289,554 66,552"/>
+                <Baseline points="66,547 289,549"/>
+                <TextEquiv>
+                    <Unicode>I. Title. II. Title:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283331062_746" custom="readingOrder {index:10;}">
+                <Coords points="739,502 861,503 861,553 739,552"/>
+                <Baseline points="739,547 861,548"/>
+                <TextEquiv>
+                    <Unicode>III. Title:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283362906_762" custom="readingOrder {index:11;}">
+                <Coords points="160,525 277,526 277,576 160,575"/>
+                <Baseline points="160,570 277,571"/>
+                <TextEquiv>
+                    <Unicode>IV. Series.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.d.159&#13;
+FEI HUA YONG&#13;
+FEI HUA YONG&#13;
+Fei hua yong&#13;
+1983&#13;
+[4], 157 p. : 1 cm,&#13;
+Reprint ef the early Qing,&#13;
+ed.&#13;
+Preface signed&#13;
+I. Title. II. Title:&#13;
+III. Title:&#13;
+IV. Series.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

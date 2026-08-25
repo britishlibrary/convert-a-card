@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.885+01:00</Created>
+        <LastChange>2023-05-04T12:50:58.666+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758263" pageNr="112"/>
+    </Metadata>
+    <Page imageFilename="28448811133.jpg" imageWidth="1004" imageHeight="812">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197458666" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="113,114 107,654 913,661 919,114"/>
+            <TextLine id="line_1654530703754_700" custom="readingOrder {index:0;}">
+                <Coords points="573,146 593,146 600,154 678,154 692,144 736,154 745,145 772,146 791,135 791,114 785,113 754,113 745,122 703,117 694,126 673,126 649,111 630,109 589,111 574,119"/>
+                <Baseline points="578,148 785,150"/>
+                <TextEquiv>
+                    <Unicode>15684.c.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="109,224 153,225 168,233 183,218 245,216 254,225 272,226 280,218 326,213 325,174 220,181 209,192 175,173 108,180"/>
+                <Baseline points="113,207 138,208 164,209 190,209 216,209 242,208 268,208 294,207 320,206"/>
+                <TextEquiv>
+                    <Unicode>FAN YI YAN JIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="112,282 300,291 312,280 392,318 399,210 352,222 316,253 301,244 265,254 186,242 175,252 114,245"/>
+                <Baseline points="117,271 144,272 171,273 198,273 225,273 252,273 279,275 306,277"/>
+                <TextEquiv>
+                    <Unicode>CAI (Siguo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="144,417 530,427 609,412 661,426 647,389 491,383 450,399 418,382 374,403 329,380 301,395 144,381"/>
+                <Baseline points="149,408 174,409 199,410 225,411 250,411 275,412 301,412 326,412 351,413 377,413 402,413 427,413 453,413 478,413 503,413 529,413 554,413 579,413 605,413 630,413 822,420"/>
+                <TextEquiv>
+                    <Unicode>Fanyi yanjiu. [A study in translation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="145,450 392,466 579,454 635,468 739,458 742,424 146,425"/>
+                <Baseline points="151,445 177,445 203,446 229,446 256,447 282,447 308,447 334,448 361,448 387,448 413,448 439,449 466,449 492,449 518,449 544,449 571,450 597,450 623,450 649,450 747,452"/>
+                <TextEquiv>
+                    <Unicode>mainly from English into Chinese.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="146,498 172,498 180,491 203,487 252,491 257,497 283,490 283,466 257,453 239,461 219,457 202,471 184,462 147,460"/>
+                <Baseline points="152,481 177,483 202,483 227,483 252,482 278,483"/>
+                <TextEquiv>
+                    <Unicode>pp. 269.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="743,491 761,498 792,498 800,490 813,498 860,497 861,472 847,477 840,469 826,468 812,460 794,464 744,459"/>
+                <Baseline points="748,485 774,485 801,485 828,486 855,489"/>
+                <TextEquiv>
+                    <Unicode>23 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="144,562 468,558 758,571 759,531 295,525 279,540 232,525 144,525"/>
+                <Baseline points="149,550 175,551 202,551 228,552 255,552 281,552 308,552 334,552 361,553 387,553 414,553 440,553 467,553 493,553 520,554 764,559"/>
+                <TextEquiv>
+                    <Unicode>Youlian chubanshe: Hong Kong, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="143,626 399,629 408,639 550,631 550,615 504,597 274,606 143,590"/>
+                <Baseline points="148,619 174,619 200,620 227,620 253,621 280,621 306,621 333,621 359,622 386,622 412,622 439,622 465,623 492,623 518,624 545,624"/>
+                <TextEquiv>
+                    <Unicode>Youlian xueshu congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15684.c.2&#13;
+FAN YI YAN JIU&#13;
+CAI (Siguo)&#13;
+Fanyi yanjiu. [A study in translation&#13;
+mainly from English into Chinese.]&#13;
+pp. 269.&#13;
+23 cm.&#13;
+Youlian chubanshe: Hong Kong, 1972.&#13;
+Youlian xueshu congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

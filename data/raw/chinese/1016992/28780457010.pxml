@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.425+01:00</Created>
+        <LastChange>2023-05-04T12:52:38.008+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758294" pageNr="140"/>
+    </Metadata>
+    <Page imageFilename="28780457010.jpg" imageWidth="960" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197558008" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="44,14 45,600 939,600 938,14"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="609,59 847,52 847,27 818,13 785,18 774,30 753,21 712,28 692,17 609,23"/>
+                <Baseline points="614,49 639,48 664,48 690,48 715,48 740,48 766,48 791,48 816,48 842,47"/>
+                <TextEquiv>
+                    <Unicode>15406.c.16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="79,129 585,123 630,147 703,119 702,89 79,97"/>
+                <Baseline points="84,122 114,122 145,122 175,122 206,122 237,122 267,122 298,122 329,122 359,122 390,122 421,122 451,122 482,122 513,121 543,121 574,121 605,121 635,120 666,120 697,120"/>
+                <TextEquiv>
+                    <Unicode>FEN SUI GONG FEI DE TONG ZHAN YIN MO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="48,202 680,194 701,153 48,163"/>
+                <Baseline points="53,188 85,188 117,188 149,187 181,187 213,187 245,186 278,186 310,186 342,185 374,185 406,185 438,184 470,184 503,184 535,183 567,183 599,182 631,182 663,181 696,181"/>
+                <TextEquiv>
+                    <Unicode>FEN SUI GONG FEI DE TONG ZHAN YIN MO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="115,266 661,267 757,258 771,233 181,243 114,228"/>
+                <Baseline points="120,258 152,258 184,258 216,258 249,258 281,258 313,258 346,257 378,257 410,256 443,256 475,255 507,255 539,254 572,254 604,253 636,253 669,253 701,253 733,253 766,253"/>
+                <TextEquiv>
+                    <Unicode>Fen sui gong fei de tong zhan yin mo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513552745_565" custom="readingOrder {index:4;}">
+                <Coords points="525,373 661,371 662,421 526,423"/>
+                <Baseline points="526,418 662,416"/>
+                <TextEquiv>
+                    <Unicode>1979?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="118,474 606,475 783,466 783,444 698,428 287,450 117,436"/>
+                <Baseline points="123,464 155,464 188,464 221,464 254,464 286,464 319,464 352,463 385,463 417,463 450,462 483,462 516,461 548,461 581,461 614,460 647,460 679,459 712,459 745,458 778,458"/>
+                <TextEquiv>
+                    <Unicode>20 sheets of photographs; 77 x 55 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="118,545 932,537 931,500 117,508"/>
+                <Baseline points="123,533 163,533 203,533 243,533 283,532 323,532 363,532 404,531 444,531 484,530 524,530 564,530 604,529 644,529 685,528 725,528 765,528 805,527 845,527 885,527 926,527"/>
+                <TextEquiv>
+                    <Unicode>Posters attacking the communists reunification</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="123,580 220,578 219,548 188,548 178,542 170,549 158,549 149,541 134,549 122,548"/>
+                <Baseline points="127,570 156,568 185,568 215,567"/>
+                <TextEquiv>
+                    <Unicode>plans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15406.c.16&#13;
+FEN SUI GONG FEI DE TONG ZHAN YIN MO&#13;
+FEN SUI GONG FEI DE TONG ZHAN YIN MO&#13;
+Fen sui gong fei de tong zhan yin mo&#13;
+1979?&#13;
+20 sheets of photographs; 77 x 55 cm.&#13;
+Posters attacking the communists reunification&#13;
+plans</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.682+01:00</Created>
+        <LastChange>2023-07-03T17:09:38.620+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758531" pageNr="343" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=WAIJLBLLAIJYSHAHMXCBMBHS&amp;fileType=view" imageId="35195837"/>
+    </Metadata>
+    <Page imageFilename="42758531.jpg" imageWidth="956" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396978620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="57,13 945,11 945,737 57,739"/>
+            <TextLine id="line_1688396891799_2045" custom="readingOrder {index:0;}">
+                <Coords points="590,26 821,29 820,79 589,76"/>
+                <Baseline points="589,71 820,74"/>
+                <TextEquiv>
+                    <Unicode>15625.a.26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="53,153 100,133 394,137 394,91 363,82 342,91 331,80 301,103 276,86 230,103 218,91 174,99 148,83 127,94 53,79"/>
+                <Baseline points="58,127 82,127 106,127 130,127 154,127 178,127 202,127 226,127 250,127 273,127 297,127 321,127 345,127 369,127 393,127 396,127"/>
+                <TextEquiv>
+                    <Unicode>FA XUE JI CHU LI LAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="53,205 131,197 152,210 169,201 216,200 231,210 249,201 282,210 281,159 201,170 151,160 137,172 123,159 106,166 90,158 52,163"/>
+                <Baseline points="57,194 81,194 105,194 129,194 152,195 176,195 200,195 224,195 248,195 272,200 283,200"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Shouyi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="162,273 260,264 272,274 305,260 319,272 400,262 456,269 456,237 335,229 323,241 261,242 247,229 226,245 187,245 162,231"/>
+                <Baseline points="167,264 191,264 215,264 238,264 262,264 286,265 310,264 334,264 358,264 382,264 406,264 430,264 453,264 457,264"/>
+                <TextEquiv>
+                    <Unicode>fa xue ji chu ji lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="159,389 169,394 248,394 255,387 262,394 321,393 321,354 296,355 286,365 271,354 260,359 234,354 228,360 219,354 159,357"/>
+                <Baseline points="164,385 179,383 203,382 227,383 251,382 275,383 299,383 323,382"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:5;}">
+                <Coords points="65,698 120,698 132,686 144,698 176,702 216,698 224,690 236,698 291,695 291,669 201,662 178,671 168,661 160,668 79,667 65,658"/>
+                <Baseline points="70,691 93,691 117,691 141,692 165,692 189,692 213,691 237,691 261,691 285,691 293,691"/>
+                <TextEquiv>
+                    <Unicode>D90 34.03 D90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:6;}">
+                <Coords points="65,735 309,735 309,700 65,701"/>
+                <Baseline points="70,729 71,729 95,727 119,726 143,729 167,729 191,729 215,727 238,729 262,729 286,727 310,726"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688396895638_2050" custom="readingOrder {index:7;}">
+                <Coords points="770,619 903,616 904,666 771,669"/>
+                <Baseline points="771,664 904,661"/>
+                <TextEquiv>
+                    <Unicode>54-53[80]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688396897757_2055" custom="readingOrder {index:8;}">
+                <Coords points="709,650 908,647 909,697 710,700"/>
+                <Baseline points="710,695 909,692"/>
+                <TextEquiv>
+                    <Unicode>80-17-65 [16]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688396899972_2060" custom="readingOrder {index:9;}">
+                <Coords points="679,688 901,685 902,735 680,738"/>
+                <Baseline points="680,733 902,730"/>
+                <TextEquiv>
+                    <Unicode>6209.4 81-4809</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.26&#13;
+FA XUE JI CHU LI LAN&#13;
+CHEN (Shouyi)&#13;
+fa xue ji chu ji lun&#13;
+1981&#13;
+D90 34.03 D90&#13;
+1981&#13;
+54-53[80]&#13;
+80-17-65 [16]&#13;
+6209.4 81-4809</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.451+01:00</Created>
+        <LastChange>2023-07-03T16:47:50.574+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758513" pageNr="327" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=XSSCMALIQBMNBSXLQEIUSLOW&amp;fileType=view" imageId="35195819"/>
+    </Metadata>
+    <Page imageFilename="42758513.jpg" imageWidth="984" imageHeight="810">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395670574" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="98,69 916,69 916,719 98,719"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="585,128 704,130 712,123 740,131 759,122 771,130 829,130 829,89 771,89 744,106 724,90 700,106 686,92 610,95 585,80"/>
+                <Baseline points="590,124 609,124 634,122 659,122 683,122 708,124 732,124 757,122 782,122 806,121 831,119"/>
+                <TextEquiv>
+                    <Unicode>15222.e.300</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="93,182 130,194 178,181 352,182 352,160 319,134 200,141 181,161 151,134 93,135"/>
+                <Baseline points="98,178 122,178 147,177 172,178 196,178 221,178 245,178 270,178 295,178 319,178 344,178 354,178"/>
+                <TextEquiv>
+                    <Unicode>FANG MEI ZAGAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="99,260 168,266 176,274 196,262 210,274 224,265 274,274 293,265 355,271 355,226 327,237 274,238 253,228 99,230"/>
+                <Baseline points="104,259 111,257 136,257 160,257 185,257 209,259 234,257 259,257 283,257 308,255 332,257 357,255"/>
+                <TextEquiv>
+                    <Unicode>ZHOU (Jingwen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="142,437 862,433 836,393 452,394 425,419 392,398 300,417 280,397 142,398"/>
+                <Baseline points="147,429 150,429 175,429 200,429 224,427 249,429 273,429 298,427 323,429 347,429 372,429 396,429 421,429 445,429 470,427 495,427 519,427 544,427 568,427 593,427 618,427 642,427 667,426 691,426 716,426 741,426 765,426 790,426 814,426 839,424 864,426"/>
+                <TextEquiv>
+                    <Unicode>Fang Mei zagan. [Account of the author's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="142,469 368,466 432,490 490,464 554,482 847,471 847,447 806,434 142,443"/>
+                <Baseline points="147,465 172,465 196,465 221,464 245,464 270,464 295,464 319,464 344,464 368,464 393,464 418,464 442,464 467,462 491,464 516,464 541,462 565,464 590,462 614,464 639,462 664,462 688,462 713,462 737,464 762,462 787,462 811,462 836,464 849,465"/>
+                <TextEquiv>
+                    <Unicode>lecture tour in the United States, 1967.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="147,513 180,515 188,510 200,514 212,502 255,506 263,514 280,512 293,506 294,482 244,472 236,476 231,471 199,488 182,475 148,475"/>
+                <Baseline points="152,505 172,501 196,501 221,501 245,501 270,501 295,501"/>
+                <TextEquiv>
+                    <Unicode>pp. 104.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="731,506 775,506 783,499 791,506 845,505 845,485 838,485 825,472 810,477 792,475 784,483 766,469 745,467 731,475"/>
+                <Baseline points="736,496 760,498 785,496 810,496 834,498 847,500"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="139,571 760,574 760,542 732,530 139,544"/>
+                <Baseline points="144,567 147,567 172,567 196,567 221,567 245,567 270,568 295,567 319,568 344,568 368,567 393,567 418,567 442,565 467,565 491,565 516,567 541,567 565,567 590,567 614,567 639,568 664,567 688,567 713,567 737,565 762,565"/>
+                <TextEquiv>
+                    <Unicode>Shidai piping she: Hong Kong, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15222.e.300&#13;
+FANG MEI ZAGAN&#13;
+ZHOU (Jingwen)&#13;
+Fang Mei zagan. [Account of the author's&#13;
+lecture tour in the United States, 1967.]&#13;
+pp. 104.&#13;
+19 cm.&#13;
+Shidai piping she: Hong Kong, 1970.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

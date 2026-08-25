@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.466+01:00</Created>
+        <LastChange>2023-06-27T10:25:21.477+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758372" pageNr="207"/>
+    </Metadata>
+    <Page imageFilename="28961229572.jpg" imageWidth="980" imageHeight="823">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687854321477" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,38 39,649 865,639 868,33"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="500,67 534,74 544,66 688,65 695,73 727,74 752,65 752,33 731,29 710,29 685,48 646,29 616,44 598,28 557,26 524,36 500,30"/>
+                <Baseline points="505,62 531,61 558,60 585,60 612,60 639,61 666,62 693,62 720,62 747,62"/>
+                <TextEquiv>
+                    <Unicode>15266.fe.37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="119,131 173,139 181,130 364,123 421,130 440,122 440,96 397,86 262,93 190,84 119,94"/>
+                <Baseline points="124,119 149,119 175,118 201,118 227,118 253,117 279,117 305,117 331,117 357,117 383,117 409,118 435,120"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHENG XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="34,202 259,202 259,187 34,187"/>
+                <Baseline points="34,202 259,202"/>
+                <TextEquiv>
+                    <Unicode>YANG (Buchi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="71,338 859,338 859,313 816,301 446,300 425,321 381,292 328,315 71,301"/>
+                <Baseline points="76,329 114,329 153,329 192,329 231,329 270,330 309,330 348,330 387,330 426,330 465,330 503,330 542,331 581,331 620,330 659,330 698,330 737,330 776,330 815,329 854,329"/>
+                <TextEquiv>
+                    <Unicode>Fangzheng xian zhi. [Description of the dis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="81,372 787,366 772,341 595,341 575,359 81,341"/>
+                <Baseline points="86,363 120,364 155,365 190,365 225,366 260,366 294,366 329,366 364,366 399,366 434,366 468,366 503,366 538,366 573,366 608,366 642,366 677,366 712,365 747,365 782,366"/>
+                <TextEquiv>
+                    <Unicode>trict in Songjiang province. Reprint of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="72,410 114,417 224,404 392,419 387,375 368,386 270,373 222,386 176,370 138,382 73,378"/>
+                <Baseline points="77,401 102,400 128,400 154,400 180,400 206,400 232,400 257,400 283,401 309,401 335,402 361,403 387,406"/>
+                <TextEquiv>
+                    <Unicode>the 1919 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="75,449 129,450 135,444 144,451 191,449 208,438 208,425 196,425 173,409 137,414 124,427 96,414 74,413"/>
+                <Baseline points="80,440 110,438 141,438 172,438 203,438"/>
+                <TextEquiv>
+                    <Unicode>pp. 98.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="641,441 672,450 678,450 691,438 697,444 731,444 745,450 761,447 761,421 743,420 736,413 700,414 695,419 684,412 671,412 664,405 641,406"/>
+                <Baseline points="646,436 673,434 701,435 728,436 756,436"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="73,513 653,514 653,490 618,477 167,487 73,469"/>
+                <Baseline points="78,505 106,506 135,506 163,506 192,506 220,506 249,506 277,506 306,506 334,506 363,505 391,505 420,505 448,505 477,506 505,506 534,506 562,506 591,507 619,507 648,508"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="76,589 808,590 808,560 619,540 517,565 76,549"/>
+                <Baseline points="81,577 117,577 153,577 189,577 225,577 261,577 297,577 333,577 369,577 405,576 442,576 478,576 514,576 550,576 586,576 622,576 658,577 694,577 730,578 766,578 803,579"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Dongbei difang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="75,634 109,635 119,627 134,626 135,605 129,605 114,590 76,589"/>
+                <Baseline points="80,621 129,622"/>
+                <TextEquiv>
+                    <Unicode>37.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266. fe. 37.
+FANG ZHENG XIAN ZHI
++
+
+YANG (Buchi)
+2
+
+A
+Fangzheng xian zhi. [Description of the dis¬
+trict in Songjiang province. Reprint of
+the 1919 edition.]
+27 em.
+pp. 98.
+Chengwen chubanshe: Taipei, 1974.
+Zhongguo fangzhi congshu. Dongbei difang,
+37.
+Chinese (P)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

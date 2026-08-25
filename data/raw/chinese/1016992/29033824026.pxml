@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.978+01:00</Created>
+        <LastChange>2023-07-03T17:39:10.098+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758554" pageNr="363" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=CMUNHOQKIAYHZADIBCVALJHA&amp;fileType=view" imageId="35195860"/>
+    </Metadata>
+    <Page imageFilename="42758554.jpg" imageWidth="980" imageHeight="813">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398750099" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="117,61 876,61 876,747 117,747"/>
+            <TextLine id="line_1688398720903_2671" custom="readingOrder {index:0;}">
+                <Coords points="555,73 841,70 841,120 555,123"/>
+                <Baseline points="555,118 841,115"/>
+                <TextEquiv>
+                    <Unicode>15408.b.245(1)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="120,184 546,186 546,149 499,137 486,149 337,146 319,164 301,146 246,135 209,154 120,156"/>
+                <Baseline points="125,181 132,179 156,181 181,179 205,179 230,179 254,179 279,179 303,179 328,179 352,179 377,179 401,179 426,179 450,177 475,177 499,177 524,177 548,177"/>
+                <TextEquiv>
+                    <Unicode>FANG SHI XIAN JU SHI XIAO GAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="112,247 187,246 208,266 235,248 262,250 270,258 316,257 316,209 285,209 277,217 237,217 229,209 204,209 194,217 180,209 112,209"/>
+                <Baseline points="117,243 142,243 166,243 191,243 215,243 239,243 264,243 288,243 313,244 318,243"/>
+                <TextEquiv>
+                    <Unicode>LIU (Xueqi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;}">
+                <Coords points="151,382 610,394 610,370 571,357 151,358"/>
+                <Baseline points="156,377 181,380 205,382 230,382 254,382 279,382 303,382 328,382 352,382 377,382 401,382 426,382 450,382 475,382 499,382 524,382 548,383 573,383 597,383 612,383"/>
+                <TextEquiv>
+                    <Unicode>Fangshixian jushi xiaogao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:4;}">
+                <Coords points="164,427 799,426 779,392 723,386 656,404 164,389"/>
+                <Baseline points="169,414 194,416 218,416 243,416 267,416 292,416 316,416 341,417 365,417 390,417 414,416 439,416 463,416 488,416 512,416 537,416 561,417 586,417 610,417 635,419 659,417 684,417 708,417 733,417 757,417 781,417 801,419"/>
+                <TextEquiv>
+                    <Unicode>[Poems and prose by the Song recluse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:5;}">
+                <Coords points="152,455 224,457 233,466 248,466 256,458 324,457 341,466 340,435 277,419 258,428 181,433 162,426 151,431"/>
+                <Baseline points="156,448 181,450 205,450 230,450 254,450 279,452 303,452 328,453 342,452"/>
+                <TextEquiv>
+                    <Unicode>A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:6;}">
+                <Coords points="152,487 182,491 188,486 198,495 215,490 227,498 252,498 251,469 236,469 227,461 217,460 202,460 196,466 188,466 182,460 151,461"/>
+                <Baseline points="156,484 181,484 205,484 230,486 254,486"/>
+                <TextEquiv>
+                    <Unicode>2 ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="674,496 713,497 724,487 736,498 752,497 756,493 761,498 786,498 785,466 769,465 763,459 757,465 743,462 721,465 708,454 673,452"/>
+                <Baseline points="679,486 703,488 728,486 752,486 777,488 788,488"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="153,560 732,569 732,530 702,516 637,536 567,519 495,534 153,524"/>
+                <Baseline points="158,553 182,553 207,553 231,553 256,553 280,555 305,555 329,553 354,555 378,555 403,555 427,553 452,553 476,553 501,553 525,553 550,553 574,553 599,553 623,555 648,555 672,556 697,555 721,555 734,556"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:9;}">
+                <Coords points="151,637 409,640 440,658 520,634 729,642 736,606 150,606"/>
+                <Baseline points="156,630 181,630 205,630 230,630 254,630 279,630 303,630 328,630 352,630 377,631 401,631 426,630 450,630 475,630 499,630 524,630 548,630 573,630 597,631 621,631 646,631 670,631 695,633 719,631 739,633"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben san ji, 245.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.b.245(1)&#13;
+FANG SHI XIAN JU SHI XIAO GAO&#13;
+LIU (Xueqi)&#13;
+Fangshixian jushi xiaogao.&#13;
+[Poems and prose by the Song recluse.&#13;
+A reprint.]&#13;
+2 ch.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, 1972.&#13;
+Siku quanshu zhenben san ji, 245.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

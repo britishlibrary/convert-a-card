@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.009+01:00</Created>
+        <LastChange>2023-05-04T12:45:27.601+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758205" pageNr="61"/>
+    </Metadata>
+    <Page imageFilename="28445627594.jpg" imageWidth="976" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197127602" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="76,106 73,680 947,684 950,110"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="621,154 924,148 924,131 845,109 831,117 818,109 783,127 744,124 735,133 710,117 621,117"/>
+                <Baseline points="626,143 652,143 679,143 705,144 732,144 759,145 785,145 812,145 839,146 865,146 892,147 919,147"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="92,194 304,203 409,186 562,202 680,193 696,158 92,165"/>
+                <Baseline points="97,186 126,187 156,187 186,187 215,187 245,187 275,187 304,187 334,186 364,186 394,185 423,185 453,184 483,184 512,184 542,184 572,184 601,184 631,186 661,186 691,188"/>
+                <TextEquiv>
+                    <Unicode>FAN ZHONG ZHEN GONG (CHENG MO) QUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633788301_604" custom="readingOrder {index:2;}">
+                <Coords points="86,236 320,236 320,286 86,286"/>
+                <Baseline points="86,281 320,281"/>
+                <TextEquiv>
+                    <Unicode>FAN (Chengmo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="120,414 435,426 617,409 641,426 736,420 757,400 720,380 121,381"/>
+                <Baseline points="125,407 156,407 187,408 218,408 250,409 281,409 312,409 344,410 375,410 406,410 438,410 469,410 500,410 531,410 563,411 594,411 625,411 657,411 688,411 719,411 751,411"/>
+                <TextEquiv>
+                    <Unicode>Fan Zhongzhen gong (Chengmo) quanji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="134,458 881,456 859,412 774,430 134,413"/>
+                <Baseline points="139,444 175,444 212,444 249,444 286,444 323,444 360,444 396,444 433,444 470,444 507,444 544,444 581,444 618,445 654,445 691,445 728,446 765,446 802,447 839,448 876,449"/>
+                <TextEquiv>
+                    <Unicode>[Collected works of Fan Chengmo (1624-1676),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="126,485 556,495 556,466 517,453 370,453 353,470 313,453 126,460"/>
+                <Baseline points="131,478 157,478 183,479 209,479 236,479 262,479 288,479 314,479 341,478 367,478 393,478 419,478 446,479 472,479 498,479 524,480 551,481"/>
+                <TextEquiv>
+                    <Unicode>an official. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="126,522 139,522 151,512 175,522 250,522 251,495 212,494 204,484 180,491 171,485 164,492 127,486"/>
+                <Baseline points="132,512 160,511 189,512 217,513 246,515"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="742,522 778,522 791,514 801,515 807,521 845,522 853,516 859,517 860,507 853,506 840,494 823,490 793,491 781,485 744,483"/>
+                <Baseline points="748,512 774,510 801,511 827,513 854,516"/>
+                <TextEquiv>
+                    <Unicode>20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="123,585 662,594 662,553 646,549 549,563 531,550 123,549"/>
+                <Baseline points="128,578 154,579 180,579 207,579 233,580 260,580 286,580 313,580 339,580 366,579 392,579 418,579 445,579 471,579 498,580 524,580 551,580 577,580 604,581 630,582 657,582"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;}">
+                <Coords points="126,660 762,666 742,621 687,637 126,623"/>
+                <Baseline points="131,651 162,652 193,652 224,653 256,653 287,653 318,653 350,653 381,653 412,653 444,653 475,653 506,653 537,653 569,653 600,653 631,653 663,653 694,654 725,654 757,655"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan, 961.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.29/961&#13;
+FAN ZHONG ZHEN GONG (CHENG MO) QUAN JI&#13;
+FAN (Chengmo)&#13;
+Fan Zhongzhen gong (Chengmo) quanji.&#13;
+[Collected works of Fan Chengmo (1624-1676),&#13;
+an official. A reprint.]&#13;
+2 vols.&#13;
+20 cm.&#13;
+Wenhai chubanshe: Taipei, 1973.&#13;
+Jindai Zhongguo shiliao congkan, 961.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

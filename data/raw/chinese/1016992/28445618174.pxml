@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.422+01:00</Created>
+        <LastChange>2023-05-03T17:47:07.040+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758176" pageNr="36"/>
+    </Metadata>
+    <Page imageFilename="28445618174.jpg" imageWidth="960" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128827040" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="36,44 39,728 928,719 923,38"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="680,80 727,81 744,73 797,78 864,74 876,67 877,47 822,44 803,56 775,52 767,44 680,44"/>
+                <Baseline points="685,71 711,71 738,71 764,71 791,71 817,71 844,71 871,72"/>
+                <TextEquiv>
+                    <Unicode>15677.c.19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="52,216 138,218 156,209 156,194 150,194 138,181 52,181"/>
+                <Baseline points="57,208 88,207 119,207 151,208"/>
+                <TextEquiv>
+                    <Unicode>FEIMA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="86,278 264,264 373,271 440,259 440,224 85,242"/>
+                <Baseline points="90,262 116,262 143,261 169,261 196,261 222,261 249,260 275,260 302,259 328,259 355,259 381,258 408,258 435,257"/>
+                <TextEquiv>
+                    <Unicode>Fei ma. Fei ma ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128794743_568" custom="readingOrder {index:3;}">
+                <Coords points="111,281 177,278 179,328 113,331"/>
+                <Baseline points="113,326 179,323"/>
+                <TextEquiv>
+                    <Unicode>1936-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="71,353 283,348 282,316 258,326 239,325 231,317 199,323 183,317 150,336 71,328"/>
+                <Baseline points="76,347 101,346 126,345 151,345 176,344 201,344 226,343 251,342 277,341"/>
+                <TextEquiv>
+                    <Unicode>[Poems. Selections]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128809154_576" custom="readingOrder {index:5;}">
+                <Coords points="203,350 248,349 249,399 204,400"/>
+                <Baseline points="204,395 249,394"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657282464524_584" custom="readingOrder {index:6;}">
+                <Coords points="66,377 634,363 635,413 67,427"/>
+                <Baseline points="67,422 635,408"/>
+                <TextEquiv>
+                    <Unicode>86 p., [4] p. of plates : ill., ports. ; 21 cm. --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657282498380_594" custom="readingOrder {index:7;}">
+                <Coords points="72,435 139,435 139,485 72,485"/>
+                <Baseline points="72,480 139,480"/>
+                <TextEquiv>
+                    <Unicode>Poems.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="81,504 392,498 395,474 263,469 208,481 80,481"/>
+                <Baseline points="77,497 111,498 136,498 162,497 187,497 212,496 238,496 263,495 288,495 314,494 339,493 364,492 390,492"/>
+                <TextEquiv>
+                    <Unicode>"Fai-ma nien piao": p. 83-86.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="75,531 295,530 301,523 328,530 370,521 369,500 353,497 283,497 246,508 238,500 74,500"/>
+                <Baseline points="80,523 105,523 131,523 157,522 183,521 209,521 235,519 261,519 287,517 313,517 339,516 365,516"/>
+                <TextEquiv>
+                    <Unicode>ISBN 9620403638 : Hks12.00</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="75,586 317,576 316,553 292,550 230,549 217,559 206,549 184,548 170,562 152,548 128,555 111,549 103,558 74,551"/>
+                <Baseline points="80,575 105,575 131,574 157,573 182,573 208,572 234,571 259,571 285,570 311,570"/>
+                <TextEquiv>
+                    <Unicode>I. Title. II. Series.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="74,641 129,643 142,635 180,643 191,636 227,641 241,634 280,636 280,608 128,617 74,613"/>
+                <Baseline points="80,635 107,634 135,634 163,633 191,632 219,632 247,630 275,629"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 85184233/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="80,664 588,657 588,628 400,621 225,644 79,642"/>
+                <Baseline points="85,658 111,658 137,657 163,656 189,655 216,655 242,654 268,653 294,652 320,651 347,650 373,649 399,649 425,648 451,647 478,647 504,646 530,646 556,646 596,646"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: PL2857. E398.F4 1984 (Orien China)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="82,686 107,688 116,683 124,690 196,680 206,689 213,684 258,683 258,659 192,662 183,657 156,664 125,660 117,668 82,663"/>
+                <Baseline points="87,680 114,681 142,680 170,680 197,679 225,679 253,679"/>
+                <TextEquiv>
+                    <Unicode>ID: UKBO86-B1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="435,683 453,683 467,677 474,677 484,683 520,681 527,678 527,652 483,652 476,653 470,659 456,653 434,654"/>
+                <Baseline points="440,674 467,672 494,672 522,671"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:15;}">
+                <Coords points="531,668 576,668 591,682 633,674 776,674 783,672 783,641 719,644 711,653 683,655 642,656 628,645 531,653"/>
+                <Baseline points="536,670 562,669 589,669 616,669 643,669 670,669 697,668 724,668 751,667 778,666"/>
+                <TextEquiv>
+                    <Unicode>DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="83,714 253,715 263,712 263,684 213,683 207,689 193,682 150,686 142,693 114,684 83,687"/>
+                <Baseline points="88,704 116,705 144,705 173,704 201,703 229,702 258,701"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15677.c. 19.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15677.c.19&#13;
+FEIMA&#13;
+Fei ma. Fei ma ji&#13;
+1936-&#13;
+[Poems. Selections]&#13;
+1984&#13;
+86 p., [4] p. of plates : ill., ports. ; 21 cm. --&#13;
+Poems.&#13;
+"Fai-ma nien piao": p. 83-86.&#13;
+ISBN 9620403638 : Hks12.00&#13;
+I. Title. II. Series.&#13;
+LCCN: 85184233/ACN&#13;
+L.C. CALL NO: PL2857. E398.F4 1984 (Orien China)&#13;
+ID: UKBO86-B1538&#13;
+CC: 9114&#13;
+DCF: a [CJK]&#13;
+CALL: 15677.c. 19.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.624+01:00</Created>
+        <LastChange>2023-07-03T17:04:12.525+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758527" pageNr="339" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=KWVEOIWHQUYHZMUQHWPBLRBS&amp;fileType=view" imageId="35195833"/>
+    </Metadata>
+    <Page imageFilename="42758527.jpg" imageWidth="976" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396652525" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="143,63 780,63 780,685 143,685"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="575,120 607,130 617,121 680,122 686,115 700,123 730,122 738,116 751,129 769,130 779,124 778,89 747,90 733,105 701,86 687,101 672,101 633,72 613,87 586,80 574,87"/>
+                <Baseline points="579,113 603,113 627,113 652,115 676,117 701,117 725,117 749,117 774,117 780,118"/>
+                <TextEquiv>
+                    <Unicode>15272.e.41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688396568267_1905" custom="readingOrder {index:1;}">
+                <Coords points="177,125 676,125 676,175 177,175"/>
+                <Baseline points="177,170 676,170"/>
+                <TextEquiv>
+                    <Unicode>FA ZHAN XIANG GANG GONG YE WEN TI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="137,256 381,266 403,248 447,277 476,254 590,242 591,195 532,210 515,193 470,220 421,191 343,230 138,220"/>
+                <Baseline points="143,250 157,250 182,248 206,250 231,250 255,250 279,252 304,250 328,250 353,250 377,250 402,247 402,247 421,252 445,248 470,250 494,245 518,242 543,240 567,237 592,235"/>
+                <TextEquiv>
+                    <Unicode>ZHOU (Yonchen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="170,365 695,370 679,333 170,333"/>
+                <Baseline points="175,348 200,354 224,356 248,354 273,356 297,356 322,356 346,356 370,356 395,357 419,357 444,359 468,359 492,359 517,359 541,357 566,357 590,357 614,359 639,361 663,361 688,361 697,361"/>
+                <TextEquiv>
+                    <Unicode>Fazhan Xianggang gongye wenti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="173,397 667,402 667,368 173,365"/>
+                <Baseline points="178,385 203,388 227,388 252,390 276,390 300,390 325,392 349,392 374,393 398,393 422,392 447,392 471,393 496,393 520,393 544,393 569,393 593,395 618,395 642,396 666,395 668,395"/>
+                <TextEquiv>
+                    <Unicode>[On the industrialization of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="173,434 224,433 232,441 245,441 258,428 266,434 309,434 321,443 354,434 354,411 278,400 255,412 242,400 207,406 195,395 186,402 172,400"/>
+                <Baseline points="178,424 183,424 208,424 232,424 257,426 281,427 305,427 330,429 356,428"/>
+                <TextEquiv>
+                    <Unicode>Hong Kong.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="172,473 236,462 253,474 291,463 302,474 511,471 511,441 485,435 459,433 435,456 408,433 386,449 371,434 337,457 306,432 286,447 262,432 241,445 172,435"/>
+                <Baseline points="177,458 201,462 226,460 250,462 274,462 299,463 323,465 348,465 372,465 396,463 421,465 445,463 470,465 494,465 512,465"/>
+                <TextEquiv>
+                    <Unicode>pp. 2, 2, 2, 4, 95.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="167,534 759,546 759,517 714,503 167,496"/>
+                <Baseline points="172,527 196,528 221,528 245,527 270,530 294,530 318,531 343,531 367,530 392,530 416,530 440,530 465,531 489,530 514,531 538,531 562,531 587,531 611,533 636,533 660,533 684,533 709,535 733,538 758,538 761,540"/>
+                <TextEquiv>
+                    <Unicode>Gong-shang guancha she: Hong Kong,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="173,566 178,565 195,578 220,579 229,572 239,578 247,570 263,570 262,548 246,548 235,540 217,541 207,536 193,541 185,537 172,541"/>
+                <Baseline points="178,561 203,561 227,562 252,564 265,564"/>
+                <TextEquiv>
+                    <Unicode>1954.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;}">
+                <Coords points="167,646 731,650 730,620 691,610 166,612"/>
+                <Baseline points="172,636 196,637 221,637 245,637 270,637 294,639 318,640 343,639 367,640 392,640 416,640 440,640 465,640 489,642 514,642 538,642 562,642 587,642 611,642 636,642 660,642 684,644 709,644 732,644"/>
+                <TextEquiv>
+                    <Unicode>Xianggang gong-shang guancha she</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:10;}">
+                <Coords points="169,681 217,680 231,689 248,690 257,681 320,680 320,663 309,657 303,662 293,652 169,652"/>
+                <Baseline points="174,673 198,673 222,673 247,673 271,673 296,673 320,675 322,675"/>
+                <TextEquiv>
+                    <Unicode>congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15272.e.41&#13;
+FA ZHAN XIANG GANG GONG YE WEN TI&#13;
+ZHOU (Yonchen)&#13;
+Fazhan Xianggang gongye wenti.&#13;
+[On the industrialization of&#13;
+Hong Kong.]&#13;
+pp. 2, 2, 2, 4, 95.&#13;
+Gong-shang guancha she: Hong Kong,&#13;
+1954.&#13;
+Xianggang gong-shang guancha she&#13;
+congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.035+01:00</Created>
+        <LastChange>2023-05-04T12:45:30.787+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758206" pageNr="62"/>
+    </Metadata>
+    <Page imageFilename="28445627804.jpg" imageWidth="980" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197130788" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,18 65,555 928,561 936,14"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="633,66 844,62 844,44 815,26 790,47 768,37 733,45 707,29 660,28 653,21 633,30"/>
+                <Baseline points="638,56 663,57 688,57 713,57 738,57 763,56 788,56 813,57 839,57"/>
+                <TextEquiv>
+                    <Unicode>15654.e.6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="96,129 169,123 260,131 274,144 341,132 415,143 482,135 483,96 439,95 422,78 346,108 300,100 278,79 240,99 97,92"/>
+                <Baseline points="101,124 126,124 151,124 176,124 201,124 226,124 251,125 276,125 301,125 326,126 351,126 376,127 401,127 426,128 451,129 477,129"/>
+                <TextEquiv>
+                    <Unicode>FAN ZHONG YAN YAN JIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657634006181_649" custom="readingOrder {index:2;}">
+                <Coords points="91,151 336,149 336,199 91,201"/>
+                <Baseline points="91,196 336,194"/>
+                <TextEquiv>
+                    <Unicode>TANG (Chengye)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="127,298 808,302 808,276 735,268 492,266 475,282 430,260 127,264"/>
+                <Baseline points="132,290 165,291 199,292 232,293 266,293 299,293 333,293 366,293 400,293 433,293 467,293 501,293 534,293 568,293 601,293 635,294 668,294 702,295 735,295 769,296 803,297"/>
+                <TextEquiv>
+                    <Unicode>Fan Zhongyan yanjiu. [Study of the Song</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="127,331 234,330 301,337 301,306 245,307 235,300 224,309 213,309 206,302 127,300"/>
+                <Baseline points="132,325 159,325 186,325 214,326 241,326 268,327 317,326"/>
+                <TextEquiv>
+                    <Unicode>statesman.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="122,378 649,370 632,342 579,348 563,333 527,351 483,333 122,342"/>
+                <Baseline points="127,361 152,362 178,363 204,363 230,364 256,364 282,364 307,364 333,363 359,363 385,362 411,362 437,362 463,362 488,361 514,362 540,362 566,362 592,363 618,364 644,365"/>
+                <TextEquiv>
+                    <Unicode>pp. 2,3,6,6, 608; port. 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="125,433 880,438 880,416 824,405 125,402"/>
+                <Baseline points="130,428 167,429 204,429 241,429 279,429 316,429 353,429 390,430 428,430 465,430 502,430 539,430 577,431 614,431 651,431 688,431 726,431 763,431 800,431 837,431 875,431"/>
+                <TextEquiv>
+                    <Unicode>Guoli bianyi guan Zhonghua congshu bianshen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="132,475 329,467 447,482 466,468 541,482 565,474 565,443 132,444"/>
+                <Baseline points="137,463 163,463 189,462 216,462 242,462 269,462 295,463 322,463 348,464 374,464 401,465 427,465 454,465 480,466 507,466 533,466 560,466"/>
+                <TextEquiv>
+                    <Unicode>weiyuanhui: Taipei, 1977.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="122,540 224,546 276,535 359,546 367,538 428,538 428,515 380,510 372,501 275,513 222,501 190,509 139,501 122,510"/>
+                <Baseline points="127,533 153,533 180,532 207,532 234,532 261,532 288,532 315,533 342,533 369,533 396,534 423,534"/>
+                <TextEquiv>
+                    <Unicode>Zhonghua congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15654.e.6&#13;
+FAN ZHONG YAN YAN JIU&#13;
+TANG (Chengye)&#13;
+Fan Zhongyan yanjiu. [Study of the Song&#13;
+statesman.]&#13;
+pp. 2,3,6,6, 608; port. 21 cm.&#13;
+Guoli bianyi guan Zhonghua congshu bianshen&#13;
+weiyuanhui: Taipei, 1977.&#13;
+Zhonghua congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

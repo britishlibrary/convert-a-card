@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.598+01:00</Created>
+        <LastChange>2023-05-03T17:51:46.606+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758186" pageNr="45"/>
+    </Metadata>
+    <Page imageFilename="28445620374.jpg" imageWidth="960" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129106636" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="30,50 36,557 949,557 943,50"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="575,92 621,99 747,86 773,98 788,85 848,87 847,62 786,44 752,52 736,67 709,60 688,69 671,52 574,53"/>
+                <Baseline points="580,82 606,83 632,83 658,83 684,83 711,83 737,82 763,82 789,81 815,81 842,80"/>
+                <TextEquiv>
+                    <Unicode>15352.a.5/16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="80,145 612,154 838,135 818,108 80,110"/>
+                <Baseline points="86,138 123,137 160,137 197,137 235,136 272,136 309,136 347,136 384,136 421,136 459,136 496,136 533,136 570,136 608,136 645,136 682,136 720,135 757,135 794,134 832,133"/>
+                <TextEquiv>
+                    <Unicode>FARM-PLOT DISPERSAL: LU-LIAO VILLAGE, TAIWAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="85,178 152,178 157,174 162,174 163,148 151,150 150,148 107,147 86,149"/>
+                <Baseline points="91,169 124,171 157,172"/>
+                <TextEquiv>
+                    <Unicode>1967</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="39,227 125,223 145,235 153,226 228,222 349,234 363,227 363,193 131,188 114,201 78,188 38,189"/>
+                <Baseline points="44,219 70,219 96,218 122,218 148,218 174,218 201,218 227,218 253,218 279,218 305,217 331,217 358,216"/>
+                <TextEquiv>
+                    <Unicode>MEER (Paul Vander)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="70,300 861,296 861,272 793,253 715,272 70,260"/>
+                <Baseline points="75,286 114,287 153,287 192,287 231,287 270,287 309,287 348,286 387,286 426,286 465,286 504,285 543,285 582,285 621,284 660,284 699,284 738,284 777,284 816,285 856,285"/>
+                <TextEquiv>
+                    <Unicode>Farm-plot dispersal: Lu-liao village, Taiwan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="78,330 915,323 903,296 752,290 78,299"/>
+                <Baseline points="84,322 125,321 166,321 207,321 249,321 290,320 331,320 372,320 414,320 455,320 496,320 537,320 579,320 620,320 661,320 702,320 744,320 785,320 826,320 867,319 909,319"/>
+                <TextEquiv>
+                    <Unicode>1967 / by Paul Vander Meer. — [Taibei]: Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="73,362 241,356 358,368 389,356 406,371 468,362 467,330 446,325 397,330 379,345 343,332 73,333"/>
+                <Baseline points="78,355 103,355 129,355 154,355 180,355 206,355 231,355 257,355 282,355 308,355 334,355 359,354 385,354 410,354 436,353 462,353"/>
+                <TextEquiv>
+                    <Unicode>Materials Center, 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="76,399 797,403 915,393 915,370 76,372"/>
+                <Baseline points="81,392 122,391 163,391 205,390 246,390 288,390 329,390 371,390 412,390 454,390 495,390 536,390 578,390 619,390 661,390 702,390 744,389 785,389 827,388 868,387 910,387"/>
+                <TextEquiv>
+                    <Unicode>xvii, 295 p.: [26] p. of ill., 30 maps; 27 cm. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="80,437 892,435 879,402 226,418 80,397"/>
+                <Baseline points="85,427 125,426 165,426 205,426 245,426 285,425 325,425 365,425 405,425 445,425 486,424 526,424 566,424 606,424 646,424 686,424 726,424 766,425 806,425 846,425 887,425"/>
+                <TextEquiv>
+                    <Unicode>(Chinese Materials Center Asian Library Series;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="79,468 89,467 98,474 105,474 107,472 112,475 132,474 130,435 125,435 119,431 114,434 110,432 103,434 97,439 77,435"/>
+                <Baseline points="84,460 126,459"/>
+                <TextEquiv>
+                    <Unicode>16)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="87,539 185,531 422,538 439,528 439,500 200,501 187,513 167,501 87,501"/>
+                <Baseline points="92,531 118,530 144,529 170,529 197,528 223,528 249,528 276,529 302,529 328,529 355,529 381,530 407,530 434,530"/>
+                <TextEquiv>
+                    <Unicode>ISBN: 0-89644-642-7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15352.a.5/16&#13;
+FARM-PLOT DISPERSAL: LU-LIAO VILLAGE, TAIWAN&#13;
+1967&#13;
+MEER (Paul Vander)&#13;
+Farm-plot dispersal: Lu-liao village, Taiwan,&#13;
+1967 / by Paul Vander Meer. — [Taibei]: Chinese&#13;
+Materials Center, 1982&#13;
+xvii, 295 p.: [26] p. of ill., 30 maps; 27 cm. —&#13;
+(Chinese Materials Center Asian Library Series;&#13;
+16)&#13;
+ISBN: 0-89644-642-7</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

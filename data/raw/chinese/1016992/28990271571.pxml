@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.638+01:00</Created>
+        <LastChange>2023-07-03T14:45:22.103+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758456" pageNr="278" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=AKICHGXSPCQAPOXROFRKBCYY&amp;fileType=view" imageId="35195762"/>
+    </Metadata>
+    <Page imageFilename="42758456.jpg" imageWidth="952" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388322104" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="71,18 890,18 890,752 71,752"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="548,74 597,68 611,82 635,72 664,82 731,70 840,74 841,43 716,50 700,34 652,32 616,55 598,40 549,41"/>
+                <Baseline points="553,71 557,69 580,71 604,71 628,71 652,71 676,71 699,69 723,69 747,71 771,69 795,68 818,68 842,68"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.395</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="68,194 122,194 136,186 150,195 193,193 202,202 227,193 258,194 269,202 283,196 282,147 67,146"/>
+                <Baseline points="73,187 96,187 120,187 144,187 168,187 192,187 215,187 239,187 263,188 285,188"/>
+                <TextEquiv>
+                    <Unicode>CAO (Ceqian)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="97,256 588,241 579,193 398,211 360,197 324,210 310,196 98,209"/>
+                <Baseline points="103,236 114,236 138,238 161,239 185,239 209,239 233,238 257,236 280,236 304,236 328,236 352,236 376,234 399,233 423,231 447,231 471,233 495,233 519,233 542,233 566,233 590,234"/>
+                <TextEquiv>
+                    <Unicode>Fang kuang de qi che da dao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="138,410 171,399 184,410 283,404 321,418 351,404 482,410 481,391 430,364 375,366 347,392 302,355 275,368 251,361 229,379 215,365 196,376 159,349 137,349"/>
+                <Baseline points="142,396 166,396 190,399 214,401 238,403 261,403 285,403 309,403 333,403 357,403 380,401 404,401 428,399 452,401 476,403 484,403"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="101,470 112,475 143,474 149,468 159,474 172,475 180,471 184,475 197,474 194,437 158,438 118,432 104,448 99,448"/>
+                <Baseline points="106,461 130,465 153,468 177,468 198,469"/>
+                <TextEquiv>
+                    <Unicode>89 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="102,550 116,555 132,550 148,555 170,550 272,551 272,515 185,516 163,535 137,516 102,512"/>
+                <Baseline points="107,545 131,549 155,549 179,549 203,549 226,549 250,547 274,550"/>
+                <TextEquiv>
+                    <Unicode>s1. Crime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.395&#13;
+CAO (Ceqian)&#13;
+Fang kuang de qi che da dao&#13;
+1992&#13;
+89 p.&#13;
+s1. Crime</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

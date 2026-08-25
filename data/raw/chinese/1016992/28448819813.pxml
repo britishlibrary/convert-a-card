@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.299+01:00</Created>
+        <LastChange>2023-05-04T12:52:15.261+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758286" pageNr="133"/>
+    </Metadata>
+    <Page imageFilename="28448819813.jpg" imageWidth="956" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197535262" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="37,88 53,508 894,506 889,90"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="590,121 629,130 637,122 693,123 702,117 816,120 816,98 800,101 784,85 759,84 746,97 726,85 709,94 685,94 663,84 620,84 590,93"/>
+                <Baseline points="595,116 622,116 649,116 676,116 703,117 730,117 757,117 784,118 811,118"/>
+                <TextEquiv>
+                    <Unicode>15682.d.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="73,198 318,192 329,189 329,147 73,149"/>
+                <Baseline points="78,177 105,176 132,175 160,176 187,176 214,176 242,177 269,178 296,178 324,178"/>
+                <TextEquiv>
+                    <Unicode>FA HAN CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="44,268 66,274 91,264 114,274 135,266 149,274 164,263 297,266 297,228 271,221 176,229 159,221 150,230 100,231 82,221 44,230"/>
+                <Baseline points="49,253 86,254 112,253 138,253 163,253 189,254 215,254 240,255 266,254 292,253"/>
+                <TextEquiv>
+                    <Unicode>FA HAN CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="92,364 878,365 878,334 838,325 92,332"/>
+                <Baseline points="97,356 135,356 174,356 213,356 252,356 291,356 329,355 368,355 407,355 446,355 485,354 523,354 562,354 601,354 640,353 679,353 717,353 756,353 795,352 834,352 873,352"/>
+                <TextEquiv>
+                    <Unicode>Fa Han ci dian. Dictionnaire Français-Chinois.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="87,402 328,400 344,410 353,400 438,393 438,380 391,365 230,364 212,378 185,365 87,372"/>
+                <Baseline points="92,394 118,394 144,394 170,393 196,393 223,393 249,392 275,392 301,392 328,391 354,391 380,391 406,391 433,391"/>
+                <TextEquiv>
+                    <Unicode>pp. xi, 1493; table.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="458,387 496,382 518,400 534,402 545,402 551,395 618,394 618,370 605,373 591,364 556,368 458,362"/>
+                <Baseline points="463,390 488,390 513,389 538,388 563,387 588,388 613,389"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;}">
+                <Coords points="89,466 859,466 833,428 89,432"/>
+                <Baseline points="94,460 132,461 170,461 208,461 246,461 284,460 322,460 360,460 398,459 436,459 474,458 512,458 550,457 588,457 626,456 664,456 702,456 740,456 778,456 816,457 854,457"/>
+                <TextEquiv>
+                    <Unicode>Shang hai yi wen chu ban she: Shanghai, 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15682.d.7&#13;
+FA HAN CI DIAN&#13;
+FA HAN CI DIAN&#13;
+Fa Han ci dian. Dictionnaire Français-Chinois.&#13;
+pp. xi, 1493; table.&#13;
+27 cm.&#13;
+Shang hai yi wen chu ban she: Shanghai, 1979.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

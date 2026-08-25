@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.202+01:00</Created>
+        <LastChange>2023-08-16T15:11:24.114+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758571" pageNr="378" tsid="128197504" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=LERWHGJBEGAZYBCSFLHIFNFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ENLCEVRWRYLUOGIVYZQVQNXU" imageId="35195877"/>
+    </Metadata>
+    <Page imageFilename="42758571.jpg" imageWidth="976" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191484115" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="99,75 833,75 833,522 99,522"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="502,134 605,138 620,126 717,129 735,138 746,132 747,107 736,108 720,91 683,96 665,113 645,92 624,109 608,109 595,96 503,90"/>
+                <Baseline points="507,128 527,128 551,128 576,128 600,126 624,126 649,126 673,126 698,126 722,126 747,125"/>
+                <TextEquiv>
+                    <Unicode>15222.e.214</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="140,205 236,210 283,197 343,210 358,200 389,202 390,157 344,155 329,170 290,165 280,175 258,161 243,175 232,164 220,175 202,157 184,162 172,151 141,176"/>
+                <Baseline points="146,198 148,198 172,198 196,198 221,198 245,198 270,196 294,196 319,195 343,195 367,195 392,195"/>
+                <TextEquiv>
+                    <Unicode>FEI QING YAN JIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="94,271 146,280 153,273 230,275 239,267 245,274 353,274 363,269 364,235 324,238 310,225 257,228 238,243 94,246"/>
+                <Baseline points="99,270 120,268 144,268 169,268 193,268 218,268 242,266 266,266 291,265 315,263 340,263 364,262"/>
+                <TextEquiv>
+                    <Unicode>FEIQING YANJIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="127,334 179,339 194,327 206,338 219,333 255,346 273,330 300,330 313,345 340,332 343,292 319,281 290,287 239,273 225,282 210,276 199,287 180,275 131,283"/>
+                <Baseline points="133,328 148,327 172,327 196,327 221,327 245,323 270,323 294,320 319,315 343,317"/>
+                <TextEquiv>
+                    <Unicode>58 15 cmf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="131,377 779,370 791,343 454,327 401,358 348,337 131,342"/>
+                <Baseline points="136,371 156,371 180,371 205,371 229,369 253,371 278,371 302,369 327,371 351,371 375,369 400,367 424,367 449,367 473,366 498,366 522,364 546,364 571,364 595,364 620,364 644,364 668,364 693,364 717,362 742,362 766,362 791,362"/>
+                <TextEquiv>
+                    <Unicode>Feiqing yanjiu. (Studies on Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="134,410 311,408 328,414 328,394 299,380 266,387 259,381 220,380 211,389 188,379 182,384 134,380"/>
+                <Baseline points="139,405 159,405 183,405 208,405 232,405 257,405 281,405 305,405 330,402"/>
+                <TextEquiv>
+                    <Unicode>Communism.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="138,449 204,450 217,441 233,450 271,443 278,450 332,450 346,439 387,436 388,422 365,411 343,420 332,413 300,422 283,416 271,428 259,428 243,411 207,428 189,412 139,416"/>
+                <Baseline points="143,442 144,441 169,441 193,442 218,441 242,441 266,441 291,441 315,439 340,439 364,436 388,434"/>
+                <TextEquiv>
+                    <Unicode>Vol. 1, nol 1-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="134,517 807,514 832,478 134,487"/>
+                <Baseline points="139,511 149,509 174,511 198,511 222,511 247,511 271,512 296,511 320,509 345,511 369,509 393,507 418,507 442,506 467,504 491,504 515,504 540,504 564,504 589,504 613,504 638,504 662,504 686,504 711,506 735,504 760,504 784,504 808,502 833,502"/>
+                <TextEquiv>
+                    <Unicode>Feiqing yanjiu zazhi-she: Taipei, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

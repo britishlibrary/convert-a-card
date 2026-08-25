@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.363+01:00</Created>
+        <LastChange>2023-05-03T17:45:29.662+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758173" pageNr="33"/>
+    </Metadata>
+    <Page imageFilename="28445617734.jpg" imageWidth="1008" imageHeight="822">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128729663" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,118 49,559 955,557 955,116"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="606,155 822,154 834,148 834,125 814,125 805,117 781,117 772,126 734,117 723,127 687,116 607,118"/>
+                <Baseline points="612,146 639,145 666,146 693,146 720,146 747,146 774,146 801,146 829,146"/>
+                <TextEquiv>
+                    <Unicode>15660.i.8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="66,210 463,202 469,149 438,170 66,165"/>
+                <Baseline points="71,195 97,195 123,195 149,195 175,195 202,195 228,195 254,195 280,195 306,195 333,195 359,196 385,196 411,195 437,195 464,195"/>
+                <TextEquiv>
+                    <Unicode>FEI TENG DE CHUAN TAI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657282203589_498" custom="readingOrder {index:2;}">
+                <Coords points="66,248 543,246 543,296 66,298"/>
+                <Baseline points="66,293 543,291"/>
+                <TextEquiv>
+                    <Unicode>SHANGHAI. Renmin chubanshe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="107,398 944,401 944,366 762,349 476,376 107,365"/>
+                <Baseline points="113,389 154,389 195,389 236,389 278,389 319,389 360,389 402,388 443,388 484,388 526,388 567,388 608,388 649,388 691,388 732,388 773,389 815,389 856,389 897,390 939,391"/>
+                <TextEquiv>
+                    <Unicode>Feiteng de chuan tai. [Sketches of ship-building</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="106,434 196,429 231,443 247,443 255,434 311,433 319,442 332,440 332,395 309,406 294,397 259,404 237,395 204,406 175,397 153,409 106,399"/>
+                <Baseline points="111,424 137,425 164,425 191,425 218,424 245,424 272,424 299,425 326,426"/>
+                <TextEquiv>
+                    <Unicode>in Shanghai.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="101,474 142,474 149,466 163,462 176,475 189,475 198,467 230,467 230,444 207,435 182,434 164,449 149,445 142,438 101,437"/>
+                <Baseline points="106,462 135,462 165,462 195,462 225,461"/>
+                <TextEquiv>
+                    <Unicode>pp. 51.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="402,466 416,465 421,471 432,471 449,461 454,467 473,466 489,475 502,474 509,468 514,469 516,443 499,442 490,436 446,437 439,429 404,429"/>
+                <Baseline points="408,456 433,457 458,458 483,459 509,462"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="98,540 679,538 686,499 98,500"/>
+                <Baseline points="103,529 131,529 160,529 189,529 218,529 247,529 276,529 305,529 334,529 363,529 392,529 420,529 449,529 478,529 507,529 536,529 565,529 594,529 623,529 652,529 681,530"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Shanghai, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15660.i.8&#13;
+FEI TENG DE CHUAN TAI&#13;
+SHANGHAI. Renmin chubanshe.&#13;
+Feiteng de chuan tai. [Sketches of ship-building&#13;
+in Shanghai.&#13;
+pp. 51.&#13;
+19 cm.&#13;
+Renmin chubanshe: Shanghai, 1975.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

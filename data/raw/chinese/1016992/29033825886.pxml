@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.062+01:00</Created>
+        <LastChange>2023-08-16T15:04:48.515+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758561" pageNr="369" tsid="128197483" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=UUYGIEGNMYERMMJTVWMGHPLG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QKNRLYQTXOPVJSWZWFNIMOUB" imageId="35195867"/>
+    </Metadata>
+    <Page imageFilename="42758561.jpg" imageWidth="984" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191088516" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="72,30 877,30 877,579 72,579"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="554,81 595,91 678,83 855,90 855,42 830,55 804,41 745,43 731,57 692,56 678,71 646,43 579,41 554,55"/>
+                <Baseline points="559,80 584,80 608,80 633,82 657,83 682,82 707,82 731,82 756,83 780,83 805,83 830,83 854,85 857,83"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/646</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="91,179 130,180 145,192 155,181 178,189 224,177 307,194 325,180 341,187 373,178 373,146 325,145 316,136 303,148 153,134 142,144 91,146"/>
+                <Baseline points="96,172 121,172 146,173 170,173 195,173 219,173 244,175 269,173 293,175 318,175 342,175 367,177 375,173"/>
+                <TextEquiv>
+                    <Unicode>FAN SHAN ZHENG SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="544,188 585,218 604,216 620,226 638,217 631,145 620,153 608,147 601,156 586,154 565,178 543,177"/>
+                <Baseline points="549,187 574,190 598,193 623,196 638,193"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="368,217 388,227 430,226 461,193 481,210 537,217 533,144 508,144 463,175 428,146 405,154 388,145 365,158"/>
+                <Baseline points="372,193 397,188 421,190 446,193 470,193 495,195 520,198 538,198"/>
+                <TextEquiv>
+                    <Unicode>1e 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="67,217 122,226 140,209 153,219 173,213 230,227 260,216 306,226 335,221 327,179 307,194 292,185 155,181 144,191 129,180 66,180"/>
+                <Baseline points="72,208 96,208 121,208 146,209 170,209 195,211 219,213 244,213 269,213 293,213 318,216 336,216"/>
+                <TextEquiv>
+                    <Unicode>FAN (Zengxiang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="122,255 143,268 169,264 180,251 191,259 234,253 283,261 279,218 241,219 229,230 201,219 189,223 174,213 155,220 141,209 119,217"/>
+                <Baseline points="126,239 150,239 175,246 200,249 224,250 249,250 273,250 284,250"/>
+                <TextEquiv>
+                    <Unicode>t2. LL, IS3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="98,287 875,291 860,250 445,248 417,276 379,240 347,265 98,260"/>
+                <Baseline points="103,278 127,278 152,282 177,282 201,282 226,282 250,282 275,282 300,282 324,283 349,282 374,282 398,283 423,287 447,283 472,283 497,283 521,283 546,283 570,283 595,283 620,283 644,283 669,283 693,283 718,283 743,283 767,283 792,285 816,285 841,285 866,285 877,285"/>
+                <TextEquiv>
+                    <Unicode>Fanshan zhengshu. [A collection of official</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="101,321 831,329 831,300 744,293 571,289 542,311 513,292 101,289"/>
+                <Baseline points="106,314 131,314 155,314 180,316 205,316 229,316 254,316 278,316 303,316 328,316 352,316 377,316 401,318 426,318 451,318 475,318 500,319 524,319 549,319 574,319 598,319 623,319 647,318 672,318 697,318 721,318 746,319 771,319 795,319 820,319 833,319"/>
+                <TextEquiv>
+                    <Unicode>letters of Fan Zengxiang, written between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="101,358 575,371 577,321 417,339 398,325 367,348 334,325 100,329"/>
+                <Baseline points="106,352 131,352 155,352 180,352 205,352 229,354 254,354 278,355 303,355 328,355 352,357 377,355 401,355 426,355 451,355 475,357 500,355 524,357 549,359 574,360 580,362"/>
+                <TextEquiv>
+                    <Unicode>1901 and 1910. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="101,393 129,394 137,386 149,394 236,394 235,373 226,373 215,364 195,362 187,354 174,364 145,360 139,367 130,367 124,361 100,362"/>
+                <Baseline points="106,385 131,383 155,385 180,385 205,387 229,390 237,390"/>
+                <TextEquiv>
+                    <Unicode>3 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="99,455 550,474 670,464 670,434 635,417 433,427 416,445 392,429 242,428 223,444 98,427"/>
+                <Baseline points="104,454 129,454 154,456 178,456 203,456 228,456 252,456 277,457 301,457 326,457 351,457 375,456 400,457 424,457 449,457 474,457 498,459 523,459 547,460 572,460 597,460 621,460 646,460 670,462 672,462"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="808,497 821,499 832,497 839,503 851,503 850,469 842,470 831,461 825,462 820,468 806,468"/>
+                <Baseline points="813,495 838,497 853,497"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="98,561 711,578 754,570 753,536 97,531"/>
+                <Baseline points="103,559 127,557 152,559 177,559 201,559 226,561 250,559 275,561 300,559 324,561 349,559 374,561 398,561 423,561 447,561 472,562 497,562 521,562 546,562 570,564 595,565 620,564 644,565 669,565 693,567 718,565 743,569 756,569"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan, 646.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

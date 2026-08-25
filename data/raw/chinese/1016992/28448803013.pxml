@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.632+01:00</Created>
+        <LastChange>2023-05-04T12:48:41.943+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758246" pageNr="97"/>
+    </Metadata>
+    <Page imageFilename="28448803013.jpg" imageWidth="956" imageHeight="772">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197321943" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,52 48,733 907,734 908,53"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="511,90 800,89 834,80 835,53 760,53 744,68 685,67 668,53 512,53"/>
+                <Baseline points="516,79 541,80 567,80 593,81 619,81 644,81 670,81 696,80 829,83"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1338</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="72,216 283,225 324,208 463,204 481,219 615,221 602,181 72,181"/>
+                <Baseline points="77,205 103,206 130,206 156,207 183,207 210,207 236,207 263,207 290,207 316,207 343,207 370,207 396,207 423,207 450,207 476,206 503,206 530,206 556,206 583,206 610,206"/>
+                <TextEquiv>
+                    <Unicode>FEN FA ZI QIANG KAI TUO QIAN JIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="99,250 895,250 896,213 100,212"/>
+                <Baseline points="104,239 143,239 182,239 221,239 261,239 300,239 339,239 379,239 418,240 457,240 497,240 536,240 575,240 614,240 654,240 693,240 732,240 772,240 811,240 850,241 890,241"/>
+                <TextEquiv>
+                    <Unicode>Fen fa zi qiang kai tuo qian jin : Zhong guo fu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="106,281 864,282 864,252 817,249 106,253"/>
+                <Baseline points="111,271 145,272 179,272 214,272 248,272 283,272 317,272 352,272 386,272 421,272 455,272 489,272 524,272 558,272 593,272 627,272 662,273 696,273 731,274 765,274 859,271"/>
+                <TextEquiv>
+                    <Unicode>nu di wu ci quan guo dai biao da hui wen jian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="101,313 131,315 163,308 169,314 178,314 188,306 217,315 247,307 247,286 204,285 195,278 184,285 174,281 161,291 147,278 139,284 101,281"/>
+                <Baseline points="106,303 133,304 160,304 187,304 214,304 242,304"/>
+                <TextEquiv>
+                    <Unicode>hui bian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194519613_475" custom="readingOrder {index:5;}">
+                <Coords points="385,539 480,540 480,590 385,589"/>
+                <Baseline points="385,584 480,585"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="108,627 162,627 169,634 208,634 214,628 327,633 327,613 301,597 255,597 243,609 204,610 160,604 153,597 108,597"/>
+                <Baseline points="113,621 139,621 165,621 191,621 217,620 243,621 269,621 295,622 322,624"/>
+                <TextEquiv>
+                    <Unicode>204 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913739960_1012" custom="readingOrder {index:7;}">
+                <Coords points="99,681 404,679 520,711 563,678 752,683 770,647 100,655"/>
+                <Baseline points="104,680 764,681"/>
+                <TextEquiv>
+                    <Unicode>a1.ZHONG HUA QUAN GUO U NU LIAN HE HUI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913741937_1017" custom="readingOrder {index:8;}">
+                <Coords points="96,716 109,716 114,722 123,717 128,722 162,723 192,721 199,714 257,711 257,697 239,691 183,693 176,685 152,685 144,692 136,685 121,691 96,690"/>
+                <Baseline points="101,712 252,715"/>
+                <TextEquiv>
+                    <Unicode>s1.Women</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1338&#13;
+FEN FA ZI QIANG KAI TUO QIAN JIN&#13;
+Fen fa zi qiang kai tuo qian jin : Zhong guo fu&#13;
+nu di wu ci quan guo dai biao da hui wen jian&#13;
+hui bian&#13;
+1984&#13;
+204 p.: ill.&#13;
+a1.ZHONG HUA QUAN GUO U NU LIAN HE HUI&#13;
+s1.Women</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

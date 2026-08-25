@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.566+01:00</Created>
+        <LastChange>2023-07-03T17:00:06.765+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758522" pageNr="335" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=SFZRQIHFLSATJPYWPWQVNQML&amp;fileType=view" imageId="35195828"/>
+    </Metadata>
+    <Page imageFilename="42758522.jpg" imageWidth="984" imageHeight="817">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396406766" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="106,45 930,45 930,703 106,703"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="576,100 813,106 812,71 776,55 741,86 716,69 698,84 670,68 575,70"/>
+                <Baseline points="580,96 605,96 629,95 654,95 679,96 703,98 728,100 753,101 777,101 802,101 815,100"/>
+                <TextEquiv>
+                    <Unicode>15100.a.33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="101,133 222,139 276,130 306,146 323,134 344,146 424,145 422,99 342,93 324,113 304,94 100,97"/>
+                <Baseline points="106,126 131,127 155,127 180,127 205,127 229,129 254,129 278,131 303,132 328,134 352,136 377,136 401,136 426,136 428,134"/>
+                <TextEquiv>
+                    <Unicode>THE FAITH OF ISLAM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="103,231 321,242 337,227 435,250 463,233 505,242 511,172 464,186 438,164 396,161 343,217 314,190 232,202 216,189 169,201 120,188 102,201"/>
+                <Baseline points="108,223 132,223 157,223 182,224 206,224 231,224 255,224 280,224 305,224 329,226 354,228 378,231 403,232 428,236 452,232 477,232 502,232 513,229"/>
+                <TextEquiv>
+                    <Unicode>LIU (Youxin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="139,369 929,386 928,348 843,337 661,355 605,335 567,361 436,332 139,330"/>
+                <Baseline points="144,356 167,360 191,362 216,364 241,364 265,365 290,365 314,364 339,365 364,365 388,365 413,365 438,367 462,367 487,369 511,370 536,370 561,370 585,370 610,370 634,370 659,372 684,370 708,370 733,370 757,372 782,372 807,372 831,372 856,372 880,374 905,374 930,375"/>
+                <TextEquiv>
+                    <Unicode>Yisilan jiao de xinyang. The faith of Islam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="139,410 201,410 208,403 219,410 273,408 273,384 266,384 253,371 230,374 226,370 205,390 195,390 182,379 168,378 162,383 157,377 148,381 139,377"/>
+                <Baseline points="144,403 152,401 177,401 201,403 226,401 251,401 275,401"/>
+                <TextEquiv>
+                    <Unicode>pp. 38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="805,417 824,415 846,419 857,410 863,416 875,418 915,418 914,392 899,392 893,386 884,391 879,386 873,390 869,387 856,390 846,380 804,380"/>
+                <Baseline points="810,408 835,410 859,408 884,410 908,411 917,411"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="136,473 742,480 742,455 714,441 588,454 462,438 440,461 350,434 136,446"/>
+                <Baseline points="141,469 165,469 190,470 214,472 239,470 264,470 288,470 313,470 337,470 362,472 387,472 411,472 436,472 460,474 485,474 510,474 534,475 559,475 584,477 608,477 633,477 657,477 682,479 707,477 731,479 744,480"/>
+                <TextEquiv>
+                    <Unicode>Huijiao fundhui: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15100.a.33&#13;
+THE FAITH OF ISLAM&#13;
+LIU (Youxin)&#13;
+Yisilan jiao de xinyang. The faith of Islam.&#13;
+pp. 38.&#13;
+19 cm.&#13;
+Huijiao fundhui: Hong Kong, 1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

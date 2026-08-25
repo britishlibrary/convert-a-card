@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.000+01:00</Created>
+        <LastChange>2023-07-03T16:12:58.313+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758481" pageNr="300" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=IYOQXENCYDZXYEXYJJAVKLLI&amp;fileType=view" imageId="35195787"/>
+    </Metadata>
+    <Page imageFilename="42758481.jpg" imageWidth="976" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393578314" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="91,70 822,70 822,610 91,610"/>
+            <TextLine id="line_1688393530848_755" custom="readingOrder {index:0;}">
+                <Coords points="581,83 805,82 805,132 581,133"/>
+                <Baseline points="581,128 805,127"/>
+                <TextEquiv>
+                    <Unicode>15274.a.119</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="118,170 251,167 322,179 381,164 399,178 503,169 503,137 463,126 450,138 322,137 311,126 298,138 203,138 176,124 118,135"/>
+                <Baseline points="123,164 148,164 172,165 196,164 221,162 245,162 270,164 294,165 318,165 343,164 367,165 392,165 416,165 440,165 465,165 489,164 505,164"/>
+                <TextEquiv>
+                    <Unicode>FEI ZHOU HUA QIAO JING JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="86,255 175,250 192,266 306,258 342,280 372,253 431,266 430,236 377,235 328,189 278,230 268,220 86,220"/>
+                <Baseline points="91,248 113,248 138,248 162,248 187,250 211,250 235,250 260,250 284,250 309,252 334,248 334,248 359,248 383,255 408,256 431,255"/>
+                <TextEquiv>
+                    <Unicode>XIio (Ciyin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:3;}">
+                <Coords points="123,361 734,362 734,320 632,334 560,319 528,341 484,322 123,321"/>
+                <Baseline points="128,349 152,351 177,352 201,352 226,352 250,352 274,352 299,352 323,352 348,352 372,352 396,354 421,354 445,354 470,356 494,356 518,356 543,356 567,354 592,354 616,354 640,356 665,356 689,356 714,354 736,356"/>
+                <TextEquiv>
+                    <Unicode>Feizhou huaqiao jingji. [Economical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:4;}">
+                <Coords points="121,393 686,394 675,361 121,363"/>
+                <Baseline points="126,385 151,385 175,385 200,385 224,387 248,387 273,387 297,387 322,387 346,387 370,387 395,387 419,387 444,388 468,387 492,388 517,388 541,388 566,388 590,388 614,388 639,388 663,388 688,388"/>
+                <TextEquiv>
+                    <Unicode>situation of overseas Chinese in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:5;}">
+                <Coords points="121,425 251,426 250,405 240,405 230,395 202,393 198,397 176,398 172,394 121,393"/>
+                <Baseline points="126,419 151,421 175,419 200,419 224,421 248,421 252,421"/>
+                <TextEquiv>
+                    <Unicode>Africa.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="131,467 177,466 187,457 198,457 207,466 268,465 268,437 256,437 247,428 203,427 186,439 173,434 131,437"/>
+                <Baseline points="136,455 161,457 185,457 209,455 234,457 258,455 270,457"/>
+                <TextEquiv>
+                    <Unicode>pp. 162.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="121,529 656,538 662,497 637,487 553,514 531,495 120,491"/>
+                <Baseline points="126,522 151,523 175,523 200,523 224,523 248,523 273,523 297,525 322,525 346,525 370,525 395,525 419,525 444,525 468,525 492,527 517,527 541,528 566,527 590,528 614,528 639,527 663,528 665,528"/>
+                <TextEquiv>
+                    <Unicode>Haiwai chubanshe: Taipei, 1956.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:8;}">
+                <Coords points="118,598 352,610 375,595 512,610 527,602 527,578 117,563"/>
+                <Baseline points="123,595 148,595 172,595 196,596 221,596 245,596 270,596 294,598 318,598 343,598 367,598 392,598 416,598 440,598 465,598 489,598 513,598 528,600"/>
+                <TextEquiv>
+                    <Unicode>Huaqiao jingji congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15274.a.119&#13;
+FEI ZHOU HUA QIAO JING JI&#13;
+XIio (Ciyin)&#13;
+Feizhou huaqiao jingji. [Economical&#13;
+situation of overseas Chinese in&#13;
+Africa.]&#13;
+pp. 162.&#13;
+Haiwai chubanshe: Taipei, 1956.&#13;
+Huaqiao jingji congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

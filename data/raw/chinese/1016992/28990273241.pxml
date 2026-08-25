@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.786+01:00</Created>
+        <LastChange>2023-07-03T14:52:44.289+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758466" pageNr="287" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=DIJGBOJHDGSIUTZYASHDNAYZ&amp;fileType=view" imageId="35195772"/>
+    </Metadata>
+    <Page imageFilename="42758466.jpg" imageWidth="956" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388764315" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="52,34 910,34 910,778 52,778"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="624,90 658,99 672,90 736,91 744,83 765,91 801,84 839,98 870,91 870,55 854,49 817,60 754,59 742,71 699,50 624,53"/>
+                <Baseline points="630,85 654,85 678,84 702,84 725,84 749,85 773,84 797,84 821,84 845,85 869,85 872,85"/>
+                <TextEquiv>
+                    <Unicode>15660.i.167</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="67,146 757,146 757,95 690,122 644,95 547,119 518,93 490,121 413,95 386,122 345,101 316,122 289,95 251,122 227,97 149,122 122,94 67,95"/>
+                <Baseline points="73,140 97,138 120,140 144,140 168,140 192,140 216,140 240,140 264,140 288,140 312,140 335,140 359,140 383,140 407,140 431,140 455,140 479,140 503,138 526,138 550,138 574,140 598,140 622,140 646,140 670,141 694,140 717,140 741,140 760,141"/>
+                <TextEquiv>
+                    <Unicode>FENG CE YU YOU MO: ZHONG GUO MAN HUA XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="46,236 60,243 128,242 137,234 157,246 179,238 272,239 271,195 248,195 237,207 173,206 159,193 146,193 134,206 110,196 101,206 84,196 76,205 46,206"/>
+                <Baseline points="52,232 76,232 100,232 124,232 148,232 171,232 195,232 219,232 243,234 267,234 273,235"/>
+                <TextEquiv>
+                    <Unicode>YING (Wenzu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="79,304 816,305 801,260 731,281 708,263 364,266 344,285 323,266 127,285 80,266"/>
+                <Baseline points="85,300 101,299 125,300 149,302 173,302 197,302 221,302 245,300 269,302 292,300 316,300 340,300 364,300 388,300 412,299 436,299 460,299 483,299 507,299 531,297 555,297 579,297 603,297 627,297 651,296 674,297 698,297 722,297 746,296 770,296 794,294 818,297"/>
+                <TextEquiv>
+                    <Unicode>Feng ce yu you mo: Zhong guo man hua xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688388738409_385" custom="readingOrder {index:4;}">
+                <Coords points="262,587 361,584 362,634 263,637"/>
+                <Baseline points="263,632 362,629"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="96,695 178,708 233,690 316,707 343,691 438,697 438,663 386,663 376,653 349,665 251,654 240,665 178,666 96,652"/>
+                <Baseline points="101,687 125,689 149,689 173,689 197,690 221,689 245,689 269,689 292,689 316,690 340,689 364,689 388,687 412,689 436,687 440,687"/>
+                <TextEquiv>
+                    <Unicode>152 p.: ill.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="96,740 447,760 612,732 904,742 905,709 528,712 474,675 417,714 97,701"/>
+                <Baseline points="101,737 119,738 143,738 167,740 191,740 214,737 238,740 262,738 286,738 310,738 334,738 358,738 382,737 405,737 429,737 453,738 477,738 501,735 525,735 549,733 573,733 596,732 620,732 644,733 668,732 692,732 716,732 740,732 764,730 788,730 811,730 835,732 859,732 883,732 907,732"/>
+                <TextEquiv>
+                    <Unicode>Cover t.: Satire and Humour Selected Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="113,771 154,769 162,774 174,769 183,775 211,770 220,776 230,770 259,775 259,750 188,745 175,750 169,744 132,748 113,742"/>
+                <Baseline points="119,765 143,764 167,765 191,765 214,765 238,767 261,768"/>
+                <TextEquiv>
+                    <Unicode>Cartoons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15660.i.167&#13;
+FENG CE YU YOU MO: ZHONG GUO MAN HUA XUAN&#13;
+YING (Wenzu)&#13;
+Feng ce yu you mo: Zhong guo man hua xuan&#13;
+1981&#13;
+152 p.: ill.; 19 cm&#13;
+Cover t.: Satire and Humour Selected Chinese&#13;
+Cartoons</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.673+01:00</Created>
+        <LastChange>2023-07-03T14:46:52.542+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758458" pageNr="280" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=NADREDMILXLHHOGCBMZEDWTB&amp;fileType=view" imageId="35195764"/>
+    </Metadata>
+    <Page imageFilename="42758458.jpg" imageWidth="980" imageHeight="816">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388412542" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="53,80 891,80 891,697 53,697"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="554,131 604,146 628,136 720,138 727,131 757,138 773,154 810,145 809,106 737,99 720,115 695,103 676,120 647,93 589,87 573,101 554,101"/>
+                <Baseline points="559,130 584,133 608,132 633,132 657,135 682,133 706,133 731,135 755,135 780,137 804,137 812,138"/>
+                <TextEquiv>
+                    <Unicode>15328.a.115</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="74,193 120,194 155,221 189,191 220,201 249,227 284,201 326,200 324,156 289,154 268,164 254,150 242,163 169,159 149,143 129,158 73,155"/>
+                <Baseline points="79,189 104,187 128,187 153,187 177,189 202,190 226,192 251,194 275,194 300,195 324,197 328,197"/>
+                <TextEquiv>
+                    <Unicode>FENG HU YUN LONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="49,263 146,267 178,260 196,275 209,265 278,273 277,224 171,235 152,227 62,228 48,220"/>
+                <Baseline points="53,259 78,259 102,259 127,259 151,259 176,259 200,261 225,261 249,262 274,264 280,262"/>
+                <TextEquiv>
+                    <Unicode>MURONG (Mei)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="84,401 529,418 535,369 511,381 405,370 376,395 281,369 262,381 83,376"/>
+                <Baseline points="88,396 112,396 137,398 161,399 186,399 210,401 235,401 259,401 283,401 308,401 332,403 357,404 381,404 406,403 430,403 455,403 479,403 504,406 528,409 538,411"/>
+                <TextEquiv>
+                    <Unicode>Fenghu yunlong. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="88,441 113,442 123,432 140,442 222,440 221,419 206,420 176,403 164,411 144,410 125,416 109,403 87,407"/>
+                <Baseline points="93,435 117,430 141,434 166,434 190,434 215,435 223,437"/>
+                <TextEquiv>
+                    <Unicode>3 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="690,441 705,450 745,450 751,444 758,450 807,450 807,424 791,423 781,415 761,421 737,402 721,414 715,409 689,411"/>
+                <Baseline points="695,442 719,440 744,440 768,440 793,442 809,442"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="89,507 756,522 755,485 88,478"/>
+                <Baseline points="93,497 117,502 141,502 166,502 190,504 215,504 239,504 264,505 288,505 313,505 337,505 362,507 386,507 411,507 435,509 460,509 484,509 509,510 533,512 558,512 582,512 607,510 631,512 656,512 680,512 705,510 729,512 753,514 758,514"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1969-1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.115&#13;
+FENG HU YUN LONG&#13;
+MURONG (Mei)&#13;
+Fenghu yunlong. [Novel.]&#13;
+3 vols.&#13;
+18 cm.&#13;
+Wulin chubanshe: Hong Kong, 1969-1970.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

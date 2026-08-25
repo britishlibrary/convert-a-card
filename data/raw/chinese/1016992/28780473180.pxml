@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.839+01:00</Created>
+        <LastChange>2023-05-04T13:52:02.613+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758325" pageNr="166"/>
+    </Metadata>
+    <Page imageFilename="28780473180.jpg" imageWidth="980" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201122613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,117 84,648 791,648 792,117"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="537,144 552,154 588,154 597,146 723,147 750,154 773,146 773,104 748,105 714,122 665,116 655,126 632,117 537,117"/>
+                <Baseline points="542,142 567,142 592,142 617,142 642,142 667,142 692,142 717,141 742,141 768,140"/>
+                <TextEquiv>
+                    <Unicode>15402.b.C38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="135,223 239,226 260,212 274,219 377,218 385,215 385,177 304,180 289,189 135,181"/>
+                <Baseline points="140,212 166,213 193,213 220,213 246,213 273,212 300,212 326,212 353,212 380,212"/>
+                <TextEquiv>
+                    <Unicode>FA  YAN, YANG ZI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201095501_1948" custom="readingOrder {index:2;}">
+                <Coords points="95,252 307,251 307,301 95,302"/>
+                <Baseline points="95,297 307,296"/>
+                <TextEquiv>
+                    <Unicode>YANG (Xiong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="128,403 411,397 429,410 678,393 663,357 511,370 426,357 400,383 360,365 244,378 127,366"/>
+                <Baseline points="133,393 160,394 187,395 214,395 241,395 268,395 295,395 322,395 349,394 376,394 403,393 430,392 457,392 484,391 511,391 538,390 565,390 592,390 619,390 646,390 673,390"/>
+                <TextEquiv>
+                    <Unicode>Fayan, Yangzi. [Philosophical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="138,441 209,443 242,435 271,440 278,433 287,436 307,427 307,417 296,419 280,405 237,403 223,410 218,405 190,406 175,412 138,405"/>
+                <Baseline points="143,431 169,431 196,431 222,431 249,431 275,431 316,432"/>
+                <TextEquiv>
+                    <Unicode>treatise.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="135,482 168,480 198,468 208,475 241,476 256,482 263,475 283,473 283,451 265,452 248,440 232,438 205,443 193,454 179,453 166,445 134,445"/>
+                <Baseline points="140,472 167,469 195,467 222,467 250,468 278,466"/>
+                <TextEquiv>
+                    <Unicode>pp. 104.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="125,543 183,554 255,554 274,537 288,546 368,546 367,512 350,501 285,505 263,525 238,508 218,514 124,509"/>
+                <Baseline points="130,537 155,538 181,537 207,537 233,537 259,536 285,535 311,535 337,535 363,534"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="135,618 212,617 223,609 232,618 296,618 304,610 329,618 360,605 360,592 326,580 223,580 216,587 135,581"/>
+                <Baseline points="140,605 166,605 193,605 220,605 247,606 274,606 301,606 328,605 355,604"/>
+                <TextEquiv>
+                    <Unicode>Sibu beiyao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15402.b.C38&#13;
+FA  YAN, YANG ZI&#13;
+YANG (Xiong)&#13;
+Fayan, Yangzi. [Philosophical&#13;
+treatise.]&#13;
+pp. 104.&#13;
+Taipei, 1966.&#13;
+Sibu beiyao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

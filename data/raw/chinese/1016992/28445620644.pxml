@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.637+01:00</Created>
+        <LastChange>2023-05-03T17:52:31.534+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758189" pageNr="47"/>
+    </Metadata>
+    <Page imageFilename="28445620644.jpg" imageWidth="952" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129151535" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="2,84 12,668 903,670 900,81"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="574,175 601,187 621,179 650,186 754,179 802,194 855,181 855,163 820,143 751,149 740,160 709,149 689,166 665,148 574,149"/>
+                <Baseline points="579,172 606,173 633,174 660,175 687,175 714,176 741,177 768,177 795,176 822,175 850,174"/>
+                <TextEquiv>
+                    <Unicode>15013.d.2/17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="23,222 346,217 346,172 23,176"/>
+                <Baseline points="28,208 54,209 80,209 106,209 132,208 158,208 184,208 210,207 236,207 262,206 288,206 314,207 341,208"/>
+                <TextEquiv>
+                    <Unicode>FAR EASTERN SERIALS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="11,294 789,289 789,260 11,258"/>
+                <Baseline points="16,287 54,287 92,286 131,286 169,286 208,286 246,286 284,286 323,286 361,286 400,286 438,286 476,286 515,286 553,286 592,286 630,286 668,287 707,287 745,287 784,287"/>
+                <TextEquiv>
+                    <Unicode>CHICAGO. University of Chicago. Far Eastern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="45,330 141,329 152,338 189,330 189,308 175,302 98,302 82,294 62,300 45,293"/>
+                <Baseline points="50,321 76,320 103,321 130,322 157,322 184,322"/>
+                <TextEquiv>
+                    <Unicode>Library.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="52,434 407,431 407,415 359,397 336,405 320,396 195,404 182,391 163,402 52,397"/>
+                <Baseline points="42,426 83,425 110,425 136,426 163,426 189,425 216,425 242,425 269,425 295,425 322,426 348,426 375,427 402,428"/>
+                <TextEquiv>
+                    <Unicode>Far Eastern serials.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="41,482 81,482 101,469 151,482 255,474 268,461 289,474 329,474 340,463 352,475 401,475 411,444 190,437 171,456 146,436 110,448 41,445"/>
+                <Baseline points="46,462 71,463 97,465 123,465 148,465 174,465 200,465 226,464 251,464 277,463 303,463 328,463 354,463 380,463 406,464"/>
+                <TextEquiv>
+                    <Unicode>pp. vi, 370. 28 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="42,546 696,545 710,504 42,508"/>
+                <Baseline points="47,532 79,532 112,532 145,532 178,533 211,533 244,533 277,533 310,533 343,533 376,533 408,533 441,533 474,533 507,534 540,534 573,534 606,534 639,534 672,534 705,534"/>
+                <TextEquiv>
+                    <Unicode>University of Chicago: Chicago, 1977.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="38,608 778,610 778,580 680,573 38,573"/>
+                <Baseline points="43,601 79,601 116,601 152,601 189,601 225,601 262,601 298,601 335,601 371,601 408,601 444,601 481,601 517,601 554,601 590,601 627,601 663,602 700,602 736,602 773,602"/>
+                <TextEquiv>
+                    <Unicode>University of Chicago Far Eastern Library</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="42,654 133,643 425,645 425,627 387,612 366,628 327,613 297,621 243,609 42,609"/>
+                <Baseline points="47,636 73,636 100,637 126,637 153,638 180,638 206,638 233,638 260,639 286,639 313,639 340,639 366,639 393,639 420,638"/>
+                <TextEquiv>
+                    <Unicode>Reference List no. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15013.d.2/17&#13;
+FAR EASTERN SERIALS&#13;
+CHICAGO. University of Chicago. Far Eastern&#13;
+Library.&#13;
+Far Eastern serials.&#13;
+pp. vi, 370. 28 cm.&#13;
+University of Chicago: Chicago, 1977.&#13;
+University of Chicago Far Eastern Library&#13;
+Reference List no. 2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

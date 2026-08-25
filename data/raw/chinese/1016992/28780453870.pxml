@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.392+01:00</Created>
+        <LastChange>2023-05-04T12:52:32.199+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758292" pageNr="138"/>
+    </Metadata>
+    <Page imageFilename="28780453870.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197552199" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="52,61 50,579 873,579 875,61"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="631,91 656,106 730,99 863,113 880,110 882,51 840,63 805,59 787,72 764,60 732,71 716,53 693,70 632,67"/>
+                <Baseline points="637,91 663,91 689,92 716,93 742,93 769,94 795,95 822,96 848,97 875,98"/>
+                <TextEquiv>
+                    <Unicode>15408.f.273</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="47,179 66,185 106,154 223,153 223,103 201,103 187,117 119,117 111,109 79,109 71,100 47,106"/>
+                <Baseline points="52,144 79,145 107,145 135,144 162,144 190,145 218,147"/>
+                <TextEquiv>
+                    <Unicode>FENG JI JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513448769_510" custom="readingOrder {index:2;}">
+                <Coords points="53,180 196,184 195,234 52,230"/>
+                <Baseline points="52,225 195,229"/>
+                <TextEquiv>
+                    <Unicode>GU (Lin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="85,331 841,346 853,313 86,300"/>
+                <Baseline points="91,321 128,323 166,324 204,325 242,326 280,327 317,327 355,328 393,328 431,328 469,329 506,329 544,329 582,330 620,330 658,330 695,331 733,332 771,333 809,333 847,335"/>
+                <TextEquiv>
+                    <Unicode>Feng ji ji. [Reprint of a collection of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="92,367 607,378 608,338 92,334"/>
+                <Baseline points="97,355 122,357 147,358 172,358 198,359 223,360 248,360 274,360 299,361 324,361 350,361 375,361 400,361 425,362 451,362 476,363 501,364 527,365 552,366 577,368 603,369"/>
+                <TextEquiv>
+                    <Unicode>poetry of Gu Lin of the Ming.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="87,399 172,403 216,390 237,391 255,410 286,398 303,408 351,409 351,388 325,374 279,375 247,365 200,370 177,384 149,369 87,366"/>
+                <Baseline points="92,391 117,393 142,394 168,394 193,395 219,395 244,395 269,395 295,395 320,396 346,398"/>
+                <TextEquiv>
+                    <Unicode>2 ch. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="91,475 724,499 737,468 92,429"/>
+                <Baseline points="96,464 127,465 159,466 191,467 223,468 255,469 286,470 318,471 350,472 382,473 414,474 445,475 477,476 509,477 541,478 573,479 604,480 636,481 668,482 700,484 732,485"/>
+                <TextEquiv>
+                    <Unicode>Shang wu yin shu guan: Taibei, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="89,548 716,562 716,538 672,517 621,540 593,517 274,529 90,501"/>
+                <Baseline points="94,533 124,535 155,536 186,537 217,538 248,539 279,540 309,541 340,542 371,543 402,544 433,545 464,546 495,547 525,548 556,549 587,550 618,551 649,552 680,554 711,556"/>
+                <TextEquiv>
+                    <Unicode>Si ku quan shu zhen ben liu ji, 273.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.f.273&#13;
+FENG JI JI&#13;
+GU (Lin)&#13;
+Feng ji ji. [Reprint of a collection of the&#13;
+poetry of Gu Lin of the Ming.]&#13;
+2 ch. 19 cm.&#13;
+Shang wu yin shu guan: Taibei, 1976.&#13;
+Si ku quan shu zhen ben liu ji, 273.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

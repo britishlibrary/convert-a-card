@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.616+01:00</Created>
+        <LastChange>2023-06-21T17:52:42.304+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758382" pageNr="216"/>
+    </Metadata>
+    <Page imageFilename="28961234612.jpg" imageWidth="984" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687362762305" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="51,83 51,679 910,679 910,83"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="600,122 817,122 818,88 797,84 706,90 602,83"/>
+                <Baseline points="606,107 631,111 657,113 683,114 709,115 734,115 760,115 786,115 812,116"/>
+                <TextEquiv>
+                    <Unicode>15654.e.2			</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="62,180 214,186 221,179 237,184 269,176 268,127 235,129 216,147 62,148"/>
+                <Baseline points="67,172 95,171 123,171 151,172 179,172 207,171 235,171 263,169"/>
+                <TextEquiv>
+                    <Unicode>FANG LA QI YI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="69,249 854,265 901,259 902,226 69,212"/>
+                <Baseline points="74,242 115,243 156,245 197,245 238,246 279,247 320,248 361,248 402,248 443,249 485,249 526,249 567,249 608,249 649,249 690,249 731,249 772,249 813,249 854,250 896,250"/>
+                <TextEquiv>
+                    <Unicode>PEKING. Beijing giche zhizao chang gongren lilun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="209,286 220,287 225,292 234,289 253,290 265,280 270,280 271,261 266,260 256,269 251,269 246,268 237,261 221,262 210,260"/>
+                <Baseline points="214,281 239,282 264,284"/>
+                <TextEquiv>
+                    <Unicode>zu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="114,426 781,434 835,426 836,397 370,388 347,408 115,390"/>
+                <Baseline points="120,415 155,416 191,417 226,419 262,420 297,420 333,420 368,421 404,421 439,421 475,421 510,420 546,420 581,420 617,420 652,421 688,421 723,421 759,422 794,423 830,424"/>
+                <TextEquiv>
+                    <Unicode>Fang La giyi. [On the peasant uprising of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="130,459 169,459 180,465 188,458 210,456 232,467 259,462 295,466 296,444 287,445 276,433 262,428 207,429 192,435 167,428 131,427"/>
+                <Baseline points="135,451 160,451 186,451 212,452 238,453 264,455 290,456"/>
+                <TextEquiv>
+                    <Unicode>120-1122.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="117,506 148,506 158,498 179,493 194,504 202,498 238,498 248,494 248,476 235,476 218,460 182,463 168,473 160,469 117,469"/>
+                <Baseline points="122,486 152,490 182,490 212,489 243,490"/>
+                <TextEquiv>
+                    <Unicode>pp. 38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="366,498 400,498 409,493 419,499 437,498 446,506 458,498 476,499 477,473 411,468 401,460 368,460"/>
+                <Baseline points="372,485 405,486 438,488 471,490"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="124,566 624,569 634,525 546,525 529,542 124,530"/>
+                <Baseline points="129,556 154,557 179,557 204,557 229,558 254,558 279,558 304,558 329,558 354,559 379,559 404,559 429,559 454,559 479,559 504,559 529,559 554,559 579,559 604,559 629,559"/>
+                <TextEquiv>
+                    <Unicode>Zhonghua shuju: Peking, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="116,683 354,685 374,674 422,674 422,639 376,645 358,630 337,645 323,637 229,637 218,646 209,636 116,636"/>
+                <Baseline points="121,661 147,662 174,663 201,664 228,664 255,664 282,664 309,664 336,663 363,663 390,663 417,664"/>
+                <TextEquiv>
+                    <Unicode>Lishi zhishi duwu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15654. e. 2.
+FANG LA QI YI
+PEKING. Beijing giche zhizao chang gongren lilun
+zu.
+1 %. 14 416  IX22 1 40
+tX
+Fang La giyi. [On the peasant uprising of
+120-1122.
+19 cm.
+pp. 38.
+Zhonghua shuju: Peking, 1976.
+Lishi zhishi duwu
+Chinese (P)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

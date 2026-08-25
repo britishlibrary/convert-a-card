@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.658+01:00</Created>
+        <LastChange>2023-05-03T17:52:45.249+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758190" pageNr="48"/>
+    </Metadata>
+    <Page imageFilename="28445621384.jpg" imageWidth="984" imageHeight="797">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129165250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="34,66 37,673 927,673 924,66"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="591,101 618,107 736,107 746,101 816,106 822,105 823,80 768,68 760,75 703,78 681,62 659,60 637,69 592,67"/>
+                <Baseline points="596,89 623,91 651,93 678,94 706,95 734,95 761,96 789,97 817,98"/>
+                <TextEquiv>
+                    <Unicode>15596.a.17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="59,178 816,178 822,138 59,148"/>
+                <Baseline points="64,171 101,171 139,171 176,171 214,171 252,170 289,170 327,170 365,170 402,169 440,169 478,169 515,169 553,169 591,168 628,168 666,168 704,168 741,168 779,168 817,168"/>
+                <TextEquiv>
+                    <Unicode>FANTASTICS AND ECCENTRICS IN CHINESE PAINTING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="43,233 430,242 430,197 205,203 176,188 155,206 43,196"/>
+                <Baseline points="48,221 73,221 98,222 123,222 148,222 173,222 198,222 223,223 249,223 274,223 299,223 324,223 349,224 374,224 399,225 425,225"/>
+                <TextEquiv>
+                    <Unicode>CAHILL (James Francis)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="77,331 866,346 854,309 77,298"/>
+                <Baseline points="82,321 123,322 164,323 205,323 246,324 287,325 328,326 369,326 410,327 451,328 492,328 533,329 574,330 615,330 656,331 697,332 738,332 779,333 820,334 861,335"/>
+                <TextEquiv>
+                    <Unicode>Fantastics and eccentrics in Chinese painting.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="84,378 135,363 196,377 481,374 481,353 449,340 414,348 395,336 339,351 256,332 223,350 181,330 138,346 84,342"/>
+                <Baseline points="89,355 114,357 140,359 166,360 192,360 218,361 243,362 269,362 295,362 321,362 347,362 372,362 398,363 424,363 450,363 476,364"/>
+                <TextEquiv>
+                    <Unicode>pp. 122; illus. 28 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="78,442 345,450 449,435 638,451 653,408 78,405"/>
+                <Baseline points="83,428 111,428 139,428 167,428 195,428 224,428 252,429 280,429 308,429 336,430 365,430 393,431 421,432 449,432 477,433 506,434 534,434 562,435 590,436 618,437 647,437"/>
+                <TextEquiv>
+                    <Unicode>The Asia Society: New York, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="74,507 908,528 895,485 74,469"/>
+                <Baseline points="79,496 120,497 161,498 202,499 243,499 285,500 326,501 367,501 408,502 449,502 491,503 532,503 573,504 614,505 655,505 697,506 738,507 779,507 820,508 861,509 903,510"/>
+                <TextEquiv>
+                    <Unicode>Catalogue of an exhibition selected by J. Cahill,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="77,539 655,559 889,554 898,532 77,510"/>
+                <Baseline points="82,532 122,533 163,533 203,534 244,534 284,535 325,535 365,536 406,536 446,537 487,538 527,538 568,539 608,540 649,541 689,542 730,542 770,543 811,544 851,545 892,546"/>
+                <TextEquiv>
+                    <Unicode>and held at the Asia House Gallery, New York...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="77,575 833,586 833,564 755,549 571,566 77,542"/>
+                <Baseline points="82,563 119,565 156,567 193,568 231,569 268,570 305,571 343,572 380,572 417,573 455,573 492,573 529,574 566,574 604,575 641,575 678,576 716,576 753,577 790,578 828,579"/>
+                <TextEquiv>
+                    <Unicode>1967; Los Angeles...; and ... San Francisco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="82,611 911,633 912,601 875,589 83,580"/>
+                <Baseline points="88,600 128,602 169,604 210,605 251,606 292,607 333,607 374,608 415,608 456,609 497,610 537,610 578,611 619,611 660,612 701,613 742,614 783,615 824,616 865,618 906,619"/>
+                <TextEquiv>
+                    <Unicode>Reprint of the ed. published by the Asia Society,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="77,650 230,651 236,650 237,628 200,616 194,621 171,621 162,614 149,614 139,621 113,621 103,613 78,612"/>
+                <Baseline points="83,636 112,637 142,639 171,640 201,641 231,641"/>
+                <TextEquiv>
+                    <Unicode>New York.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15596.a.17&#13;
+FANTASTICS AND ECCENTRICS IN CHINESE PAINTING&#13;
+CAHILL (James Francis)&#13;
+Fantastics and eccentrics in Chinese painting.&#13;
+pp. 122; illus. 28 cm.&#13;
+The Asia Society: New York, 1976.&#13;
+Catalogue of an exhibition selected by J. Cahill,&#13;
+and held at the Asia House Gallery, New York...&#13;
+1967; Los Angeles...; and ... San Francisco.&#13;
+Reprint of the ed. published by the Asia Society,&#13;
+New York.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

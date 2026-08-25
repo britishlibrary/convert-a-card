@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.551+01:00</Created>
+        <LastChange>2023-07-03T16:59:08.209+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758521" pageNr="334" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=NDIMRKCGNFCNRTAIYXUYTMWQ&amp;fileType=view" imageId="35195827"/>
+    </Metadata>
+    <Page imageFilename="42758521.jpg" imageWidth="956" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396348210" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="55,16 873,16 873,762 55,762"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="577,73 611,83 668,76 679,82 692,71 710,82 743,75 751,82 801,82 812,75 811,57 769,36 740,56 710,35 685,55 664,41 575,40"/>
+                <Baseline points="581,66 605,66 629,68 653,70 677,71 701,71 725,73 749,74 773,74 797,74 814,74"/>
+                <TextEquiv>
+                    <Unicode>15597.d.35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="76,146 274,157 324,141 461,144 461,95 407,93 377,123 351,101 326,122 299,96 272,121 228,93 176,93 148,121 121,94 76,95"/>
+                <Baseline points="81,141 105,140 129,140 153,140 176,140 200,140 224,140 248,140 272,141 296,141 320,141 344,141 368,141 392,141 416,140 440,140 463,141"/>
+                <TextEquiv>
+                    <Unicode>THE FAMILY, BY PA CHIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="61,209 168,218 180,206 295,204 320,226 438,226 436,154 415,149 387,170 340,153 302,193 262,165 248,179 166,179 139,163 60,163"/>
+                <Baseline points="66,199 90,199 114,199 138,200 162,202 186,202 210,200 234,202 258,202 282,204 306,205 330,202 333,202 333,202 358,202 382,205 406,208 428,216 440,218"/>
+                <TextEquiv>
+                    <Unicode>BAJIN, pseud.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="95,303 871,321 870,283 604,264 495,293 451,273 285,290 95,263"/>
+                <Baseline points="100,291 124,298 148,299 172,299 196,299 220,301 243,302 267,302 291,302 315,302 339,306 363,304 387,304 411,306 435,306 459,306 483,306 507,307 530,306 554,307 578,307 602,307 626,307 650,309 674,309 698,309 722,309 746,309 770,309 794,310 817,312 841,310 865,312 873,312"/>
+                <TextEquiv>
+                    <Unicode>The Family, by Pa Chin. [Translated by Sidney</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="94,338 144,339 160,354 182,339 208,339 218,346 240,344 239,322 229,322 219,314 195,315 177,307 171,313 136,317 126,307 93,304"/>
+                <Baseline points="98,331 122,334 146,334 170,334 194,336 218,336 242,336"/>
+                <TextEquiv>
+                    <Unicode>Shapiro.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="99,380 498,381 498,357 439,356 411,339 377,362 302,338 250,354 200,340 163,354 99,344"/>
+                <Baseline points="104,370 129,371 153,371 176,371 200,371 224,369 248,371 272,373 296,373 320,371 344,371 368,371 392,373 416,374 440,374 463,374 487,374 500,374"/>
+                <TextEquiv>
+                    <Unicode>pp. 321; illus. 17 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="93,440 722,459 755,452 755,426 687,409 646,437 614,409 92,413"/>
+                <Baseline points="98,438 122,438 146,438 170,438 194,441 218,440 242,441 266,441 290,441 314,441 338,443 361,443 385,443 409,444 433,444 457,444 481,446 505,446 529,446 553,446 577,448 601,448 624,449 648,449 672,449 696,449 720,449 744,451 757,451"/>
+                <TextEquiv>
+                    <Unicode>C &amp; W Publishing Co.: Hong Kong, 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15597.d.35&#13;
+THE FAMILY, BY PA CHIN&#13;
+BAJIN, pseud.&#13;
+The Family, by Pa Chin. [Translated by Sidney&#13;
+Shapiro.]&#13;
+pp. 321; illus. 17 cm.&#13;
+C &amp; W Publishing Co.: Hong Kong, 1979.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.082+01:00</Created>
+        <LastChange>2023-06-22T15:25:37.306+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758416" pageNr="244"/>
+    </Metadata>
+    <Page imageFilename="28961239952.jpg" imageWidth="1012" imageHeight="824">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440337307" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="76,112 76,533 894,533 894,112"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="619,154 839,152 839,124 816,125 799,113 784,124 750,117 739,126 671,108 657,115 619,115"/>
+                <Baseline points="624,142 650,143 676,144 702,144 729,145 755,145 781,145 807,146 834,145"/>
+                <TextEquiv>
+                    <Unicode>15633.e.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="78,194 341,194 341,149 327,149 310,166 78,164"/>
+                <Baseline points="83,187 108,187 133,187 158,188 184,188 209,188 234,188 260,188 285,187 310,187 336,187"/>
+                <TextEquiv>
+                    <Unicode>FAN SHI YAO HAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="76,260 101,260 127,261 153,262 178,263 204,264 230,264 255,264 255,249 230,249 204,249 179,248 154,247 128,246 101,245 76,245"/>
+                <Baseline points="76,260 101,260 127,261 153,262 178,263 204,264 230,264 255,264"/>
+                <TextEquiv>
+                    <Unicode>FU (Renyu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="112,370 870,386 899,385 900,351 113,339"/>
+                <Baseline points="117,364 155,365 194,366 233,367 272,368 311,369 350,369 388,370 427,370 466,370 505,370 544,371 583,371 622,371 660,371 699,371 738,372 777,372 816,373 855,373 894,374"/>
+                <TextEquiv>
+                    <Unicode>Fan shi yao han. [Ming work on the eyes. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="114,410 694,417 683,377 574,391 114,381"/>
+                <Baseline points="119,400 147,401 176,402 204,402 233,403 261,403 290,403 318,403 347,403 375,403 404,403 432,403 461,403 489,404 518,404 546,404 575,405 603,406 632,406 660,407 689,409"/>
+                <TextEquiv>
+                    <Unicode>edition first published in 1959.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="109,450 145,450 162,440 174,441 185,450 249,450 249,422 231,413 185,413 168,428 148,413 109,413"/>
+                <Baseline points="114,440 140,440 166,439 192,439 218,440 244,440"/>
+                <TextEquiv>
+                    <Unicode>pp. 293.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="429,450 462,450 469,443 482,451 535,448 535,427 524,427 517,421 479,420 471,423 462,414 430,413"/>
+                <Baseline points="434,440 466,439 498,440 530,441"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="108,516 850,517 828,482 733,499 108,476"/>
+                <Baseline points="113,506 149,507 186,507 222,507 259,507 296,508 332,508 369,508 405,509 442,509 479,510 515,510 552,511 588,511 625,512 662,512 698,513 735,513 771,514 808,515 845,516"/>
+                <TextEquiv>
+                    <Unicode>Shanghai renmin chubanshe: Shanghai, 1977.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15633. e. 4.
+FAN SHI YAO HAN
+FU (Renyu)
+ 2 
+Fan shi yao han. [Ming work on the eyes. This
+edition first published in 1959.)
+pp. 293.
+19 cm.
+Shanghai renmin chubanshe: Shanghai, 1977.
+Chinese (P)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.038+01:00</Created>
+        <LastChange>2023-06-22T15:22:11.025+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758412" pageNr="241"/>
+    </Metadata>
+    <Page imageFilename="28961239632.jpg" imageWidth="980" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440131025" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="47,111 47,660 846,660 846,111"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="573,143 599,154 690,143 767,146 776,154 835,146 835,122 820,122 805,109 760,109 737,124 724,117 687,124 672,109 601,117 573,108"/>
+                <Baseline points="578,138 603,138 628,138 653,138 678,139 704,139 729,139 754,140 779,141 804,141 830,142"/>
+                <TextEquiv>
+                    <Unicode>15400.e.651</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="85,226 199,226 211,215 399,226 431,207 431,154 84,158"/>
+                <Baseline points="89,213 114,212 140,212 166,211 192,211 218,211 244,211 270,211 296,211 322,211 348,211 374,210 400,210 426,209"/>
+                <TextEquiv>
+                    <Unicode>FAN TONG SHENG YA JI QU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="42,290 551,283 622,298 645,289 645,248 42,253"/>
+                <Baseline points="47,276 76,276 106,275 135,275 165,275 195,275 224,276 254,276 284,276 313,277 343,277 373,278 402,278 432,279 462,279 491,279 521,279 551,279 580,279 610,279 640,278"/>
+                <TextEquiv>
+                    <Unicode>EICHENDORFF (Joseph Freiherr von)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="72,386 851,394 851,364 792,357 72,356"/>
+                <Baseline points="77,379 115,380 153,380 192,381 230,381 269,382 307,382 346,382 384,382 423,383 461,383 499,383 538,383 576,383 615,383 653,384 692,384 730,384 769,384 807,384 846,385"/>
+                <TextEquiv>
+                    <Unicode>Fantong shengya jiqu. [Aus dem Leben eines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="78,422 819,427 769,396 291,407 78,389"/>
+                <Baseline points="83,416 119,416 156,417 192,417 229,418 265,418 302,418 338,419 375,419 411,419 448,420 485,420 521,420 558,421 594,421 631,421 667,422 704,422 740,422 777,423 814,423"/>
+                <TextEquiv>
+                    <Unicode>Taugenichts, translated by Zheng Shoulin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="77,451 103,451 130,451 157,451 184,451 211,452 237,452 264,453 291,454 318,454 345,455 363,460 367,445 347,440 318,439 291,439 265,438 237,437 211,437 184,436 157,436 130,436 103,436 77,436"/>
+                <Baseline points="77,451 103,451 130,451 157,451 184,451 211,452 237,452 264,453 291,454 318,454 345,455 363,460"/>
+                <TextEquiv>
+                    <Unicode>Second edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="75,498 142,498 148,492 193,499 239,496 239,480 214,461 176,458 143,468 112,461 97,469 76,461"/>
+                <Baseline points="80,481 105,484 131,486 157,486 182,485 208,485 234,488"/>
+                <TextEquiv>
+                    <Unicode>pps. 111.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="68,563 796,569 776,533 678,548 69,525"/>
+                <Baseline points="73,554 108,555 144,556 180,556 216,557 252,557 288,558 324,558 360,559 396,559 432,559 467,560 503,560 539,560 575,560 611,561 647,561 683,561 719,562 755,562 791,562"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="62,642 454,651 479,641 479,621 449,613 304,624 256,610 63,605"/>
+                <Baseline points="67,630 92,631 117,631 143,632 168,633 194,634 219,634 245,635 270,636 295,637 321,638 346,638 372,639 397,639 423,640 448,640 474,640"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no. 651.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400. e. 651.
+FAN TONG SHENG YA JI QU
+EICHENDORFF (Joseph Freiherr von)
++9
+
+
+AC
+Fantong shengya jiqu. [Aus dem Leben eines
+Taugenichts, translated by Zheng Shoulin.
+Second edition.
+pps. 111.
+Taiwan shangwu yinshuguan: Taipei, 1968.
+Renren wenku, no. 651.
+P</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

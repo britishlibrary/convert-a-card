@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.756+01:00</Created>
+        <LastChange>2023-07-03T17:20:21.730+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758537" pageNr="348" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=VZYNZQTVEVDLJERNJBWDSOXK&amp;fileType=view" imageId="35195843"/>
+    </Metadata>
+    <Page imageFilename="42758537.jpg" imageWidth="952" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397621730" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="33,57 884,55 884,735 33,737"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="562,113 596,121 640,113 671,122 682,111 723,113 735,122 796,120 795,94 764,75 748,78 730,98 700,78 675,97 653,75 619,76 608,68 590,85 561,84"/>
+                <Baseline points="567,107 591,109 615,109 639,109 662,111 686,112 710,112 734,114 758,112 781,112 797,112"/>
+                <TextEquiv>
+                    <Unicode>15610.a.32</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="91,143 551,154 600,146 601,119 532,105 92,115"/>
+                <Baseline points="96,142 103,141 126,141 150,142 174,141 198,141 222,142 245,141 269,141 293,141 317,141 340,141 364,141 388,141 412,141 436,141 459,141 483,141 507,139 531,139 555,139 578,139 602,141"/>
+                <TextEquiv>
+                    <Unicode>FA LAN KE FU XUE PAI SHU PING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="28,249 72,249 82,238 95,250 262,249 261,208 245,199 226,218 143,217 125,203 96,203 86,214 62,203 27,204"/>
+                <Baseline points="33,239 57,239 80,237 104,239 128,239 152,241 176,241 199,241 223,241 247,242 263,245"/>
+                <TextEquiv>
+                    <Unicode>XU (Chongwen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="79,310 473,313 573,329 583,289 400,269 386,283 279,282 265,268 243,281 78,278"/>
+                <Baseline points="84,304 107,304 131,304 155,306 179,306 203,307 226,307 250,309 274,309 298,309 321,310 345,310 369,310 393,310 417,310 440,309 464,312 488,310 512,312 536,312 559,315 583,317 585,317"/>
+                <TextEquiv>
+                    <Unicode>Fa lan ke fu xue pai shu ping</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="80,474 183,466 289,488 312,476 337,490 474,478 472,434 387,433 369,448 296,419 193,439 147,412 130,429 78,430"/>
+                <Baseline points="84,464 107,463 131,464 155,463 179,463 203,466 226,466 250,467 274,471 298,471 321,472 345,474 369,474 393,475 417,477 440,477 464,477 475,477"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="83,522 195,517 208,530 235,522 247,531 268,519 295,530 388,522 388,496 353,487 272,496 255,487 236,503 219,487 200,494 191,485 143,485 127,501 98,481 83,487"/>
+                <Baseline points="88,517 112,517 136,515 160,515 183,515 207,517 231,518 255,518 279,518 302,518 326,517 350,518 374,518 390,521"/>
+                <TextEquiv>
+                    <Unicode>3, 250 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="82,586 438,591 429,555 317,563 291,548 273,564 253,548 196,564 166,551 146,563 133,552 81,552"/>
+                <Baseline points="87,580 111,580 134,580 158,582 182,582 206,582 229,582 253,583 277,582 301,582 325,582 348,583 372,585 396,585 420,585 440,588"/>
+                <TextEquiv>
+                    <Unicode>The Frankfurt School</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15610.a.32&#13;
+FA LAN KE FU XUE PAI SHU PING&#13;
+XU (Chongwen)&#13;
+Fa lan ke fu xue pai shu ping&#13;
+1980&#13;
+3, 250 p.; 19 cm.&#13;
+The Frankfurt School</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.617+01:00</Created>
+        <LastChange>2023-05-04T12:48:12.565+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758245" pageNr="96"/>
+    </Metadata>
+    <Page imageFilename="28448802933.jpg" imageWidth="968" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197292598" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,24 37,569 890,568 891,23"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="480,73 766,66 766,25 480,26"/>
+                <Baseline points="485,61 510,61 535,61 560,61 585,62 610,62 635,62 660,62 685,61 710,61 735,61 761,61"/>
+                <TextEquiv>
+                    <Unicode>CHI.1990.a.824</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="83,201 324,201 324,151 309,151 292,168 210,167 182,159 164,168 83,164"/>
+                <Baseline points="88,190 113,190 139,190 165,190 190,190 216,190 242,190 267,190 293,191 319,192"/>
+                <TextEquiv>
+                    <Unicode>WANG (Shishen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="107,274 141,267 367,274 376,270 376,228 107,230"/>
+                <Baseline points="112,253 137,256 163,257 189,257 215,257 241,256 267,255 293,255 319,256 345,257 371,260"/>
+                <TextEquiv>
+                    <Unicode>Fen gan yu hua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194475477_456" custom="readingOrder {index:3;}">
+                <Coords points="590,382 678,381 679,431 591,432"/>
+                <Baseline points="591,427 679,426"/>
+                <TextEquiv>
+                    <Unicode>1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="116,482 224,482 229,477 234,478 235,454 190,452 175,455 165,444 117,443"/>
+                <Baseline points="121,471 148,471 175,471 202,473 229,474"/>
+                <TextEquiv>
+                    <Unicode>111 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="122,546 233,546 248,536 258,536 258,517 249,517 241,509 187,509 178,518 159,518 150,509 122,509"/>
+                <Baseline points="127,536 152,537 177,537 202,537 227,537 253,537"/>
+                <TextEquiv>
+                    <Unicode>s1. L16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1990.a.824&#13;
+WANG (Shishen)&#13;
+Fen gan yu hua&#13;
+1989&#13;
+111 p.&#13;
+s1. L16</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

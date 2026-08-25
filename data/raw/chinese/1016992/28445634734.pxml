@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.363+01:00</Created>
+        <LastChange>2023-05-04T12:46:41.247+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758228" pageNr="81"/>
+    </Metadata>
+    <Page imageFilename="28445634734.jpg" imageWidth="944" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197201280" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="36,45 36,768 928,771 928,48"/>
+            <TextLine id="line_1654530344623_482" custom="readingOrder {index:0;}">
+                <Coords points="553,89 574,98 771,99 814,87 814,71 785,71 775,61 745,61 734,72 676,70 663,61 553,62"/>
+                <Baseline points="558,97 809,100"/>
+                <TextEquiv>
+                    <Unicode>15625.a.34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654530347294_487" custom="readingOrder {index:1;}">
+                <Coords points="114,167 860,166 845,141 114,141"/>
+                <Baseline points="119,176 855,175"/>
+                <TextEquiv>
+                    <Unicode>FA XUE JI CHU LI LUN CAN KAO ZI LIAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:2;}">
+                <Coords points="53,242 129,236 146,243 232,242 240,234 294,242 303,238 303,197 271,197 256,211 246,204 169,206 154,197 53,205"/>
+                <Baseline points="58,231 84,230 111,230 138,229 164,229 191,229 218,229 244,229 271,230 298,230"/>
+                <TextEquiv>
+                    <Unicode>WANG (Yongfei)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="158,307 670,296 669,267 157,277"/>
+                <Baseline points="163,302 188,301 213,301 238,300 263,299 288,298 313,297 338,297 363,296 388,296 413,295 438,295 463,294 488,294 513,293 538,293 563,293 588,292 613,292 638,291 664,291"/>
+                <TextEquiv>
+                    <Unicode>fa xue ji chu ji lun can kao zi iiao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683193582491_153" custom="readingOrder {index:4;}">
+                <Coords points="720,331 790,329 791,379 721,381"/>
+                <Baseline points="721,376 791,374"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913170134_466" custom="readingOrder {index:5;}">
+                <Coords points="756,677 768,683 804,681 812,687 822,680 853,686 858,682 889,683 896,680 895,645 879,646 870,638 855,637 844,646 813,648 805,656 755,654"/>
+                <Baseline points="761,679 891,676"/>
+                <TextEquiv>
+                    <Unicode>54-54[80]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913171977_471" custom="readingOrder {index:6;}">
+                <Coords points="700,716 778,710 812,714 819,707 858,717 902,711 901,680 843,682 823,693 808,685 699,685"/>
+                <Baseline points="705,715 897,714"/>
+                <TextEquiv>
+                    <Unicode>80-17-66 (16]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913158144_456" custom="readingOrder {index:7;}">
+                <Coords points="72,730 119,730 136,722 145,731 177,733 204,729 219,714 251,730 288,720 288,692 190,693 137,698 129,706 72,701"/>
+                <Baseline points="77,725 283,724"/>
+                <TextEquiv>
+                    <Unicode>D90 34.03 D90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683193611672_168" custom="readingOrder {index:8;}">
+                <Coords points="65,716 124,715 125,765 66,766"/>
+                <Baseline points="66,761 125,760"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913173756_476" custom="readingOrder {index:9;}">
+                <Coords points="670,752 737,746 759,753 769,743 794,749 825,739 835,749 866,754 902,738 901,721 886,716 830,717 821,725 813,717 784,718 774,728 754,717 712,716 669,726"/>
+                <Baseline points="675,750 897,747"/>
+                <TextEquiv>
+                    <Unicode>6209.5 81—8951</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.34&#13;
+FA XUE JI CHU LI LUN CAN KAO ZI LIAO&#13;
+WANG (Yongfei)&#13;
+fa xue ji chu ji lun can kao zi iiao&#13;
+1981&#13;
+54-54[80]&#13;
+80-17-66 (16]&#13;
+D90 34.03 D90&#13;
+1981&#13;
+6209.5 81—8951</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

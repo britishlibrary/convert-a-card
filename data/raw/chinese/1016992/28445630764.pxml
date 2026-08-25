@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.281+01:00</Created>
+        <LastChange>2023-05-04T12:46:24.065+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758223" pageNr="76"/>
+    </Metadata>
+    <Page imageFilename="28445630764.jpg" imageWidth="980" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197184066" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="137,66 140,609 944,609 941,66"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,92 623,106 769,94 792,106 823,99 852,107 879,98 879,71 846,60 780,61 763,76 735,61 707,80 694,69 598,68"/>
+                <Baseline points="603,92 630,92 657,92 684,93 711,93 738,93 765,93 792,93 819,93 846,93 874,93"/>
+                <TextEquiv>
+                    <Unicode>15349.d.1/159</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="171,161 360,153 377,142 377,116 240,117 224,109 216,118 171,117"/>
+                <Baseline points="176,143 204,142 232,141 260,141 288,142 316,142 344,141 372,140"/>
+                <TextEquiv>
+                    <Unicode>FAN KANG ZHE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="152,242 253,236 266,244 401,242 410,238 410,200 375,199 361,212 280,197 260,207 152,206"/>
+                <Baseline points="157,230 195,229 221,229 247,229 273,229 300,229 326,230 352,230 378,230 405,231"/>
+                <TextEquiv>
+                    <Unicode>CAMUS (Albert)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658912969822_238" custom="readingOrder {index:3;}">
+                <Coords points="149,375 913,370 896,341 149,341"/>
+                <Baseline points="154,378 908,372"/>
+                <TextEquiv>
+                    <Unicode>Fankang zhe. [L'Homme revolte. Translat-d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="163,412 635,418 625,372 607,385 163,381"/>
+                <Baseline points="168,401 193,402 219,403 245,404 270,404 296,404 322,404 347,404 373,403 399,403 424,402 450,402 476,402 501,402 527,402 553,403 578,404 604,405 630,407"/>
+                <TextEquiv>
+                    <Unicode>by Liu Junyu into Chinese.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="796,446 826,450 841,439 847,442 905,442 916,437 917,421 892,420 884,413 874,412 814,412 808,406 797,405"/>
+                <Baseline points="801,436 828,436 856,435 883,437 911,440"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="153,446 167,450 183,450 189,444 212,450 286,449 286,430 278,430 271,422 254,421 242,413 232,413 225,420 189,423 174,413 154,413"/>
+                <Baseline points="158,439 199,436 226,437 253,440 281,441"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="161,515 589,522 630,513 630,478 544,477 528,493 502,478 161,484"/>
+                <Baseline points="166,506 191,506 217,507 242,507 268,507 293,507 319,507 344,507 370,507 395,507 421,507 446,506 472,506 497,506 523,506 548,506 574,507 599,507 625,508"/>
+                <TextEquiv>
+                    <Unicode>Sanmin shuju: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="163,586 346,584 385,594 395,584 482,580 482,560 462,549 407,549 389,565 339,548 325,557 163,549"/>
+                <Baseline points="168,576 193,575 219,575 245,575 271,575 296,575 322,576 348,576 374,576 399,577 425,577 451,578 477,578"/>
+                <TextEquiv>
+                    <Unicode>Sanmin wenku, 159.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15349.d.1/159&#13;
+FAN KANG ZHE&#13;
+CAMUS (Albert)&#13;
+Fankang zhe. [L'Homme revolte. Translat-d&#13;
+by Liu Junyu into Chinese.]&#13;
+19 cm.&#13;
+2 vols.&#13;
+Sanmin shuju: Taipei, 1972.&#13;
+Sanmin wenku, 159.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.139+01:00</Created>
+        <LastChange>2023-05-03T17:41:50.392+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758162" pageNr="23"/>
+    </Metadata>
+    <Page imageFilename="28445613094.jpg" imageWidth="988" imageHeight="804">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128510392" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="51,65 51,610 909,610 909,65"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="590,98 607,98 615,106 792,102 792,73 781,69 726,69 710,78 678,68 590,68"/>
+                <Baseline points="595,94 622,94 649,95 677,95 704,96 732,96 759,95 787,93"/>
+                <TextEquiv>
+                    <Unicode>15673.c.284</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="76,226 296,221 379,232 418,222 418,188 211,200 76,195"/>
+                <Baseline points="81,219 106,219 132,219 157,219 183,220 208,220 234,220 259,221 285,221 310,222 336,222 361,222 387,221 413,221"/>
+                <TextEquiv>
+                    <Unicode>FENG CI XIAO PIN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="93,282 324,288 334,298 353,288 450,290 450,244 93,242"/>
+                <Baseline points="98,270 124,270 151,270 178,270 204,271 231,271 258,272 284,272 311,273 338,273 364,273 391,273 418,273 445,273"/>
+                <TextEquiv>
+                    <Unicode>Feng ci xiao pin ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128503524_420" custom="readingOrder {index:3;}">
+                <Coords points="282,415 388,413 389,463 283,465"/>
+                <Baseline points="283,460 389,458"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="110,514 331,514 346,508 347,496 319,477 271,478 254,492 237,485 219,495 167,477 111,476"/>
+                <Baseline points="115,501 140,504 165,506 190,507 215,507 240,506 265,506 290,506 315,506 341,508"/>
+                <TextEquiv>
+                    <Unicode>182 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="113,578 300,579 300,549 219,550 182,540 153,557 143,547 113,548"/>
+                <Baseline points="118,570 143,571 168,571 193,571 219,571 244,571 269,572 295,574"/>
+                <TextEquiv>
+                    <Unicode>s1. Humour.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15673.c.284&#13;
+FENG CI XIAO PIN JI&#13;
+Feng ci xiao pin ji&#13;
+1982&#13;
+182 p.: ill.&#13;
+s1. Humour.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

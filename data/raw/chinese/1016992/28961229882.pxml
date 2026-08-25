@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.509+01:00</Created>
+        <LastChange>2023-05-16T13:05:33.122+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758374" pageNr="209"/>
+    </Metadata>
+    <Page imageFilename="28961229882.jpg" imageWidth="976" imageHeight="817">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684235133123" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="55,72 62,591 896,593 899,73"/>
+            <TextLine id="line_1654763971412_47" custom="readingOrder {index:0;}">
+                <Coords points="548,110 824,106 891,115 904,113 905,78 826,85 738,76 724,90 704,76 667,87 648,69 549,80"/>
+                <Baseline points="553,108 899,114"/>
+                <TextEquiv>
+                    <Unicode>15408.d.362 - 363</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="64,162 124,162 136,154 144,162 228,158 288,170 347,152 347,133 311,125 291,108 245,116 225,131 64,124"/>
+                <Baseline points="69,150 96,150 123,150 150,150 178,150 205,150 232,150 260,151 287,151 314,151 342,151"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHAI CUN GAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="68,229 94,228 121,228 148,229 175,230 202,231 228,232 255,234 276,235 277,220 256,219 229,217 203,216 176,215 149,214 121,213 94,213 67,214"/>
+                <Baseline points="68,229 94,228 121,228 148,229 175,230 202,231 228,232 255,234 276,235"/>
+                <TextEquiv>
+                    <Unicode>LIN (Wenjun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="88,370 882,380 882,354 814,349 88,341"/>
+                <Baseline points="93,364 132,365 171,366 210,367 249,367 289,368 328,368 367,369 406,370 445,370 485,370 524,371 563,371 602,372 641,372 681,372 720,373 759,374 798,374 837,375 877,376"/>
+                <TextEquiv>
+                    <Unicode>Fang zhai cungao. [Collected prose and poems</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="96,399 122,399 149,400 176,401 203,401 229,402 256,402 283,403 310,403 336,404 363,404 390,405 417,405 443,406 470,406 497,406 524,407 550,407 577,408 604,408 772,417 772,402 604,393 577,393 550,392 524,392 497,391 470,391 443,391 417,390 390,390 363,389 336,389 310,388 283,388 256,387 229,387 203,386 176,386 150,385 122,384 96,384"/>
+                <Baseline points="96,399 122,399 149,400 176,401 203,401 229,402 256,402 283,403 310,403 336,404 363,404 390,405 417,405 443,406 470,406 497,406 524,407 550,407 577,408 604,408 772,417"/>
+                <TextEquiv>
+                    <Unicode>by Lin Wenjun of the Ming. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="97,445 398,450 398,429 371,414 312,412 297,421 285,411 257,420 216,412 201,424 173,408 145,420 97,408"/>
+                <Baseline points="102,434 128,435 154,436 181,437 207,438 234,438 260,439 287,439 313,440 340,440 366,441 393,441"/>
+                <TextEquiv>
+                    <Unicode>10 ch. in 2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_178" custom="readingOrder {index:6;}">
+                <Coords points="692,448 801,451 802,436 692,433"/>
+                <Baseline points="692,448 801,451"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="89,520 651,530 675,523 676,485 90,476"/>
+                <Baseline points="95,503 123,504 152,504 181,505 210,505 238,505 267,506 296,507 325,507 353,507 382,508 411,508 440,509 468,510 497,510 526,511 555,512 583,513 612,514 641,515 670,516"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1973].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="96,573 124,572 153,573 182,573 210,573 239,573 268,574 296,574 325,575 354,575 383,576 411,577 440,577 469,578 497,578 526,579 555,579 583,579 612,580 641,580 760,590 762,575 642,565 612,565 583,564 555,564 526,564 497,563 469,563 440,562 411,562 384,561 354,560 325,560 296,559 268,559 239,558 210,558 182,558 153,558 124,557 95,558"/>
+                <Baseline points="96,573 124,572 153,573 182,573 210,573 239,573 268,574 296,574 325,575 354,575 383,576 411,577 440,577 469,578 497,578 526,579 555,579 583,579 612,580 641,580 760,590"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben si ji, 362 - 363.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408. d. 362 - 363.
+FANG ZHAI CUN GAO
+LIN (Wenjun)
+
+ pn /2A1
+)  4
+Fang zhai cungao. [Collected prose and poems
+by Lin Wenjun of the Ming. Are
+rint.
+10 ch. in 2 vols.
+1
+n.
+Shangwu yinshuguan: Taipei, [1973].
+Siku quanshu zhenben si ji, 362 -
+363.
+Chinese (P)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

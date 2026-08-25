@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.811+01:00</Created>
+        <LastChange>2023-05-04T12:50:44.576+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758258" pageNr="108" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28448805813.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197444577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="44,0 47,671 938,671 935,0"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="660,42 849,43 870,35 870,16 855,8 838,9 824,20 785,8 771,22 757,20 746,8 660,9"/>
+                <Baseline points="665,32 693,34 721,35 750,35 778,34 807,34 835,35 864,37"/>
+                <TextEquiv>
+                    <Unicode>14815.k.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="39,124 200,107 312,123 349,111 440,113 440,80 376,69 214,68 199,83 135,84 94,81 80,67 39,73"/>
+                <Baseline points="44,108 70,107 96,107 122,107 148,106 174,106 200,106 226,106 252,107 278,107 304,107 330,107 356,107 382,106 408,106 435,106"/>
+                <TextEquiv>
+                    <Unicode>FARHANG-i FARSI BA CINI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="43,186 267,180 316,193 467,177 467,155 447,148 43,148"/>
+                <Baseline points="49,175 74,175 100,175 126,176 152,176 178,176 203,176 229,176 255,176 281,177 307,177 332,177 358,177 384,177 410,177 436,176 462,176"/>
+                <TextEquiv>
+                    <Unicode>BO SI YU HAN YU CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="75,258 921,258 941,218 75,221"/>
+                <Baseline points="80,246 122,247 165,247 208,248 251,248 293,248 336,248 379,248 422,248 464,248 507,248 550,247 593,247 635,247 678,247 721,247 764,247 806,247 849,247 892,247 935,247"/>
+                <TextEquiv>
+                    <Unicode>Bo si yu Han yu ci dian = Farhang-i farsi ba cini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682499595087_291" custom="readingOrder {index:4;}">
+                <Coords points="186,544 279,541 280,591 187,594"/>
+                <Baseline points="187,589 257,586"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="79,658 110,645 270,648 288,658 461,641 461,626 379,612 321,611 304,626 208,605 170,624 137,601 80,601"/>
+                <Baseline points="85,638 111,638 138,638 164,638 191,639 217,639 244,640 270,640 297,640 323,641 350,641 376,641 403,641 429,641 456,640"/>
+                <TextEquiv>
+                    <Unicode>[ii], 2627 p.; 27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14815.k.2&#13;
+FARHANG-i FARSI BA CINI&#13;
+BO SI YU HAN YU CI DIAN&#13;
+Bo si yu Han yu ci dian = Farhang-i farsi ba cini&#13;
+1981&#13;
+[ii], 2627 p.; 27 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

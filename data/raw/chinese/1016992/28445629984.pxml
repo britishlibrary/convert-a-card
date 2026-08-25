@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.197+01:00</Created>
+        <LastChange>2023-05-04T12:46:05.192+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758216" pageNr="71"/>
+    </Metadata>
+    <Page imageFilename="28445629984.jpg" imageWidth="1004" imageHeight="820">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197165192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="45,117 49,576 924,578 920,119"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="567,162 800,162 801,131 783,125 688,132 663,125 568,124"/>
+                <Baseline points="573,149 600,151 628,154 656,155 684,155 712,155 740,155 768,154 796,154"/>
+                <TextEquiv>
+                    <Unicode>15675.g.42</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="79,218 247,218 255,210 304,218 313,209 335,219 383,217 396,209 397,176 80,177"/>
+                <Baseline points="84,205 109,205 135,205 160,205 186,205 211,205 237,205 263,205 288,206 314,206 339,206 365,207 391,208"/>
+                <TextEquiv>
+                    <Unicode>FAN SHEN JI SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658912794905_79" custom="readingOrder {index:2;}">
+                <Coords points="59,299 118,294 144,299 160,291 167,298 216,293 247,301 265,294 265,253 239,253 225,267 191,261 177,247 156,263 59,260"/>
+                <Baseline points="64,295 260,297"/>
+                <TextEquiv>
+                    <Unicode>LIANG (Bin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="102,398 878,400 878,373 836,364 102,365"/>
+                <Baseline points="107,391 145,392 183,392 221,393 260,393 298,393 336,393 375,393 413,393 451,393 490,393 528,393 566,393 604,393 643,393 681,393 719,393 758,393 796,393 834,394 873,394"/>
+                <TextEquiv>
+                    <Unicode>Fan shen ji shi. [Novel about land reform in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="100,434 212,430 324,438 325,398 313,397 301,408 261,406 252,397 235,406 212,398 193,410 163,397 152,405 101,402"/>
+                <Baseline points="105,425 131,425 158,426 185,426 212,427 238,427 265,427 292,427 319,427"/>
+                <TextEquiv>
+                    <Unicode>North China.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="95,474 231,474 289,458 328,474 354,462 418,468 417,447 380,437 312,437 253,455 217,433 169,434 155,447 94,437"/>
+                <Baseline points="99,464 125,465 151,465 177,464 203,464 229,463 255,463 281,462 307,461 333,461 359,461 385,462 412,462"/>
+                <TextEquiv>
+                    <Unicode>pp. 507. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="91,538 763,538 743,500 91,501"/>
+                <Baseline points="96,531 129,531 162,531 195,531 228,531 261,532 294,532 327,532 360,532 393,532 427,532 460,532 493,532 526,532 559,532 592,532 625,532 658,532 691,532 724,532 758,533"/>
+                <TextEquiv>
+                    <Unicode>Renmin wenxue chubanshe: Peking, 1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.42&#13;
+FAN SHEN JI SHI&#13;
+LIANG (Bin)&#13;
+Fan shen ji shi. [Novel about land reform in&#13;
+North China.]&#13;
+pp. 507. 19 cm.&#13;
+Renmin wenxue chubanshe: Peking, 1978.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

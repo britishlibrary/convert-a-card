@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.135+01:00</Created>
+        <LastChange>2023-05-10T15:09:55.000+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758347" pageNr="186"/>
+    </Metadata>
+    <Page imageFilename="28961212882.jpg" imageWidth="976" imageHeight="811">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724195000" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="83,88 83,736 886,737 886,89"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="504,118 618,117 627,127 648,130 668,118 726,121 727,79 504,82"/>
+                <Baseline points="509,110 535,110 562,110 588,111 615,111 642,112 668,113 695,112 722,111"/>
+                <TextEquiv>
+                    <Unicode>15266.g.234</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="108,193 143,192 170,218 198,189 280,188 309,215 338,186 370,186 369,133 107,139"/>
+                <Baseline points="112,177 137,177 162,177 187,176 212,176 238,175 263,175 288,175 313,174 338,174 364,175"/>
+                <TextEquiv>
+                    <Unicode>FENG JIE XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683724109426_413" custom="readingOrder {index:2;}">
+                <Coords points="554,202 616,202 616,252 554,252"/>
+                <Baseline points="554,247 616,247"/>
+                <TextEquiv>
+                    <Unicode>ZENG (Xiuqiao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683724105635_408" custom="readingOrder {index:3;}">
+                <Coords points="85,205 334,205 334,255 85,255"/>
+                <Baseline points="85,250 334,250"/>
+                <TextEquiv>
+                    <Unicode>and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="89,290 140,298 168,283 183,299 200,290 225,297 239,290 303,296 303,253 280,253 272,261 239,261 231,253 216,260 201,253 178,259 89,256"/>
+                <Baseline points="94,282 119,282 145,282 170,282 196,282 221,282 247,283 272,283 298,284"/>
+                <TextEquiv>
+                    <Unicode>YANG (Dekun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="125,427 773,427 787,385 588,402 439,389 419,409 383,389 125,389"/>
+                <Baseline points="130,419 162,419 195,419 227,419 260,419 293,419 325,419 358,419 390,419 423,419 456,419 488,418 521,418 553,418 586,418 619,418 651,418 684,418 716,417 749,417 782,417"/>
+                <TextEquiv>
+                    <Unicode>Fengjie xianzhi. [Reprint of the 1893</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="125,459 872,457 872,431 841,427 125,429"/>
+                <Baseline points="130,452 166,452 203,452 240,452 277,453 314,453 351,453 387,453 424,453 461,453 498,452 535,452 572,452 609,452 645,452 682,452 719,452 756,452 793,452 830,452 867,452"/>
+                <TextEquiv>
+                    <Unicode>edition of the gazetteer of the district in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="125,497 236,499 253,490 263,498 299,491 420,498 421,477 345,461 250,472 126,462"/>
+                <Baseline points="131,485 156,486 182,486 208,487 234,487 260,487 286,487 312,487 338,487 364,487 390,488 448,488"/>
+                <TextEquiv>
+                    <Unicode>Sichuan province.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="119,530 304,538 328,523 379,538 527,538 565,526 565,512 535,500 468,493 424,511 373,493 289,509 249,493 225,510 199,494 171,504 119,491"/>
+                <Baseline points="124,520 149,521 175,521 200,522 226,522 252,522 277,522 303,522 329,522 354,522 380,522 406,522 431,522 457,522 483,522 508,522 534,522 560,523"/>
+                <TextEquiv>
+                    <Unicode>36 ch. in 3 vols. plates.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="673,530 782,535 782,501 758,501 752,495 743,495 722,504 711,493 673,494"/>
+                <Baseline points="678,522 711,521 744,522 777,522"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="123,596 308,597 330,610 534,597 577,613 631,601 632,575 455,573 416,556 389,575 124,565"/>
+                <Baseline points="128,587 154,587 180,588 206,588 232,588 259,588 285,588 311,588 337,588 363,589 390,589 416,589 442,589 468,589 494,589 521,589 547,590 573,590 599,590 626,591"/>
+                <TextEquiv>
+                    <Unicode>Xuesheng shuju: Taipei, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="123,675 614,673 614,654 573,636 512,652 450,637 373,651 348,629 220,646 123,634"/>
+                <Baseline points="128,662 153,662 178,662 203,662 229,662 254,662 279,662 305,662 330,662 355,662 381,662 406,662 431,662 457,662 482,663 507,663 533,663 558,664 583,664 609,665"/>
+                <TextEquiv>
+                    <Unicode>Xinxiu fangzhi congkan, 234.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="637,674 721,674 730,668 750,674 776,672 776,638 758,637 750,629 719,640 673,639 658,629 637,630"/>
+                <Baseline points="642,661 667,662 693,661 719,661 745,662 771,662"/>
+                <TextEquiv>
+                    <Unicode>Sichuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="119,725 137,719 186,722 199,713 238,713 248,723 267,713 334,714 335,684 314,687 289,673 260,696 236,677 207,677 196,685 175,685 166,677 120,679"/>
+                <Baseline points="125,704 150,703 176,703 201,704 227,705 253,705 278,706 304,706 330,705"/>
+                <TextEquiv>
+                    <Unicode>fangzhi, 54.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.g.234&#13;
+FENG JIE XIAN ZHI&#13;
+ZENG (Xiuqiao)&#13;
+and&#13;
+YANG (Dekun)&#13;
+Fengjie xianzhi. [Reprint of the 1893&#13;
+edition of the gazetteer of the district in&#13;
+Sichuan province.]&#13;
+36 ch. in 3 vols. plates.&#13;
+21 cm.&#13;
+Xuesheng shuju: Taipei, 1971.&#13;
+Xinxiu fangzhi congkan, 234.&#13;
+Sichuan&#13;
+fangzhi, 54.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.624+01:00</Created>
+        <LastChange>2023-05-03T17:32:47.172+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758137" pageNr="2"/>
+    </Metadata>
+    <Page imageFilename="28445611154.jpg" imageWidth="956" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127967173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="94,55 94,685 947,685 947,55"/>
+            <TextLine id="line_1654529649053_58" custom="readingOrder {index:0;}">
+                <Coords points="627,90 648,98 670,90 691,98 740,90 785,98 796,88 806,98 857,98 891,82 909,86 909,55 810,54 790,72 763,60 742,68 689,56 627,62"/>
+                <Baseline points="632,93 904,93"/>
+                <TextEquiv>
+                    <Unicode>15675.g.433/1-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="89,177 230,178 243,170 243,128 200,133 89,133"/>
+                <Baseline points="94,170 122,170 151,171 180,171 209,171 238,168"/>
+                <TextEquiv>
+                    <Unicode>FENG LEI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="92,234 167,234 175,228 199,242 207,234 326,230 326,198 310,189 284,204 271,197 230,204 201,189 179,200 92,197"/>
+                <Baseline points="97,226 125,225 153,224 181,224 209,224 237,224 265,225 293,225 321,225"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Zhenke)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="126,306 207,306 215,298 274,298 274,269 264,264 246,271 220,268 198,277 158,277 151,270 126,269"/>
+                <Baseline points="131,293 158,293 186,293 213,293 241,293 269,291"/>
+                <TextEquiv>
+                    <Unicode>Feng lei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683127960609_132" custom="readingOrder {index:4;}">
+                <Coords points="107,440 192,439 193,489 108,490"/>
+                <Baseline points="108,485 193,484"/>
+                <TextEquiv>
+                    <Unicode>1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="168,579 214,578 226,567 255,578 273,568 336,568 335,541 279,541 272,534 256,533 251,539 239,534 232,541 198,541 190,549 167,547"/>
+                <Baseline points="173,567 199,567 225,566 252,565 278,564 304,564 331,565"/>
+                <TextEquiv>
+                    <Unicode>v.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="131,640 708,638 715,599 364,617 131,605"/>
+                <Baseline points="136,634 164,634 193,633 222,633 250,632 279,632 308,631 336,631 365,630 394,630 423,629 451,629 480,629 509,628 537,628 566,627 595,627 623,626 652,626 681,625 710,625"/>
+                <TextEquiv>
+                    <Unicode>Library holds part one, vols. 1-2,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657125807969_60" custom="readingOrder {index:7;}">
+                <Coords points="868,585 936,582 938,632 870,635"/>
+                <Baseline points="870,630 938,627"/>
+                <TextEquiv>
+                    <Unicode>. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657125850431_75" custom="readingOrder {index:8;}">
+                <Coords points="129,629 931,620 932,670 130,679"/>
+                <Baseline points="130,674 932,665"/>
+                <TextEquiv>
+                    <Unicode>6th printing of a work first published in 1964</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.433/1-&#13;
+FENG LEI&#13;
+CHEN (Zhenke)&#13;
+Feng lei&#13;
+1978&#13;
+v.; 19 cm&#13;
+Library holds part one, vols. 1-2,&#13;
+. -&#13;
+6th printing of a work first published in 1964</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

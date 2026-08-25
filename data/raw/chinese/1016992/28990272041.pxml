@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.656+01:00</Created>
+        <LastChange>2023-07-03T14:46:20.899+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758457" pageNr="279" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=UZPHMFURWDIHIOZLJJXVJMVP&amp;fileType=view" imageId="35195763"/>
+    </Metadata>
+    <Page imageFilename="42758457.jpg" imageWidth="984" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388380900" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="41,92 874,92 874,754 41,754"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="508,152 525,145 542,154 566,145 584,154 632,139 684,154 712,146 739,154 739,117 694,110 685,119 642,114 629,127 603,109 567,109 559,117 522,111 508,119"/>
+                <Baseline points="513,144 538,142 562,142 587,142 611,142 636,142 661,142 685,144 710,142 734,144 741,144"/>
+                <TextEquiv>
+                    <Unicode>15271.e.52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="52,188 107,194 126,210 149,194 187,189 229,219 254,193 308,187 308,156 253,149 206,150 186,170 171,155 151,164 132,145 111,156 52,156"/>
+                <Baseline points="57,187 82,187 106,187 131,187 155,185 180,185 205,187 229,187 254,187 278,187 303,188 310,188"/>
+                <TextEquiv>
+                    <Unicode>FENG HUO XI ZANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="36,282 104,282 110,276 127,290 145,281 186,281 212,290 232,274 245,275 246,264 234,263 211,240 192,251 180,239 37,244"/>
+                <Baseline points="41,277 50,275 75,275 100,275 124,275 149,275 173,273 198,273 223,273 247,275"/>
+                <TextEquiv>
+                    <Unicode>YOU (Lida)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="70,422 872,418 872,377 386,378 362,402 70,377"/>
+                <Baseline points="75,406 100,406 124,410 149,408 173,406 198,406 223,408 247,408 272,408 296,408 321,408 346,410 370,411 395,410 419,410 444,410 469,410 493,408 518,410 543,408 567,408 592,408 616,408 641,410 666,408 690,408 715,408 739,408 764,408 789,408 813,408 838,408 862,410 874,408"/>
+                <TextEquiv>
+                    <Unicode>Fenghuo Xizang. [An account of the Communist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="70,446 824,446 824,418 711,411 634,411 606,437 548,414 70,422"/>
+                <Baseline points="75,444 88,444 113,444 137,442 162,442 187,442 211,442 236,442 260,442 285,444 310,442 334,442 359,442 383,444 408,444 433,446 457,446 482,444 506,444 531,446 556,444 580,444 605,444 629,444 654,442 679,444 703,444 728,442 752,442 777,442 802,444 826,442"/>
+                <TextEquiv>
+                    <Unicode>invasion of Tibet, 1949-1959. Compiled by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="72,480 120,490 228,478 442,490 442,470 407,452 304,461 240,452 226,466 201,451 72,454"/>
+                <Baseline points="77,479 101,477 126,479 150,479 175,477 200,477 224,477 249,477 273,477 298,477 323,477 347,479 372,477 397,477 421,480 444,483"/>
+                <TextEquiv>
+                    <Unicode>You Lida and others.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="70,520 104,530 143,515 191,526 209,518 327,522 328,501 306,484 277,489 269,482 207,491 184,481 150,485 129,501 113,492 71,493"/>
+                <Baseline points="75,515 83,515 108,515 132,513 157,513 182,513 206,513 231,511 255,511 280,511 305,513 329,513"/>
+                <TextEquiv>
+                    <Unicode>pp. 90; illus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="749,516 760,522 793,522 808,512 820,522 835,522 844,516 853,522 869,521 869,494 854,484 784,486 778,480 772,486 749,485"/>
+                <Baseline points="754,511 779,513 803,511 828,511 853,511 871,515"/>
+                <TextEquiv>
+                    <Unicode>17 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="67,586 591,586 591,562 565,544 505,563 476,545 67,553"/>
+                <Baseline points="72,579 96,577 121,579 146,577 170,577 195,577 219,579 244,579 269,579 293,579 318,579 342,579 367,579 392,579 416,579 441,580 465,580 490,580 515,580 539,580 564,579 588,579 592,580"/>
+                <TextEquiv>
+                    <Unicode>Dadao chubanshe: Taipei, n.d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15271.e.52&#13;
+FENG HUO XI ZANG&#13;
+YOU (Lida)&#13;
+Fenghuo Xizang. [An account of the Communist&#13;
+invasion of Tibet, 1949-1959. Compiled by&#13;
+You Lida and others.]&#13;
+pp. 90; illus.&#13;
+17 cm.&#13;
+Dadao chubanshe: Taipei, n.d.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

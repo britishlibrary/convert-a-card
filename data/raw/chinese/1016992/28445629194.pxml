@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.138+01:00</Created>
+        <LastChange>2023-05-04T12:45:53.695+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758213" pageNr="68"/>
+    </Metadata>
+    <Page imageFilename="28445629194.jpg" imageWidth="984" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197153696" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="94,79 93,606 796,604 797,77"/>
+            <TextLine id="line_1657814378970_370" custom="readingOrder {index:0;}">
+                <Coords points="551,89 791,84 792,134 552,139"/>
+                <Baseline points="552,134 792,129"/>
+                <TextEquiv>
+                    <Unicode>15402.b.D68</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="146,207 517,202 517,145 146,145"/>
+                <Baseline points="151,196 176,195 202,195 228,195 254,195 279,195 305,195 331,195 357,195 383,195 408,195 434,195 460,195 486,195 512,195"/>
+                <TextEquiv>
+                    <Unicode>FAN XIE SHAN FANG QUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657814400353_395" custom="readingOrder {index:2;}">
+                <Coords points="97,225 213,222 214,272 98,275"/>
+                <Baseline points="98,270 214,267"/>
+                <TextEquiv>
+                    <Unicode>LI (E)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657814403203_400" custom="readingOrder {index:3;}">
+                <Coords points="139,328 556,330 556,380 139,378"/>
+                <Baseline points="139,373 556,375"/>
+                <TextEquiv>
+                    <Unicode>Fanxie shanfang quanji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="150,402 165,410 338,406 467,418 466,373 440,384 150,374"/>
+                <Baseline points="148,402 180,404 206,404 231,404 257,403 282,403 308,402 334,401 359,401 385,401 410,402 436,404 462,406"/>
+                <TextEquiv>
+                    <Unicode>[Collected works.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="144,450 167,449 177,441 186,450 271,451 272,429 261,428 243,413 183,413 174,420 165,413 145,415"/>
+                <Baseline points="149,439 178,438 207,439 236,439 266,441"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="147,522 195,523 202,530 245,522 264,530 283,516 296,522 385,518 384,494 357,477 290,484 277,496 254,485 231,492 146,485"/>
+                <Baseline points="152,512 177,513 202,513 228,513 253,513 278,512 304,512 329,511 354,511 380,512"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="141,593 221,594 235,587 297,602 320,593 358,595 374,584 374,572 357,565 295,564 288,557 253,563 247,556 206,564 199,557 141,556"/>
+                <Baseline points="146,583 173,582 201,583 229,583 257,584 285,585 313,585 341,584 369,583"/>
+                <TextEquiv>
+                    <Unicode>Sibu beiyao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15402.b.D68&#13;
+FAN XIE SHAN FANG QUAN JI&#13;
+LI (E)&#13;
+Fanxie shanfang quanji.&#13;
+[Collected works.]&#13;
+2 vols.&#13;
+Taipei, 1966.&#13;
+Sibu beiyao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

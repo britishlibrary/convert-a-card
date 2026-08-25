@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.820+01:00</Created>
+        <LastChange>2023-05-04T12:44:39.046+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758197" pageNr="54"/>
+    </Metadata>
+    <Page imageFilename="28445626694.jpg" imageWidth="988" imageHeight="772">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197079046" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="29,47 36,585 922,579 915,41"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="563,82 633,82 643,73 674,90 694,81 876,82 876,51 826,47 800,61 776,53 735,61 719,45 692,44 628,62 617,53 563,52"/>
+                <Baseline points="568,76 593,76 618,76 643,76 669,77 694,77 719,77 744,77 770,77 795,77 820,76 845,75 871,75"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1774</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="46,216 104,218 127,205 148,219 250,218 257,211 288,218 303,208 303,180 289,173 204,188 179,188 145,173 46,178"/>
+                <Baseline points="51,205 78,206 105,207 133,207 160,207 188,208 215,208 243,208 270,208 298,208"/>
+                <TextEquiv>
+                    <Unicode>FANG (Hongyou)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="67,267 520,266 554,250 554,228 67,229"/>
+                <Baseline points="72,254 97,255 122,256 147,257 172,258 197,258 222,257 247,257 272,257 297,257 323,256 348,256 373,255 398,255 423,255 448,255 473,255 498,255 523,256 549,257"/>
+                <TextEquiv>
+                    <Unicode>Fang Hong you ju zuo xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129308605_814" custom="readingOrder {index:3;}">
+                <Coords points="265,408 396,408 396,458 265,458"/>
+                <Baseline points="265,453 396,453"/>
+                <TextEquiv>
+                    <Unicode>1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="76,504 412,498 412,471 392,467 303,478 272,462 229,479 211,469 192,479 132,461 76,463"/>
+                <Baseline points="81,491 106,492 131,492 156,492 181,493 206,493 231,493 256,492 281,492 306,492 331,492 356,492 381,492 407,492"/>
+                <TextEquiv>
+                    <Unicode>324 p. : ill. port.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="79,571 138,566 222,569 234,564 234,533 152,533 139,546 132,546 119,533 79,536"/>
+                <Baseline points="84,558 113,560 142,560 171,560 200,559 229,558"/>
+                <TextEquiv>
+                    <Unicode>s1. LD08</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1774&#13;
+FANG (Hongyou)&#13;
+Fang Hong you ju zuo xuan&#13;
+1989&#13;
+324 p. : ill. port.&#13;
+s1. LD08</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

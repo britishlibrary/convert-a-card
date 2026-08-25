@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.811+01:00</Created>
+        <LastChange>2023-07-03T17:23:27.826+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758542" pageNr="352" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=IOONZQFAWHORVKJFOZDGWZBY&amp;fileType=view" imageId="35195848"/>
+    </Metadata>
+    <Page imageFilename="42758542.jpg" imageWidth="976" imageHeight="777">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397807827" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="65,55 863,55 863,699 65,699"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="596,108 625,122 640,114 708,114 715,108 724,114 769,108 785,122 815,114 814,93 801,93 781,73 754,94 728,72 595,75"/>
+                <Baseline points="601,105 625,107 650,105 674,107 698,107 723,107 747,107 772,108 796,108 817,108"/>
+                <TextEquiv>
+                    <Unicode>15610.h.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="64,158 97,170 111,161 150,162 160,153 210,170 243,159 288,162 298,157 297,112 118,117 87,108 63,121"/>
+                <Baseline points="69,151 94,149 118,149 143,149 167,149 191,151 216,151 240,151 264,151 289,151 299,151"/>
+                <TextEquiv>
+                    <Unicode>FA JIA WEN XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="60,242 849,250 848,213 563,225 478,197 249,196 226,220 107,220 59,196"/>
+                <Baseline points="65,232 89,232 113,232 138,232 162,230 186,230 211,232 235,232 260,232 284,234 308,234 333,234 357,234 381,234 406,234 430,234 455,234 479,235 503,237 528,237 552,237 577,237 601,237 625,237 650,237 674,237 698,238 723,238 747,238 772,238 796,238 820,238 845,240 850,240"/>
+                <TextEquiv>
+                    <Unicode>TIANJIN. Nankai daxue Fajia zhuzuo yizhu zu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="94,378 861,394 861,361 93,338"/>
+                <Baseline points="99,367 123,367 147,370 172,368 196,368 221,368 245,370 269,368 294,370 318,370 342,370 367,370 391,370 416,372 440,372 464,372 489,372 513,372 538,373 562,373 586,373 611,373 635,373 659,373 684,373 708,373 733,375 757,375 781,375 806,377 830,378 855,381 863,381"/>
+                <TextEquiv>
+                    <Unicode>Fajia wenxuan. [Selected Legalist writings,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="97,410 807,416 807,386 738,381 97,381"/>
+                <Baseline points="102,401 126,401 151,403 175,404 199,404 224,404 248,404 273,406 297,406 321,406 346,406 370,406 395,408 419,408 443,408 468,408 492,408 516,408 541,408 565,409 590,409 614,409 638,409 663,409 687,409 711,411 736,411 760,412 785,411 809,411"/>
+                <TextEquiv>
+                    <Unicode>with notes, and translations into modern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="95,446 189,453 207,444 249,458 249,430 230,427 223,420 161,421 150,411 131,416 123,410 104,410 94,415"/>
+                <Baseline points="100,437 125,438 149,438 173,438 198,438 222,440 247,437 251,438"/>
+                <TextEquiv>
+                    <Unicode>Chinese.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="102,490 136,489 155,477 173,491 246,476 294,490 318,476 381,482 381,455 364,448 355,455 331,448 319,460 284,440 256,467 224,448 169,451 159,461 138,449 102,448"/>
+                <Baseline points="107,475 133,476 157,476 182,474 206,476 230,476 255,476 279,476 303,474 328,476 352,476 377,477 383,476"/>
+                <TextEquiv>
+                    <Unicode>pp. 568. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="90,553 662,553 661,526 630,516 89,508"/>
+                <Baseline points="95,541 120,542 144,542 169,542 193,542 217,544 242,542 266,544 290,544 315,544 339,544 364,544 388,544 412,546 437,546 461,546 486,547 510,547 534,549 559,549 583,547 607,549 632,549 656,547 664,549"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Tianjin, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15610.h.4&#13;
+FA JIA WEN XUAN&#13;
+TIANJIN. Nankai daxue Fajia zhuzuo yizhu zu.&#13;
+Fajia wenxuan. [Selected Legalist writings,&#13;
+with notes, and translations into modern&#13;
+Chinese.]&#13;
+pp. 568. 19 cm.&#13;
+Renmin chubanshe: Tianjin, 1974.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

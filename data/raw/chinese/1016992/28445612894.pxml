@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.070+01:00</Created>
+        <LastChange>2023-05-03T17:40:21.553+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758158" pageNr="20"/>
+    </Metadata>
+    <Page imageFilename="28445612894.jpg" imageWidth="956" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128421554" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="30,28 30,630 903,631 904,27"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="641,57 662,72 695,66 726,75 760,65 791,74 819,61 891,73 891,43 857,30 826,32 808,44 769,36 757,47 721,30 666,38 642,33"/>
+                <Baseline points="646,56 672,59 699,60 726,61 752,62 779,62 806,62 832,61 859,61 886,62"/>
+                <TextEquiv>
+                    <Unicode>15675.g.149</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="53,145 86,154 93,146 127,146 131,142 136,146 191,146 202,140 202,107 90,109 67,96 53,98"/>
+                <Baseline points="58,137 85,135 113,134 141,135 169,135 197,135"/>
+                <TextEquiv>
+                    <Unicode>FENG FAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="48,218 109,207 243,210 244,162 227,162 201,178 157,173 147,165 129,178 115,172 49,172"/>
+                <Baseline points="54,199 80,198 106,198 132,198 159,199 185,199 211,201 238,203"/>
+                <TextEquiv>
+                    <Unicode>YUAN (Ying)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127857336_849" custom="readingOrder {index:3;}">
+                <Coords points="84,263 226,260 227,310 85,313"/>
+                <Baseline points="85,308 227,305"/>
+                <TextEquiv>
+                    <Unicode>Feng fan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128418489_375" custom="readingOrder {index:4;}">
+                <Coords points="253,351 336,351 336,401 253,401"/>
+                <Baseline points="253,396 336,396"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="84,442 184,433 225,442 265,424 280,435 376,435 387,417 359,405 317,409 300,396 264,413 254,405 143,401 124,417 83,401"/>
+                <Baseline points="89,429 115,428 142,428 168,427 195,427 222,427 248,426 275,426 302,426 328,426 355,426 382,427"/>
+                <TextEquiv>
+                    <Unicode>3, 295 p.: 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="83,505 853,506 852,471 82,470"/>
+                <Baseline points="88,496 126,497 164,497 202,497 240,497 278,497 316,497 354,496 392,496 430,496 468,496 506,495 544,495 582,495 620,495 658,494 696,494 734,494 772,494 810,494 848,494"/>
+                <TextEquiv>
+                    <Unicode>A substantially altered and enlarged version</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;}">
+                <Coords points="85,538 834,541 841,502 85,509"/>
+                <Baseline points="90,532 127,531 164,531 201,531 239,530 276,530 313,530 351,530 388,529 425,529 463,529 500,529 537,529 574,529 612,529 649,529 686,529 724,529 761,529 798,529 836,529"/>
+                <TextEquiv>
+                    <Unicode>of a novel of the same title first published</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127898235_860" custom="readingOrder {index:8;}">
+                <Coords points="83,525 469,525 469,575 83,575"/>
+                <Baseline points="83,570 469,570"/>
+                <TextEquiv>
+                    <Unicode>by Zuo jia chu ban she</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;}">
+                <Coords points="82,617 123,618 133,608 152,611 160,619 169,615 208,617 216,614 216,578 198,579 186,573 177,579 131,581 124,588 111,588 104,581 82,581"/>
+                <Baseline points="87,606 118,605 149,606 180,606 211,603"/>
+                <TextEquiv>
+                    <Unicode>in 1963</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.149&#13;
+FENG FAN&#13;
+YUAN (Ying)&#13;
+Feng fan&#13;
+1979&#13;
+3, 295 p.: 19 cm.&#13;
+A substantially altered and enlarged version&#13;
+of a novel of the same title first published&#13;
+by Zuo jia chu ban she&#13;
+in 1963</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

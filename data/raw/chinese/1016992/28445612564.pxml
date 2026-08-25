@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.972+01:00</Created>
+        <LastChange>2023-05-03T17:38:19.890+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758153" pageNr="16"/>
+    </Metadata>
+    <Page imageFilename="28445612564.jpg" imageWidth="980" imageHeight="817">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128299891" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,80 50,734 824,734 822,83"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="519,122 714,118 761,130 776,120 777,89 721,84 708,97 691,97 672,85 624,93 615,85 520,84"/>
+                <Baseline points="524,114 551,114 578,114 606,114 633,114 661,114 688,115 716,115 743,115 771,114"/>
+                <TextEquiv>
+                    <Unicode>15266.fe.26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="121,184 174,184 188,194 214,178 408,176 408,138 273,138 259,152 215,149 195,133 121,138"/>
+                <Baseline points="126,171 151,171 176,171 201,171 226,170 251,170 277,170 302,170 327,170 352,170 377,171 403,172"/>
+                <TextEquiv>
+                    <Unicode>FENG HUA XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127394483_666" custom="readingOrder {index:2;}">
+                <Coords points="54,218 303,217 303,267 54,268"/>
+                <Baseline points="54,263 303,262"/>
+                <TextEquiv>
+                    <Unicode>QIAN (Wenzhen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127433501_680" custom="readingOrder {index:3;}">
+                <Coords points="89,385 760,385 760,435 89,435"/>
+                <Baseline points="89,430 760,430"/>
+                <TextEquiv>
+                    <Unicode>Fenghua xian zhi. [Description of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127454955_694" custom="readingOrder {index:4;}">
+                <Coords points="88,418 762,417 762,467 88,468"/>
+                <Baseline points="88,463 762,462"/>
+                <TextEquiv>
+                    <Unicode>district in Liaobei province. Reprint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127480726_705" custom="readingOrder {index:5;}">
+                <Coords points="92,456 465,454 465,504 92,506"/>
+                <Baseline points="92,501 465,499"/>
+                <TextEquiv>
+                    <Unicode>of the 1885 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="94,538 112,546 203,535 395,538 395,516 346,500 325,511 221,504 204,520 167,502 140,512 94,504"/>
+                <Baseline points="99,531 125,531 151,530 178,530 204,529 231,529 257,529 284,529 310,530 337,530 363,531 390,531"/>
+                <TextEquiv>
+                    <Unicode>15 ch. in 2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="610,538 649,538 659,529 667,531 673,538 721,538 722,516 711,516 704,509 663,509 655,501 611,501"/>
+                <Baseline points="616,527 641,528 666,528 691,527 717,530"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="90,609 461,618 678,602 645,573 143,582 90,565"/>
+                <Baseline points="95,599 123,599 152,600 181,600 210,600 239,600 268,600 297,600 326,600 355,600 384,600 412,599 441,599 470,599 499,599 528,600 557,600 586,600 615,600 644,601 673,601"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="93,682 827,681 827,655 755,637 535,662 486,644 93,645"/>
+                <Baseline points="98,670 134,670 170,671 206,671 242,671 279,671 315,671 351,671 387,671 423,671 460,671 496,671 532,671 568,671 604,671 641,671 677,671 713,671 749,671 785,671 822,672"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Dongbei difang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="102,723 112,723 118,730 158,731 159,710 152,709 129,685 119,685 114,689 104,688"/>
+                <Baseline points="107,718 153,720"/>
+                <TextEquiv>
+                    <Unicode>26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fe.26&#13;
+FENG HUA XIAN ZHI&#13;
+QIAN (Wenzhen)&#13;
+Fenghua xian zhi. [Description of the&#13;
+district in Liaobei province. Reprint&#13;
+of the 1885 edition.]&#13;
+15 ch. in 2 vols.&#13;
+27 cm.&#13;
+Chengwen chubanshe: Taipei, 1974.&#13;
+Zhongguo fangzhi congshu. Dongbei difang.&#13;
+26.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

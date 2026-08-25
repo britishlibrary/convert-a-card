@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.667+01:00</Created>
+        <LastChange>2023-07-03T17:07:22.107+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758530" pageNr="342" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=UEWZPVHQBKKLOUSVBBGFMVSX&amp;fileType=view" imageId="35195836"/>
+    </Metadata>
+    <Page imageFilename="42758530.jpg" imageWidth="952" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396842108" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="38,0 881,0 881,772 38,772"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="542,61 791,59 833,75 879,66 879,37 863,31 722,42 707,28 649,28 615,44 596,28 542,26"/>
+                <Baseline points="547,57 571,58 595,60 619,60 642,60 666,60 690,58 714,58 738,58 762,58 785,58 809,58 833,60 857,60 881,60"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.1179</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="74,202 478,201 477,160 73,160"/>
+                <Baseline points="79,190 103,190 127,190 150,192 174,190 198,192 222,192 246,192 269,192 293,192 317,193 341,193 365,193 388,193 412,193 436,193 460,193 479,193"/>
+                <TextEquiv>
+                    <Unicode>FA XUE ZHI SHI SHOU CE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="109,281 548,266 548,226 536,225 109,232"/>
+                <Baseline points="114,258 138,260 161,260 185,260 209,260 233,260 257,260 280,260 304,260 328,261 352,260 376,260 400,260 423,260 447,260 471,260 495,260 519,260 542,260 550,261"/>
+                <TextEquiv>
+                    <Unicode>Fa xue zhi shi shou ce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="136,504 169,530 198,506 219,522 278,505 353,522 412,503 496,530 634,515 633,477 501,490 443,444 407,478 371,449 333,467 305,446 281,468 233,458 207,485 170,456 136,478"/>
+                <Baseline points="141,501 165,501 188,501 212,500 236,500 260,498 284,500 307,500 331,498 355,498 379,503 403,501 427,503 450,504 474,506 498,506 522,506 546,508 569,509 593,509 617,509 635,508"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="115,578 172,578 179,572 192,581 229,576 229,550 216,543 180,544 168,533 159,541 143,542 137,538 126,542 115,536"/>
+                <Baseline points="120,568 144,568 168,569 192,571 215,569 230,568"/>
+                <TextEquiv>
+                    <Unicode>659 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.1179&#13;
+FA XUE ZHI SHI SHOU CE&#13;
+Fa xue zhi shi shou ce&#13;
+1983&#13;
+659 p.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

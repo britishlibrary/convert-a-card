@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.209+01:00</Created>
+        <LastChange>2023-05-04T12:51:59.283+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758281" pageNr="128"/>
+    </Metadata>
+    <Page imageFilename="28448819223.jpg" imageWidth="980" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197519283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="20,25 22,707 903,710 901,28"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="535,113 746,113 747,87 727,77 711,77 702,86 655,77 646,86 631,86 621,77 536,75"/>
+                <Baseline points="541,104 566,103 591,102 616,102 641,102 666,103 691,104 716,105 742,106"/>
+                <TextEquiv>
+                    <Unicode>15240.b.5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;}">
+                <Coords points="39,179 61,170 259,170 276,162 276,128 131,134 106,125 39,124"/>
+                <Baseline points="44,158 69,157 94,157 119,158 144,158 170,159 195,159 220,159 245,159 271,157"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ DA CI SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512491571_145" custom="readingOrder {index:2;}">
+                <Coords points="39,205 284,204 284,254 39,255"/>
+                <Baseline points="39,250 284,249"/>
+                <TextEquiv>
+                    <Unicode>ZHENG (Jingyi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="65,387 624,383 624,366 585,349 516,362 453,348 65,355"/>
+                <Baseline points="70,377 97,377 124,378 152,378 179,378 207,377 234,377 262,377 289,376 317,376 344,376 371,375 399,375 426,374 454,374 481,374 509,374 536,373 564,373 591,373 619,374"/>
+                <TextEquiv>
+                    <Unicode>Zengding chongyin falü da cishu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:4;}">
+                <Coords points="82,426 773,416 796,392 81,386"/>
+                <Baseline points="86,413 121,413 156,412 191,412 227,411 262,411 297,410 332,409 368,409 403,408 438,408 473,407 509,407 544,406 579,406 614,405 650,405 685,405 720,405 755,405 791,405"/>
+                <TextEquiv>
+                    <Unicode>[A dictionary of law. First published in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="75,453 800,448 800,427 715,412 75,424"/>
+                <Baseline points="80,446 115,445 151,445 187,445 223,444 258,444 294,443 330,443 366,443 401,442 437,442 473,441 509,441 544,440 580,440 616,440 652,439 687,439 723,439 759,439 795,439"/>
+                <TextEquiv>
+                    <Unicode>1935. Revised and enlarged by Wang Yunwu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="79,490 822,477 811,444 665,466 637,449 78,458"/>
+                <Baseline points="84,478 120,478 157,478 193,477 230,477 267,477 303,477 340,477 377,476 413,476 450,476 487,475 523,475 560,474 597,474 633,473 670,473 707,473 743,472 780,472 817,471"/>
+                <TextEquiv>
+                    <Unicode>With a supplement containing pt.1: texts of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;}">
+                <Coords points="75,522 809,514 808,485 775,478 536,501 420,483 74,493"/>
+                <Baseline points="80,513 116,512 152,512 188,512 224,512 261,512 297,511 333,511 369,511 405,510 442,510 478,510 514,509 550,509 586,508 623,508 659,507 695,506 731,506 767,505 804,505"/>
+                <TextEquiv>
+                    <Unicode>major laws and regulations of the Republic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:8;}">
+                <Coords points="78,554 795,553 807,522 78,525"/>
+                <Baseline points="83,547 120,547 158,547 196,547 234,547 272,547 310,546 347,546 385,546 423,545 461,545 499,544 537,544 574,543 612,542 650,542 688,541 726,541 764,540 802,539"/>
+                <TextEquiv>
+                    <Unicode>of China, and pt.2: biographies of world's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;}">
+                <Coords points="78,589 152,587 173,594 194,582 263,594 271,586 326,591 348,581 348,572 308,557 221,563 199,557 189,567 78,557"/>
+                <Baseline points="83,582 109,582 135,582 161,581 187,580 213,579 239,579 265,579 291,579 317,580 358,582"/>
+                <TextEquiv>
+                    <Unicode>famous lawyers.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:10;}">
+                <Coords points="75,626 528,633 809,611 732,581 531,606 363,581 344,600 75,593"/>
+                <Baseline points="80,614 116,615 152,615 188,616 224,616 261,616 297,616 333,616 369,616 405,616 442,616 478,616 514,615 550,615 586,614 623,613 659,612 695,611 731,609 767,608 804,606"/>
+                <TextEquiv>
+                    <Unicode>3 vols. (1 suppl.); plates, illus. 20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:11;}">
+                <Coords points="76,701 432,698 516,726 549,697 769,698 769,668 76,669"/>
+                <Baseline points="81,691 115,692 149,692 183,692 217,692 251,692 285,692 320,692 354,692 388,692 422,691 456,691 490,690 524,690 559,689 593,689 627,688 661,688 695,687 729,687 764,686"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15240.b.5&#13;
+FA LÜ DA CI SHU&#13;
+ZHENG (Jingyi)&#13;
+Zengding chongyin falü da cishu.&#13;
+[A dictionary of law. First published in&#13;
+1935. Revised and enlarged by Wang Yunwu.&#13;
+With a supplement containing pt.1: texts of&#13;
+major laws and regulations of the Republic&#13;
+of China, and pt.2: biographies of world's&#13;
+famous lawyers.]&#13;
+3 vols. (1 suppl.); plates, illus. 20 cm.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

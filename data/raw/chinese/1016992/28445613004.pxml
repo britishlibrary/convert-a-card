@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.116+01:00</Created>
+        <LastChange>2023-05-03T17:41:25.056+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758160" pageNr="22"/>
+    </Metadata>
+    <Page imageFilename="28445613004.jpg" imageWidth="964" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128485056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="30,32 32,716 919,716 915,33"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="579,75 673,74 683,67 702,76 820,73 820,50 800,38 752,37 740,49 675,50 662,37 579,37"/>
+                <Baseline points="584,63 609,64 635,65 661,65 686,65 712,65 738,65 763,64 789,64 815,65"/>
+                <TextEquiv>
+                    <Unicode>15675.g.462</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="48,145 441,142 440,113 47,117"/>
+                <Baseline points="53,137 78,137 104,138 129,138 155,138 180,137 206,137 231,137 257,137 282,137 308,136 333,136 359,136 384,136 410,137 436,137"/>
+                <TextEquiv>
+                    <Unicode>FENG CUN XIAO SHUO XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="38,203 81,209 117,197 128,210 158,205 206,210 213,208 216,166 193,165 178,179 165,179 140,165 130,165 117,176 40,170"/>
+                <Baseline points="44,191 71,192 99,194 126,196 154,197 181,198 209,199"/>
+                <TextEquiv>
+                    <Unicode>FENG (Cun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="136,253 185,260 213,252 427,257 427,227 157,228 136,221"/>
+                <Baseline points="141,247 166,248 192,248 217,248 243,248 268,248 294,248 319,249 345,249 370,249 396,249 422,248"/>
+                <TextEquiv>
+                    <Unicode>feng cun xiao shuo xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128465018_395" custom="readingOrder {index:4;}">
+                <Coords points="728,289 790,290 789,340 727,339"/>
+                <Baseline points="727,334 789,335"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657128360370_952" custom="readingOrder {index:5;}">
+                <Coords points="55,590 258,589 258,639 55,640"/>
+                <Baseline points="55,635 258,634"/>
+                <TextEquiv>
+                    <Unicode>I247.7 44.5718</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:6;}">
+                <Coords points="54,674 110,674 114,670 121,673 127,669 133,671 146,666 146,642 117,645 113,641 102,641 89,646 79,642 74,644 69,640 54,640"/>
+                <Baseline points="59,662 86,662 113,662 141,662"/>
+                <TextEquiv>
+                    <Unicode>I247.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+                <Coords points="759,642 791,642 795,638 800,642 894,641 894,603 874,604 864,611 848,611 836,605 821,605 816,610 806,607 799,614 759,611"/>
+                <Baseline points="764,630 789,629 814,630 839,631 864,631 889,630"/>
+                <TextEquiv>
+                    <Unicode>27-33[81]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657128402312_971" custom="readingOrder {index:8;}">
+                <Coords points="711,624 884,624 884,674 711,674"/>
+                <Baseline points="711,669 884,669"/>
+                <TextEquiv>
+                    <Unicode>81-48-3 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128479105_404" custom="readingOrder {index:9;}">
+                <Coords points="47,663 116,662 117,712 48,713"/>
+                <Baseline points="48,708 117,707"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:10;}">
+                <Coords points="630,706 753,706 760,700 807,706 815,699 824,706 880,705 881,675 818,683 778,677 767,687 750,677 631,677"/>
+                <Baseline points="636,699 662,698 689,698 716,697 742,697 769,697 796,697 822,698 849,699 876,700"/>
+                <TextEquiv>
+                    <Unicode>10118.458 82—2022</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.462&#13;
+FENG CUN XIAO SHUO XUAN&#13;
+FENG (Cun)&#13;
+feng cun xiao shuo xuan&#13;
+1981&#13;
+I247.7 44.5718&#13;
+I247.7&#13;
+27-33[81]&#13;
+81-48-3 [31]&#13;
+1982&#13;
+10118.458 82—2022</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

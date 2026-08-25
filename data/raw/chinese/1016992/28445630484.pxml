@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.252+01:00</Created>
+        <LastChange>2023-05-04T12:46:16.750+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758219" pageNr="74"/>
+    </Metadata>
+    <Page imageFilename="28445630484.jpg" imageWidth="984" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197176750" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="96,78 99,637 854,636 851,77"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="559,127 577,138 668,125 682,131 797,130 797,94 727,93 714,104 680,93 659,104 648,93 559,93"/>
+                <Baseline points="564,122 589,122 614,122 640,121 665,121 690,121 716,120 741,120 766,119 792,118"/>
+                <TextEquiv>
+                    <Unicode>15402.b.D89</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="167,203 220,210 305,194 335,205 379,192 413,210 428,195 498,188 498,153 167,163"/>
+                <Baseline points="172,190 198,189 225,189 252,188 279,188 305,187 332,187 359,187 386,187 412,187 439,188 466,188 493,188"/>
+                <TextEquiv>
+                    <Unicode>FAN NAN WEN JI BU BIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658912899394_181" custom="readingOrder {index:2;}">
+                <Coords points="113,267 168,261 186,274 195,267 249,267 256,274 293,266 343,274 355,267 354,233 344,229 295,230 277,238 112,229"/>
+                <Baseline points="118,267 350,265"/>
+                <TextEquiv>
+                    <Unicode>LI (Shangyin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="154,378 787,378 798,339 544,333 523,354 154,341"/>
+                <Baseline points="159,366 190,366 222,366 254,366 285,366 317,366 349,365 380,365 412,365 444,365 476,365 507,365 539,365 571,365 602,365 634,365 666,365 697,364 729,364 761,364 793,363"/>
+                <TextEquiv>
+                    <Unicode>Fannan wenji bubian. [Supplementary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="155,410 782,409 782,381 751,373 155,381"/>
+                <Baseline points="160,403 190,403 221,403 252,402 283,402 314,402 345,402 375,401 406,401 437,401 468,401 499,401 530,401 561,401 591,401 622,401 653,400 684,400 715,400 746,400 777,399"/>
+                <TextEquiv>
+                    <Unicode>collection of essays, with notes by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="142,444 728,450 728,426 701,413 142,419"/>
+                <Baseline points="147,439 193,440 222,439 252,439 281,439 311,439 340,439 369,439 399,439 428,438 458,438 487,438 517,438 546,438 575,438 605,439 634,439 664,439 693,439 723,439"/>
+                <TextEquiv>
+                    <Unicode>Qian Zhenlun and Qian Zhenchang.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="152,490 183,491 191,482 213,478 240,490 279,490 294,482 294,458 264,448 224,451 214,462 200,461 190,452 151,453"/>
+                <Baseline points="156,479 182,477 209,476 235,476 262,476 289,474"/>
+                <TextEquiv>
+                    <Unicode>pp. 295.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="152,556 216,563 235,553 255,562 272,562 283,551 390,553 390,531 351,509 337,517 297,517 284,530 268,530 255,517 233,524 152,518"/>
+                <Baseline points="157,545 182,545 207,545 233,545 258,545 283,545 309,545 334,545 359,545 385,544"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="148,626 236,623 281,627 288,634 308,634 317,626 369,626 369,606 349,597 301,598 278,589 267,598 247,588 230,597 205,597 187,588 148,589"/>
+                <Baseline points="153,616 179,616 205,616 232,617 258,617 284,618 311,618 337,618 364,618"/>
+                <TextEquiv>
+                    <Unicode>Sibu beiyao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15402.b.D89&#13;
+FAN NAN WEN JI BU BIAN&#13;
+LI (Shangyin)&#13;
+Fannan wenji bubian. [Supplementary&#13;
+collection of essays, with notes by&#13;
+Qian Zhenlun and Qian Zhenchang.]&#13;
+pp. 295.&#13;
+Taipei, 1966.&#13;
+Sibu beiyao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

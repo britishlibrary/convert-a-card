@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.726+01:00</Created>
+        <LastChange>2023-07-03T17:18:37.837+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758534" pageNr="346" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=EMPZSPRDBYQCGWCUMONDQSJJ&amp;fileType=view" imageId="35195840"/>
+    </Metadata>
+    <Page imageFilename="42758534.jpg" imageWidth="980" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397517837" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="71,77 824,77 824,514 71,514"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="519,136 624,138 632,131 639,138 677,138 696,130 704,137 744,137 744,94 698,98 680,116 658,96 633,115 614,99 519,97"/>
+                <Baseline points="524,127 548,129 573,129 597,129 622,130 646,129 671,130 695,129 720,129 744,127 746,127"/>
+                <TextEquiv>
+                    <Unicode>15257.f.90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="104,216 283,227 344,210 392,246 578,218 578,181 539,169 495,183 423,170 104,183"/>
+                <Baseline points="109,209 114,209 138,210 163,209 187,207 212,209 236,209 261,209 285,209 310,210 334,209 359,209 383,210 408,209 432,209 457,207 481,207 506,209 530,209 555,209 579,205"/>
+                <TextEquiv>
+                    <Unicode>FA LANG ZHI ZAO SHI YAN SHOU CE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="66,265 176,259 191,274 284,264 364,278 378,264 419,282 438,265 502,266 502,237 395,247 360,219 286,237 232,237 198,218 177,237 163,224 66,229"/>
+                <Baseline points="71,256 96,258 120,256 145,258 169,258 194,258 218,258 243,258 267,258 292,259 316,259 341,259 365,259 390,256 414,256 439,256 463,258 488,258 504,261"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Zeyao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="107,369 822,365 822,342 772,329 652,329 627,354 107,329"/>
+                <Baseline points="112,357 137,364 161,362 186,364 210,364 235,364 259,364 284,364 308,362 333,364 357,362 382,362 406,362 431,362 455,364 480,364 504,364 529,365 553,364 578,362 602,364 627,362 651,364 676,364 700,364 725,364 749,364 774,364 798,364 823,364 824,364"/>
+                <TextEquiv>
+                    <Unicode>Falang zhizao shiyan shouce. [Data for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="108,410 318,402 352,413 369,399 392,411 535,410 534,388 473,371 107,375"/>
+                <Baseline points="112,396 137,398 161,398 186,398 210,398 235,400 259,398 284,398 308,396 333,398 357,398 382,398 406,398 431,398 455,398 480,398 504,400 529,400 537,403"/>
+                <TextEquiv>
+                    <Unicode>manufacture of enamels.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="107,450 144,450 170,437 196,451 210,442 224,450 326,442 326,420 302,408 273,407 256,423 233,404 208,411 190,405 171,422 147,410 107,412"/>
+                <Baseline points="112,439 132,437 156,436 181,436 205,436 230,437 254,437 279,436 303,436 328,434"/>
+                <TextEquiv>
+                    <Unicode>pp. [4], 51.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="101,508 790,509 766,468 101,480"/>
+                <Baseline points="106,502 130,502 155,502 179,502 204,502 228,504 253,504 277,504 302,504 326,502 351,502 375,502 400,502 424,501 449,501 473,501 498,501 522,501 547,502 571,502 596,502 620,502 645,502 669,504 694,504 718,504 743,504 767,502 792,502"/>
+                <TextEquiv>
+                    <Unicode>Kexue jishu chubanshe: Shanghai, 1959.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15257.f.90&#13;
+FA LANG ZHI ZAO SHI YAN SHOU CE&#13;
+ZHANG (Zeyao)&#13;
+Falang zhizao shiyan shouce. [Data for&#13;
+manufacture of enamels.]&#13;
+pp. [4], 51.&#13;
+Kexue jishu chubanshe: Shanghai, 1959.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

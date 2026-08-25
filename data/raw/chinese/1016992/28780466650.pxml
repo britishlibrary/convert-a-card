@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.605+01:00</Created>
+        <LastChange>2023-05-04T12:57:05.133+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758307" pageNr="151"/>
+    </Metadata>
+    <Page imageFilename="28780466650.jpg" imageWidth="980" imageHeight="806">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197825133" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="145,101 143,526 860,524 862,99"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="641,135 806,128 827,138 867,125 867,94 765,104 641,101"/>
+                <Baseline points="646,123 673,123 700,123 727,124 754,124 781,124 808,124 835,123 862,122"/>
+                <TextEquiv>
+                    <Unicode>15302.a.38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="158,179 495,178 508,170 508,137 158,141"/>
+                <Baseline points="163,169 189,168 215,168 241,168 267,167 293,167 319,167 346,168 372,168 398,168 424,168 450,167 476,167 503,167"/>
+                <TextEquiv>
+                    <Unicode>FANG JUN BI GUO HUA-JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520750195_295" custom="readingOrder {index:2;}">
+                <Coords points="150,217 361,216 361,266 150,267"/>
+                <Baseline points="150,262 361,261"/>
+                <TextEquiv>
+                    <Unicode>FANG (Junbi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="186,362 861,361 842,333 186,326"/>
+                <Baseline points="191,351 224,352 257,352 290,353 324,354 357,354 390,354 423,355 457,355 490,355 523,355 556,355 590,355 623,355 656,355 689,355 723,356 756,356 789,356 822,357 856,357"/>
+                <TextEquiv>
+                    <Unicode>Fang Junbi guohua-ji. Chinese paintings</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="185,397 459,394 459,371 440,365 389,370 333,362 295,370 185,361"/>
+                <Baseline points="190,383 216,384 242,385 269,386 295,387 322,387 348,387 374,387 401,387 427,387 454,387"/>
+                <TextEquiv>
+                    <Unicode>by Fan Tchun Pi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="183,425 312,424 312,407 296,405 289,397 219,397 214,401 209,397 184,396"/>
+                <Baseline points="188,419 217,418 247,419 277,421 307,420"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="177,494 228,487 376,506 457,489 562,506 563,453 541,463 418,461 405,474 178,459"/>
+                <Baseline points="182,484 207,485 232,486 257,486 282,486 307,487 332,487 357,487 382,488 407,488 432,488 457,488 482,488 507,488 532,488 557,488"/>
+                <TextEquiv>
+                    <Unicode>[? Hong Kong, ? 1966.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15302.a.38&#13;
+FANG JUN BI GUO HUA-JI&#13;
+FANG (Junbi)&#13;
+Fang Junbi guohua-ji. Chinese paintings&#13;
+by Fan Tchun Pi.&#13;
+2 vols.&#13;
+[? Hong Kong, ? 1966.]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

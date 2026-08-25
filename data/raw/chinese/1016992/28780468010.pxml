@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.635+01:00</Created>
+        <LastChange>2023-05-04T12:57:40.819+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758309" pageNr="153"/>
+    </Metadata>
+    <Page imageFilename="28780468010.jpg" imageWidth="968" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197860820" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="69,34 70,586 905,582 904,30"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="535,82 747,78 745,42 535,42"/>
+                <Baseline points="540,71 565,72 590,73 615,74 641,74 666,75 691,75 716,75 742,74"/>
+                <TextEquiv>
+                    <Unicode>15412.c.23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531502692_1010" custom="readingOrder {index:1;}">
+                <Coords points="98,201 124,210 173,205 211,210 217,204 224,210 277,210 297,204 297,170 267,164 253,178 221,178 191,165 177,179 147,172 98,179"/>
+                <Baseline points="103,204 292,207"/>
+                <TextEquiv>
+                    <Unicode>GAO (Gong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="136,260 449,254 458,252 458,220 136,228"/>
+                <Baseline points="141,249 167,249 193,250 219,250 245,250 271,250 297,249 323,249 349,249 375,249 401,249 427,249 453,249"/>
+                <TextEquiv>
+                    <Unicode>Fang bian ji shi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520944123_364" custom="readingOrder {index:3;}">
+                <Coords points="324,387 438,383 440,433 326,437"/>
+                <Baseline points="326,432 440,428"/>
+                <TextEquiv>
+                    <Unicode>1965</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520961730_374" custom="readingOrder {index:4;}">
+                <Coords points="116,444 285,443 285,493 116,494"/>
+                <Baseline points="116,489 285,488"/>
+                <TextEquiv>
+                    <Unicode>18 leaves.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="143,554 500,554 500,528 431,517 415,525 367,517 355,529 295,524 284,535 265,535 246,518 143,523"/>
+                <Baseline points="148,545 174,545 201,546 228,546 254,546 281,546 308,545 334,545 361,545 388,545 414,545 441,546 468,546 495,546"/>
+                <TextEquiv>
+                    <Unicode>s1.H18. s2. Borders.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15412.c.23&#13;
+GAO (Gong)&#13;
+Fang bian ji shi&#13;
+1965&#13;
+18 leaves.&#13;
+s1.H18. s2. Borders.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

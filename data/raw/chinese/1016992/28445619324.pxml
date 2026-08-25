@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.480+01:00</Created>
+        <LastChange>2023-05-03T17:48:23.047+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758179" pageNr="39"/>
+    </Metadata>
+    <Page imageFilename="28445619324.jpg" imageWidth="972" imageHeight="800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128903048" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,74 42,596 925,602 927,77"/>
+            <TextLine id="line_1657283434701_789" custom="readingOrder {index:0;}">
+                <Coords points="601,73 837,78 836,128 600,123"/>
+                <Baseline points="600,118 836,123"/>
+                <TextEquiv>
+                    <Unicode>15268.g.13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="58,186 195,184 225,202 246,186 291,182 360,194 396,186 397,150 204,149 188,162 59,156"/>
+                <Baseline points="63,178 88,178 113,178 138,179 163,179 189,179 214,179 239,179 264,179 290,179 315,179 340,179 365,179 391,179"/>
+                <TextEquiv>
+                    <Unicode>FEI HUA LI SHI XUE BAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="66,250 471,258 465,221 66,213"/>
+                <Baseline points="71,241 97,242 123,242 150,243 176,244 202,244 229,245 255,245 281,246 308,246 334,246 360,246 387,246 413,246 439,246 466,246"/>
+                <TextEquiv>
+                    <Unicode>PERICDICAL PUBLICATIONS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283486584_817" custom="readingOrder {index:3;}">
+                <Coords points="100,339 923,357 922,407 99,389"/>
+                <Baseline points="99,384 922,402"/>
+                <TextEquiv>
+                    <Unicode>Fei Hua lishi xuebao. The Annals of Philippine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283517976_829" custom="readingOrder {index:4;}">
+                <Coords points="96,375 819,388 818,438 95,425"/>
+                <Baseline points="95,420 818,433"/>
+                <TextEquiv>
+                    <Unicode>Chinese Historical Association. [Annual.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283549206_846" custom="readingOrder {index:5;}">
+                <Coords points="91,413 369,417 368,467 90,463"/>
+                <Baseline points="90,458 368,462"/>
+                <TextEquiv>
+                    <Unicode>Vol. 1 (1970) -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283566088_856" custom="readingOrder {index:6;}">
+                <Coords points="92,478 822,495 821,545 91,528"/>
+                <Baseline points="91,523 821,540"/>
+                <TextEquiv>
+                    <Unicode>Fei Hua lishi xuehui. Philippine Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283585703_867" custom="readingOrder {index:7;}">
+                <Coords points="92,517 765,529 764,579 91,567"/>
+                <Baseline points="91,562 764,574"/>
+                <TextEquiv>
+                    <Unicode>Historical Association: Manila, 1970 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15268.g.13&#13;
+FEI HUA LI SHI XUE BAO&#13;
+PERICDICAL PUBLICATIONS&#13;
+Fei Hua lishi xuebao. The Annals of Philippine&#13;
+Chinese Historical Association. [Annual.]&#13;
+Vol. 1 (1970) -&#13;
+Fei Hua lishi xuehui. Philippine Chinese&#13;
+Historical Association: Manila, 1970 -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

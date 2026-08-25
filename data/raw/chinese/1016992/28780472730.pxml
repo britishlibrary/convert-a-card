@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.752+01:00</Created>
+        <LastChange>2023-05-04T13:05:43.354+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758317" pageNr="160" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780472730.jpg" imageWidth="988" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683198343388" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="87,53 87,601 867,601 867,53"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="576,92 615,98 623,90 686,90 695,83 713,90 813,90 830,82 830,50 767,53 757,63 576,53"/>
+                <Baseline points="581,82 608,82 635,82 662,82 689,82 716,82 743,82 770,82 797,82 825,82"/>
+                <TextEquiv>
+                    <Unicode>15400.e.079</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="132,178 232,179 250,171 285,184 292,178 364,177 365,135 237,136 230,143 174,147 133,132"/>
+                <Baseline points="137,167 164,168 192,168 220,168 248,168 275,168 303,168 331,168 359,169"/>
+                <TextEquiv>
+                    <Unicode>FA ZHI BENZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683198311887_1740" custom="readingOrder {index:2;}">
+                <Coords points="90,188 441,190 441,240 90,238"/>
+                <Baseline points="90,233 441,235"/>
+                <TextEquiv>
+                    <Unicode>MINOBE (Tatsukichi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="122,339 362,341 404,324 432,348 783,339 802,303 122,308"/>
+                <Baseline points="127,329 160,329 194,329 227,330 261,330 294,330 328,330 361,330 395,330 428,330 462,330 495,330 529,330 562,330 596,330 629,330 663,329 696,329 730,329 763,329 797,329"/>
+                <TextEquiv>
+                    <Unicode>Fa zhi benzhi. [The fundamentals of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="133,379 744,375 744,352 715,340 693,358 621,341 133,341"/>
+                <Baseline points="138,367 168,367 198,366 228,367 258,367 288,367 318,367 348,367 378,367 408,368 438,368 468,368 498,368 528,368 558,368 588,368 618,368 648,367 678,367 708,366 739,365"/>
+                <TextEquiv>
+                    <Unicode>law, translated by Lin Jidong. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="133,413 183,418 191,410 273,410 282,406 282,391 264,389 248,378 221,382 216,376 187,386 180,381 167,385 161,381 133,382"/>
+                <Baseline points="138,402 165,403 193,402 221,402 249,403 293,402"/>
+                <TextEquiv>
+                    <Unicode>reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="127,458 159,457 187,445 204,445 218,459 247,459 256,450 277,448 277,426 270,426 256,412 195,415 183,427 160,421 127,421"/>
+                <Baseline points="132,442 160,442 188,441 216,441 244,440 272,441"/>
+                <TextEquiv>
+                    <Unicode>pp. 136.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="122,518 864,520 864,486 836,477 756,496 122,485"/>
+                <Baseline points="127,510 163,510 200,510 236,511 273,511 310,511 346,511 383,511 419,511 456,511 493,511 529,511 566,511 602,511 639,511 676,511 712,511 749,511 785,511 822,511 859,511"/>
+                <TextEquiv>
+                    <Unicode>Taiwan Shangwu yinshuguan: Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="119,592 407,602 437,594 438,559 367,558 346,576 302,557 173,568 120,556"/>
+                <Baseline points="124,584 149,585 175,585 201,585 226,586 252,586 278,587 303,587 329,587 355,587 380,587 406,587 432,587"/>
+                <TextEquiv>
+                    <Unicode>Renrenwenku, 079.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.079&#13;
+FA ZHI BENZHI&#13;
+MINOBE (Tatsukichi)&#13;
+Fa zhi benzhi. [The fundamentals of&#13;
+law, translated by Lin Jidong. A&#13;
+reprint.]&#13;
+pp. 136.&#13;
+Taiwan Shangwu yinshuguan: Taipei, 1966.&#13;
+Renrenwenku, 079.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

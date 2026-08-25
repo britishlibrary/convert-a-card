@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.224+01:00</Created>
+        <LastChange>2023-05-10T15:18:17.957+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758354" pageNr="192"/>
+    </Metadata>
+    <Page imageFilename="28961218932.jpg" imageWidth="992" imageHeight="797">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724697957" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="46,52 46,646 906,646 906,52"/>
+            <TextLine id="line_1654531813610_1288" custom="readingOrder {index:0;}">
+                <Coords points="566,90 679,90 714,78 741,78 758,90 873,90 879,40 757,40 704,46 692,58 566,53"/>
+                <Baseline points="571,86 874,85"/>
+                <TextEquiv>
+                    <Unicode>15273.f.31(22)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="56,154 90,155 107,168 131,146 216,144 239,147 264,168 287,145 326,139 326,100 283,106 256,93 219,108 150,113 125,109 110,94 56,97"/>
+                <Baseline points="61,134 87,134 113,135 139,135 165,136 191,136 217,136 243,136 269,136 295,136 321,136"/>
+                <TextEquiv>
+                    <Unicode>FEN NU DE TAI WAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="41,234 269,226 279,235 319,235 327,233 327,189 270,198 197,198 183,189 166,198 41,197"/>
+                <Baseline points="46,226 71,225 96,224 121,223 146,223 171,222 196,222 221,222 246,223 271,223 296,224 322,225"/>
+                <TextEquiv>
+                    <Unicode>ZHUANG (Jianong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="77,370 149,370 176,356 198,364 355,361 355,339 275,325 264,333 132,341 77,333"/>
+                <Baseline points="82,359 108,359 135,359 162,358 189,358 216,357 242,356 269,356 296,356 323,356 350,357"/>
+                <TextEquiv>
+                    <Unicode>Fennu de Taiwan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="401,371 437,356 606,349 866,354 865,320 829,316 753,331 725,317 400,336"/>
+                <Baseline points="392,350 431,352 456,352 481,351 507,350 532,350 557,349 582,349 608,348 633,348 658,348 684,347 709,346 734,346 759,345 785,345 810,344 835,343 861,343"/>
+                <TextEquiv>
+                    <Unicode>[A communist account of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="82,402 833,378 765,352 640,374 560,357 81,372"/>
+                <Baseline points="87,393 124,392 161,392 198,391 235,391 272,390 309,389 346,389 383,388 420,387 457,387 494,386 531,385 568,385 605,384 642,383 679,382 716,381 753,380 790,379 828,378"/>
+                <TextEquiv>
+                    <Unicode>revolutionary history of Taiwan, 219 B.C. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="77,444 222,435 231,426 272,442 400,424 397,400 351,397 235,409 213,402 185,421 151,404 76,405"/>
+                <Baseline points="82,431 108,430 135,430 162,429 188,428 215,427 242,425 269,425 295,424 322,424 349,425 419,423"/>
+                <TextEquiv>
+                    <Unicode>1949. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="78,480 274,474 274,444 242,437 225,454 215,453 199,437 159,437 141,455 115,445 78,446"/>
+                <Baseline points="83,468 109,465 136,464 162,464 189,464 215,464 242,463 269,462"/>
+                <TextEquiv>
+                    <Unicode>pp. 204, 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="741,458 774,458 787,447 799,458 853,458 854,432 784,429 772,421 742,421"/>
+                <Baseline points="747,448 772,449 798,448 823,448 849,450"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="90,546 740,538 848,530 848,498 90,509"/>
+                <Baseline points="95,534 132,534 169,533 207,532 244,532 282,531 319,530 356,529 394,528 431,527 469,526 506,525 543,525 581,524 618,523 656,522 693,522 730,521 768,521 805,520 843,520"/>
+                <TextEquiv>
+                    <Unicode>Ryukei Shosha (Longxi shushe): Tokyo, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+                <Coords points="89,612 748,602 781,594 781,573 88,573"/>
+                <Baseline points="93,602 127,602 161,601 195,601 229,600 263,600 297,599 332,598 366,597 400,597 434,596 468,595 502,595 536,594 571,593 605,592 639,591 673,591 707,590 741,590 776,589"/>
+                <TextEquiv>
+                    <Unicode>Taiwan wenti zhongyao wenxian ziliao ji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15273.f.31(22)&#13;
+FEN NU DE TAI WAN&#13;
+ZHUANG (Jianong)&#13;
+Fennu de Taiwan.&#13;
+[A communist account of the&#13;
+revolutionary history of Taiwan, 219 B.C. -&#13;
+1949. A reprint.]&#13;
+pp. 204, 5.&#13;
+19 cm.&#13;
+Ryukei Shosha (Longxi shushe): Tokyo, 1971.&#13;
+Taiwan wenti zhongyao wenxian ziliao ji.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

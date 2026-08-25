@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.904+01:00</Created>
+        <LastChange>2023-05-04T12:45:15.433+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758200" pageNr="57"/>
+    </Metadata>
+    <Page imageFilename="28445627074.jpg" imageWidth="944" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197115434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="90,20 84,574 839,575 834,10"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="503,60 786,66 807,55 802,21 756,21 733,39 591,29 572,40 555,29 504,29"/>
+                <Baseline points="509,52 535,53 562,53 588,54 615,54 642,55 668,55 695,55 722,55 748,55 775,55 802,55"/>
+                <TextEquiv>
+                    <Unicode>CHI.1992.a.363</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="114,194 148,188 157,192 171,184 199,191 252,186 252,155 232,155 225,162 215,157 114,157"/>
+                <Baseline points="119,183 144,182 170,182 195,182 221,182 247,183"/>
+                <TextEquiv>
+                    <Unicode>HUA (Sha)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="128,228 528,216 576,226 593,217 593,184 568,196 128,194"/>
+                <Baseline points="133,217 158,216 183,216 208,215 234,215 259,215 284,215 309,214 335,214 360,214 385,214 411,214 436,214 461,214 486,214 512,214 537,214 562,214 588,213"/>
+                <TextEquiv>
+                    <Unicode>Fang da lu de &lt;zou si wang guo&gt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129383649_853" custom="readingOrder {index:3;}">
+                <Coords points="461,239 525,237 526,287 462,289"/>
+                <Baseline points="462,284 526,282"/>
+                <TextEquiv>
+                    <Unicode>1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="141,313 151,315 153,318 158,315 167,317 172,314 195,318 199,314 210,314 211,293 190,293 184,287 174,285 142,285"/>
+                <Baseline points="146,309 175,311 205,311"/>
+                <TextEquiv>
+                    <Unicode>181p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="147,354 300,354 382,340 408,346 414,315 336,317 329,324 317,317 147,316"/>
+                <Baseline points="152,341 177,341 203,341 229,341 254,341 280,341 306,341 331,341 357,341 383,341 409,341"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962-341-111-1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;}">
+                <Coords points="160,541 379,546 392,540 392,496 161,494"/>
+                <Baseline points="166,529 193,530 221,530 248,530 276,531 304,531 331,532 359,532 387,533"/>
+                <TextEquiv>
+                    <Unicode>s1. Smuggling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1992.a.363&#13;
+HUA (Sha)&#13;
+Fang da lu de &lt;zou si wang guo&gt;&#13;
+1990&#13;
+181p.&#13;
+ISBN 962-341-111-1&#13;
+s1. Smuggling</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

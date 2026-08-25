@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.536+01:00</Created>
+        <LastChange>2023-07-03T16:58:26.696+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758520" pageNr="333" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=HYBHGQNYOZAHGUMQICHTFUHO&amp;fileType=view" imageId="35195826"/>
+    </Metadata>
+    <Page imageFilename="42758520.jpg" imageWidth="936" imageHeight="785">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396306696" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="31,37 861,37 861,684 31,684"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="578,87 595,98 686,98 699,86 711,98 751,90 761,98 796,98 813,94 814,70 777,58 748,71 713,57 688,64 674,57 579,59"/>
+                <Baseline points="583,90 605,90 628,90 652,90 675,90 699,88 722,88 745,87 769,87 792,87 816,87"/>
+                <TextEquiv>
+                    <Unicode>15532.b.26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="43,226 76,240 126,225 143,234 168,235 175,227 183,234 275,233 275,179 235,195 157,194 148,185 139,193 43,193"/>
+                <Baseline points="48,220 71,221 95,221 118,223 142,223 165,223 188,223 212,223 235,223 259,224 277,224"/>
+                <TextEquiv>
+                    <Unicode>CIEN (Taidou)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688396265885_1793" custom="readingOrder {index:2;}">
+                <Coords points="57,248 519,252 519,302 57,298"/>
+                <Baseline points="57,293 519,297"/>
+                <TextEquiv>
+                    <Unicode>Fan du shi ci ge qu xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="40,424 759,419 732,393 40,394"/>
+                <Baseline points="45,419 57,421 81,419 104,418 127,419 151,419 174,419 198,419 221,419 245,419 268,419 291,421 315,421 338,421 362,421 385,421 408,421 432,419 455,421 479,421 502,421 525,421 549,421 572,422 596,421 619,421 642,421 666,421 689,421 713,419 736,419 760,418"/>
+                <TextEquiv>
+                    <Unicode>The selection of poems and songs on anti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="38,461 798,464 798,428 38,428"/>
+                <Baseline points="43,455 67,455 90,455 113,455 137,455 160,455 184,455 207,455 230,455 254,455 277,457 301,457 324,458 348,457 371,457 394,457 418,455 441,457 465,455 488,455 511,455 535,457 558,457 582,457 605,457 628,457 652,455 675,455 699,455 722,455 745,455 769,457 792,455 800,457"/>
+                <TextEquiv>
+                    <Unicode>dangerous drug: painted in various forms of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="40,496 826,498 826,469 750,456 585,477 40,465"/>
+                <Baseline points="45,490 68,491 92,491 115,493 138,494 162,493 185,491 209,491 232,493 255,494 279,493 302,493 326,493 349,493 372,493 396,493 419,493 443,493 466,493 490,491 513,493 536,491 560,491 583,490 607,488 630,491 653,493 677,493 700,494 724,494 747,493 770,493 794,494 817,494 828,493"/>
+                <TextEquiv>
+                    <Unicode>calligraphy / by Chan Tai dau. -- [Hong Kong:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="44,530 127,530 138,539 161,528 181,538 247,538 266,530 265,503 240,498 223,504 211,497 189,506 175,498 159,514 144,516 126,516 103,499 43,501"/>
+                <Baseline points="49,524 73,525 96,525 120,529 143,529 166,527 190,525 213,527 237,529 260,529 268,530"/>
+                <TextEquiv>
+                    <Unicode>s.n., 1984?]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:7;}">
+                <Coords points="73,609 564,602 564,572 486,557 429,573 307,560 210,575 179,562 151,588 127,564 73,569"/>
+                <Baseline points="78,607 98,605 121,603 145,600 168,600 191,600 215,599 238,597 262,597 285,597 309,596 332,597 355,596 379,596 402,596 426,597 449,596 472,596 496,596 519,596 543,596 566,596"/>
+                <TextEquiv>
+                    <Unicode>[6], 39 p.: facsims.; 30 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="74,681 725,681 708,641 74,640"/>
+                <Baseline points="79,671 103,671 126,671 149,671 173,671 196,672 220,671 243,672 266,672 290,672 313,672 337,671 360,672 383,672 407,672 430,672 454,672 477,672 500,672 524,672 547,672 571,672 594,672 618,672 641,672 664,672 688,672 711,672 727,674"/>
+                <TextEquiv>
+                    <Unicode>Photocopied on one side of each leaf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15532.b.26&#13;
+CIEN (Taidou)&#13;
+Fan du shi ci ge qu xuan&#13;
+The selection of poems and songs on anti-&#13;
+dangerous drug: painted in various forms of&#13;
+calligraphy / by Chan Tai dau. -- [Hong Kong:&#13;
+s.n., 1984?]&#13;
+[6], 39 p.: facsims.; 30 cm&#13;
+Photocopied on one side of each leaf.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

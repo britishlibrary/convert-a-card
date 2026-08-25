@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.398+01:00</Created>
+        <LastChange>2023-08-16T15:21:00.419+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758584" pageNr="390" tsid="128197538" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=LXGMCSKDJLZMILXPMCCXKQRR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXAQCSYWTLJRZRZEGHJZQRAK" imageId="35195890"/>
+    </Metadata>
+    <Page imageFilename="42758584.jpg" imageWidth="976" imageHeight="822">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692192060419" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,63 918,63 918,613 110,613"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="602,115 634,130 648,122 709,123 718,114 795,129 849,115 848,99 800,75 781,94 753,94 740,81 725,96 708,97 685,75 661,94 651,85 602,87"/>
+                <Baseline points="607,115 631,113 655,113 680,115 704,115 729,115 753,117 778,117 802,117 826,117 851,117"/>
+                <TextEquiv>
+                    <Unicode>15260.e.56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="134,174 374,175 388,186 435,177 435,124 380,139 320,138 310,128 134,135"/>
+                <Baseline points="139,164 146,166 170,166 195,167 219,166 244,166 268,166 292,166 317,166 341,167 366,167 390,167 415,167 437,162"/>
+                <TextEquiv>
+                    <Unicode>FANG YAN KAN XI-DE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="104,262 364,263 383,282 465,255 504,273 532,254 609,263 609,199 576,214 495,192 468,215 390,202 328,237 235,217 219,233 105,225"/>
+                <Baseline points="110,255 122,255 146,255 170,255 195,255 219,253 244,253 268,255 292,255 317,257 341,257 366,257 390,252 415,253 439,255 463,255 488,253 512,250 537,250 561,253 585,252 610,247"/>
+                <TextEquiv>
+                    <Unicode>ZHENG (Yilang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="173,321 191,314 213,331 257,315 319,330 350,321 374,335 407,315 476,318 501,338 517,324 550,331 551,279 531,266 477,289 432,272 401,294 372,273 344,286 274,274 259,288 230,267 174,266"/>
+                <Baseline points="179,308 185,309 209,310 234,310 258,310 283,312 307,310 332,309 356,307 380,307 405,310 429,307 454,309 478,304 504,306 504,306 529,302 553,301"/>
+                <TextEquiv>
+                    <Unicode>71 E6 [9 16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="147,362 814,361 795,329 529,325 495,349 468,329 309,330 292,347 274,329 146,326"/>
+                <Baseline points="151,353 175,354 200,356 224,354 249,356 273,356 297,356 322,358 346,358 371,358 395,356 419,356 444,356 468,356 493,358 517,358 542,358 566,358 590,359 615,359 639,358 664,356 688,358 712,358 737,358 761,356 786,356 810,358 815,358"/>
+                <TextEquiv>
+                    <Unicode>Fangyan kan Xi-De. [A visit to West</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="144,401 294,401 294,380 277,369 262,374 252,369 244,374 239,369 200,374 195,369 188,374 168,364 144,364"/>
+                <Baseline points="149,392 174,392 198,392 222,392 247,392 271,392 296,392"/>
+                <TextEquiv>
+                    <Unicode>Germany.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="149,442 229,429 296,442 317,431 328,443 351,434 455,434 455,412 424,400 403,406 390,395 364,402 346,394 325,407 242,402 230,414 203,402 149,403"/>
+                <Baseline points="154,429 164,428 188,428 213,428 237,428 262,428 286,428 310,428 335,426 359,428 384,428 408,426 432,426 457,426"/>
+                <TextEquiv>
+                    <Unicode>pps. 180; plates.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="139,500 715,505 715,469 670,465 609,485 525,467 139,475"/>
+                <Baseline points="144,494 169,496 193,494 218,494 242,494 266,494 291,496 315,496 340,496 364,496 389,496 413,496 437,498 462,498 486,496 511,496 535,498 559,498 584,496 608,494 633,494 657,494 682,496 706,498 717,498"/>
+                <TextEquiv>
+                    <Unicode>Huailo shufang: Hong Kong, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="834,610 918,610 916,576 902,575 879,582 854,563 831,564"/>
+                <Baseline points="838,599 862,599 887,602 911,603 918,602"/>
+                <TextEquiv>
+                    <Unicode>19cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

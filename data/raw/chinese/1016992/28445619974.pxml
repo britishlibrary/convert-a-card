@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.562+01:00</Created>
+        <LastChange>2023-05-03T17:50:32.096+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758184" pageNr="43"/>
+    </Metadata>
+    <Page imageFilename="28445619974.jpg" imageWidth="976" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129032097" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="125,101 129,583 856,583 852,101"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="542,138 782,136 782,101 720,101 706,112 680,101 647,110 634,101 577,101 569,93 542,99"/>
+                <Baseline points="547,126 572,128 598,128 623,128 649,128 674,127 700,127 725,127 751,128 777,129"/>
+                <TextEquiv>
+                    <Unicode>15330.b.204</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="167,218 297,227 307,217 337,216 394,221 410,234 429,218 472,215 472,160 167,160"/>
+                <Baseline points="172,208 198,208 225,208 252,208 279,208 306,208 332,208 359,208 386,209 413,209 440,208 467,208"/>
+                <TextEquiv>
+                    <Unicode>FEI DE LI KE XIAO JIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657285583468_1046" custom="readingOrder {index:2;}">
+                <Coords points="140,222 561,226 561,276 140,272"/>
+                <Baseline points="140,267 561,271"/>
+                <TextEquiv>
+                    <Unicode>DANG'EN, German author.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="190,418 663,424 663,382 539,378 511,397 468,380 365,393 191,380"/>
+                <Baseline points="196,404 221,405 247,405 272,406 298,406 324,406 349,406 375,406 400,407 426,407 452,407 477,407 503,408 528,408 554,409 580,410 605,411 631,412 657,414"/>
+                <TextEquiv>
+                    <Unicode>Feidelike xiaojie. [Play.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="190,482 232,482 256,464 287,482 321,482 342,471 342,453 334,453 320,439 271,437 248,456 231,445 190,446"/>
+                <Baseline points="195,470 223,469 251,469 280,469 308,469 337,470"/>
+                <TextEquiv>
+                    <Unicode>pp. 177.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="188,546 729,553 832,546 841,511 188,513"/>
+                <Baseline points="193,540 225,539 257,539 289,539 321,539 353,538 385,538 418,538 450,538 482,538 514,538 546,538 578,538 610,538 643,538 675,538 707,538 739,537 771,537 803,537 836,537"/>
+                <TextEquiv>
+                    <Unicode>Jindai tushu gonsi: Hong Kong, 1959.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15330.b.204&#13;
+FEI DE LI KE XIAO JIE&#13;
+DANG'EN, German author.&#13;
+Feidelike xiaojie. [Play.]&#13;
+pp. 177.&#13;
+Jindai tushu gonsi: Hong Kong, 1959.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

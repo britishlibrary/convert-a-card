@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.708+01:00</Created>
+        <LastChange>2023-05-03T17:30:15.792+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758141" pageNr="5"/>
+    </Metadata>
+    <Page imageFilename="28445611494.jpg" imageWidth="980" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127815792" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="163,75 161,728 978,735 978,79"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="591,111 624,123 703,123 712,115 748,122 761,113 775,123 870,122 871,96 852,97 833,77 816,87 777,85 764,97 747,97 735,85 699,94 687,85 591,84"/>
+                <Baseline points="596,110 623,110 650,110 677,111 704,112 731,112 758,113 785,113 812,113 839,113 866,112"/>
+                <TextEquiv>
+                    <Unicode>15216.h.23/4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="215,154 284,176 311,154 365,154 424,175 518,157 607,179 684,157 756,180 816,158 816,123 761,114 215,118"/>
+                <Baseline points="220,147 249,147 279,148 308,148 338,148 367,148 397,149 426,149 456,149 485,150 515,150 545,150 574,150 604,150 633,151 663,151 692,151 722,151 751,151 781,151 811,151"/>
+                <TextEquiv>
+                    <Unicode>FENG JIAN ZHU YI DE SHENG CHAN FANG SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657126099554_174" custom="readingOrder {index:2;}">
+                <Coords points="173,176 359,175 359,225 173,226"/>
+                <Baseline points="173,221 359,220"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Yu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:3;}">
+                <Coords points="645,223 661,224 665,222 672,227 704,226 709,221 714,221 714,191 679,189 675,193 645,194"/>
+                <Baseline points="650,217 679,216 709,216"/>
+                <TextEquiv>
+                    <Unicode>and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="179,258 262,255 272,266 331,260 336,267 409,258 416,266 447,266 448,226 414,235 389,221 367,229 275,221 260,234 179,220"/>
+                <Baseline points="184,249 209,249 235,250 261,250 287,250 313,250 339,250 365,251 391,251 417,252 443,254"/>
+                <TextEquiv>
+                    <Unicode>HONG (Jingming)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="216,363 863,368 838,333 216,332"/>
+                <Baseline points="221,356 252,357 284,357 316,358 348,358 380,358 412,358 443,359 475,359 507,359 539,359 571,359 603,359 635,359 666,359 698,360 730,360 762,360 794,361 826,361 858,362"/>
+                <TextEquiv>
+                    <Unicode>Fengjian zhuyi de shengchan fangshi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657126151612_203" custom="readingOrder {index:6;}">
+                <Coords points="210,359 971,363 971,413 210,409"/>
+                <Baseline points="210,404 971,408"/>
+                <TextEquiv>
+                    <Unicode>[Lecture delivered on the Central People's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="213,435 924,442 912,409 213,406"/>
+                <Baseline points="218,428 253,428 288,429 323,429 358,430 393,430 428,431 463,431 498,431 533,432 568,432 603,433 638,433 673,433 708,434 743,434 778,435 813,435 848,435 883,436 919,436"/>
+                <TextEquiv>
+                    <Unicode>Brocasting Station on the feudal method</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="214,473 246,474 255,466 264,476 477,468 477,456 442,445 345,445 329,437 314,446 260,445 251,437 215,443"/>
+                <Baseline points="220,464 245,464 270,464 295,465 320,465 346,466 371,466 396,467 421,468 446,469 472,470"/>
+                <TextEquiv>
+                    <Unicode>of production.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="207,515 239,515 291,503 303,514 360,511 360,484 349,484 341,477 303,477 291,489 276,479 207,477"/>
+                <Baseline points="212,504 240,503 269,502 297,503 326,504 355,503"/>
+                <TextEquiv>
+                    <Unicode>pps. 47.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="209,578 853,594 876,574 982,606 982,562 952,549 209,548"/>
+                <Baseline points="214,572 252,572 290,572 328,573 366,573 404,573 442,573 481,573 519,574 557,574 595,574 633,574 671,575 709,575 748,576 786,576 824,577 862,578 900,579 938,580 977,581"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo qingnian chubanshe: Peking, 1956.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657126195051_215" custom="readingOrder {index:11;}">
+                <Coords points="208,605 302,605 302,655 208,655"/>
+                <Baseline points="208,650 302,650"/>
+                <TextEquiv>
+                    <Unicode>18cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657126212792_224" custom="readingOrder {index:12;}">
+                <Coords points="209,641 951,655 950,705 208,691"/>
+                <Baseline points="208,686 950,700"/>
+                <TextEquiv>
+                    <Unicode>"Zhengzhi jingji xue jiaokeshu" jiangzou,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="213,730 333,730 340,725 353,731 384,730 384,702 372,702 363,693 351,692 344,699 330,693 324,699 295,702 279,693 262,693 255,700 242,693 213,693"/>
+                <Baseline points="218,717 244,719 271,720 298,720 325,720 352,720 379,721"/>
+                <TextEquiv>
+                    <Unicode>lecture 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15216.h.23/4&#13;
+FENG JIAN ZHU YI DE SHENG CHAN FANG SHI&#13;
+ZHANG (Yu)&#13;
+and&#13;
+HONG (Jingming)&#13;
+Fengjian zhuyi de shengchan fangshi.&#13;
+[Lecture delivered on the Central People's&#13;
+Brocasting Station on the feudal method&#13;
+of production.]&#13;
+pps. 47.&#13;
+Zhongguo qingnian chubanshe: Peking, 1956.&#13;
+18cm.&#13;
+"Zhengzhi jingji xue jiaokeshu" jiangzou,&#13;
+lecture 4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

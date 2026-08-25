@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.273+01:00</Created>
+        <LastChange>2023-05-03T17:44:06.323+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758168" pageNr="29"/>
+    </Metadata>
+    <Page imageFilename="28445617424.jpg" imageWidth="956" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128646354" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,51 50,720 919,721 926,47"/>
+            <TextLine id="line_1654529844640_201" custom="readingOrder {index:0;}">
+                <Coords points="583,91 604,99 796,98 840,91 850,84 850,69 825,61 768,61 758,71 721,60 707,72 678,60 582,66"/>
+                <Baseline points="588,96 846,92"/>
+                <TextEquiv>
+                    <Unicode>15560.i.132</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654529848483_206" custom="readingOrder {index:1;}">
+                <Coords points="63,178 596,170 585,142 63,141"/>
+                <Baseline points="68,178 591,178"/>
+                <TextEquiv>
+                    <Unicode>FEI XIN SU MIAO TOU XIANG XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="65,242 180,239 190,249 231,242 239,250 259,242 327,242 337,237 338,205 317,197 300,209 265,210 196,200 66,204"/>
+                <Baseline points="70,229 96,230 122,230 148,231 174,231 201,231 227,231 253,231 279,232 305,232 332,234"/>
+                <TextEquiv>
+                    <Unicode>FEIXIN (Nigula)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281844533_339" custom="readingOrder {index:3;}">
+                <Coords points="167,262 703,259 703,309 167,312"/>
+                <Baseline points="167,307 703,304"/>
+                <TextEquiv>
+                    <Unicode>Fei xin su miao tou xiang xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281867492_349" custom="readingOrder {index:4;}">
+                <Coords points="649,357 919,355 919,405 649,407"/>
+                <Baseline points="649,402 919,400"/>
+                <TextEquiv>
+                    <Unicode>Fei xin su miao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281894808_359" custom="readingOrder {index:5;}">
+                <Coords points="180,433 429,432 429,482 180,483"/>
+                <Baseline points="180,478 429,477"/>
+                <TextEquiv>
+                    <Unicode>tou xiang xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128639497_490" custom="readingOrder {index:6;}">
+                <Coords points="537,500 637,502 636,552 536,550"/>
+                <Baseline points="536,545 636,547"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="171,618 682,618 682,589 623,589 606,573 392,596 357,581 335,596 304,581 171,580"/>
+                <Baseline points="176,603 201,604 226,605 251,605 276,605 301,605 326,605 351,605 376,605 401,605 426,605 451,605 476,604 501,604 526,604 551,604 576,604 601,604 626,604 651,605 677,605"/>
+                <TextEquiv>
+                    <Unicode>16 sheets in a folder; 26 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281939321_372" custom="readingOrder {index:8;}">
+                <Coords points="179,633 886,633 886,683 179,683"/>
+                <Baseline points="163,678 886,678"/>
+                <TextEquiv>
+                    <Unicode>Portrait drawings by a nineteenth-century</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="162,714 263,712 294,722 317,711 437,714 437,686 426,684 370,681 321,691 162,685"/>
+                <Baseline points="167,708 193,707 220,707 246,707 273,707 299,707 326,707 352,707 379,707 405,707 432,706"/>
+                <TextEquiv>
+                    <Unicode>American artist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15560.i.132&#13;
+FEI XIN SU MIAO TOU XIANG XUAN&#13;
+FEIXIN (Nigula)&#13;
+Fei xin su miao tou xiang xuan&#13;
+Fei xin su miao&#13;
+tou xiang xuan&#13;
+1979&#13;
+16 sheets in a folder; 26 cm.&#13;
+Portrait drawings by a nineteenth-century&#13;
+American artist</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

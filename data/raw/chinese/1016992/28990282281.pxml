@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.521+01:00</Created>
+        <LastChange>2023-07-03T16:57:17.122+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758519" pageNr="332" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ERPYYFCNKLUKAKUEWUNBGPRU&amp;fileType=view" imageId="35195825"/>
+    </Metadata>
+    <Page imageFilename="42758519.jpg" imageWidth="960" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396237122" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="27,65 890,65 890,755 27,755"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="604,122 641,130 673,120 699,130 715,118 726,130 750,130 772,118 800,131 831,123 831,83 793,77 768,100 733,85 707,102 687,84 604,79"/>
+                <Baseline points="609,115 633,115 657,115 681,116 705,118 729,118 753,118 777,116 801,116 825,116 833,116"/>
+                <TextEquiv>
+                    <Unicode>15621.g.26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="35,186 697,190 697,148 35,154"/>
+                <Baseline points="41,175 65,179 89,180 113,182 137,182 161,182 185,182 209,180 233,180 257,180 281,179 305,179 329,180 353,180 377,180 401,180 425,180 449,182 473,182 497,182 521,182 545,180 569,180 593,182 617,182 641,180 665,180 689,179 700,177"/>
+                <TextEquiv>
+                    <Unicode>"FAN DU LIN LUN"" ZHONG DE ZI RAN KE XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="21,249 47,266 700,259 700,220 666,215 636,233 21,229"/>
+                <Baseline points="27,247 51,251 75,252 99,254 123,254 147,254 171,254 195,254 219,254 243,254 267,252 291,251 315,251 339,252 363,252 387,252 410,251 434,252 458,252 482,252 506,252 530,252 554,252 578,252 602,251 626,251 650,251 674,249 698,247 702,247"/>
+                <TextEquiv>
+                    <Unicode>"FAN DU LIN LUN" ZHONG DE ZI RAN KE XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="54,349 132,371 887,363 874,318 762,312 673,337 54,331"/>
+                <Baseline points="60,348 84,353 108,355 132,355 156,356 180,356 204,356 228,358 252,356 276,356 300,356 324,355 348,355 372,355 396,356 420,356 444,355 468,355 492,355 516,355 540,353 564,355 588,353 612,355 636,353 660,355 684,353 708,353 732,353 756,353 780,353 804,353 828,351 852,351 876,353 890,351"/>
+                <TextEquiv>
+                    <Unicode>"Fan Du lin lun" zhong de zi ran ke xue.[Natural</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="56,400 640,395 622,354 57,373"/>
+                <Baseline points="62,393 68,391 92,391 116,391 140,391 164,391 188,391 212,390 236,390 260,390 284,390 308,391 332,390 356,390 380,388 404,387 428,387 452,388 476,387 500,387 524,387 548,387 572,388 596,390 620,390 644,391"/>
+                <TextEquiv>
+                    <Unicode>science in Engels' "Anti-Dühring".]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="53,437 355,424 466,435 479,434 480,405 445,394 418,409 387,393 349,418 323,401 244,396 208,420 179,398 54,406"/>
+                <Baseline points="59,431 73,430 97,430 121,428 145,428 169,428 193,428 217,426 241,425 265,425 289,425 313,425 337,425 361,423 385,423 409,422 433,423 457,423 481,425"/>
+                <TextEquiv>
+                    <Unicode>pp. 438. illus. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="59,506 752,506 855,497 856,460 59,465"/>
+                <Baseline points="65,497 89,495 113,497 137,498 161,497 185,497 209,497 233,495 257,495 281,495 305,495 329,495 353,494 377,494 401,494 425,494 449,494 473,492 497,492 521,492 545,492 569,490 593,490 617,490 641,490 665,490 689,490 713,490 737,492 761,490 785,490 809,490 833,490 857,494"/>
+                <TextEquiv>
+                    <Unicode>Zhong guo qing nian chu ban she: Peking, 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="59,571 549,570 558,536 60,535"/>
+                <Baseline points="65,566 79,564 103,564 127,566 151,564 175,564 199,564 223,562 247,562 271,562 295,562 319,562 343,564 367,562 391,562 415,562 439,561 463,559 487,559 511,559 535,559 559,559"/>
+                <TextEquiv>
+                    <Unicode>Qing nian ke xue pu ji du wu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15621.g.26&#13;
+"FAN DU LIN LUN"" ZHONG DE ZI RAN KE XUE&#13;
+"FAN DU LIN LUN" ZHONG DE ZI RAN KE XUE&#13;
+"Fan Du lin lun" zhong de zi ran ke xue.[Natural&#13;
+science in Engels' "Anti-Dühring".]&#13;
+pp. 438. illus. 19 cm.&#13;
+Zhong guo qing nian chu ban she: Peking, 1979.&#13;
+Qing nian ke xue pu ji du wu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

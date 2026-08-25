@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.474+01:00</Created>
+        <LastChange>2023-05-10T17:04:01.706+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758299" pageNr="143"/>
+    </Metadata>
+    <Page imageFilename="28780460320.jpg" imageWidth="952" imageHeight="770">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731041706" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="26,31 28,751 907,751 905,31"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="593,58 622,73 645,67 672,74 707,63 833,62 833,40 812,29 777,29 761,45 735,29 702,43 653,24 641,33 593,37"/>
+                <Baseline points="598,54 623,56 649,57 674,58 700,58 725,58 751,58 776,57 802,57 828,58"/>
+                <TextEquiv>
+                    <Unicode>15675.d.90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="85,126 154,118 196,129 238,115 248,123 419,120 418,82 385,72 321,85 281,69 268,82 180,76 145,89 111,77 84,86"/>
+                <Baseline points="90,111 117,111 144,111 171,111 198,111 225,111 252,110 279,110 306,109 333,109 360,108 387,107 414,107"/>
+                <TextEquiv>
+                    <Unicode>FEI LONG QUAN ZHUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531388549_919" custom="readingOrder {index:2;}">
+                <Coords points="34,197 55,210 102,209 113,218 128,210 216,216 216,171 84,171 77,178 34,178"/>
+                <Baseline points="39,211 211,211"/>
+                <TextEquiv>
+                    <Unicode>WU (Xuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="118,291 143,285 152,292 251,284 266,291 309,284 325,289 363,274 362,254 117,261"/>
+                <Baseline points="123,281 149,280 175,280 201,280 227,280 253,280 279,280 305,279 331,278 358,276"/>
+                <TextEquiv>
+                    <Unicode>fei long quan zhuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683196622879_1085" custom="readingOrder {index:4;}">
+                <Coords points="179,357 244,357 244,407 179,407"/>
+                <Baseline points="179,402 244,402"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+                <Coords points="34,677 87,674 98,681 120,665 138,675 208,675 232,662 232,639 191,639 170,650 160,642 129,649 53,644 47,638 33,643"/>
+                <Baseline points="39,666 66,665 93,665 120,664 147,663 174,663 201,663 228,663"/>
+                <TextEquiv>
+                    <Unicode>I242.4 44.566</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="36,706 122,706 121,677 109,674 95,684 88,678 35,677"/>
+                <Baseline points="41,699 66,699 91,698 117,698"/>
+                <TextEquiv>
+                    <Unicode>I242.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683196656784_1102" custom="readingOrder {index:7;}">
+                <Coords points="36,691 94,693 92,743 34,741"/>
+                <Baseline points="34,736 92,738"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="754,666 767,666 779,659 784,659 791,666 814,665 821,659 835,664 841,660 857,660 857,627 798,628 790,632 754,629"/>
+                <Baseline points="759,653 790,652 821,652 852,653"/>
+                <TextEquiv>
+                    <Unicode>10-1[81]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="650,698 747,698 758,690 776,698 789,690 822,699 859,695 858,662 817,662 798,676 785,676 771,667 649,661"/>
+                <Baseline points="700,687 740,686 768,687 797,687 825,687 854,686"/>
+                <TextEquiv>
+                    <Unicode>81-2-1 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="582,736 718,727 755,736 775,722 791,730 860,728 860,701 852,700 582,701"/>
+                <Baseline points="587,725 613,724 640,724 667,724 694,724 721,723 747,723 774,723 801,722 828,721 855,721"/>
+                <TextEquiv>
+                    <Unicode>10019.3165 81—10136</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.d.90&#13;
+FEI LONG QUAN ZHUAN&#13;
+WU (Xuan)&#13;
+fei long quan zhuan&#13;
+1981&#13;
+I242.4 44.566&#13;
+I242.4&#13;
+1981&#13;
+10-1[81]&#13;
+81-2-1 [31]&#13;
+10019.3165 81—10136</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.599+01:00</Created>
+        <LastChange>2023-06-21T17:50:06.802+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758381" pageNr="215"/>
+    </Metadata>
+    <Page imageFilename="28961234392.jpg" imageWidth="952" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687362606803" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="54,16 54,587 911,587 911,16"/>
+            <TextLine id="line_1654764000438_76" custom="readingOrder {index:0;}">
+                <Coords points="600,62 748,67 789,60 825,66 834,62 833,18 795,18 781,31 741,35 599,30"/>
+                <Baseline points="605,68 829,66"/>
+                <TextEquiv>
+                    <Unicode>15654.e.17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="49,150 202,154 216,146 284,141 284,111 49,107"/>
+                <Baseline points="54,138 79,137 104,137 129,138 154,138 179,138 204,138 229,138 254,138 279,137"/>
+                <TextEquiv>
+                    <Unicode>FANG LA QI YI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="60,216 200,211 217,217 231,209 294,208 293,169 254,170 241,179 214,173 184,189 174,181 59,181"/>
+                <Baseline points="65,206 93,205 121,204 149,203 177,203 205,203 233,203 261,203 289,202"/>
+                <TextEquiv>
+                    <Unicode>FANG LA QI YI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="127,282 199,282 213,270 272,283 332,283 372,265 372,240 348,237 324,245 272,245 264,252 242,244 128,245"/>
+                <Baseline points="133,268 158,269 184,271 210,271 236,271 262,271 288,271 314,270 340,270 366,269"/>
+                <TextEquiv>
+                    <Unicode>Fang la qi yi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_121" custom="readingOrder {index:4;}">
+                <Coords points="691,438 695,438 729,440 762,443 796,447 798,432 764,428 730,425 696,423 692,423"/>
+                <Baseline points="691,438 695,438 729,440 762,443 796,447"/>
+                <TextEquiv>
+                    <Unicode>1976</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_123" custom="readingOrder {index:5;}">
+                <Coords points="120,509 154,508 188,507 222,506 256,505 291,505 325,504 359,504 393,504 426,503 425,488 393,489 359,489 325,489 291,490 256,490 222,491 188,492 154,493 120,494"/>
+                <Baseline points="120,509 154,508 188,507 222,506 256,505 291,505 325,504 359,504 393,504 426,503"/>
+                <TextEquiv>
+                    <Unicode>38 p.; map; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="115,587 163,587 180,574 205,587 329,586 559,567 558,537 114,550"/>
+                <Baseline points="120,575 145,574 171,574 196,574 222,573 247,573 273,572 298,572 324,571 349,570 375,569 400,569 426,568 451,568 477,567 502,567 528,566 554,566"/>
+                <TextEquiv>
+                    <Unicode>The uprising of 1120-1122</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15654. e. 17.
+FANG LA QI YI
+FANG LA QI YI
+Fang la qi yi
+ RkX/a. 114 1 367 12
+V1. — 35. 44 6/ 1926
+38 p.; map; 19 cm. (75  17. 1 ½)
+The uprising of 1120-1122
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

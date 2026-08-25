@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.868+01:00</Created>
+        <LastChange>2023-07-03T15:14:39.580+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758472" pageNr="292" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=DNXDAQIXDIORJDRZOSPWRBKI&amp;fileType=view" imageId="35195778"/>
+    </Metadata>
+    <Page imageFilename="42758472.jpg" imageWidth="956" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688390079580" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="49,18 908,18 908,729 49,729"/>
+            <TextLine id="line_1688390045658_524" custom="readingOrder {index:0;}">
+                <Coords points="562,27 910,32 909,82 561,77"/>
+                <Baseline points="561,72 909,77"/>
+                <TextEquiv>
+                    <Unicode>15400.e.2441-2442</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="46,130 431,136 431,106 400,80 352,91 268,79 242,105 214,79 165,107 139,82 46,91"/>
+                <Baseline points="51,125 74,125 98,124 122,125 146,124 170,125 194,125 218,125 242,125 266,125 290,125 314,125 338,125 361,127 385,125 409,125 433,125"/>
+                <TextEquiv>
+                    <Unicode>FEN ZU JIAO XUE FU DAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="44,218 113,213 126,226 163,216 259,222 260,165 248,164 223,188 212,177 199,188 168,188 158,177 128,179 116,190 106,178 45,179"/>
+                <Baseline points="49,212 70,212 94,212 117,212 141,212 165,210 189,210 213,210 237,210 261,210"/>
+                <TextEquiv>
+                    <Unicode>LIN (Junzhu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="77,278 196,278 217,296 240,281 479,275 479,245 163,248 146,265 130,248 77,248"/>
+                <Baseline points="82,277 98,277 122,277 146,279 170,277 194,277 218,277 242,277 266,277 290,277 314,275 338,275 361,275 385,275 409,275 433,274 457,274 481,274"/>
+                <TextEquiv>
+                    <Unicode>Fen zu jiao xue fu dao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="66,526 88,531 103,522 134,522 158,537 175,530 192,546 246,530 247,476 198,482 169,473 140,485 130,475 115,474 104,485 83,476 67,486"/>
+                <Baseline points="71,522 81,522 105,521 129,521 153,522 176,518 200,518 224,518 248,519"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="50,624 825,610 827,547 675,565 642,533 602,569 367,567 192,605 52,581"/>
+                <Baseline points="55,613 62,615 86,617 110,618 133,618 157,618 181,618 205,618 229,617 253,620 277,620 301,618 325,617 349,617 373,615 397,615 420,615 444,613 468,612 492,607 516,605 540,604 564,604 588,602 612,599 636,597 660,596 683,596 707,596 731,596 755,596 779,596 803,596 827,594"/>
+                <TextEquiv>
+                    <Unicode>2, 2, 4, 123 p.; 18cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.2441-2442&#13;
+FEN ZU JIAO XUE FU DAO&#13;
+LIN (Junzhu)&#13;
+Fen zu jiao xue fu dao&#13;
+1979&#13;
+2, 2, 4, 123 p.; 18cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

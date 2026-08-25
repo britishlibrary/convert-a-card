@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.945+01:00</Created>
+        <LastChange>2023-06-27T10:08:35.683+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758405" pageNr="235" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961239042.jpg" imageWidth="988" imageHeight="768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853315683" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="71,61 71,627 872,627 872,61"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="514,97 836,98 836,63 826,61 774,60 748,81 728,69 698,79 677,61 610,61 583,72 571,61 514,61"/>
+                <Baseline points="519,87 545,87 571,87 597,87 623,88 649,89 675,90 701,90 727,91 753,91 779,91 805,90 831,89"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1678</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="66,221 108,226 129,212 161,227 183,219 192,226 327,226 338,220 338,182 190,189 182,197 173,189 66,188"/>
+                <Baseline points="71,214 97,213 123,213 149,213 175,214 202,214 228,215 254,215 280,214 306,214 333,212"/>
+                <TextEquiv>
+                    <Unicode>FAN YI CONG LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="99,276 400,277 400,241 385,236 99,235"/>
+                <Baseline points="104,264 130,264 156,265 183,265 209,266 236,266 262,267 289,267 315,267 342,266 368,266 395,264"/>
+                <TextEquiv>
+                    <Unicode>Fan yi cong lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_121" custom="readingOrder {index:3;}">
+                <Coords points="734,453 762,453 794,453 826,453 859,453 859,438 826,438 794,438 762,438 734,438"/>
+                <Baseline points="734,453 762,453 794,453 826,453 859,453"/>
+                <TextEquiv>
+                    <Unicode>1986.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_123" custom="readingOrder {index:4;}">
+                <Coords points="110,503 135,500 161,499 187,499 213,499 228,500 229,485 213,484 187,484 161,484 134,485 108,488"/>
+                <Baseline points="110,503 135,500 161,499 187,499 213,499 228,500"/>
+                <TextEquiv>
+                    <Unicode>180 pl.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="107,533 133,533 159,533 185,534 211,534 237,535 264,535 290,535 316,535 342,535 368,534 412,535 413,520 368,519 342,520 316,520 290,520 264,520 237,520 211,519 185,519 159,518 133,518 107,518"/>
+                <Baseline points="107,533 133,533 159,533 185,534 211,534 237,535 264,535 290,535 316,535 342,535 368,534 412,535"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962 07 1078 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="91,618 338,619 353,615 354,598 166,581 141,592 124,581 92,591"/>
+                <Baseline points="97,608 122,608 147,609 172,609 197,610 222,611 247,612 272,613 297,613 322,614 348,614"/>
+                <TextEquiv>
+                    <Unicode>s1. Translation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1678&#13;
+FAN YI CONG LUN&#13;
+Fan yi cong lun&#13;
+1986.&#13;
+180 pl.-&#13;
+ISBN 962 07 1078 9&#13;
+s1. Translation</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

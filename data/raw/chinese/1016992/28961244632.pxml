@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.376+01:00</Created>
+        <LastChange>2023-06-29T13:30:02.907+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758438" pageNr="263"/>
+    </Metadata>
+    <Page imageFilename="28961244632.jpg" imageWidth="936" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038202908" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="3,72 3,646 889,646 889,72"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="626,98 819,99 819,74 808,69 775,69 763,80 750,69 738,74 638,69 626,74"/>
+                <Baseline points="631,92 657,92 683,93 709,93 735,93 761,92 787,92 814,93"/>
+                <TextEquiv>
+                    <Unicode>15682.d.49</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654764430997_394" custom="readingOrder {index:1;}">
+                <Coords points="-5,195 71,195 79,203 98,202 106,194 179,195 207,202 223,193 224,163 205,156 194,163 92,156 32,161 17,150 -4,149"/>
+                <Baseline points="0,195 217,199"/>
+                <TextEquiv>
+                    <Unicode>LIU (Zhixia)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="34,271 561,272 561,240 505,235 34,234"/>
+                <Baseline points="39,257 64,258 90,258 116,259 142,259 168,259 194,259 219,259 245,259 271,258 297,258 323,258 349,257 375,257 400,257 426,257 452,257 478,258 504,258 530,259 556,260"/>
+                <TextEquiv>
+                    <Unicode>Fa yu xian dai ci Lui zi dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036493530_725" custom="readingOrder {index:3;}">
+                <Coords points="509,315 886,314 886,364 509,365"/>
+                <Baseline points="509,360 886,359"/>
+                <TextEquiv>
+                    <Unicode>Dictionnaire français-chinois des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036588925_749" custom="readingOrder {index:4;}">
+                <Coords points="6,336 390,337 390,387 6,386"/>
+                <Baseline points="6,381 390,382"/>
+                <TextEquiv>
+                    <Unicode>mots contemporains / par W.K. Lau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036453192_707" custom="readingOrder {index:5;}">
+                <Coords points="418,362 456,362 456,412 418,412"/>
+                <Baseline points="418,407 456,407"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:6;}">
+                <Coords points="24,434 192,431 192,415 171,409 121,404 97,410 64,401 56,409 24,406"/>
+                <Baseline points="29,424 55,423 81,423 108,424 134,424 160,424 187,424"/>
+                <TextEquiv>
+                    <Unicode>448 p. ; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+                <Coords points="20,492 877,489 877,464 835,461 20,461"/>
+                <Baseline points="25,485 67,485 109,485 151,485 194,484 236,484 278,484 321,484 363,484 405,484 448,484 490,484 532,484 574,484 617,484 659,484 701,484 744,485 786,485 828,485 871,486"/>
+                <TextEquiv>
+                    <Unicode>1. French language--Dictionaries--Chinese. I. Title. II. Title: Dictionnaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:8;}">
+                <Coords points="-2,518 462,514 462,498 421,489 -2,486"/>
+                <Baseline points="3,510 28,510 53,510 78,510 103,510 128,509 154,509 179,509 204,509 229,509 254,509 279,509 305,509 330,508 355,508 380,508 405,508 430,507 456,507"/>
+                <TextEquiv>
+                    <Unicode>français-chinois des nots contemporains.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:9;}">
+                <Coords points="16,570 77,571 85,565 108,572 145,567 174,572 186,566 215,571 225,569 225,539 16,541"/>
+                <Baseline points="21,564 49,563 77,563 106,563 134,564 163,564 191,563 220,562"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 85139795/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:10;}">
+                <Coords points="22,594 537,593 537,562 22,571"/>
+                <Baseline points="27,588 52,588 77,588 102,588 127,588 153,588 178,588 203,588 228,588 253,588 279,588 304,588 329,588 354,587 379,587 405,587 430,587 455,587 480,588 505,588 531,588"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: PL1459.F8.l58 1983 (Orien China)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:11;}">
+                <Coords points="34,617 50,618 59,612 66,620 76,620 141,613 152,622 158,616 206,616 206,595 198,594 135,597 128,591 123,597 84,595 71,589 61,600 50,594 34,595"/>
+                <Baseline points="40,613 66,612 93,612 120,612 147,612 174,611 201,610"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB086-B1546</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:12;}">
+                <Coords points="377,619 479,617 479,594 423,592 411,600 396,593 377,592"/>
+                <Baseline points="383,611 413,611 443,611 473,610"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:13;}">
+                <Coords points="547,619 616,618 638,606 651,606 664,619 719,619 735,613 735,584 667,585 611,596 547,589"/>
+                <Baseline points="553,610 578,612 603,612 628,611 653,611 678,610 703,610 729,611"/>
+                <TextEquiv>
+                    <Unicode>DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:14;}">
+                <Coords points="23,646 215,642 214,620 198,617 23,617"/>
+                <Baseline points="28,634 53,635 79,636 105,636 131,636 157,635 183,634 209,633"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15682.d.49</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15682.d.49&#13;
+LIU (Zhixia)&#13;
+Fa yu xian dai ci Lui zi dian&#13;
+Dictionnaire français-chinois des&#13;
+mots contemporains / par W.K. Lau.&#13;
+1983&#13;
+448 p. ; 19 cm.&#13;
+1. French language--Dictionaries--Chinese. I. Title. II. Title: Dictionnaire&#13;
+français-chinois des nots contemporains.&#13;
+LCCN: 85139795/ACN&#13;
+L.C. CALL NO: PL1459.F8.l58 1983 (Orien China)&#13;
+ID: UKB086-B1546&#13;
+CC: 9114&#13;
+DCF: a [CJK]&#13;
+CALL: 15682.d.49</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

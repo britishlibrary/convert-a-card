@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.605+01:00</Created>
+        <LastChange>2023-07-03T14:43:14.266+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758454" pageNr="276" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=LNDFRVHBHRIYFBEPCZXIHNGI&amp;fileType=view" imageId="35195760"/>
+    </Metadata>
+    <Page imageFilename="42758454.jpg" imageWidth="972" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388194292" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="81,68 892,68 892,705 81,705"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="555,122 575,130 617,130 625,122 665,129 677,119 709,130 729,122 765,130 800,118 800,85 758,85 725,104 705,89 666,103 644,81 631,93 603,86 594,94 555,93"/>
+                <Baseline points="560,118 585,119 609,119 633,119 657,119 682,119 706,119 730,119 755,119 779,118 802,119"/>
+                <TextEquiv>
+                    <Unicode>15328.a.462</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="118,165 163,186 182,170 254,169 274,187 296,170 354,167 354,124 224,132 212,124 144,122 118,143"/>
+                <Baseline points="123,160 147,162 171,162 196,162 220,163 244,163 269,163 293,163 317,162 341,162 356,162"/>
+                <TextEquiv>
+                    <Unicode>FA CAI JIN NANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="296,235 309,240 316,234 330,236 339,227 370,234 383,224 412,225 415,177 396,175 375,180 355,199 346,199 335,187 328,190 320,181 298,180"/>
+                <Baseline points="301,226 317,228 341,226 366,228 390,222 414,222"/>
+                <TextEquiv>
+                    <Unicode>G65</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="77,258 216,266 236,250 296,258 319,274 348,252 376,267 409,266 408,225 384,224 362,244 343,227 311,238 279,229 253,243 223,216 187,225 171,211 132,232 100,218 76,225"/>
+                <Baseline points="81,251 105,249 129,249 153,249 178,251 202,251 226,249 251,252 275,254 299,254 324,252 348,252 372,256 397,259 411,260"/>
+                <TextEquiv>
+                    <Unicode>MA (Yun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="114,393 563,403 570,352 436,374 400,361 374,381 343,362 238,352 217,371 195,354 113,361"/>
+                <Baseline points="118,380 140,385 165,385 189,385 213,385 238,385 262,387 286,387 311,387 335,388 359,390 384,388 408,387 432,388 457,388 481,387 505,388 529,388 554,390 573,393"/>
+                <TextEquiv>
+                    <Unicode>Facai jinnang. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="113,433 169,434 183,424 224,437 258,434 258,405 245,405 237,397 222,400 207,393 199,398 183,397 170,407 151,397 113,394"/>
+                <Baseline points="118,419 142,422 166,424 191,422 215,424 239,422 260,421"/>
+                <TextEquiv>
+                    <Unicode>pp. 149.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="708,421 731,427 798,425 809,434 827,428 827,396 781,392 769,405 747,384 740,384 731,392 724,387 708,392"/>
+                <Baseline points="713,421 737,421 761,421 786,421 810,422 828,422"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="113,495 824,502 824,475 740,451 640,470 113,458"/>
+                <Baseline points="118,487 142,489 166,489 191,489 215,489 239,489 264,489 288,489 312,489 337,489 361,489 385,489 410,489 434,489 458,489 482,489 507,489 531,489 555,489 580,489 604,489 628,489 653,489 677,489 701,491 726,491 750,489 774,492 798,494 823,495 826,495"/>
+                <TextEquiv>
+                    <Unicode>Huanqiu tushu zazhi chubanshe: Hong Kong,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="111,528 128,530 141,538 166,538 175,529 207,530 206,504 198,504 185,496 171,501 163,497 148,499 144,495 137,500 125,497 117,503 110,503"/>
+                <Baseline points="116,523 140,523 165,523 189,525 209,523"/>
+                <TextEquiv>
+                    <Unicode>1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.462&#13;
+FA CAI JIN NANG&#13;
+G65&#13;
+MA (Yun)&#13;
+Facai jinnang. [A novel.]&#13;
+pp. 149.&#13;
+18 cm.&#13;
+Huanqiu tushu zazhi chubanshe: Hong Kong,&#13;
+1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

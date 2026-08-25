@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.557+01:00</Created>
+        <LastChange>2023-05-04T12:54:06.715+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758304" pageNr="148"/>
+    </Metadata>
+    <Page imageFilename="28780462530.jpg" imageWidth="976" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197646716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="71,83 69,571 756,571 758,83"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="543,120 652,109 752,114 763,108 763,82 749,77 711,77 705,83 543,77"/>
+                <Baseline points="548,105 574,106 600,107 626,108 653,108 679,107 705,107 731,106 758,105"/>
+                <TextEquiv>
+                    <Unicode>15012.m.21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531436004_959" custom="readingOrder {index:1;}">
+                <Coords points="97,178 675,170 675,147 644,133 585,147 97,147"/>
+                <Baseline points="102,170 670,170"/>
+                <TextEquiv>
+                    <Unicode>THE FAR EAST AND AUSTRALASIA 1969</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="66,257 570,250 570,218 66,221"/>
+                <Baseline points="71,247 97,246 123,246 149,245 175,245 201,245 227,245 253,245 279,244 305,244 331,244 357,244 383,244 409,244 435,244 461,244 487,244 513,244 539,243 565,243"/>
+                <TextEquiv>
+                    <Unicode>TIE FAR EAST AND AUSTRALASIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="104,353 707,354 707,323 677,317 104,324"/>
+                <Baseline points="109,347 138,347 168,346 197,346 227,346 257,346 286,346 316,346 346,346 375,346 405,346 435,346 464,346 494,346 524,345 553,345 583,345 613,345 642,345 672,344 702,344"/>
+                <TextEquiv>
+                    <Unicode>The Far East and Australasia 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="107,395 730,386 730,361 704,357 107,357"/>
+                <Baseline points="112,384 142,384 173,383 203,383 234,383 265,382 295,382 326,382 357,382 387,382 418,382 449,382 479,382 510,382 541,382 571,381 602,381 633,381 663,381 694,381 725,381"/>
+                <TextEquiv>
+                    <Unicode>(A new survey and directory of Asia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="110,427 372,425 405,434 405,391 382,401 339,389 325,398 110,403"/>
+                <Baseline points="115,420 140,420 166,419 192,418 218,418 244,417 270,417 296,417 322,418 348,419 374,419 400,421"/>
+                <TextEquiv>
+                    <Unicode>and the Pacific.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="109,474 163,463 248,466 262,451 288,464 357,466 356,434 343,429 263,429 249,442 229,428 108,437"/>
+                <Baseline points="113,457 139,456 165,455 192,455 218,454 245,454 271,453 298,452 324,452 351,453"/>
+                <TextEquiv>
+                    <Unicode>pp. xvi, 1252.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="111,533 689,532 688,505 640,493 526,507 507,493 110,495"/>
+                <Baseline points="116,522 144,522 172,522 201,522 229,522 258,522 286,522 314,522 343,522 371,522 400,521 428,521 456,521 485,521 513,521 542,521 570,520 598,521 627,521 655,521 684,521"/>
+                <TextEquiv>
+                    <Unicode>Europa Publications Ltd.: London,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="112,561 117,561 126,570 143,570 146,567 152,571 203,570 205,541 188,540 169,530 158,530 154,534 113,533"/>
+                <Baseline points="117,556 144,554 171,556 199,559"/>
+                <TextEquiv>
+                    <Unicode>1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15012.m.21&#13;
+THE FAR EAST AND AUSTRALASIA 1969&#13;
+TIE FAR EAST AND AUSTRALASIA&#13;
+The Far East and Australasia 1969.&#13;
+(A new survey and directory of Asia&#13;
+and the Pacific.)&#13;
+pp. xvi, 1252.&#13;
+Europa Publications Ltd.: London,&#13;
+1969.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

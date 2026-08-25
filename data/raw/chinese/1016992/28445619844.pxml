@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.543+01:00</Created>
+        <LastChange>2023-05-03T17:50:17.967+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758183" pageNr="42"/>
+    </Metadata>
+    <Page imageFilename="28445619844.jpg" imageWidth="980" imageHeight="811">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129017968" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="120,139 120,575 829,577 829,141"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="568,170 603,179 675,167 712,178 768,172 789,178 801,172 802,134 767,134 731,152 703,141 668,146 655,133 625,133 618,140 569,133"/>
+                <Baseline points="573,165 601,164 629,165 658,165 686,167 715,167 743,168 796,166"/>
+                <TextEquiv>
+                    <Unicode>15328.a.323</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="127,217 329,210 344,204 344,168 321,182 237,182 207,180 190,165 127,166"/>
+                <Baseline points="132,202 157,202 183,202 209,201 235,201 261,201 287,202 313,203 339,204"/>
+                <TextEquiv>
+                    <Unicode>FEI CUI CHUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657285510236_1008" custom="readingOrder {index:2;}">
+                <Coords points="136,254 402,259 401,309 135,304"/>
+                <Baseline points="135,299 401,304"/>
+                <TextEquiv>
+                    <Unicode>ZHUGE (Qingyun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="170,438 604,451 605,405 472,416 443,397 398,425 319,405 288,419 262,404 171,405"/>
+                <Baseline points="176,430 202,431 228,432 255,432 281,433 308,433 334,434 361,434 387,435 413,435 440,436 466,436 493,437 519,438 546,439 572,441 599,442"/>
+                <TextEquiv>
+                    <Unicode>Feicui chuan. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="171,474 201,473 206,478 232,482 241,475 256,473 281,482 296,469 302,469 302,460 294,460 277,445 262,446 249,440 231,445 213,442 207,447 193,442 188,445 172,442"/>
+                <Baseline points="176,466 206,466 236,466 266,468 297,471"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="615,481 623,481 631,489 638,490 663,471 680,490 687,491 703,489 714,481 730,477 731,459 715,458 709,452 618,442"/>
+                <Baseline points="622,465 647,469 673,471 699,472 725,475"/>
+                <TextEquiv>
+                    <Unicode>17 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="165,546 721,554 745,550 746,513 322,508 262,524 166,509"/>
+                <Baseline points="170,535 198,535 227,535 255,535 284,535 312,536 341,536 369,537 398,537 426,538 455,538 483,539 512,539 540,540 569,540 597,541 626,541 654,542 683,542 711,543 740,543"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.323&#13;
+FEI CUI CHUAN&#13;
+ZHUGE (Qingyun)&#13;
+Feicui chuan. [A novel.]&#13;
+2 vols.&#13;
+17 cm.&#13;
+Wulin chubanshe: Hong Kong, 1973.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

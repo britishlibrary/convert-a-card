@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.723+01:00</Created>
+        <LastChange>2023-05-04T13:02:47.884+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758315" pageNr="158" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780472450.jpg" imageWidth="956" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683198167885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="20,49 19,549 932,550 933,50"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="590,82 609,90 701,82 807,91 837,73 837,51 742,56 720,50 711,57 590,51"/>
+                <Baseline points="596,77 622,76 648,75 674,75 700,75 726,75 752,76 778,76 804,77 831,77"/>
+                <TextEquiv>
+                    <Unicode>15591.b.17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="23,173 863,171 938,161 938,115 23,119"/>
+                <Baseline points="28,146 73,145 118,145 163,144 208,144 254,143 299,143 344,143 389,142 434,142 480,142 525,142 570,142 615,142 660,142 706,143 751,143 796,143 841,144 886,145 932,146"/>
+                <TextEquiv>
+                    <Unicode>FACETS OF TAOISM: ESSAYS IN CHINESE RELIGION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="56,227 328,226 341,218 342,185 57,180"/>
+                <Baseline points="62,214 89,213 116,212 144,212 171,212 199,213 226,214 253,214 281,214 308,214 336,213"/>
+                <TextEquiv>
+                    <Unicode>FACETS OF TAOISM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="91,291 871,295 871,251 91,255"/>
+                <Baseline points="97,280 135,281 173,281 212,281 250,282 289,282 327,282 365,282 404,282 442,282 481,282 519,282 557,281 596,281 634,281 673,281 711,281 749,282 788,282 826,282 865,283"/>
+                <TextEquiv>
+                    <Unicode>Facets of Taoism: essays in Chinese religion /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="89,322 925,326 925,292 89,291"/>
+                <Baseline points="95,314 136,314 177,315 218,315 259,315 301,315 342,315 383,315 424,315 465,315 507,314 548,314 589,314 630,314 671,314 713,314 754,314 795,315 836,316 877,316 919,318"/>
+                <TextEquiv>
+                    <Unicode>edited by Holmes Welch, Anna Seidel. - New Haven;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="92,360 680,362 693,322 92,325"/>
+                <Baseline points="97,350 126,350 156,350 185,350 215,350 244,349 274,349 303,349 333,349 362,349 392,349 422,349 451,349 481,349 510,349 540,349 569,349 599,350 628,350 658,350 688,351"/>
+                <TextEquiv>
+                    <Unicode>London: Yale University Press, 1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="92,395 147,389 160,396 319,395 345,385 345,374 319,373 310,364 280,364 272,373 254,357 192,370 150,367 140,357 92,360"/>
+                <Baseline points="97,384 123,385 150,385 177,385 204,384 231,384 258,383 285,383 312,383 339,384"/>
+                <TextEquiv>
+                    <Unicode>301 p.; 24 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="97,458 341,458 341,424 97,426"/>
+                <Baseline points="103,452 128,451 154,451 180,452 206,452 231,452 257,452 283,452 309,452 335,451"/>
+                <TextEquiv>
+                    <Unicode>Includes index</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="90,537 163,527 204,527 216,537 269,521 285,533 347,537 412,521 412,492 400,487 376,499 287,492 274,502 259,492 90,492"/>
+                <Baseline points="95,521 120,520 146,520 172,520 198,520 224,520 250,520 276,520 302,520 328,520 354,520 380,520 406,520"/>
+                <TextEquiv>
+                    <Unicode>ISBN 0-300-01695-6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15591.b.17&#13;
+FACETS OF TAOISM: ESSAYS IN CHINESE RELIGION&#13;
+FACETS OF TAOISM&#13;
+Facets of Taoism: essays in Chinese religion /&#13;
+edited by Holmes Welch, Anna Seidel. - New Haven;&#13;
+London: Yale University Press, 1979&#13;
+301 p.; 24 cm.&#13;
+Includes index&#13;
+ISBN 0-300-01695-6</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

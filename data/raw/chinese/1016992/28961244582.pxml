@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.363+01:00</Created>
+        <LastChange>2023-06-29T13:29:59.170+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758437" pageNr="262"/>
+    </Metadata>
+    <Page imageFilename="28961244582.jpg" imageWidth="1012" imageHeight="800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038199170" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="119,82 118,661 978,661 979,82"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="646,116 677,123 783,116 848,133 914,120 914,92 868,77 802,85 794,93 781,84 756,93 730,77 714,85 646,78"/>
+                <Baseline points="651,110 676,110 702,111 728,111 754,112 780,112 805,112 831,113 857,113 883,112 909,111"/>
+                <TextEquiv>
+                    <Unicode>15352.a.4/18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="114,169 162,173 173,162 225,159 239,169 334,161 353,147 353,90 179,93 166,106 140,106 114,93"/>
+                <Baseline points="119,153 144,152 169,151 195,151 220,151 246,151 271,151 297,151 322,151 348,150"/>
+                <TextEquiv>
+                    <Unicode>FA YUAN ZHU LIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036375414_657" custom="readingOrder {index:2;}">
+                <Coords points="125,203 236,203 236,253 125,253"/>
+                <Baseline points="125,248 236,248"/>
+                <TextEquiv>
+                    <Unicode>DAOSHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="166,354 958,360 934,320 166,317"/>
+                <Baseline points="171,344 210,344 249,345 288,345 327,345 366,345 405,346 444,346 483,346 522,347 562,347 601,348 640,348 679,348 718,349 757,349 796,349 835,350 874,350 913,350 953,350"/>
+                <TextEquiv>
+                    <Unicode>An index to stories of the supernatural in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="164,386 974,390 974,367 884,355 164,353"/>
+                <Baseline points="169,375 209,377 249,378 289,379 329,380 369,380 409,381 449,381 489,382 529,382 569,382 609,382 649,382 689,383 729,383 769,383 809,384 849,385 889,386 929,387 969,389"/>
+                <TextEquiv>
+                    <Unicode>Fa yüan chu lin. [Compiled by] Jordan D. Paper.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="164,426 345,427 376,408 393,426 495,433 495,394 437,400 413,386 357,402 343,389 309,388 280,404 240,389 222,405 199,389 165,390"/>
+                <Baseline points="169,411 195,413 222,414 249,415 276,415 302,415 329,415 356,415 383,415 409,415 436,415 463,416 490,417"/>
+                <TextEquiv>
+                    <Unicode>pp. ix, 29. 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="160,490 856,504 912,491 913,468 161,454"/>
+                <Baseline points="166,483 203,483 240,483 277,483 314,484 351,484 388,484 425,484 462,485 499,485 536,486 573,486 610,487 647,487 684,488 721,488 758,488 795,488 832,489 869,489 907,489"/>
+                <TextEquiv>
+                    <Unicode>Chinese Materials and Research Aids Service</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="167,522 300,519 382,533 443,524 528,538 528,497 504,491 445,493 428,510 397,493 168,492"/>
+                <Baseline points="172,516 197,516 222,516 247,516 272,516 297,516 322,517 347,517 372,518 397,518 422,519 447,519 472,520 497,520 523,521"/>
+                <TextEquiv>
+                    <Unicode>Center: Taipei, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="160,592 889,603 910,573 161,559"/>
+                <Baseline points="165,585 203,585 242,585 281,585 320,585 359,585 398,586 437,586 476,586 515,587 553,587 592,588 631,588 670,589 709,589 748,590 787,590 826,591 865,591 904,591"/>
+                <TextEquiv>
+                    <Unicode>Chinese Materials and Research Aids Service</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="162,629 752,635 731,595 608,612 559,596 291,610 163,597"/>
+                <Baseline points="167,620 196,620 225,621 254,621 283,621 312,621 341,622 370,622 399,622 428,623 457,623 486,623 515,623 544,624 573,624 602,624 631,625 660,625 689,625 718,625 747,625"/>
+                <TextEquiv>
+                    <Unicode>Center Occasional Series, no. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15352.a.4/18&#13;
+FA YUAN ZHU LIN&#13;
+DAOSHI&#13;
+An index to stories of the supernatural in the&#13;
+Fa yüan chu lin. [Compiled by] Jordan D. Paper.&#13;
+pp. ix, 29. 21 cm.&#13;
+Chinese Materials and Research Aids Service&#13;
+Center: Taipei, 1973.&#13;
+Chinese Materials and Research Aids Service&#13;
+Center Occasional Series, no. 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

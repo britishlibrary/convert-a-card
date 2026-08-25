@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.783+01:00</Created>
+        <LastChange>2023-07-03T17:21:43.956+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758539" pageNr="350" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=KRWDYYHXXRGUYPCAHDTWBABZ&amp;fileType=view" imageId="35195845"/>
+    </Metadata>
+    <Page imageFilename="42758539.jpg" imageWidth="952" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397703957" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="84,10 938,9 938,711 84,712"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="658,74 760,74 766,68 809,74 822,66 832,75 868,74 868,43 854,43 841,32 820,50 805,50 783,33 764,53 742,35 691,36 678,45 658,32"/>
+                <Baseline points="663,60 686,65 710,66 734,66 758,66 782,66 805,66 829,66 853,66 870,68"/>
+                <TextEquiv>
+                    <Unicode>15625.b.5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="100,153 794,147 793,93 752,122 671,93 611,122 571,98 539,121 509,92 469,121 430,92 346,92 312,119 274,97 253,119 208,91 173,119 100,98"/>
+                <Baseline points="106,139 130,141 153,139 177,139 201,141 225,139 249,139 272,139 296,139 320,139 344,141 368,141 391,141 415,141 439,141 463,141 486,142 510,141 534,141 558,142 582,142 605,142 629,142 653,142 677,142 701,142 724,142 748,142 772,142 796,142 797,142"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ (FU YIN BAO KAN ZI LIAO D41)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="78,231 182,213 671,211 662,155 553,180 179,185 163,170 80,187"/>
+                <Baseline points="84,215 103,214 126,214 150,214 174,214 198,212 222,212 245,210 269,209 293,209 317,207 341,209 364,207 388,207 412,206 436,206 460,206 483,206 507,206 531,204 555,204 578,203 602,203 626,201 650,201 674,199"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ (FU YIN BAO KAN ZI LIAO D41)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="109,284 623,267 694,282 704,231 518,239 487,260 432,237 110,245"/>
+                <Baseline points="115,279 134,280 158,280 182,280 206,279 230,279 253,277 277,277 301,276 325,276 348,276 372,274 396,274 420,272 444,272 467,271 491,271 515,271 539,271 563,269 586,269 610,268 634,268 658,268 682,266 705,266"/>
+                <TextEquiv>
+                    <Unicode>Fa lü (fu yin bao kan zi liao D41)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="107,450 897,433 898,368 108,393"/>
+                <Baseline points="114,429 138,431 161,429 185,431 209,429 233,431 256,433 280,433 304,434 328,434 352,434 375,433 399,433 423,431 447,428 471,428 494,426 518,426 542,426 566,428 590,431 613,433 637,428 661,425 685,423 709,421 732,418 756,420 780,417 804,417 828,415 851,415 875,415 899,418"/>
+                <TextEquiv>
+                    <Unicode>198[]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="124,548 136,554 192,553 200,562 225,562 241,546 254,547 256,514 125,516"/>
+                <Baseline points="130,545 139,545 163,547 187,547 210,545 234,544 258,540"/>
+                <TextEquiv>
+                    <Unicode>1982.1-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.b.5&#13;
+FA LÜ (FU YIN BAO KAN ZI LIAO D41)&#13;
+FA LÜ (FU YIN BAO KAN ZI LIAO D41)&#13;
+Fa lü (fu yin bao kan zi liao D41)&#13;
+198[]&#13;
+1982.1-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

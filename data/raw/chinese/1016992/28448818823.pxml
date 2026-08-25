@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.127+01:00</Created>
+        <LastChange>2023-05-04T12:51:45.308+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758276" pageNr="124"/>
+    </Metadata>
+    <Page imageFilename="28448818823.jpg" imageWidth="1004" imageHeight="826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197505308" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="72,61 77,514 899,515 894,62"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="611,103 840,106 840,79 822,69 791,69 776,83 735,77 727,85 702,69 667,63 611,71"/>
+                <Baseline points="616,91 643,95 670,97 698,98 725,98 752,97 780,96 807,96 835,97"/>
+                <TextEquiv>
+                    <Unicode>15675.g.12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="122,154 156,153 178,162 186,154 375,152 375,116 122,109"/>
+                <Baseline points="127,146 154,145 181,144 208,144 235,144 262,145 289,145 316,145 343,145 370,144"/>
+                <TextEquiv>
+                    <Unicode>FA MU REN ZHUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195789581_857" custom="readingOrder {index:2;}">
+                <Coords points="82,195 270,194 270,244 82,245"/>
+                <Baseline points="82,240 270,239"/>
+                <TextEquiv>
+                    <Unicode>Qu (Xingqi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="137,370 893,384 893,334 137,341"/>
+                <Baseline points="142,362 179,363 216,364 253,364 291,365 328,365 365,365 403,366 440,366 477,366 515,365 552,365 589,366 626,366 664,366 701,366 738,367 776,368 813,369 850,370 888,372"/>
+                <TextEquiv>
+                    <Unicode>Famu ren zhuan. [Novel about lumberjacking.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="132,411 165,404 176,411 256,410 267,399 284,399 295,410 332,403 398,410 399,388 326,373 253,387 215,373 180,382 133,375"/>
+                <Baseline points="137,398 162,400 188,401 213,401 239,401 265,400 290,400 316,399 341,400 367,401 393,403"/>
+                <TextEquiv>
+                    <Unicode>2 vols. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="137,479 749,491 802,476 769,437 698,458 138,437"/>
+                <Baseline points="143,467 175,468 208,468 241,468 273,468 306,469 339,469 371,469 404,469 437,469 470,470 502,470 535,470 568,470 600,471 633,471 666,471 698,471 731,472 764,472 797,473"/>
+                <TextEquiv>
+                    <Unicode>Renmin wenxue chubanshe: Peking, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.12&#13;
+FA MU REN ZHUAN&#13;
+Qu (Xingqi)&#13;
+Famu ren zhuan. [Novel about lumberjacking.]&#13;
+2 vols. 19 cm.&#13;
+Renmin wenxue chubanshe: Peking, 1976.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

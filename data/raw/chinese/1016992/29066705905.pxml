@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.137+01:00</Created>
+        <LastChange>2023-08-16T15:08:07.592+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758566" pageNr="374" tsid="128197499" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=SFDYRWBUODDCDSKTQZKBYVYW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJVDNAVUGNQJQOTWREBQXGTP" imageId="35195872"/>
+    </Metadata>
+    <Page imageFilename="42758566.jpg" imageWidth="988" imageHeight="824">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191287592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="59,73 916,73 916,787 59,787"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="580,128 663,138 698,125 755,125 789,138 818,129 863,138 882,130 882,109 828,88 770,91 748,113 735,100 696,113 669,87 579,87"/>
+                <Baseline points="585,125 609,125 634,125 659,123 683,123 708,125 733,123 758,125 782,125 807,125 832,125 856,126 881,126 884,128"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/874</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="79,211 176,203 193,218 262,209 399,228 398,186 341,176 78,173"/>
+                <Baseline points="84,204 108,204 133,204 158,204 182,206 207,206 232,206 257,207 281,209 306,209 331,210 355,214 380,219 400,220"/>
+                <TextEquiv>
+                    <Unicode>FEI YU GUAN WEN CUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="497,256 502,256 511,266 524,266 532,273 558,274 572,262 575,266 586,266 587,236 581,236 569,222 559,223 555,219 537,219 508,240 497,234"/>
+                <Baseline points="502,260 515,260 540,260 565,258 589,258"/>
+                <TextEquiv>
+                    <Unicode>L1]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="54,262 136,266 146,259 163,274 198,265 270,266 288,274 303,264 303,233 284,226 209,232 167,225 153,237 115,237 83,225 54,239"/>
+                <Baseline points="59,260 84,260 108,258 133,258 158,258 182,258 207,260 232,260 257,260 281,260 304,262"/>
+                <TextEquiv>
+                    <Unicode>XIAO (Yishan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="352,289 357,288 369,298 376,298 384,288 389,291 401,288 392,228 343,228"/>
+                <Baseline points="354,273 379,276 402,280"/>
+                <TextEquiv>
+                    <Unicode>583</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="159,338 188,335 207,346 224,343 235,334 244,338 252,330 274,340 285,335 298,338 299,301 288,300 274,287 261,286 248,299 226,302 217,292 199,292 189,302 178,298 159,311"/>
+                <Baseline points="164,332 189,334 214,334 238,331 263,329 288,332 299,334"/>
+                <TextEquiv>
+                    <Unicode>157667</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="174,358 192,370 215,368 226,356 244,359 255,370 276,370 290,358 304,365 323,362 322,338 273,339 255,329 237,347 211,344 203,349 173,340"/>
+                <Baseline points="179,349 201,357 225,355 250,359 275,357 299,357 324,359"/>
+                <TextEquiv>
+                    <Unicode>J 0 b</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="342,370 352,370 364,358 369,362 382,362 389,356 403,355 401,317 392,318 358,289 339,290"/>
+                <Baseline points="346,354 370,352 395,355 405,355"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="95,401 839,399 829,360 794,379 458,363 432,389 95,371"/>
+                <Baseline points="100,397 125,397 149,398 174,398 199,400 224,398 248,398 273,397 298,397 323,397 347,398 372,398 397,398 421,398 446,398 471,397 496,398 520,397 545,397 570,397 594,395 619,395 644,395 669,395 693,395 718,395 743,397 767,397 792,397 817,395 840,397"/>
+                <TextEquiv>
+                    <Unicode>Feiyu guan wencun. [Collected writings of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="98,440 889,434 889,402 616,402 589,424 98,403"/>
+                <Baseline points="103,430 128,431 153,430 177,431 202,431 227,431 252,431 276,431 301,431 326,431 351,431 375,431 400,430 425,430 449,431 474,431 499,431 524,431 548,431 573,431 598,431 622,430 647,431 672,430 697,430 721,431 746,430 771,431 795,430 820,430 845,430 870,430 891,430"/>
+                <TextEquiv>
+                    <Unicode>the historian, Xiao Yishan. Author's preface</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="97,475 230,482 323,469 417,482 483,471 516,482 516,460 478,436 337,441 313,461 268,438 97,448"/>
+                <Baseline points="102,466 126,466 151,466 176,466 201,468 225,469 250,468 275,468 299,468 324,468 349,468 374,466 398,466 423,466 448,466 472,468 497,469 517,471"/>
+                <TextEquiv>
+                    <Unicode>dated 1942. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="753,505 796,506 811,501 832,507 869,506 869,484 864,484 853,473 801,472 792,463 780,472 772,467 766,472 753,472"/>
+                <Baseline points="758,500 782,500 807,500 832,500 856,502 871,502"/>
+                <TextEquiv>
+                    <Unicode>20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="95,512 116,514 131,503 168,507 175,514 195,506 209,514 225,513 225,491 206,481 196,484 182,476 144,477 131,489 118,476 95,480"/>
+                <Baseline points="100,505 125,502 149,502 174,502 199,502 224,505 227,505"/>
+                <TextEquiv>
+                    <Unicode>3 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="97,577 408,570 528,586 639,577 647,552 96,538"/>
+                <Baseline points="102,568 126,568 151,570 176,570 201,570 225,570 250,570 275,570 299,570 324,570 349,570 374,570 398,570 423,568 448,570 472,570 497,570 522,570 547,570 571,570 596,571 621,571 646,573 649,575"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="93,643 749,648 749,617 691,601 664,623 607,607 93,617"/>
+                <Baseline points="98,641 123,639 148,639 173,639 197,639 222,639 247,639 271,639 296,641 321,641 346,639 370,639 395,639 420,639 444,639 469,637 494,637 519,637 543,637 568,639 593,639 618,639 642,639 667,639 692,639 716,641 741,641 751,642"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan, 874.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="723,777 860,775 871,786 895,779 914,786 913,735 901,744 882,737 855,753 805,744 797,752 790,745 780,752 767,740 723,750"/>
+                <Baseline points="728,772 753,774 777,774 802,774 827,774 852,776 876,776 901,777 916,776"/>
+                <TextEquiv>
+                    <Unicode>Chinese (P)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.465+01:00</Created>
+        <LastChange>2023-07-03T16:50:07.139+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758514" pageNr="328" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TPGJJMDILPPQLXALPENCYWOC&amp;fileType=view" imageId="35195820"/>
+    </Metadata>
+    <Page imageFilename="42758514.jpg" imageWidth="968" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395807139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="58,0 934,0 934,763 58,763"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="705,41 745,41 757,50 766,41 813,42 825,32 855,42 876,31 889,42 919,43 920,8 892,5 870,19 844,4 826,18 781,2 706,5"/>
+                <Baseline points="710,37 727,37 752,33 776,35 800,35 824,33 848,33 873,32 897,32 921,33"/>
+                <TextEquiv>
+                    <Unicode>15640.f.46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="66,129 133,131 153,121 160,128 185,130 201,122 232,122 233,85 177,89 170,96 159,85 79,93 67,88"/>
+                <Baseline points="71,121 90,119 114,117 138,119 162,117 187,117 211,117 235,117"/>
+                <TextEquiv>
+                    <Unicode>DING LING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="86,209 382,194 384,145 87,165"/>
+                <Baseline points="91,193 95,192 119,188 143,187 167,185 192,183 216,180 240,182 264,182 288,182 313,182 337,183 361,182 385,183"/>
+                <TextEquiv>
+                    <Unicode>Fang Mei san jin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="79,251 98,252 116,261 138,251 151,260 204,250 204,232 195,232 190,225 143,229 136,235 129,229 113,228 80,235"/>
+                <Baseline points="85,250 109,251 133,251 158,250 182,248 206,246"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="222,306 242,300 257,305 274,304 283,296 301,301 338,299 338,275 316,273 290,279 262,250 246,247 238,253 224,248"/>
+                <Baseline points="228,290 253,300 277,296 301,293 325,293 340,293"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="77,330 459,322 459,303 413,292 296,307 284,297 218,309 77,303"/>
+                <Baseline points="82,322 98,321 122,322 146,322 171,321 195,321 219,321 243,319 267,319 292,319 316,319 340,321 364,321 388,319 413,319 437,319 461,321"/>
+                <TextEquiv>
+                    <Unicode>164 p. : ill. (some col.) ; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="72,374 91,378 157,378 157,345 138,345 133,350 123,345 118,350 114,347 105,350 90,339 72,339"/>
+                <Baseline points="77,369 101,369 125,369 150,369 159,369"/>
+                <TextEquiv>
+                    <Unicode>Essays.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="182,438 877,441 932,433 931,406 285,399 181,418"/>
+                <Baseline points="187,430 211,430 235,430 259,427 284,427 308,429 332,429 356,429 380,427 405,427 429,430 453,429 477,429 501,429 526,429 550,430 574,429 598,429 622,429 647,429 671,429 695,429 719,429 743,429 768,429 792,429 816,429 840,429 865,429 889,429 913,429 934,432"/>
+                <TextEquiv>
+                    <Unicode>1. 1904- --Journeys--United States. 2. United States--Description and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="53,461 667,458 636,433 53,435"/>
+                <Baseline points="58,456 62,456 87,455 111,455 135,453 159,453 183,453 208,455 232,455 256,455 280,455 305,455 329,456 353,455 377,455 401,455 426,453 450,453 474,455 498,453 522,455 547,453 571,453 595,453 619,453 643,453 668,455"/>
+                <TextEquiv>
+                    <Unicode>travel--1981- 3. Authors, Chinese--Biography. 1. Title.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="77,514 93,519 121,514 136,522 197,513 205,519 225,516 233,524 252,518 252,489 77,491"/>
+                <Baseline points="82,513 85,514 109,513 133,513 158,511 182,511 206,511 230,511 254,511"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB086-B946</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:10;}">
+                <Coords points="425,520 780,521 780,484 720,484 700,504 604,484 581,504 554,505 508,476 470,494 425,484"/>
+                <Baseline points="430,513 455,513 479,513 503,511 527,514 551,514 576,513 600,513 624,513 648,511 672,513 697,513 721,513 745,513 769,513 782,513"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114 DCF:a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="80,546 136,546 144,538 152,546 270,546 270,518 255,511 234,523 226,516 198,514 153,518 144,526 122,516 80,517"/>
+                <Baseline points="85,535 109,537 133,537 158,537 182,535 206,535 230,535 254,535 272,535"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15640.f.46.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15640.f.46&#13;
+DING LING&#13;
+Fang Mei san jin&#13;
+1984&#13;
+1984&#13;
+164 p. : ill. (some col.) ; 19 cm.&#13;
+Essays.&#13;
+1. 1904- --Journeys--United States. 2. United States--Description and&#13;
+travel--1981- 3. Authors, Chinese--Biography. 1. Title.&#13;
+ID: UKB086-B946&#13;
+CC: 9114 DCF:a [CJK]&#13;
+CALL: 15640.f.46.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

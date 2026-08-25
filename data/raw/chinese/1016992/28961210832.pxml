@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.923+01:00</Created>
+        <LastChange>2023-05-04T13:57:16.751+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758332" pageNr="172" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961210832.jpg" imageWidth="968" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201436751" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="43,11 50,582 814,584 807,13"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="491,58 703,58 710,51 758,58 782,49 782,18 666,30 641,21 560,21 551,30 491,21"/>
+                <Baseline points="496,45 521,46 547,47 572,47 598,47 623,47 649,47 674,47 700,46 725,46 751,46 777,47"/>
+                <TextEquiv>
+                    <Unicode>CHI.1990.a.823</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="57,185 87,186 100,175 113,186 276,186 277,145 209,145 195,158 160,157 144,148 57,149"/>
+                <Baseline points="62,176 88,177 114,177 140,177 166,177 192,177 218,177 244,177 271,178"/>
+                <TextEquiv>
+                    <Unicode>XU (Zhonglin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="75,240 387,240 399,233 400,196 214,203 76,196"/>
+                <Baseline points="80,227 106,226 132,225 158,224 184,224 210,224 237,225 263,225 289,226 315,228 341,228 367,230 394,232"/>
+                <TextEquiv>
+                    <Unicode>Feng shen yan yi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201432048_2128" custom="readingOrder {index:3;}">
+                <Coords points="692,370 800,371 800,421 692,420"/>
+                <Baseline points="692,415 800,416"/>
+                <TextEquiv>
+                    <Unicode>1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="91,498 109,498 121,492 127,498 160,499 166,493 171,493 171,474 147,473 144,469 92,469"/>
+                <Baseline points="96,491 131,491 166,492"/>
+                <TextEquiv>
+                    <Unicode>2 v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="88,562 225,562 233,558 233,534 156,532 147,539 125,539 119,533 87,533"/>
+                <Baseline points="92,556 119,555 146,556 173,555 200,555 228,554"/>
+                <TextEquiv>
+                    <Unicode>s1. LF04</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1990.a.823&#13;
+XU (Zhonglin)&#13;
+Feng shen yan yi&#13;
+1989&#13;
+2 v.&#13;
+s1. LF04</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

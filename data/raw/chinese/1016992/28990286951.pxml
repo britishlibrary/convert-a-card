@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.770+01:00</Created>
+        <LastChange>2023-07-03T17:20:51.738+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758538" pageNr="349" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=PYDCICHCYHOKKHSWQDEMQXFG&amp;fileType=view" imageId="35195844"/>
+    </Metadata>
+    <Page imageFilename="42758538.jpg" imageWidth="952" imageHeight="768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397651739" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="33,29 852,29 852,709 33,709"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="564,83 655,90 686,80 711,96 735,83 752,91 803,89 802,53 771,43 725,62 701,49 677,66 651,40 563,49"/>
+                <Baseline points="569,80 593,80 617,79 641,80 664,80 688,80 712,80 736,82 760,82 783,84 804,85"/>
+                <TextEquiv>
+                    <Unicode>15625.a.24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="28,173 61,180 84,162 129,160 377,162 377,137 349,117 218,119 205,130 107,82 82,99 65,90 28,105"/>
+                <Baseline points="33,153 57,155 80,155 104,153 128,153 152,153 176,153 199,155 223,155 247,155 271,155 295,155 318,157 342,155 366,155 379,157"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ ZHI SHI WEN DA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="30,249 96,253 158,217 299,226 298,176 241,198 222,187 183,197 133,178 120,188 100,180 72,187 28,172"/>
+                <Baseline points="34,212 58,212 82,212 106,212 130,214 153,212 177,214 201,214 225,214 249,215 272,217 296,220 301,220"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Chunlong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="126,286 185,283 219,296 235,285 268,296 301,285 495,288 495,262 476,256 294,261 262,248 246,260 223,238 189,257 150,244 126,256"/>
+                <Baseline points="131,279 155,280 179,280 203,282 226,284 250,284 274,284 298,284 322,284 345,284 369,284 393,284 417,285 441,285 464,285 488,285 496,285"/>
+                <TextEquiv>
+                    <Unicode>Fa lü zhi shi wen da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="124,419 180,426 220,405 246,418 498,429 548,417 547,386 400,378 383,362 303,371 277,353 223,380 181,362 122,370"/>
+                <Baseline points="128,398 144,401 168,401 192,403 215,403 239,406 263,406 287,409 311,410 334,409 358,409 382,409 406,410 430,410 453,412 477,412 501,412 525,410 550,411"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="134,471 164,465 181,474 221,459 334,473 346,464 366,478 391,458 454,465 454,443 355,420 334,438 301,438 283,423 262,436 228,413 191,434 134,426"/>
+                <Baseline points="139,455 163,455 187,455 211,456 234,458 258,458 282,460 306,460 330,460 353,458 377,458 401,458 425,458 449,458 456,460"/>
+                <TextEquiv>
+                    <Unicode>15, 234 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.24&#13;
+FA LÜ ZHI SHI WEN DA&#13;
+CHEN (Chunlong)&#13;
+Fa lü zhi shi wen da&#13;
+1979&#13;
+15, 234 p.; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.909+01:00</Created>
+        <LastChange>2023-05-04T13:56:34.638+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758330" pageNr="171"/>
+    </Metadata>
+    <Page imageFilename="28961210812.jpg" imageWidth="976" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201394639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="70,72 68,602 903,601 905,71"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="593,103 617,114 648,106 656,115 687,115 706,104 775,114 866,111 867,79 828,68 777,74 765,86 722,76 594,75"/>
+                <Baseline points="599,96 625,98 651,99 677,100 703,101 730,102 756,102 782,103 808,103 834,104 861,104"/>
+                <TextEquiv>
+                    <Unicode>15295.c.24/5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="77,169 131,170 152,187 174,170 210,170 222,162 295,170 314,156 315,121 276,121 264,132 237,135 175,133 160,117 78,121"/>
+                <Baseline points="82,154 107,155 132,155 157,155 182,156 208,156 233,156 258,156 283,155 309,155"/>
+                <TextEquiv>
+                    <Unicode>FENG QING SONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="78,234 313,234 313,199 303,197 239,197 232,204 224,197 78,197"/>
+                <Baseline points="83,222 108,223 133,224 158,224 183,225 208,225 233,225 258,225 283,225 308,224"/>
+                <TextEquiv>
+                    <Unicode>FENG QING SONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="114,338 813,346 834,315 115,301"/>
+                <Baseline points="119,323 154,323 189,324 225,324 260,325 296,326 331,326 367,327 402,327 438,328 473,328 508,329 544,329 579,329 615,330 650,331 686,331 721,331 757,332 792,332 828,333"/>
+                <TextEquiv>
+                    <Unicode>Fengqing song. [A collection of articles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="121,370 905,378 871,345 122,340"/>
+                <Baseline points="109,359 164,359 203,359 242,360 280,360 319,361 358,362 396,362 435,363 474,364 513,365 551,365 590,366 629,367 667,368 706,369 745,369 783,370 822,371 861,371 900,372"/>
+                <TextEquiv>
+                    <Unicode>written by workers on the construction of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="122,402 180,410 213,398 271,410 300,401 367,414 425,405 479,416 480,373 455,385 396,372 353,381 226,372 213,384 198,373 122,373"/>
+                <Baseline points="127,393 153,393 180,394 207,394 234,395 260,395 287,396 314,397 341,398 367,398 394,399 421,399 448,399 483,397"/>
+                <TextEquiv>
+                    <Unicode>cargo ship Fengqing.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="117,443 342,443 378,423 400,442 504,440 504,424 478,413 436,420 415,405 348,415 255,404 243,416 199,402 177,416 118,410"/>
+                <Baseline points="122,424 147,427 172,430 197,431 222,432 247,432 272,432 297,432 323,431 348,431 373,431 398,431 423,431 448,432 473,434 499,436"/>
+                <TextEquiv>
+                    <Unicode>pp. 86; illus. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="115,508 687,515 687,490 663,477 574,493 556,477 115,469"/>
+                <Baseline points="120,496 148,497 176,497 204,498 232,499 260,499 288,499 316,500 344,500 372,501 401,501 429,502 457,502 485,503 513,503 541,504 569,504 597,505 625,506 653,506 682,507"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Shanghai, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="109,579 623,587 639,585 640,557 110,541"/>
+                <Baseline points="115,566 142,567 169,567 196,568 224,568 251,569 278,569 306,570 333,570 360,570 388,570 415,571 442,571 470,572 497,572 524,573 552,574 579,574 606,575 634,576"/>
+                <TextEquiv>
+                    <Unicode>Zuguo jianshe xin mao congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15295.c.24/5&#13;
+FENG QING SONG&#13;
+FENG QING SONG&#13;
+Fengqing song. [A collection of articles&#13;
+written by workers on the construction of the&#13;
+cargo ship Fengqing.]&#13;
+pp. 86; illus. 19 cm.&#13;
+Renmin chubanshe: Shanghai, 1974.&#13;
+Zuguo jianshe xin mao congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

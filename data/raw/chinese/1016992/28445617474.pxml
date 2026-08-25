@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.294+01:00</Created>
+        <LastChange>2023-05-03T17:44:32.643+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758170" pageNr="30"/>
+    </Metadata>
+    <Page imageFilename="28445617474.jpg" imageWidth="952" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128672643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="20,13 14,659 893,660 899,14"/>
+            <TextLine id="line_1654529869799_220" custom="readingOrder {index:0;}">
+                <Coords points="532,63 853,67 874,58 875,30 759,35 567,23 533,32"/>
+                <Baseline points="537,61 869,67"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.1349</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="77,186 125,182 136,194 147,194 161,185 184,185 208,194 241,185 293,194 294,139 248,152 77,148"/>
+                <Baseline points="82,178 107,179 133,180 159,180 185,180 211,180 237,181 263,182 289,183"/>
+                <TextEquiv>
+                    <Unicode>YE (Yonglie)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="99,260 643,262 653,227 100,224"/>
+                <Baseline points="104,245 131,246 158,247 185,248 212,249 239,250 266,250 294,251 321,251 348,251 375,251 402,252 429,252 456,252 484,252 511,252 538,252 565,252 592,252 619,252 647,252"/>
+                <TextEquiv>
+                    <Unicode>Fei xiang Ming wang xing de ren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128666094_507" custom="readingOrder {index:3;}">
+                <Coords points="136,457 229,457 229,507 136,507"/>
+                <Baseline points="136,502 229,502"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="109,558 157,562 174,570 234,560 324,562 324,535 304,535 294,525 250,529 238,540 229,534 174,533 165,525 109,524"/>
+                <Baseline points="114,553 139,554 165,555 190,555 216,556 242,557 267,557 293,557 319,557"/>
+                <TextEquiv>
+                    <Unicode>162 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="104,642 881,649 881,623 831,613 105,604"/>
+                <Baseline points="109,628 147,629 185,630 224,631 262,632 300,633 339,633 377,634 415,634 454,635 492,635 530,636 569,636 607,636 645,637 684,638 722,638 760,639 799,640 837,641 876,642"/>
+                <TextEquiv>
+                    <Unicode>With author's inscription to Brian W. Aldiss.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.1349&#13;
+YE (Yonglie)&#13;
+Fei xiang Ming wang xing de ren&#13;
+1979&#13;
+162 p.: ill.&#13;
+With author's inscription to Brian W. Aldiss.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

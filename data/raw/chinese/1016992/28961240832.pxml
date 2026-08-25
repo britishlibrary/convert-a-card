@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.188+01:00</Created>
+        <LastChange>2023-06-29T13:28:50.358+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758424" pageNr="251"/>
+    </Metadata>
+    <Page imageFilename="28961240832.jpg" imageWidth="980" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038130358" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="89,88 89,710 933,710 933,88"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="638,128 697,125 708,117 713,123 810,123 823,129 849,119 849,94 831,94 825,87 786,97 774,85 728,95 715,85 638,84"/>
+                <Baseline points="643,117 668,115 693,114 718,114 743,115 768,115 793,116 818,116 844,115"/>
+                <TextEquiv>
+                    <Unicode>15671.f.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="106,162 132,163 167,200 210,166 606,170 607,127 422,124 382,138 340,116 321,135 197,132 176,111 108,109"/>
+                <Baseline points="112,152 137,153 163,154 189,155 214,155 240,157 266,158 291,158 317,159 343,160 368,161 394,162 420,163 445,164 471,164 497,165 522,166 548,166 574,167 600,168"/>
+                <TextEquiv>
+                    <Unicode>FAN MIAN JIAO CAI "SHUI HU"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688029402515_22" custom="readingOrder {index:2;}">
+                <Coords points="98,207 675,211 675,261 98,257"/>
+                <Baseline points="98,252 675,256"/>
+                <TextEquiv>
+                    <Unicode>PEKING. Beijing daxue. Zhongwen xi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="119,355 934,360 934,332 856,325 119,324"/>
+                <Baseline points="124,348 164,347 204,347 244,347 285,347 325,347 365,347 405,348 446,348 486,348 526,349 566,349 607,349 647,350 687,350 727,350 768,350 808,350 848,350 888,350 929,350"/>
+                <TextEquiv>
+                    <Unicode>Fanmian jiaocai "Shui hu". [The Water Margin as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="138,396 918,385 909,365 797,357 138,363"/>
+                <Baseline points="126,382 181,383 220,382 258,383 297,383 335,383 374,383 412,383 451,383 489,383 528,383 566,383 605,384 643,384 682,384 720,384 759,384 797,384 836,384 874,383 913,383"/>
+                <TextEquiv>
+                    <Unicode>'negative teaching material'- part of the cam-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="125,434 566,421 668,434 676,392 125,396"/>
+                <Baseline points="130,418 157,418 184,418 211,419 238,419 265,419 292,419 319,418 346,418 373,418 400,418 427,418 454,418 481,418 508,419 535,419 562,420 589,420 616,421 643,423 670,424"/>
+                <TextEquiv>
+                    <Unicode>paign against the book in 1975.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="127,467 177,464 186,455 201,466 223,465 228,460 238,460 244,466 272,463 271,440 254,437 246,429 192,430 181,442 163,436 126,437"/>
+                <Baseline points="132,458 158,455 185,454 212,454 239,454 266,454"/>
+                <TextEquiv>
+                    <Unicode>pp. 120.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="474,467 506,466 513,459 532,460 543,467 564,467 576,457 582,458 582,444 571,444 560,436 535,437 525,428 518,434 507,433 503,429 475,429"/>
+                <Baseline points="480,454 512,452 544,454 576,454"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="120,530 633,535 655,530 655,492 261,493 240,508 120,494"/>
+                <Baseline points="126,521 152,521 178,521 204,521 230,521 257,521 283,521 309,521 335,521 361,521 388,521 414,521 440,522 466,522 492,522 519,522 545,522 571,523 597,523 623,524 650,524"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Peking, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15671.f.4&#13;
+FAN MIAN JIAO CAI "SHUI HU"&#13;
+PEKING. Beijing daxue. Zhongwen xi&#13;
+Fanmian jiaocai "Shui hu". [The Water Margin as&#13;
+'negative teaching material'- part of the cam-&#13;
+paign against the book in 1975.]&#13;
+pp. 120.&#13;
+19 cm.&#13;
+Renmin chubanshe: Peking, 1975.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

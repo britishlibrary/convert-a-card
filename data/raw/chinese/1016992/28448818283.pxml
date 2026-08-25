@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.078+01:00</Created>
+        <LastChange>2023-05-04T12:51:36.878+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758274" pageNr="122"/>
+    </Metadata>
+    <Page imageFilename="28448818283.jpg" imageWidth="976" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197496878" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="131,119 135,548 854,548 850,119"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="614,146 712,154 728,144 801,144 842,154 855,150 855,103 792,109 783,118 742,117 733,126 720,125 705,110 614,109"/>
+                <Baseline points="619,140 644,140 670,140 696,140 721,140 747,140 773,140 798,140 824,140 850,141"/>
+                <TextEquiv>
+                    <Unicode>15324.m.105</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="161,218 247,211 276,219 428,217 428,160 161,160"/>
+                <Baseline points="166,205 191,204 217,204 243,203 268,203 294,204 320,204 345,205 371,205 397,205 423,205"/>
+                <TextEquiv>
+                    <Unicode>FA MU SHENG SHENG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195716765_827" custom="readingOrder {index:2;}">
+                <Coords points="138,252 288,254 287,304 137,302"/>
+                <Baseline points="137,297 287,299"/>
+                <TextEquiv>
+                    <Unicode>Fu (Qiu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="172,402 446,410 476,388 497,410 630,412 631,361 604,377 281,368 252,384 172,365"/>
+                <Baseline points="177,391 203,393 229,393 256,394 282,395 309,395 335,395 361,395 388,396 414,396 441,396 467,396 493,397 520,397 546,398 573,399 599,400 636,401"/>
+                <TextEquiv>
+                    <Unicode>Famu shengsheng. [Poems.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="172,443 345,449 446,441 446,420 417,404 368,405 352,421 325,405 297,420 279,405 242,405 228,418 206,405 172,408"/>
+                <Baseline points="177,433 203,433 229,433 256,433 282,433 309,433 335,434 361,434 388,434 414,434 441,433"/>
+                <TextEquiv>
+                    <Unicode>pp. 12, 3, 143.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="163,512 732,522 759,514 760,494 735,477 483,490 164,469"/>
+                <Baseline points="169,501 198,500 227,500 256,500 286,500 315,501 344,501 374,501 403,502 432,502 462,503 491,503 520,504 549,505 579,505 608,506 637,506 667,507 696,507 725,507 755,507"/>
+                <TextEquiv>
+                    <Unicode>Zuojia chubanshe: Beijing, 1964.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15324.m.105&#13;
+FA MU SHENG SHENG&#13;
+Fu (Qiu)&#13;
+Famu shengsheng. [Poems.]&#13;
+pp. 12, 3, 143.&#13;
+Zuojia chubanshe: Beijing, 1964.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

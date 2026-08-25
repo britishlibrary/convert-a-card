@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.039+01:00</Created>
+        <LastChange>2023-05-10T14:59:28.284+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758341" pageNr="180" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961211372.jpg" imageWidth="944" imageHeight="779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683723568284" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="89,0 89,535 843,535 843,0"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="517,35 823,35 830,-9 760,5 589,-1 578,10 517,-1"/>
+                <Baseline points="522,27 547,27 572,27 597,26 623,26 648,26 673,26 698,26 724,26 749,26 774,26 799,26 825,25"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1014</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="84,170 121,170 129,163 136,170 166,169 175,161 180,161 181,127 146,127 141,132 84,133"/>
+                <Baseline points="89,156 117,157 146,157 175,158"/>
+                <TextEquiv>
+                    <Unicode>SIHAI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="109,218 124,226 300,226 430,218 447,206 447,184 438,181 109,182"/>
+                <Baseline points="114,207 139,208 164,208 189,209 214,208 240,208 265,207 290,207 315,206 341,206 366,206 391,206 416,207 442,208"/>
+                <TextEquiv>
+                    <Unicode>Feng liu shao dong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723553869_157" custom="readingOrder {index:3;}">
+                <Coords points="391,353 495,353 495,403 391,403"/>
+                <Baseline points="391,398 495,398"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="120,464 136,466 155,458 174,456 182,466 203,463 214,466 224,462 225,445 214,445 206,436 193,434 178,441 167,429 121,429"/>
+                <Baseline points="126,454 157,454 188,455 220,456"/>
+                <TextEquiv>
+                    <Unicode>406 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="114,530 232,530 252,516 252,494 115,495"/>
+                <Baseline points="119,518 144,519 169,520 195,520 220,519 246,520"/>
+                <TextEquiv>
+                    <Unicode>S1.LF07</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1014&#13;
+SIHAI&#13;
+Feng liu shao dong&#13;
+1986&#13;
+406 p.&#13;
+S1.LF07</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

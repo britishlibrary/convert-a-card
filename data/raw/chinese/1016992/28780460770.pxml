@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.523+01:00</Created>
+        <LastChange>2023-05-04T12:54:00.582+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758302" pageNr="146"/>
+    </Metadata>
+    <Page imageFilename="28780460770.jpg" imageWidth="976" imageHeight="812">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197640583" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="120,98 120,706 911,702 911,94"/>
+            <TextLine id="line_1654531408773_945" custom="readingOrder {index:0;}">
+                <Coords points="547,126 591,139 667,127 900,137 901,102 828,93 812,103 736,93 721,107 679,100 669,109 648,93 548,96"/>
+                <Baseline points="552,129 895,134"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1989-1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="133,190 499,186 499,120 352,131 133,125"/>
+                <Baseline points="138,178 163,177 188,177 214,177 239,177 265,176 290,176 316,176 341,176 366,176 392,176 417,176 443,176 468,176 494,176"/>
+                <TextEquiv>
+                    <Unicode>FEI JIE HE ZHI CHANG SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682519819351_102" custom="readingOrder {index:2;}">
+                <Coords points="137,210 371,217 370,267 136,260"/>
+                <Baseline points="136,255 370,262"/>
+                <TextEquiv>
+                    <Unicode>IMAMURA (Arao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="159,394 544,402 545,376 499,363 318,375 160,366"/>
+                <Baseline points="164,387 189,387 214,387 239,388 264,388 289,388 314,388 339,389 364,389 389,389 414,390 439,390 464,391 489,391 514,392 539,393"/>
+                <TextEquiv>
+                    <Unicode>Feijiehe zhi changshi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="174,435 776,439 776,414 720,396 490,415 447,398 174,396"/>
+                <Baseline points="179,421 208,421 238,422 267,422 297,423 327,423 356,423 386,424 415,424 445,424 475,425 504,425 534,425 563,426 593,426 623,426 652,427 682,427 711,427 741,428 771,428"/>
+                <TextEquiv>
+                    <Unicode>[General knowledge on tuberculosis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="165,465 437,475 513,449 593,474 803,467 803,449 744,437 165,435"/>
+                <Baseline points="170,456 201,456 232,457 264,457 295,458 327,458 358,458 389,459 421,459 452,460 484,460 515,460 546,461 578,461 609,461 641,462 672,462 703,462 735,462 766,462 798,462"/>
+                <TextEquiv>
+                    <Unicode>Preface dated 1932. Translated from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="167,506 898,500 864,469 708,487 167,469"/>
+                <Baseline points="172,490 208,491 244,492 280,493 316,494 352,494 388,495 424,495 460,495 496,496 532,496 568,496 604,496 640,496 676,497 712,497 748,497 784,498 820,499 856,499 913,498"/>
+                <TextEquiv>
+                    <Unicode>the Japanese by Zhang Jiaoran. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="167,546 195,546 217,537 270,546 282,534 293,544 315,546 364,538 364,517 315,500 290,504 276,518 251,501 222,518 206,509 167,509"/>
+                <Baseline points="172,531 198,530 225,530 252,530 278,530 305,530 332,530 359,531"/>
+                <TextEquiv>
+                    <Unicode>pp. 2, 185.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="613,538 690,536 699,546 713,545 724,539 725,517 713,517 705,509 673,509 660,516 643,503 631,511 626,506 615,506"/>
+                <Baseline points="618,531 643,530 668,531 693,533 719,535"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;}">
+                <Coords points="164,610 830,618 853,579 165,572"/>
+                <Baseline points="169,596 202,596 236,597 270,598 304,598 338,599 372,599 406,599 440,599 474,600 508,600 541,600 575,600 609,601 643,601 677,601 711,602 745,603 779,603 813,604 847,605"/>
+                <TextEquiv>
+                    <Unicode>Taiwam shangwu yinshuguan: Taipei, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="159,682 551,688 551,656 535,652 409,650 393,666 370,653 159,652"/>
+                <Baseline points="164,677 189,677 214,677 240,677 265,678 291,678 316,678 342,678 367,678 393,678 418,678 444,678 469,678 495,678 520,678 546,678"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, 1989-90.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1989-1990&#13;
+FEI JIE HE ZHI CHANG SHI&#13;
+IMAMURA (Arao)&#13;
+Feijiehe zhi changshi.&#13;
+[General knowledge on tuberculosis.&#13;
+Preface dated 1932. Translated from&#13;
+the Japanese by Zhang Jiaoran. A reprint.]&#13;
+pp. 2, 185.&#13;
+18 cm.&#13;
+Taiwam shangwu yinshuguan: Taipei, 1973.&#13;
+Renren wenku, 1989-90.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

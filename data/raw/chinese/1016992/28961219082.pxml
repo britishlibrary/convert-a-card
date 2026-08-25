@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.239+01:00</Created>
+        <LastChange>2023-05-10T17:00:46.938+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758355" pageNr="193"/>
+    </Metadata>
+    <Page imageFilename="28961219082.jpg" imageWidth="948" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683730846939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="32,48 32,733 904,734 904,49"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="588,74 600,82 622,76 686,82 695,75 708,82 788,82 800,74 831,82 831,50 797,36 766,40 745,60 727,51 696,58 683,45 647,44 641,37 589,38"/>
+                <Baseline points="593,69 618,70 644,72 670,72 696,73 722,73 748,73 774,73 800,73 826,73"/>
+                <TextEquiv>
+                    <Unicode>15675.g.568</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="81,127 189,117 301,122 311,120 311,82 274,83 267,90 149,87 140,96 81,90"/>
+                <Baseline points="86,115 113,114 141,113 168,113 196,112 223,112 251,112 278,113 306,113"/>
+                <TextEquiv>
+                    <Unicode>FEN NU DE HAI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="39,210 64,211 72,203 96,201 111,203 118,210 181,210 195,203 196,159 121,164 108,177 79,173 71,165 40,166"/>
+                <Baseline points="44,200 73,198 102,197 131,198 160,200 190,203"/>
+                <TextEquiv>
+                    <Unicode>QIN (Mu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="110,266 152,266 164,258 187,268 214,263 295,271 312,265 313,238 231,237 216,247 194,237 137,239 111,229"/>
+                <Baseline points="116,259 143,259 170,260 198,261 225,262 253,263 280,263 308,262"/>
+                <TextEquiv>
+                    <Unicode>fen nu de hai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683730744864_1924" custom="readingOrder {index:4;}">
+                <Coords points="705,306 776,311 773,361 702,356"/>
+                <Baseline points="702,351 773,356"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683730800069_1948" custom="readingOrder {index:5;}">
+                <Coords points="23,641 343,642 343,692 23,691"/>
+                <Baseline points="23,686 343,687"/>
+                <TextEquiv>
+                    <Unicode>I247.5 44.5728 I247.5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683730756014_1930" custom="readingOrder {index:6;}">
+                <Coords points="26,676 94,672 97,722 29,726"/>
+                <Baseline points="29,721 97,717"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:7;}">
+                <Coords points="819,698 874,698 874,660 847,661 843,665 837,662 819,661"/>
+                <Baseline points="824,690 869,690"/>
+                <TextEquiv>
+                    <Unicode>[31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:8;}">
+                <Coords points="601,730 789,730 805,722 815,730 876,731 876,701 798,706 708,693 601,695"/>
+                <Baseline points="606,723 632,722 659,722 685,722 712,722 738,722 765,723 791,723 818,724 844,724 871,724"/>
+                <TextEquiv>
+                    <Unicode>10109.1479 82—5548</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.568&#13;
+FEN NU DE HAI&#13;
+QIN (Mu)&#13;
+fen nu de hai&#13;
+1982&#13;
+I247.5 44.5728 I247.5&#13;
+1982&#13;
+[31]&#13;
+10109.1479 82—5548</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

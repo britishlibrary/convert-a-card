@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.580+01:00</Created>
+        <LastChange>2023-05-03T17:51:29.519+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758185" pageNr="44"/>
+    </Metadata>
+    <Page imageFilename="28445620304.jpg" imageWidth="952" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129089519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="39,55 50,716 948,719 949,46"/>
+            <TextLine id="line_1654530069201_305" custom="readingOrder {index:0;}">
+                <Coords points="592,97 846,95 845,71 827,71 817,61 783,61 770,74 745,68 704,74 692,62 657,56 591,67"/>
+                <Baseline points="597,98 841,97"/>
+                <TextEquiv>
+                    <Unicode>15632.c.39</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="94,165 127,170 146,162 180,162 234,173 247,163 298,162 306,160 306,114 266,114 258,122 182,121 165,130 94,130"/>
+                <Baseline points="99,157 124,157 149,157 174,156 200,157 225,157 250,157 275,158 301,159"/>
+                <TextEquiv>
+                    <Unicode>FAUNA SINICA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="59,238 309,242 310,195 235,204 169,197 158,208 137,198 60,204"/>
+                <Baseline points="65,229 91,228 118,228 145,228 171,227 198,227 225,228 251,228 278,229 305,229"/>
+                <TextEquiv>
+                    <Unicode>ZHENG (Zuoxin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="123,306 177,301 183,307 232,307 246,313 257,305 319,302 319,276 225,278 216,269 201,269 170,279 160,269 123,269"/>
+                <Baseline points="128,295 154,296 181,296 207,297 234,297 260,296 287,296 314,295"/>
+                <TextEquiv>
+                    <Unicode>Ji xing mu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657285705811_1075" custom="readingOrder {index:4;}">
+                <Coords points="327,335 528,334 528,384 327,385"/>
+                <Baseline points="327,380 528,379"/>
+                <TextEquiv>
+                    <Unicode>Galliformes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129045247_696" custom="readingOrder {index:5;}">
+                <Coords points="502,425 590,422 592,472 504,475"/>
+                <Baseline points="504,470 592,467"/>
+                <TextEquiv>
+                    <Unicode>1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="125,515 772,522 879,514 879,480 125,483"/>
+                <Baseline points="130,508 167,508 204,508 241,509 278,509 316,508 353,508 390,508 427,508 464,507 502,507 539,507 576,506 613,506 650,506 688,506 725,506 762,506 799,506 836,506 912,507"/>
+                <TextEquiv>
+                    <Unicode>vi, 203 p.: 10 p. of pls., some col.; 27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129072670_705" custom="readingOrder {index:7;}">
+                <Coords points="132,535 176,537 174,587 130,585"/>
+                <Baseline points="130,580 174,582"/>
+                <TextEquiv>
+                    <Unicode>In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657285758365_1090" custom="readingOrder {index:8;}">
+                <Coords points="747,534 950,534 950,584 747,584"/>
+                <Baseline points="747,579 950,579"/>
+                <TextEquiv>
+                    <Unicode>Fauna Sinica</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657285797387_1103" custom="readingOrder {index:9;}">
+                <Coords points="125,609 706,604 706,654 125,659"/>
+                <Baseline points="125,654 706,649"/>
+                <TextEquiv>
+                    <Unicode>Series veertebrata: Aves, vol. 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15632.c.39&#13;
+FAUNA SINICA&#13;
+ZHENG (Zuoxin)&#13;
+Ji xing mu&#13;
+Galliformes&#13;
+1978&#13;
+vi, 203 p.: 10 p. of pls., some col.; 27 cm.&#13;
+In&#13;
+Fauna Sinica&#13;
+Series veertebrata: Aves, vol. 4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

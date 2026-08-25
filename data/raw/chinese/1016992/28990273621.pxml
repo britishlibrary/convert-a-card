@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.935+01:00</Created>
+        <LastChange>2023-07-03T16:05:34.679+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758477" pageNr="296" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ZKPIXYFIXFZJVFYHJKFCKSSN&amp;fileType=view" imageId="35195783"/>
+    </Metadata>
+    <Page imageFilename="42758477.jpg" imageWidth="972" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393134679" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="53,53 915,53 915,671 53,671"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="572,108 594,115 680,114 687,107 695,113 743,107 751,114 777,114 777,71 757,71 740,88 727,87 713,73 701,85 674,85 660,71 572,77"/>
+                <Baseline points="578,103 602,103 627,105 651,105 675,105 700,105 724,103 748,103 773,103 779,105"/>
+                <TextEquiv>
+                    <Unicode>15657.c.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="68,163 451,159 505,179 538,157 622,161 622,121 320,123 304,139 284,121 154,121 135,139 115,121 68,123"/>
+                <Baseline points="74,155 90,153 115,153 139,155 163,153 187,155 212,155 236,155 260,153 285,153 309,155 333,155 358,155 382,155 406,155 431,153 455,155 479,155 504,157 528,157 552,155 576,155 601,155 625,152"/>
+                <TextEquiv>
+                    <Unicode>FEN SHUI LING JI TI HU RI JI XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="47,248 913,256 913,220 840,205 47,211"/>
+                <Baseline points="53,239 77,239 102,239 126,239 150,238 175,238 199,239 223,238 247,236 272,238 296,236 320,239 345,238 369,238 393,238 418,239 442,239 466,239 491,241 515,239 539,239 563,239 588,239 612,239 636,239 661,239 685,239 709,239 734,241 758,241 782,239 807,239 831,239 855,239 879,241 904,241 915,243"/>
+                <TextEquiv>
+                    <Unicode>CHINA [People's Republic]. Zhongguo gongchandang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="78,278 659,280 635,250 78,251"/>
+                <Baseline points="84,273 108,273 132,275 157,273 181,273 205,275 230,275 254,273 278,273 303,273 327,275 351,275 375,275 400,273 424,273 448,273 473,273 497,275 521,273 546,273 570,273 594,273 619,273 643,275 662,275"/>
+                <TextEquiv>
+                    <Unicode>Zhonggong Jilin Hunchun xian wei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="86,419 858,417 858,384 828,378 699,378 675,401 556,378 86,378"/>
+                <Baseline points="92,403 116,410 140,410 165,410 189,410 213,410 238,410 262,411 286,411 311,411 335,413 359,411 384,411 408,411 432,411 457,410 481,411 505,411 529,413 554,411 578,410 602,410 627,410 651,410 675,410 700,410 724,410 748,411 773,410 797,410 821,410 845,410 860,406"/>
+                <TextEquiv>
+                    <Unicode>Fen shui ling ji ti hu riji xuan. [Extracts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="81,457 857,452 857,421 816,417 81,419"/>
+                <Baseline points="87,445 105,445 129,445 153,445 178,445 202,444 226,445 251,445 275,444 299,444 324,445 348,444 372,444 397,445 421,445 445,445 469,445 494,445 518,445 542,445 567,445 591,445 615,445 640,445 664,444 688,444 713,444 737,444 761,444 786,444 810,444 834,444 858,442"/>
+                <TextEquiv>
+                    <Unicode>from a diary kept by Communist Party members</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="86,491 682,491 682,462 607,452 443,450 408,471 86,458"/>
+                <Baseline points="92,481 102,479 126,479 150,479 175,479 199,479 223,479 247,479 272,478 296,479 320,479 345,481 369,479 393,479 418,481 442,481 466,481 491,481 515,481 539,479 563,481 588,479 612,479 636,479 661,479 685,479"/>
+                <TextEquiv>
+                    <Unicode>in Hunchun county, Jilin province.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="86,530 121,538 151,516 176,531 245,513 271,523 312,513 321,522 374,520 374,501 346,489 307,498 276,483 244,506 209,485 150,501 123,490 86,493"/>
+                <Baseline points="92,520 110,518 134,516 158,515 183,515 207,515 231,515 256,513 280,515 304,513 328,515 353,515 377,515"/>
+                <TextEquiv>
+                    <Unicode>pp. 136. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="81,593 665,593 647,554 588,552 562,574 542,553 81,553"/>
+                <Baseline points="87,585 111,585 136,586 160,585 184,585 209,585 233,586 257,585 281,585 306,586 330,586 354,585 379,585 403,585 427,585 452,585 476,585 500,585 525,585 549,586 573,583 598,586 622,586 646,586 667,586"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Shanghai, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15657.c.2&#13;
+FEN SHUI LING JI TI HU RI JI XUAN&#13;
+CHINA [People's Republic]. Zhongguo gongchandang.&#13;
+Zhonggong Jilin Hunchun xian wei.&#13;
+Fen shui ling ji ti hu riji xuan. [Extracts&#13;
+from a diary kept by Communist Party members&#13;
+in Hunchun county, Jilin province.]&#13;
+pp. 136. 19 cm.&#13;
+Renmin chubanshe: Shanghai, 1973.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

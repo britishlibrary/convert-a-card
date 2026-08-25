@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.493+01:00</Created>
+        <LastChange>2023-07-03T16:53:33.887+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758516" pageNr="330" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=AEZLYARZZLDAATVLNEPHNRAV&amp;fileType=view" imageId="35195822"/>
+    </Metadata>
+    <Page imageFilename="42758516.jpg" imageWidth="944" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396013887" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="72,0 910,0 910,740 72,740"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="509,58 583,58 591,50 734,58 744,48 774,63 810,54 810,24 795,17 509,25"/>
+                <Baseline points="514,50 538,51 562,51 585,50 609,50 633,50 656,50 680,48 703,48 727,48 751,48 774,50 798,51 812,51"/>
+                <TextEquiv>
+                    <Unicode>CHI.1992.a.402</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="158,226 215,214 233,223 417,217 417,172 393,173 379,187 158,188"/>
+                <Baseline points="163,214 182,212 206,212 229,212 253,215 277,214 300,214 324,212 348,212 371,212 395,212 418,211"/>
+                <TextEquiv>
+                    <Unicode>FAN YI XIN LUN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="177,253 457,248 457,227 435,219 398,232 223,227 177,236"/>
+                <Baseline points="182,247 200,244 223,245 247,245 270,244 294,245 318,247 341,244 365,245 388,244 412,245 436,244 459,244"/>
+                <TextEquiv>
+                    <Unicode>Fan yi xin lun ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="193,305 229,315 302,305 464,314 477,304 542,314 542,274 481,275 470,286 437,274 247,279 193,292"/>
+                <Baseline points="198,299 222,300 245,305 269,305 292,303 316,305 340,305 363,303 387,303 411,302 434,303 458,305 481,303 505,303 529,303 543,302"/>
+                <TextEquiv>
+                    <Unicode>1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="194,344 220,344 227,340 239,345 248,343 264,346 263,318 243,317 236,312 225,314 215,306 192,309"/>
+                <Baseline points="198,332 222,335 245,335 266,337"/>
+                <TextEquiv>
+                    <Unicode>504p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="196,378 252,378 261,369 277,379 309,378 356,367 371,378 410,370 462,375 463,341 400,334 393,341 271,336 260,346 196,344"/>
+                <Baseline points="201,370 204,370 228,368 251,366 275,368 299,368 322,366 346,365 370,363 393,365 417,366 440,365 464,365"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962-07-1102-5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="195,554 465,549 465,516 272,517 249,534 223,517 195,517"/>
+                <Baseline points="200,548 223,549 247,549 270,548 294,548 318,549 341,548 365,548 388,549 412,549 436,549 459,548 467,548"/>
+                <TextEquiv>
+                    <Unicode>s1. Translation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1992.a.402&#13;
+FAN YI XIN LUN JI&#13;
+Fan yi xin lun ji&#13;
+1991&#13;
+504p.&#13;
+ISBN 962-07-1102-5&#13;
+s1. Translation</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.298+01:00</Created>
+        <LastChange>2023-05-10T17:11:37.615+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758360" pageNr="197"/>
+    </Metadata>
+    <Page imageFilename="28961220642.jpg" imageWidth="984" imageHeight="819">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731497616" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="28,121 28,733 881,733 881,121"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="554,149 585,162 609,154 633,162 641,154 733,150 766,162 812,162 812,128 743,125 711,133 687,124 670,133 648,116 554,120"/>
+                <Baseline points="559,146 586,146 614,147 641,147 669,148 696,148 724,149 751,150 779,150 807,152"/>
+                <TextEquiv>
+                    <Unicode>15278.b.104</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="39,218 82,219 89,226 105,217 280,218 289,214 289,173 250,173 239,184 39,181"/>
+                <Baseline points="44,209 70,210 97,211 124,211 150,211 177,210 204,210 230,210 257,209 284,209"/>
+                <TextEquiv>
+                    <Unicode>FEI ZHOU YAN JIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="38,290 449,289 443,252 38,252"/>
+                <Baseline points="43,274 68,276 93,276 118,277 143,278 168,278 193,278 218,279 243,279 268,279 293,279 318,279 343,280 368,280 393,281 418,281 444,282"/>
+                <TextEquiv>
+                    <Unicode>PERIODICAL PUBLICATICNS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="72,425 843,450 844,408 810,404 73,389"/>
+                <Baseline points="77,412 115,414 153,415 191,417 229,418 267,419 305,420 343,421 381,421 419,422 457,422 495,423 533,423 571,424 609,424 647,425 685,426 723,428 761,429 799,430 838,432"/>
+                <TextEquiv>
+                    <Unicode>Feizhou yanjiu. African Studies. [Edited by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="80,458 717,478 865,475 866,445 81,427"/>
+                <Baseline points="73,448 123,452 162,452 201,453 240,454 278,455 317,456 356,456 395,457 433,458 472,459 511,460 550,461 588,462 627,463 666,464 705,465 743,466 782,467 821,468 860,469"/>
+                <TextEquiv>
+                    <Unicode>Guoli Zhengzhi daxue Feizhou yanjiu jihua and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="69,491 831,514 838,488 69,460"/>
+                <Baseline points="74,487 113,488 153,489 193,489 233,490 273,491 313,492 353,493 393,494 433,495 473,496 513,497 553,498 593,498 633,500 673,501 713,501 753,503 793,503 833,504"/>
+                <TextEquiv>
+                    <Unicode>Zhonghua minguo Feizhou yanjiu xiehui - The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="73,530 861,553 862,516 74,497"/>
+                <Baseline points="79,521 117,522 156,524 195,524 234,525 273,526 312,527 350,528 389,529 428,530 467,531 506,532 545,533 584,534 622,535 661,536 700,537 739,538 778,539 817,540 856,542"/>
+                <TextEquiv>
+                    <Unicode>Program of African Studies, National Chengchi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="70,561 800,583 800,559 730,548 71,533"/>
+                <Baseline points="75,556 111,558 147,559 183,560 219,561 255,562 291,563 327,564 363,565 399,565 435,566 471,567 507,568 543,569 579,569 615,570 651,571 687,572 723,574 759,575 795,576"/>
+                <TextEquiv>
+                    <Unicode>University and The Association of African</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="75,600 557,606 680,626 728,626 729,600 421,572 202,587 76,563"/>
+                <Baseline points="80,591 112,592 144,593 176,594 208,595 241,596 273,597 305,597 337,598 369,598 402,599 434,600 466,601 498,602 530,603 563,604 595,605 627,607 659,608 691,610 724,612"/>
+                <TextEquiv>
+                    <Unicode>Studies, Republic of China. Annually.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="70,634 300,650 327,634 352,650 455,646 463,612 416,606 222,614 187,601 128,615 71,601"/>
+                <Baseline points="75,625 101,627 128,628 155,629 182,630 209,630 236,631 262,632 289,633 316,634 343,634 370,636 397,637 465,638"/>
+                <TextEquiv>
+                    <Unicode>No. 1 (January 1972) -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="67,706 111,707 117,714 163,705 176,714 198,707 213,714 269,714 322,712 325,675 215,674 192,688 172,668 147,678 68,668"/>
+                <Baseline points="72,696 97,697 122,698 147,699 172,700 197,702 222,702 247,703 272,702 330,703"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1972 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15278.b.104&#13;
+FEI ZHOU YAN JIU&#13;
+PERIODICAL PUBLICATICNS&#13;
+Feizhou yanjiu. African Studies. [Edited by&#13;
+Guoli Zhengzhi daxue Feizhou yanjiu jihua and&#13;
+Zhonghua minguo Feizhou yanjiu xiehui - The&#13;
+Program of African Studies, National Chengchi&#13;
+University and The Association of African&#13;
+Studies, Republic of China. Annually.]&#13;
+No. 1 (January 1972) -&#13;
+Taipei, 1972 -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

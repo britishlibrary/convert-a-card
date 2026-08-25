@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.919+01:00</Created>
+        <LastChange>2023-05-04T12:51:06.350+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758265" pageNr="114" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28448811283.jpg" imageWidth="956" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197466350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="76,51 76,668 944,668 944,51"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="656,88 671,98 697,98 706,89 727,89 739,98 761,97 769,89 881,90 881,47 846,47 830,62 657,55"/>
+                <Baseline points="661,84 687,85 714,86 741,86 768,86 795,86 822,86 849,86 876,86"/>
+                <TextEquiv>
+                    <Unicode>15684.c.17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="79,179 135,179 146,171 154,179 199,177 211,184 260,173 336,173 336,149 178,149 156,133 134,149 99,142 79,148"/>
+                <Baseline points="84,171 111,172 138,172 166,172 193,171 221,171 248,171 276,171 303,171 331,172"/>
+                <TextEquiv>
+                    <Unicode>FAN YI MAN TAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="84,237 98,243 119,234 159,235 171,222 194,242 222,233 338,235 338,194 321,189 306,204 288,205 256,197 221,205 201,189 182,189 174,198 83,196"/>
+                <Baseline points="89,229 116,227 143,225 170,223 197,223 224,223 251,224 278,224 305,223 333,223"/>
+                <TextEquiv>
+                    <Unicode>QIAN (Gechuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="128,306 208,307 233,296 304,299 311,292 321,299 377,298 383,297 383,271 223,268 158,277 127,268"/>
+                <Baseline points="133,294 160,294 187,293 214,293 241,293 269,293 296,293 323,292 350,292 378,292"/>
+                <TextEquiv>
+                    <Unicode>Fan yi man tan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682500283901_473" custom="readingOrder {index:4;}">
+                <Coords points="607,411 702,413 701,463 606,461"/>
+                <Baseline points="606,456 701,458"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="141,546 253,537 265,547 320,546 334,532 359,539 380,530 432,538 442,533 442,512 366,500 299,515 209,501 174,523 159,508 140,507"/>
+                <Baseline points="146,535 172,534 198,534 225,534 251,534 278,534 304,534 331,533 357,533 384,531 410,530 437,528"/>
+                <TextEquiv>
+                    <Unicode>4, 122 p.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="132,610 865,609 888,566 131,574"/>
+                <Baseline points="137,602 174,602 211,602 248,602 286,601 323,601 360,600 398,600 435,599 472,598 510,598 547,597 584,596 621,595 659,595 696,595 733,594 771,594 808,594 845,594 883,594"/>
+                <TextEquiv>
+                    <Unicode>Collection of essays on translation, mainly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="131,650 257,640 329,650 410,639 409,617 381,608 130,611"/>
+                <Baseline points="135,637 162,637 189,636 216,636 243,636 270,635 297,635 324,634 351,634 378,634 405,633"/>
+                <TextEquiv>
+                    <Unicode>Chinese-English</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15684.c.17&#13;
+FAN YI MAN TAN&#13;
+QIAN (Gechuan)&#13;
+Fan yi man tan&#13;
+1980&#13;
+4, 122 p.; 19 cm&#13;
+Collection of essays on translation, mainly&#13;
+Chinese-English</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

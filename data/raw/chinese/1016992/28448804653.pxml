@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.729+01:00</Created>
+        <LastChange>2023-05-04T12:50:20.117+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758253" pageNr="103"/>
+    </Metadata>
+    <Page imageFilename="28448804653.jpg" imageWidth="972" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197420117" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="43,104 43,629 860,629 860,104"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="579,141 823,132 865,138 865,106 816,94 759,101 750,110 579,101"/>
+                <Baseline points="584,129 609,129 634,129 659,129 684,129 709,129 734,129 759,129 784,129 809,129 834,129 860,129"/>
+                <TextEquiv>
+                    <Unicode>15400.e.946-7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="76,177 103,177 135,194 159,170 199,170 206,164 215,171 276,170 275,137 141,141 126,134 120,140 75,140"/>
+                <Baseline points="81,165 108,165 135,165 162,165 189,165 216,165 243,164 271,162"/>
+                <TextEquiv>
+                    <Unicode>FEI LIAO XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682498930706_111" custom="readingOrder {index:2;}">
+                <Coords points="49,234 227,231 228,281 50,284"/>
+                <Baseline points="50,279 228,276"/>
+                <TextEquiv>
+                    <Unicode>LI (Jixin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="83,386 849,386 832,357 753,348 319,366 83,349"/>
+                <Baseline points="88,376 125,376 163,377 201,378 239,378 277,379 314,379 352,379 390,380 428,380 466,380 503,380 541,380 579,380 617,380 655,380 692,380 730,380 768,380 806,380 844,380"/>
+                <TextEquiv>
+                    <Unicode>Feiliao xue. [On the study of fertilizers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="76,424 87,426 104,418 111,425 153,430 177,420 255,425 255,396 240,389 190,389 178,397 159,397 151,389 133,394 121,389 105,398 96,389 76,389"/>
+                <Baseline points="81,413 109,413 137,413 165,414 193,414 221,414 281,412"/>
+                <TextEquiv>
+                    <Unicode>A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="82,467 153,456 237,466 250,454 312,466 384,459 392,440 321,421 253,431 196,421 158,441 135,429 81,429"/>
+                <Baseline points="86,451 111,451 136,451 161,450 186,450 211,450 236,450 261,450 286,450 311,450 336,450 361,450 387,450"/>
+                <TextEquiv>
+                    <Unicode>pps. 268; tables.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="72,530 794,530 794,495 775,492 72,494"/>
+                <Baseline points="77,520 112,520 148,520 183,520 219,520 255,521 290,521 326,521 361,521 397,521 433,522 468,522 504,522 539,522 575,522 611,522 646,522 682,522 717,523 753,523 789,522"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="74,602 501,603 519,599 520,578 456,557 386,579 311,582 267,564 75,565"/>
+                <Baseline points="80,589 105,590 131,590 156,591 182,592 207,592 233,592 259,593 284,593 310,593 335,594 361,594 387,594 412,594 438,594 463,593 489,593 515,593"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no. 946-7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.946-7&#13;
+FEI LIAO XUE&#13;
+LI (Jixin)&#13;
+Feiliao xue. [On the study of fertilizers.&#13;
+A reprint.]&#13;
+pps. 268; tables.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1969.&#13;
+Renren wenku, no. 946-7.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

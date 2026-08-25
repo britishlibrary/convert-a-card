@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.121+01:00</Created>
+        <LastChange>2023-05-10T15:08:00.396+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758346" pageNr="185"/>
+    </Metadata>
+    <Page imageFilename="28961212722.jpg" imageWidth="1008" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724080397" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="53,41 53,736 945,736 945,41"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,91 628,99 666,91 704,98 712,90 744,99 767,91 774,98 881,98 881,62 830,53 776,60 762,74 728,61 711,77 692,61 598,56"/>
+                <Baseline points="603,84 630,85 657,85 684,86 712,87 739,87 766,88 794,88 821,87 848,87 876,86"/>
+                <TextEquiv>
+                    <Unicode>15293.a.35/284</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="66,130 191,146 285,131 311,151 404,132 440,153 590,133 671,154 729,132 730,104 591,102 574,85 67,100"/>
+                <Baseline points="71,119 103,120 136,121 168,121 201,122 234,123 266,123 299,124 332,125 364,125 397,125 430,126 462,126 495,126 528,127 560,127 593,127 626,128 658,128 691,128 724,128"/>
+                <TextEquiv>
+                    <Unicode>FENG JUN MEN CUI TING (ZI CAI) JUN DU HUI CUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723988542_370" custom="readingOrder {index:2;}">
+                <Coords points="92,145 303,146 303,196 92,195"/>
+                <Baseline points="92,190 303,191"/>
+                <TextEquiv>
+                    <Unicode>FENG (Zicai)  </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="140,329 850,332 775,301 140,290"/>
+                <Baseline points="145,321 180,322 215,323 250,323 285,324 320,324 355,325 390,325 425,325 460,325 495,326 530,326 565,326 600,326 635,326 670,327 705,327 740,327 775,328 810,328 845,329"/>
+                <TextEquiv>
+                    <Unicode>Feng junmen Cuiting (Zicai) jundu huicun.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="146,360 865,370 865,332 319,349 146,328"/>
+                <Baseline points="134,356 186,357 221,357 257,358 292,358 328,359 363,359 399,360 434,360 470,360 505,360 540,361 576,361 611,361 647,361 682,362 718,362 753,362 789,363 824,363 860,363"/>
+                <TextEquiv>
+                    <Unicode>Memorials and other military documents of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+                <Coords points="131,402 836,410 869,402 870,372 132,367"/>
+                <Baseline points="136,392 172,393 208,393 245,393 281,394 318,394 354,394 390,395 427,395 463,395 500,396 536,396 572,396 609,397 645,397 682,397 718,397 754,398 791,398 827,399 864,399"/>
+                <TextEquiv>
+                    <Unicode>Feng Zicai, relating to the suppression of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="134,434 924,450 925,406 522,423 134,405"/>
+                <Baseline points="139,427 178,428 217,428 256,429 295,429 334,430 373,430 412,430 451,431 490,431 529,431 568,431 607,431 646,432 685,432 724,433 763,433 802,434 841,435 880,436 920,437"/>
+                <TextEquiv>
+                    <Unicode>the Taiping Rebellion. Compiled by Fang Deji,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+                <Coords points="135,473 734,482 809,459 684,439 136,444"/>
+                <Baseline points="141,462 174,462 207,463 240,463 273,463 306,464 339,464 372,465 405,465 438,465 472,466 505,466 538,467 571,467 604,467 637,467 670,467 703,468 736,468 769,468 803,467"/>
+                <TextEquiv>
+                    <Unicode>with preface by Du Qimo dated 1877. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+                <Coords points="131,502 151,501 177,511 186,506 270,506 271,485 262,485 246,474 220,476 213,469 202,477 132,477"/>
+                <Baseline points="136,495 161,496 187,496 213,497 239,498 292,496"/>
+                <TextEquiv>
+                    <Unicode>reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+                <Coords points="131,538 153,538 163,533 168,539 187,540 191,545 231,547 251,547 267,541 267,531 259,530 240,509 186,508 166,515 162,510 132,507"/>
+                <Baseline points="136,529 161,531 186,532 211,533 236,535 262,537"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:10;}">
+                <Coords points="751,546 788,546 798,541 803,546 853,547 864,543 865,524 853,524 846,517 808,516 800,520 789,509 752,509"/>
+                <Baseline points="756,536 781,538 807,539 833,539 859,540"/>
+                <TextEquiv>
+                    <Unicode>22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:11;}">
+                <Coords points="135,610 671,618 672,584 135,573"/>
+                <Baseline points="140,598 166,599 192,600 219,601 245,601 271,602 298,602 324,602 350,603 377,603 403,603 429,603 456,603 482,604 508,604 535,604 561,605 587,605 614,606 640,607 667,608"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:12;}">
+                <Coords points="128,690 712,687 622,661 128,653"/>
+                <Baseline points="133,680 161,680 190,680 219,681 247,681 276,682 305,683 333,683 362,684 391,684 420,685 448,685 477,686 506,686 534,687 563,687 592,687 620,688 649,688 678,688 707,688"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:13;}">
+                <Coords points="714,698 734,693 790,701 810,696 863,701 886,697 886,677 864,661 825,660 810,674 796,674 783,661 758,661 748,668 735,655 714,660"/>
+                <Baseline points="719,686 746,689 773,689 800,689 827,688 854,689 881,692"/>
+                <TextEquiv>
+                    <Unicode>Xuji, 284.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.35/284&#13;
+FENG JUN MEN CUI TING (ZI CAI) JUN DU HUI CUN&#13;
+FENG (Zicai)  &#13;
+Feng junmen Cuiting (Zicai) jundu huicun.&#13;
+Memorials and other military documents of&#13;
+Feng Zicai, relating to the suppression of&#13;
+the Taiping Rebellion. Compiled by Fang Deji,&#13;
+with preface by Du Qimo dated 1877. A&#13;
+reprint.]&#13;
+2 vols.&#13;
+22 cm.&#13;
+Wenhai chubanshe: Taipei, 1976.&#13;
+Jindai Zhongguo shiliao congkan.&#13;
+Xuji, 284.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

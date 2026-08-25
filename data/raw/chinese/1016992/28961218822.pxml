@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.210+01:00</Created>
+        <LastChange>2023-05-10T15:16:17.552+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758353" pageNr="191"/>
+    </Metadata>
+    <Page imageFilename="28961218822.jpg" imageWidth="976" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724577552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="177,103 177,516 872,516 872,103"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="655,131 705,139 835,131 862,139 877,130 877,100 853,93 838,93 823,108 808,102 775,101 753,109 745,101 655,100"/>
+                <Baseline points="660,124 686,125 713,126 739,126 766,126 792,125 819,125 845,125 872,126"/>
+                <TextEquiv>
+                    <Unicode>15244.f.69</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="216,185 280,194 303,179 370,180 393,195 411,178 520,177 550,201 572,179 620,169 620,146 563,146 545,132 515,149 394,133 216,133"/>
+                <Baseline points="221,166 247,167 273,168 299,168 326,169 352,169 378,169 404,169 431,169 457,169 483,169 509,169 536,169 562,169 588,169 615,169"/>
+                <TextEquiv>
+                    <Unicode>FEN QI SHOU KUAN XIAO SHOU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683724543176_578" custom="readingOrder {index:2;}">
+                <Coords points="180,222 432,224 432,274 180,272"/>
+                <Baseline points="180,267 432,269"/>
+                <TextEquiv>
+                    <Unicode>HUANG (Wengun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="215,373 866,364 836,332 518,349 270,346 243,321 215,335"/>
+                <Baseline points="220,362 252,363 284,364 316,365 348,365 380,366 412,366 444,366 476,366 508,366 540,366 572,365 604,365 636,365 668,365 700,364 732,364 764,364 796,364 828,364 861,364"/>
+                <TextEquiv>
+                    <Unicode>Fenqi shoukuan xiaoshou. [A textbook</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="221,411 268,405 442,410 450,418 481,411 496,418 496,388 469,380 397,382 382,373 369,381 271,381 260,391 221,377"/>
+                <Baseline points="226,400 252,401 279,401 305,401 332,401 358,401 385,401 411,400 438,400 464,401 505,399"/>
+                <TextEquiv>
+                    <Unicode>in accountancy.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="217,449 266,450 280,436 312,443 369,439 369,426 351,421 343,413 292,412 277,424 262,421 254,413 217,414"/>
+                <Baseline points="222,440 250,438 278,437 307,436 335,436 364,437"/>
+                <TextEquiv>
+                    <Unicode>pp. 101.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="211,514 631,522 652,505 702,517 758,503 758,483 721,476 647,489 359,477 337,491 211,477"/>
+                <Baseline points="216,505 242,505 269,506 296,506 323,505 350,505 377,505 403,505 430,505 457,505 484,505 511,505 538,505 565,505 591,505 618,505 645,505 672,505 699,505 726,505 753,505"/>
+                <TextEquiv>
+                    <Unicode>Daxing shuju: Hong Kong, 1951.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15244.f.69&#13;
+FEN QI SHOU KUAN XIAO SHOU&#13;
+HUANG (Wengun)&#13;
+Fenqi shoukuan xiaoshou. [A textbook&#13;
+in accountancy.]&#13;
+pp. 101.&#13;
+Daxing shuju: Hong Kong, 1951.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

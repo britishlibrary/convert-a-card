@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.054+01:00</Created>
+        <LastChange>2023-05-04T12:45:34.781+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758207" pageNr="63"/>
+    </Metadata>
+    <Page imageFilename="28445627874.jpg" imageWidth="980" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197134781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="75,90 78,636 871,631 871,90"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="563,130 662,130 679,123 706,131 729,118 753,130 789,113 788,90 774,85 729,99 687,93 675,104 652,85 562,92"/>
+                <Baseline points="568,119 595,119 622,119 649,119 676,119 703,119 730,118 757,117 784,115"/>
+                <TextEquiv>
+                    <Unicode>15266.f.48</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="121,170 374,170 385,164 385,144 368,140 254,140 197,125 167,141 135,133 121,142"/>
+                <Baseline points="126,161 151,161 176,161 202,162 227,162 253,162 278,162 303,162 329,163 354,163 380,163"/>
+                <TextEquiv>
+                    <Unicode>FAN YU-XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="89,266 141,263 159,270 173,262 179,267 249,266 262,274 290,252 289,217 230,231 88,229"/>
+                <Baseline points="94,256 121,256 148,257 175,257 203,257 230,257 257,255 285,251"/>
+                <TextEquiv>
+                    <Unicode>LI (Futai)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="124,370 746,362 746,334 709,325 407,325 316,344 124,333"/>
+                <Baseline points="129,358 159,358 190,358 220,358 251,358 282,358 312,358 343,358 373,359 404,359 435,359 465,358 496,358 526,358 557,358 588,358 618,357 649,357 679,356 710,356 741,355"/>
+                <TextEquiv>
+                    <Unicode>Fanyu-xian zhi. [Description of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="133,402 681,397 681,377 589,365 280,378 133,367"/>
+                <Baseline points="138,395 164,394 191,394 218,393 245,393 272,393 299,393 326,393 353,393 380,393 407,394 433,394 460,394 487,394 514,394 541,394 568,393 595,393 622,392 649,392 676,391"/>
+                <TextEquiv>
+                    <Unicode>district in Guangdong province.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="130,436 180,443 317,425 360,442 396,429 560,442 568,398 540,410 443,401 402,415 345,399 130,405"/>
+                <Baseline points="135,428 160,429 185,429 210,429 235,429 260,429 286,428 311,428 336,428 361,427 386,427 411,427 437,427 462,427 487,427 512,428 537,429 563,430"/>
+                <TextEquiv>
+                    <Unicode>Reprint of 1871 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="131,474 167,475 173,469 182,474 226,474 246,464 246,450 223,445 215,437 200,437 183,446 178,441 162,441 158,436 132,436"/>
+                <Baseline points="137,463 163,462 189,464 215,465 241,464"/>
+                <TextEquiv>
+                    <Unicode>55 ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="132,539 704,538 695,500 609,516 579,501 283,514 132,501"/>
+                <Baseline points="137,532 165,532 193,532 221,531 249,531 277,531 305,531 333,531 361,530 389,530 418,530 446,530 474,530 502,530 530,530 558,530 586,530 614,530 642,530 670,530 699,530"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="129,609 220,626 275,607 644,609 622,573 569,588 527,573 419,585 405,573 129,573"/>
+                <Baseline points="134,602 159,602 184,602 209,602 235,602 260,602 285,602 310,602 336,602 361,602 386,602 411,602 437,602 462,602 487,602 512,602 538,602 563,602 588,602 613,602 639,602"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu, 48.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.f.48&#13;
+FAN YU-XIAN ZHI&#13;
+LI (Futai)&#13;
+Fanyu-xian zhi. [Description of the&#13;
+district in Guangdong province.&#13;
+Reprint of 1871 edition.]&#13;
+55 ch.&#13;
+Chengwen chubanshe: Taipei, 1967.&#13;
+Zhongguo fangzhi congshu, 48.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

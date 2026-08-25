@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.423+01:00</Created>
+        <LastChange>2023-06-29T13:30:16.057+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758442" pageNr="266"/>
+    </Metadata>
+    <Page imageFilename="28961245402.jpg" imageWidth="988" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038216057" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="138,73 138,625 915,625 915,73"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="589,93 615,106 639,98 656,106 681,99 697,106 705,98 753,105 762,96 789,106 879,103 879,71 824,61 782,63 764,78 725,68 704,80 676,62 658,70 589,68"/>
+                <Baseline points="594,94 634,93 661,93 687,93 714,94 741,94 767,94 794,96 820,96 847,96 874,96"/>
+                <TextEquiv>
+                    <Unicode>15248.a.17/26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="156,139 339,134 339,108 156,108"/>
+                <Baseline points="161,132 189,133 218,133 247,132 276,132 305,133 334,134"/>
+                <TextEquiv>
+                    <Unicode>FA XU ZHAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="132,234 231,235 241,227 256,238 327,234 347,242 395,233 423,241 424,193 416,190 387,205 133,197"/>
+                <Baseline points="138,224 163,224 189,224 214,224 240,225 265,225 291,225 316,225 342,226 367,226 393,228 419,229"/>
+                <TextEquiv>
+                    <Unicode>JIANG (Shaoyuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="176,333 790,337 790,318 751,307 176,301"/>
+                <Baseline points="181,324 211,325 241,326 271,327 301,327 332,328 362,328 392,329 422,329 452,329 483,329 513,329 543,329 573,330 603,330 634,331 664,331 694,331 724,332 754,333 785,334"/>
+                <TextEquiv>
+                    <Unicode>Fa xu zhao : guanyu tamen de mixin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:4;}">
+                <Coords points="181,389 252,365 831,382 860,379 861,358 830,333 560,357 182,332"/>
+                <Baseline points="187,361 220,361 253,362 287,362 320,363 354,363 387,363 421,364 454,364 488,364 521,365 554,365 588,366 621,366 655,367 688,367 722,367 755,368 789,368 822,369 856,369"/>
+                <TextEquiv>
+                    <Unicode>(The Folklore of Hair, Beard and Nail).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="190,402 910,418 901,373 705,395 652,373 190,378"/>
+                <Baseline points="179,394 230,396 266,397 301,397 337,398 372,399 408,399 443,400 479,400 514,401 550,401 585,402 621,402 656,403 692,403 727,404 763,405 798,406 834,407 869,408 905,409"/>
+                <TextEquiv>
+                    <Unicode>[Author's preface dated 1927. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="183,442 245,440 262,451 288,442 335,450 525,443 525,418 497,405 460,408 445,423 377,408 358,425 334,404 304,405 285,423 255,404 235,422 183,412"/>
+                <Baseline points="188,434 213,433 239,433 264,432 290,433 315,433 341,433 366,434 392,434 417,435 443,436 468,437 494,438 520,438"/>
+                <TextEquiv>
+                    <Unicode>pp. 4, 28, 210, [4].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;}">
+                <Coords points="168,506 880,523 921,491 169,470"/>
+                <Baseline points="173,498 210,499 247,500 284,500 321,501 358,502 395,502 432,503 469,503 506,504 544,504 581,504 618,505 655,506 692,506 729,507 766,507 803,508 840,509 877,510 915,511"/>
+                <TextEquiv>
+                    <Unicode>Dongfang wenhua gongying she: Taipei, 1971</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:8;}">
+                <Coords points="175,570 909,600 907,564 176,541"/>
+                <Baseline points="180,566 216,568 252,569 288,571 325,572 361,573 397,575 433,576 470,576 506,578 542,578 578,579 615,580 651,581 687,582 723,583 760,585 796,586 832,587 868,588 905,590"/>
+                <TextEquiv>
+                    <Unicode>Guoli Beijing daxue Zhongguo minsu xuehui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;}">
+                <Coords points="173,618 482,626 502,615 466,585 419,600 382,587 280,588 271,596 191,581 174,590"/>
+                <Baseline points="178,605 204,606 231,607 257,608 284,609 310,609 337,610 364,611 390,612 417,613 443,614 470,614 497,615"/>
+                <TextEquiv>
+                    <Unicode>minsu congshu, 26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15248.a.17/26&#13;
+FA XU ZHAO&#13;
+JIANG (Shaoyuan)&#13;
+Fa xu zhao : guanyu tamen de mixin.&#13;
+(The Folklore of Hair, Beard and Nail).&#13;
+[Author's preface dated 1927. A reprint.]&#13;
+pp. 4, 28, 210, [4].&#13;
+Dongfang wenhua gongying she: Taipei, 1971&#13;
+Guoli Beijing daxue Zhongguo minsu xuehui&#13;
+minsu congshu, 26.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

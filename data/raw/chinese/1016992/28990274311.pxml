@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.016+01:00</Created>
+        <LastChange>2023-07-03T16:13:50.522+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758482" pageNr="301" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ORQZKESVSMEPWBXIRGJKGTEP&amp;fileType=view" imageId="35195788"/>
+    </Metadata>
+    <Page imageFilename="42758482.jpg" imageWidth="952" imageHeight="785">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393630523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="60,30 853,30 853,772 60,772"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="599,85 632,93 709,90 720,82 732,91 760,90 767,83 791,94 811,90 810,48 787,48 768,67 755,67 738,50 707,66 685,45 673,44 638,57 621,43 598,58"/>
+                <Baseline points="604,80 628,80 651,80 675,80 699,82 723,82 746,84 770,84 794,85 813,85"/>
+                <TextEquiv>
+                    <Unicode>15640.c.3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="69,153 106,162 131,188 170,154 206,155 226,143 248,157 300,154 314,166 333,152 383,154 383,117 333,115 317,99 296,118 170,118 135,94 99,114 69,106"/>
+                <Baseline points="74,145 98,145 122,147 145,147 169,145 193,145 217,145 241,145 264,145 288,145 312,144 336,145 359,145 383,147 385,149"/>
+                <TextEquiv>
+                    <Unicode>FEI ZHOU TONG XUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="69,219 234,218 312,245 335,226 361,242 436,228 508,242 506,154 467,150 423,190 370,161 341,177 321,159 233,195 206,182 67,187"/>
+                <Baseline points="74,212 98,212 122,212 145,212 169,212 193,212 217,212 241,215 264,218 288,223 312,225 336,225 359,226 383,229 407,231 431,229 455,226 478,229 502,231 513,234"/>
+                <TextEquiv>
+                    <Unicode>MA (Zhaluo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="106,359 816,362 816,327 794,325 436,322 387,343 106,319"/>
+                <Baseline points="111,347 134,347 158,347 182,348 206,348 229,348 253,350 277,350 301,350 325,350 348,350 372,352 396,352 420,352 444,350 467,352 491,352 515,352 539,352 562,352 586,352 610,353 634,353 658,353 681,353 705,352 729,352 753,352 777,353 800,353 818,355"/>
+                <TextEquiv>
+                    <Unicode>Feizhou tongxun. [Political and economic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="101,388 655,401 655,357 101,365"/>
+                <Baseline points="106,380 130,382 153,383 177,383 201,383 225,383 248,385 272,385 296,385 320,385 344,383 367,385 391,385 415,385 439,385 463,385 486,385 510,386 534,388 558,388 582,388 605,388 629,388 653,393 656,394"/>
+                <TextEquiv>
+                    <Unicode>account of contemporary Africa.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="106,434 162,422 192,434 306,422 556,433 555,403 494,407 476,394 435,413 392,394 302,406 236,387 217,407 105,394"/>
+                <Baseline points="111,421 134,421 158,421 182,421 206,421 229,421 253,420 277,420 301,420 325,421 348,421 372,421 396,421 420,421 444,421 467,421 491,421 515,423 539,423 558,425"/>
+                <TextEquiv>
+                    <Unicode>pp. 2, 158; illus. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="106,498 814,505 788,458 106,456"/>
+                <Baseline points="111,491 134,490 158,488 182,488 206,488 229,488 253,488 277,488 301,488 325,490 348,490 372,490 396,490 420,490 444,490 467,491 491,490 515,491 539,491 562,491 586,493 610,491 634,491 658,493 681,494 705,493 729,493 753,493 777,493 800,496 815,496"/>
+                <TextEquiv>
+                    <Unicode>Qishi niandai zazhi she: Hong Kong, 1977.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15640.c.3&#13;
+FEI ZHOU TONG XUN&#13;
+MA (Zhaluo)&#13;
+Feizhou tongxun. [Political and economic&#13;
+account of contemporary Africa.]&#13;
+pp. 2, 158; illus. 19 cm.&#13;
+Qishi niandai zazhi she: Hong Kong, 1977.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

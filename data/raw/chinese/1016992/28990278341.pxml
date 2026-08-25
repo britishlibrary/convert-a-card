@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.438+01:00</Created>
+        <LastChange>2023-07-03T16:47:14.510+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758512" pageNr="326" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=MEGIJUHECYZLBSCAVLAUCYBP&amp;fileType=view" imageId="35195818"/>
+    </Metadata>
+    <Page imageFilename="42758512.jpg" imageWidth="984" imageHeight="815">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395634510" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="68,66 911,66 911,711 68,711"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="531,118 583,131 611,121 640,129 655,114 685,130 708,118 735,133 779,119 792,130 840,127 840,81 797,79 781,93 760,76 701,102 670,86 646,101 623,78 599,92 548,82 531,92"/>
+                <Baseline points="536,118 560,118 585,118 610,118 634,118 659,116 683,119 708,118 733,119 757,119 782,119 806,119 831,121 841,121"/>
+                <TextEquiv>
+                    <Unicode>15408.d.278 (1)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="63,189 104,202 139,190 307,193 306,148 218,143 211,150 147,152 137,142 123,152 83,145 62,155"/>
+                <Baseline points="68,180 93,180 118,180 142,180 167,180 191,180 216,180 241,183 265,182 290,182 308,180"/>
+                <TextEquiv>
+                    <Unicode>FANG QUAN SHI JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="63,256 156,255 168,266 194,257 249,266 262,257 271,266 294,265 293,226 277,218 264,226 203,225 177,215 164,223 137,215 62,217"/>
+                <Baseline points="68,249 93,249 118,249 142,247 167,247 191,249 216,249 241,249 265,250 290,250 296,250"/>
+                <TextEquiv>
+                    <Unicode>ZHOU (Wenpu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="106,395 813,394 813,360 772,354 417,348 378,378 338,354 106,354"/>
+                <Baseline points="111,380 137,385 162,387 186,387 211,385 236,387 260,385 285,385 309,387 334,387 359,387 383,387 408,387 432,387 457,387 482,388 506,387 531,388 555,388 580,387 605,387 629,387 654,387 678,385 703,385 728,387 752,387 777,387 801,385 815,385"/>
+                <TextEquiv>
+                    <Unicode>Fangquan shiji. [Collected poems by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="110,426 499,430 498,403 477,394 328,396 304,414 269,396 190,405 109,394"/>
+                <Baseline points="114,416 139,419 163,419 188,421 213,421 237,421 262,421 286,421 311,421 336,421 360,419 385,419 409,421 434,421 459,423 483,423 501,424"/>
+                <TextEquiv>
+                    <Unicode>Song poet. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="99,458 112,466 133,466 143,457 152,466 201,464 201,444 194,444 172,430 167,429 156,438 143,437 138,442 118,427 99,437"/>
+                <Baseline points="104,454 129,454 154,455 178,455 203,457 204,455"/>
+                <TextEquiv>
+                    <Unicode>4 ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="708,460 718,465 744,467 762,456 775,466 816,466 827,462 827,440 811,440 802,431 762,431 749,418 743,424 726,423 719,430 708,430"/>
+                <Baseline points="713,454 737,457 762,455 787,455 811,457 828,455"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="104,527 718,538 702,493 351,500 322,480 295,501 104,496"/>
+                <Baseline points="109,519 134,521 159,521 183,523 208,523 232,524 257,524 282,524 306,524 331,524 355,523 380,523 405,523 429,523 454,523 478,524 503,523 528,524 552,526 577,526 601,528 626,526 651,528 675,528 700,528 719,526"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1973].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="106,603 148,618 196,597 670,602 655,564 187,575 106,561"/>
+                <Baseline points="111,590 136,590 160,590 185,590 209,591 234,591 259,591 283,591 308,590 332,590 357,590 382,590 406,590 431,590 455,591 480,591 505,591 529,591 554,591 578,591 603,593 628,593 652,593 672,595"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben si ji, 278.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.d.278 (1)&#13;
+FANG QUAN SHI JI&#13;
+ZHOU (Wenpu)&#13;
+Fangquan shiji. [Collected poems by the&#13;
+Song poet. A reprint.]&#13;
+4 ch.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, [1973].&#13;
+Siku quanshu zhenben si ji, 278.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

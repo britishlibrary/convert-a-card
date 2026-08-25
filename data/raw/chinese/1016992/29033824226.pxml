@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:55.020+01:00</Created>
+        <LastChange>2023-08-16T15:02:45.023+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758558" pageNr="366" tsid="128197476" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=EDAZJCTGIBFZMECKAWZFUDCC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GUPNWPJPDSRZSGODQRLVZYUK" imageId="35195864"/>
+    </Metadata>
+    <Page imageFilename="42758558.jpg" imageWidth="956" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692190965023" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="44,37 876,37 876,648 44,648"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="655,85 681,98 744,90 764,99 778,87 808,98 827,87 838,97 861,98 870,96 869,57 835,58 820,73 802,56 787,56 764,72 750,58 734,62 724,54 654,58"/>
+                <Baseline points="660,87 684,87 708,87 732,87 756,89 780,87 804,87 828,87 852,89 872,89"/>
+                <TextEquiv>
+                    <Unicode>15640.c.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="50,181 81,161 133,157 389,155 389,120 325,119 310,104 202,106 189,119 152,121 88,120 68,100 50,105"/>
+                <Baseline points="55,154 79,152 103,154 127,152 151,152 175,154 199,154 222,154 246,154 270,154 294,154 318,152 342,152 366,152 390,154"/>
+                <TextEquiv>
+                    <Unicode>FANG MEI LIANG YING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="39,231 95,234 110,224 120,234 197,226 212,233 222,225 288,234 293,193 275,185 251,201 229,200 218,189 197,188 171,199 161,189 124,186 103,201 76,186 38,201"/>
+                <Baseline points="44,224 68,222 92,222 116,224 140,222 164,222 187,221 211,222 235,222 259,224 283,226 296,227"/>
+                <TextEquiv>
+                    <Unicode>FEI (Xiaotong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="69,294 209,298 232,286 420,298 420,264 356,262 345,251 331,264 263,262 244,248 222,261 193,262 180,249 161,263 101,262 88,249 69,258"/>
+                <Baseline points="74,286 98,286 122,286 146,288 170,286 194,286 218,285 242,286 265,286 289,286 313,288 337,288 361,286 385,286 409,288 422,288"/>
+                <TextEquiv>
+                    <Unicode>Fang Mei liang yins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="81,378 390,402 487,379 862,386 862,352 796,306 671,367 575,309 465,325 428,296 388,335 350,307 300,331 265,309 81,320"/>
+                <Baseline points="86,366 109,369 133,372 157,375 181,375 205,377 229,379 253,380 277,377 301,377 324,377 348,377 372,380 396,383 420,385 444,387 468,382 492,377 516,377 539,377 563,379 587,380 611,377 635,377 659,377 683,375 707,374 731,371 754,371 778,372 802,372 826,371 850,374 864,375"/>
+                <TextEquiv>
+                    <Unicode>19 x ai. p5s [ : xa., 14 s..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="79,463 163,475 274,458 364,482 382,466 485,458 485,422 469,415 385,412 356,435 313,395 277,426 237,394 203,425 146,410 108,446 79,443"/>
+                <Baseline points="84,457 105,457 129,460 152,458 176,457 200,457 224,457 248,457 272,458 296,458 320,458 344,458 367,460 391,460 415,457 439,457 463,455 487,453"/>
+                <TextEquiv>
+                    <Unicode>86  ;6 , 1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="74,530 106,539 131,528 250,538 278,528 292,538 373,525 373,506 357,497 322,500 310,490 283,490 263,509 254,500 229,509 187,490 169,500 146,491 128,509 93,488 74,498"/>
+                <Baseline points="79,525 103,527 127,527 151,527 175,527 199,528 222,527 246,527 270,527 294,527 318,527 342,525 366,524 375,527"/>
+                <TextEquiv>
+                    <Unicode>2, 118 p.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="74,601 874,610 874,570 844,553 74,570"/>
+                <Baseline points="79,595 103,595 127,595 151,595 175,595 199,597 222,597 246,595 270,595 294,595 318,597 342,597 366,597 390,597 414,597 438,595 461,595 485,594 509,595 533,594 557,594 581,592 605,592 629,592 653,594 676,594 700,594 724,594 748,594 772,594 796,594 820,595 844,595 868,598 876,600"/>
+                <TextEquiv>
+                    <Unicode>Recollections of a journey to the USA in 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="79,638 296,641 317,658 346,641 681,650 681,612 614,604 249,604 199,622 79,604"/>
+                <Baseline points="84,635 108,637 132,637 156,635 179,635 203,635 227,635 251,635 275,635 299,635 323,635 347,635 371,635 395,635 418,635 442,635 466,635 490,635 514,635 538,635 562,635 586,635 610,635 633,635 657,637 681,638 683,638"/>
+                <TextEquiv>
+                    <Unicode>by the anthropologist Fei Xiaotong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

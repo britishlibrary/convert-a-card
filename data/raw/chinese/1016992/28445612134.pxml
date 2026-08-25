@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.906+01:00</Created>
+        <LastChange>2023-05-03T17:36:08.532+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758150" pageNr="13"/>
+    </Metadata>
+    <Page imageFilename="28445612134.jpg" imageWidth="992" imageHeight="799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128168533" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="28,78 31,642 886,637 880,73"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="531,129 740,131 750,122 826,122 826,97 798,85 718,85 704,99 688,85 671,85 657,99 629,84 531,92"/>
+                <Baseline points="536,118 561,118 587,118 613,117 639,117 665,116 691,116 717,116 743,116 769,116 795,116 821,116"/>
+                <TextEquiv>
+                    <Unicode>15349.d.1/122</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="43,182 78,169 126,194 150,170 178,169 221,193 244,171 369,170 383,161 383,124 242,137 215,116 194,137 78,124 43,136"/>
+                <Baseline points="48,160 73,161 98,161 124,162 149,162 174,162 200,162 225,162 251,162 276,162 301,162 327,163 352,163 378,163"/>
+                <TextEquiv>
+                    <Unicode>FENG HUO XI YANG HONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127113417_549" custom="readingOrder {index:2;}">
+                <Coords points="41,218 237,218 237,268 41,268"/>
+                <Baseline points="41,263 237,263"/>
+                <TextEquiv>
+                    <Unicode>YI (Junzuo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="84,402 838,394 838,361 84,365"/>
+                <Baseline points="89,391 126,391 163,391 200,391 237,391 275,391 312,390 349,390 386,389 423,389 461,388 498,387 535,386 572,386 609,385 647,385 684,384 721,384 758,384 795,384 833,385"/>
+                <TextEquiv>
+                    <Unicode>Fenghuo xiyang hong. [Reminiscences of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="83,435 809,434 808,411 721,395 82,405"/>
+                <Baseline points="88,427 123,427 159,427 195,427 231,426 267,426 302,426 338,425 374,425 410,424 446,424 481,423 517,423 553,422 589,422 625,421 660,421 696,421 732,421 768,421 804,421"/>
+                <TextEquiv>
+                    <Unicode>fall of Mainland China to the Communists.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="87,475 139,471 226,473 226,445 210,447 196,437 152,437 140,450 128,451 121,445 87,445"/>
+                <Baseline points="92,464 117,464 143,462 169,461 195,462 221,464"/>
+                <TextEquiv>
+                    <Unicode>pp. 224.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="759,466 797,466 806,459 827,466 835,461 853,466 867,465 868,434 852,434 841,426 820,429 806,437 792,428 760,428"/>
+                <Baseline points="765,453 797,454 830,455 863,455"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="83,539 543,538 552,499 83,507"/>
+                <Baseline points="88,531 113,531 139,532 164,532 190,532 215,532 241,532 266,532 292,531 317,531 343,531 368,530 394,530 419,530 445,530 470,530 496,530 521,530 547,530"/>
+                <TextEquiv>
+                    <Unicode>Sanmin shuju: Taipei, 1971</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="89,618 284,626 314,617 404,618 404,593 383,580 327,581 311,598 267,581 89,581"/>
+                <Baseline points="94,610 119,609 144,609 170,609 195,609 221,609 246,609 271,609 297,609 322,609 348,609 373,609 399,608"/>
+                <TextEquiv>
+                    <Unicode>Sanmin wenku, 122.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15349.d.1/122&#13;
+FENG HUO XI YANG HONG&#13;
+YI (Junzuo)&#13;
+Fenghuo xiyang hong. [Reminiscences of the&#13;
+fall of Mainland China to the Communists.]&#13;
+pp. 224.&#13;
+18 cm.&#13;
+Sanmin shuju: Taipei, 1971&#13;
+Sanmin wenku, 122.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.378+01:00</Created>
+        <LastChange>2023-07-03T16:44:08.326+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758508" pageNr="323" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TZAVWTJDWSUGNAVHPMDDEWCE&amp;fileType=view" imageId="35195814"/>
+    </Metadata>
+    <Page imageFilename="42758508.jpg" imageWidth="976" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395448327" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="191,64 890,63 894,662 195,654"/>
+            <TextLine id="line_1688395380189_1466" custom="readingOrder {index:0;}">
+                <Coords points="616,74 880,79 879,129 615,124"/>
+                <Baseline points="615,119 879,124"/>
+                <TextEquiv>
+                    <Unicode>15266.fd.133</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="221,171 369,179 377,171 496,178 525,170 525,137 316,137 298,119 247,126 221,146"/>
+                <Baseline points="226,165 232,167 256,164 281,165 305,165 330,164 354,164 378,164 403,164 427,164 452,165 476,164 500,165 526,165"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="190,246 447,251 580,274 597,257 635,265 633,191 587,209 535,197 515,217 489,201 417,223 299,208 189,219"/>
+                <Baseline points="195,239 219,240 243,240 268,240 292,240 317,240 341,240 365,242 390,242 414,243 439,245 463,245 487,248 512,248 536,248 561,248 585,250 609,252 634,255 637,255"/>
+                <TextEquiv>
+                    <Unicode>FENG (Qinglan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="232,354 834,362 833,320 788,337 573,313 547,339 523,322 472,340 232,318"/>
+                <Baseline points="237,344 261,346 286,346 310,348 335,348 359,348 383,348 408,348 432,348 456,349 481,349 505,349 530,349 554,348 578,348 603,348 627,349 652,349 676,349 700,352 725,352 749,352 774,354 798,354 822,356 835,354"/>
+                <TextEquiv>
+                    <Unicode>Fangshan xian zhi. [Description of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="225,386 777,397 776,369 736,361 225,365"/>
+                <Baseline points="230,380 255,382 279,382 304,382 328,383 352,383 377,382 401,382 426,382 450,383 474,385 499,385 523,385 548,385 572,385 596,385 621,387 645,385 670,385 694,387 718,388 743,388 767,391 778,390"/>
+                <TextEquiv>
+                    <Unicode>the district in Hopei province.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="227,426 612,422 774,442 749,402 684,395 522,407 227,389"/>
+                <Baseline points="232,413 256,416 281,416 305,416 330,417 354,419 378,419 403,419 427,421 452,419 476,421 500,421 525,421 549,421 574,419 598,419 622,421 647,419 671,422 696,422 720,424 744,426 769,430 775,432"/>
+                <TextEquiv>
+                    <Unicode>Facsimile of the 1928 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="224,456 261,455 280,474 423,457 669,474 690,466 689,434 506,444 401,426 381,442 352,429 311,441 223,426"/>
+                <Baseline points="229,452 253,452 278,452 302,455 326,455 351,455 375,456 400,456 424,455 448,456 473,456 497,458 522,458 546,456 570,456 595,456 619,458 644,460 668,460 692,461"/>
+                <TextEquiv>
+                    <Unicode>8 ch. in 2 vols.; maps. 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="225,529 809,538 809,501 730,498 707,518 684,498 414,494 382,515 225,497"/>
+                <Baseline points="230,522 255,523 279,525 304,523 328,523 352,523 377,525 401,525 426,525 450,526 474,526 499,526 523,525 548,526 572,526 596,526 621,526 645,528 670,528 694,530 718,528 743,530 767,530 792,531 811,533"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="224,600 327,618 521,601 588,619 798,618 797,580 692,577 670,597 617,575 223,570"/>
+                <Baseline points="229,598 253,596 278,596 302,595 326,596 351,598 375,598 400,600 424,600 448,598 473,598 497,601 522,600 546,601 570,603 595,604 619,604 644,604 668,606 692,606 717,606 741,608 765,608 790,608 800,608"/>
+                <TextEquiv>
+                    <Unicode>Zhonsguo fangzhi congshu. Huabei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="224,644 353,658 369,642 392,658 411,659 450,648 450,622 429,610 377,611 356,633 339,618 223,610"/>
+                <Baseline points="229,639 253,639 278,639 302,640 326,640 351,642 375,640 400,642 424,644 448,644 452,644"/>
+                <TextEquiv>
+                    <Unicode>difang, 133.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fd.133&#13;
+FANG SHAN XIAN ZHI&#13;
+FENG (Qinglan)&#13;
+Fangshan xian zhi. [Description of&#13;
+the district in Hopei province.&#13;
+Facsimile of the 1928 edition.]&#13;
+8 ch. in 2 vols.; maps. 7.&#13;
+Chengwen chubanshe: Taipei, 1968.&#13;
+Zhonsguo fangzhi congshu. Huabei&#13;
+difang, 133.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

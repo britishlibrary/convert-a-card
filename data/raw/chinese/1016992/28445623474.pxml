@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.699+01:00</Created>
+        <LastChange>2023-05-03T17:53:47.465+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758193" pageNr="50"/>
+    </Metadata>
+    <Page imageFilename="28445623474.jpg" imageWidth="976" imageHeight="813">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129227498" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="87,107 87,743 943,743 943,107"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="544,143 831,147 832,113 795,101 732,104 717,118 672,109 659,119 636,101 545,105"/>
+                <Baseline points="549,132 574,132 599,132 624,133 649,134 674,134 700,135 725,135 750,135 775,135 800,135 826,135"/>
+                <TextEquiv>
+                    <Unicode>15248.a.17/81</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="107,189 168,189 188,201 238,179 303,194 332,184 484,186 495,181 495,139 430,137 381,155 321,142 107,142"/>
+                <Baseline points="112,176 137,175 162,175 187,175 212,174 238,174 263,175 288,175 313,175 338,175 364,175 389,175 414,175 439,175 464,175 490,174"/>
+                <TextEquiv>
+                    <Unicode>FANG YAN DIAO CHA YAN JIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657286305841_1220" custom="readingOrder {index:2;}">
+                <Coords points="98,227 331,229 331,279 98,277"/>
+                <Baseline points="98,272 331,274"/>
+                <TextEquiv>
+                    <Unicode>DONG (Zuobin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="138,405 474,418 540,409 541,387 473,372 410,387 375,373 271,382 139,373"/>
+                <Baseline points="143,397 169,398 195,398 221,398 247,398 273,398 299,398 325,399 352,399 378,399 404,399 430,400 456,400 482,401 508,402 535,403"/>
+                <TextEquiv>
+                    <Unicode>Fangyan diaocha yanjiu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="141,442 649,449 649,427 612,414 473,423 141,404"/>
+                <Baseline points="146,433 172,433 198,433 224,432 250,432 277,432 303,432 329,432 355,433 381,433 408,433 434,433 460,434 486,434 512,435 539,435 565,436 591,436 617,437 644,438"/>
+                <TextEquiv>
+                    <Unicode>(Studies of Chinese dialects.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="144,467 844,481 816,453 725,445 626,463 420,441 145,452"/>
+                <Baseline points="149,467 183,468 218,468 252,468 287,468 321,468 356,469 390,469 425,469 459,469 494,470 528,470 563,470 597,471 632,471 666,472 701,473 735,473 770,475 804,476 839,477"/>
+                <TextEquiv>
+                    <Unicode>[Contributed by Dong Zuobin, Lin Yutang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="144,513 745,515 745,489 716,480 578,479 560,496 450,477 144,481"/>
+                <Baseline points="149,501 178,502 208,502 237,503 267,503 296,503 326,504 355,504 385,504 414,504 444,504 474,504 503,504 533,504 562,504 592,504 621,505 651,505 680,505 710,506 770,507"/>
+                <TextEquiv>
+                    <Unicode>Rong Zhaozu and others. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="142,553 166,554 174,546 192,545 198,539 223,554 274,546 274,523 266,523 243,508 235,514 212,512 192,528 172,517 142,516"/>
+                <Baseline points="147,538 177,538 208,538 238,539 269,540"/>
+                <TextEquiv>
+                    <Unicode>pp. 174.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="776,545 797,546 810,552 820,542 828,547 841,546 865,554 879,554 880,523 870,522 865,517 833,518 819,528 808,517 777,516"/>
+                <Baseline points="781,538 812,539 843,541 874,541"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="140,614 766,617 732,580 653,595 635,581 140,577"/>
+                <Baseline points="145,603 175,603 206,603 237,604 268,604 299,604 329,604 360,604 391,604 422,604 453,604 483,605 514,605 545,605 576,605 607,606 637,606 668,607 699,608 730,609 761,610"/>
+                <TextEquiv>
+                    <Unicode>Dongfang wenhua shuju: Taipei, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="143,682 846,690 846,653 143,643"/>
+                <Baseline points="148,671 182,672 217,673 251,674 286,674 321,675 355,675 390,675 425,676 459,676 494,676 529,676 563,677 598,677 633,677 667,677 702,677 737,677 771,677 806,678 841,678"/>
+                <TextEquiv>
+                    <Unicode>Guoli Beijing daxue Zhongguo minsu xuehui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="132,730 237,725 305,739 320,730 365,738 386,727 446,730 446,706 425,693 400,692 380,711 348,693 255,702 159,693 132,701"/>
+                <Baseline points="137,717 162,718 187,718 213,719 238,720 263,721 289,721 314,722 339,722 365,722 390,723 415,723 441,723"/>
+                <TextEquiv>
+                    <Unicode>minsu congshu, 81.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15248.a.17/81&#13;
+FANG YAN DIAO CHA YAN JIU&#13;
+DONG (Zuobin)&#13;
+Fangyan diaocha yanjiu.&#13;
+(Studies of Chinese dialects.)&#13;
+[Contributed by Dong Zuobin, Lin Yutang,&#13;
+Rong Zhaozu and others. A reprint.]&#13;
+pp. 174.&#13;
+21 cm.&#13;
+Dongfang wenhua shuju: Taipei, 1973.&#13;
+Guoli Beijing daxue Zhongguo minsu xuehui&#13;
+minsu congshu, 81.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

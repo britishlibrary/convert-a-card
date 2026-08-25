@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.553+01:00</Created>
+        <LastChange>2023-06-27T09:48:22.015+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758377" pageNr="212"/>
+    </Metadata>
+    <Page imageFilename="28961232182.jpg" imageWidth="980" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687852102015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="110,93 110,588 929,588 929,93"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,120 622,130 646,123 684,130 709,117 872,130 885,129 886,103 821,85 778,88 762,101 695,101 680,85 656,94 645,85 599,92"/>
+                <Baseline points="604,113 629,114 654,115 679,115 704,116 729,117 755,117 780,118 805,118 830,119 855,119 881,119"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/514</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="147,178 859,170 859,132 718,126 615,148 360,132 344,148 294,124 147,142"/>
+                <Baseline points="152,162 187,162 222,161 257,161 292,160 327,160 362,160 397,160 432,160 467,160 503,160 538,160 573,160 608,160 643,160 678,160 713,160 748,160 783,160 818,160 854,160"/>
+                <TextEquiv>
+                    <Unicode>FANG WANG XI (BAO) XIAN SHENG JI (JI WAI WEN)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="120,250 186,246 197,255 211,249 328,255 344,250 345,212 320,212 298,222 272,221 262,213 240,219 203,212 186,219 121,213"/>
+                <Baseline points="125,239 151,240 178,240 205,240 232,240 258,240 285,241 312,242 339,244"/>
+                <TextEquiv>
+                    <Unicode>DAI (Junheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="144,340 861,353 844,317 145,308"/>
+                <Baseline points="149,331 184,332 219,334 255,336 290,336 325,338 361,338 396,339 431,340 467,340 502,341 537,341 573,342 608,342 643,342 679,342 714,343 749,343 785,344 820,345 856,346"/>
+                <TextEquiv>
+                    <Unicode>Fang Wangxi (Bao) xiansheng ji (Jiwai wen).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="155,381 332,374 438,402 538,376 869,387 863,357 155,342"/>
+                <Baseline points="160,368 195,369 230,370 265,371 300,371 336,372 371,372 406,373 441,373 476,374 512,374 547,375 582,375 617,376 652,376 688,377 723,377 758,378 793,378 828,378 864,379"/>
+                <TextEquiv>
+                    <Unicode>[Collected official and other miscellaneous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_211" custom="readingOrder {index:5;}">
+                <Coords points="152,400 177,401 203,402 228,402 254,403 280,404 305,404 331,404 356,405 382,405 408,405 433,406 459,406 484,406 510,407 536,407 561,408 587,408 613,409 624,410 637,409 656,409 672,409 686,410 701,410 702,410 702,395 701,395 686,395 672,394 656,394 636,394 624,395 614,394 587,393 561,393 536,392 510,392 484,391 459,391 433,391 408,390 382,390 356,390 331,389 305,389 280,389 255,388 228,387 203,387 178,386 153,385"/>
+                <Baseline points="152,400 177,401 203,402 228,402 254,403 280,404 305,404 331,404 356,405 382,405 408,405 433,406 459,406 484,406 510,407 536,407 561,408 587,408 613,409 624,410 637,409 656,409 672,409 686,410 701,410 702,410"/>
+                <TextEquiv>
+                    <Unicode>writings of Fang ao. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="150,450 185,450 193,442 218,438 231,450 279,451 305,446 305,424 287,413 233,413 224,422 207,413 151,413"/>
+                <Baseline points="155,436 184,436 213,437 242,438 271,439 300,437"/>
+                <TextEquiv>
+                    <Unicode>pps. 579.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="142,503 441,507 510,523 580,512 626,530 657,518 646,477 557,491 543,477 142,476"/>
+                <Baseline points="147,499 172,499 197,500 222,501 248,502 273,502 298,503 323,503 349,504 374,504 399,504 424,505 450,505 475,505 500,505 525,506 551,506 576,506 601,506 626,506 670,507"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1966-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_201" custom="readingOrder {index:8;}">
+                <Coords points="151,566 176,568 202,569 228,570 254,571 279,571 305,571 331,572 357,572 382,572 408,572 434,572 460,573 485,573 511,574 537,575 563,576 589,577 628,578 640,578 676,578 703,578 730,578 757,578 757,563 730,563 703,563 676,563 640,563 628,563 589,562 564,561 538,560 512,559 485,558 460,558 434,557 408,557 382,557 357,557 331,557 305,556 279,556 254,556 229,555 203,554 177,553 152,551"/>
+                <Baseline points="151,566 176,568 202,569 228,570 254,571 279,571 305,571 331,572 357,572 382,572 408,572 434,572 460,573 485,573 511,574 537,575 563,576 589,577 628,578 640,578 676,578 703,578 730,578 757,578"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan, 514.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.29/514&#13;
+FANG WANG XI (BAO) XIAN SHENG JI (JI WAI WEN)&#13;
+DAI (Junheng)&#13;
+Fang Wangxi (Bao) xiansheng ji (Jiwai wen).&#13;
+[Collected official and other miscellaneous&#13;
+writings of Fang ao. A reprint.]&#13;
+pps. 579.&#13;
+Wenhai chubanshe: Taipei, 1966-&#13;
+Jindai Zhongguo shiliao congkan, 514.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

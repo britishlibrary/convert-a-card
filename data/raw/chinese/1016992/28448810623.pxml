@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.860+01:00</Created>
+        <LastChange>2023-05-04T12:50:55.491+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758262" pageNr="111"/>
+    </Metadata>
+    <Page imageFilename="28448810623.jpg" imageWidth="932" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197455491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="32,52 32,601 863,609 868,49"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="584,92 768,99 784,90 830,90 830,53 788,48 755,74 714,63 701,75 670,59 583,63"/>
+                <Baseline points="588,86 614,86 640,85 667,85 693,85 719,84 746,84 772,83 798,83 825,82"/>
+                <TextEquiv>
+                    <Unicode>15530.c.512</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="46,226 110,223 124,237 143,226 177,227 184,234 208,226 231,226 240,234 281,231 282,189 185,197 167,189 47,186"/>
+                <Baseline points="51,219 76,219 101,219 126,220 151,220 176,220 201,221 226,222 251,223 276,225"/>
+                <TextEquiv>
+                    <Unicode>HAN (Jiayang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="60,305 560,298 573,254 60,261"/>
+                <Baseline points="65,290 90,289 115,289 140,288 165,288 190,288 215,288 241,288 266,288 291,288 316,288 341,288 366,288 391,288 417,289 442,289 467,289 492,289 517,289 542,288 568,288"/>
+                <TextEquiv>
+                    <Unicode>Fang da Lan ting xu ji lian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="91,515 110,513 116,508 131,508 138,515 150,515 159,506 183,506 193,501 192,482 181,482 168,469 90,470"/>
+                <Baseline points="96,502 126,500 157,500 188,500"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="85,585 548,583 623,569 623,544 557,533 215,533 195,546 85,533"/>
+                <Baseline points="90,564 116,565 142,565 169,565 195,565 222,565 248,564 274,564 301,564 327,564 354,564 380,564 406,564 433,563 459,563 486,563 512,563 538,563 565,563 591,564 618,564"/>
+                <TextEquiv>
+                    <Unicode>88 p.: chiefly facsims.; 35 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15530.c.512&#13;
+HAN (Jiayang)&#13;
+Fang da Lan ting xu ji lian&#13;
+1986&#13;
+88 p.: chiefly facsims.; 35 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

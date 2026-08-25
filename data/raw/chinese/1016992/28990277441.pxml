@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.243+01:00</Created>
+        <LastChange>2023-07-03T16:30:49.742+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758498" pageNr="315" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=NSVGCFGDOMZTLLHTKTPMFCDB&amp;fileType=view" imageId="35195804"/>
+    </Metadata>
+    <Page imageFilename="42758498.jpg" imageWidth="1008" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394649742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="122,45 934,45 934,744 122,744"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="566,101 595,114 686,100 757,102 780,115 792,106 803,115 826,107 826,76 809,78 796,65 779,65 755,87 741,73 677,73 665,61 566,60"/>
+                <Baseline points="571,100 576,100 601,100 626,100 652,102 677,102 702,102 727,102 752,102 778,100 803,102 828,95"/>
+                <TextEquiv>
+                    <Unicode>15266.fa.329</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="122,153 280,154 288,147 295,154 354,154 354,101 122,101"/>
+                <Baseline points="127,146 152,146 178,146 203,146 228,146 253,146 279,147 304,147 329,147 354,147 356,147"/>
+                <TextEquiv>
+                    <Unicode>FANG XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="117,237 231,251 367,250 378,238 465,266 530,252 527,190 491,199 463,175 427,185 397,218 357,200 338,212 311,199 298,213 240,196 207,209 192,197 115,200"/>
+                <Baseline points="122,235 147,233 173,233 198,233 223,231 248,233 273,235 299,235 324,235 349,236 374,238 400,242 425,245 450,245 475,247 500,247 526,245 532,242"/>
+                <TextEquiv>
+                    <Unicode>YANG (Tinglie)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="159,386 928,386 928,348 884,344 418,365 159,346"/>
+                <Baseline points="164,369 189,374 215,374 240,374 265,374 290,376 315,374 341,376 366,376 391,374 416,374 442,373 467,374 492,376 517,376 542,374 568,374 593,376 618,376 643,376 668,376 694,376 719,376 744,376 769,376 795,374 820,376 845,378 870,376 895,376 921,374 929,374"/>
+                <TextEquiv>
+                    <Unicode>Fang xian zhi. [Description of the district</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="156,417 882,422 882,385 841,381 515,383 493,404 156,386"/>
+                <Baseline points="161,405 186,410 211,411 236,410 262,410 287,410 312,410 337,410 363,411 388,411 413,411 438,411 463,411 489,411 514,411 539,411 564,411 589,411 615,411 640,411 665,411 690,411 716,411 741,413 766,411 791,411 816,413 842,413 867,410 884,406"/>
+                <TextEquiv>
+                    <Unicode>in Hubei province. A reprint of the 1865.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="152,447 201,459 230,458 235,453 277,459 304,452 303,436 295,436 286,427 253,426 242,419 184,419 176,427 152,427"/>
+                <Baseline points="157,443 183,445 208,445 233,445 258,447 284,448 305,447"/>
+                <TextEquiv>
+                    <Unicode>edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="156,490 175,498 209,483 231,494 271,483 324,486 336,498 368,484 458,490 458,469 425,453 361,462 339,448 325,462 288,455 253,467 233,455 206,467 156,450"/>
+                <Baseline points="161,484 186,482 211,482 236,484 262,482 287,484 312,484 337,484 363,484 388,482 413,482 438,484 460,485"/>
+                <TextEquiv>
+                    <Unicode>13 ch. in 3 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="798,489 814,490 832,499 848,484 855,490 904,491 912,487 912,467 902,468 894,460 844,457 835,449 797,450"/>
+                <Baseline points="803,482 828,482 853,482 879,484 904,484 914,484"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="158,559 735,562 734,527 713,516 629,535 556,514 497,533 157,524"/>
+                <Baseline points="163,551 188,551 213,551 238,549 263,551 289,551 314,551 339,552 364,552 389,552 415,552 440,551 465,551 490,551 515,551 541,552 566,552 591,554 616,554 642,552 667,554 692,554 717,554 737,556"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="151,630 915,634 915,611 861,594 628,592 600,614 548,593 151,597"/>
+                <Baseline points="156,620 181,623 206,623 231,623 257,623 282,621 307,621 332,621 358,623 383,623 408,623 433,623 458,623 484,623 509,623 534,623 559,623 584,623 610,621 635,623 660,623 685,623 710,623 736,623 761,623 786,623 811,623 837,623 862,625 887,626 912,628 916,630"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huazhong difang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="158,675 193,672 234,674 234,649 226,648 214,637 200,635 195,637 191,634 187,637 157,637"/>
+                <Baseline points="163,663 188,665 213,665 236,665"/>
+                <TextEquiv>
+                    <Unicode>329.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fa.329&#13;
+FANG XIAN ZHI&#13;
+YANG (Tinglie)&#13;
+Fang xian zhi. [Description of the district&#13;
+in Hubei province. A reprint of the 1865.&#13;
+edition.]&#13;
+13 ch. in 3 vols.&#13;
+27 cm.&#13;
+Chengwen chubanshe: Taipei, 1976.&#13;
+Zhongguo fangzhi congshu. Huazhong difang,&#13;
+329.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.149+01:00</Created>
+        <LastChange>2023-05-04T12:51:48.176+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758277" pageNr="125"/>
+    </Metadata>
+    <Page imageFilename="28448818903.jpg" imageWidth="980" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197508177" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="72,120 66,627 896,629 892,110"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="579,162 693,148 707,157 835,151 869,167 886,160 885,116 864,110 775,117 761,109 745,126 717,114 698,127 666,109 578,115"/>
+                <Baseline points="584,147 611,146 638,145 665,145 692,144 719,144 746,144 773,144 800,144 827,145 854,145 881,145"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1048-9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="112,194 266,185 274,193 334,195 399,176 398,145 181,150 173,157 160,149 111,152"/>
+                <Baseline points="117,184 142,182 167,181 192,180 217,179 242,179 268,179 293,179 318,178 343,178 368,178 394,176"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ YU SHENG HUO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="67,295 119,298 132,287 147,298 197,290 208,298 238,290 279,298 291,291 291,253 263,253 252,262 168,261 160,253 95,262 86,253 67,252"/>
+                <Baseline points="72,283 98,284 125,284 152,284 179,284 205,284 232,284 259,284 286,283"/>
+                <TextEquiv>
+                    <Unicode>SUN (Dingwo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="105,402 875,394 875,364 732,357 105,364"/>
+                <Baseline points="110,387 148,388 186,388 224,388 262,388 300,388 338,388 376,388 414,388 452,388 490,388 528,388 566,387 604,387 642,387 680,387 718,387 756,386 794,386 832,386 870,386"/>
+                <TextEquiv>
+                    <Unicode>Falü yu shenghuo. [A collection of essays</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="110,434 199,436 223,419 242,435 300,428 370,442 396,429 476,434 508,422 508,411 465,397 110,406"/>
+                <Baseline points="115,424 140,424 166,423 192,423 218,423 244,423 270,423 296,423 321,423 347,423 373,423 399,423 425,423 451,423 477,423 503,422"/>
+                <TextEquiv>
+                    <Unicode>on law and daily life.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="102,474 143,474 150,467 171,467 182,458 190,466 203,465 224,474 246,474 273,463 273,446 257,446 227,429 202,433 175,446 160,437 102,438"/>
+                <Baseline points="107,462 133,460 160,459 187,459 214,459 241,460 268,459"/>
+                <TextEquiv>
+                    <Unicode>pps. 244.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="475,463 493,467 575,464 575,445 560,444 553,437 530,437 520,429 498,433 489,429 476,430"/>
+                <Baseline points="480,454 510,454 540,454 570,457"/>
+                <TextEquiv>
+                    <Unicode>18cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="99,537 822,537 792,493 716,511 99,501"/>
+                <Baseline points="104,527 139,527 175,527 210,527 246,527 282,527 317,527 353,527 389,527 424,527 460,527 496,527 531,527 567,527 603,527 638,527 674,527 710,528 745,528 781,528 817,528"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="104,602 730,609 716,562 629,579 457,560 400,580 104,567"/>
+                <Baseline points="109,595 139,595 170,595 201,596 232,596 263,596 293,596 324,596 355,596 386,596 417,595 447,595 478,595 509,595 540,596 571,596 601,596 632,596 663,597 694,597 725,598"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no.1048-9 [in 1 vol.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1048-9&#13;
+FA LÜ YU SHENG HUO&#13;
+SUN (Dingwo)&#13;
+Falü yu shenghuo. [A collection of essays&#13;
+on law and daily life.]&#13;
+pps. 244.&#13;
+18cm.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1969.&#13;
+Renren wenku, no.1048-9 [in 1 vol.]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.881+01:00</Created>
+        <LastChange>2023-05-04T12:45:10.671+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758199" pageNr="56"/>
+    </Metadata>
+    <Page imageFilename="28445626954.jpg" imageWidth="980" imageHeight="800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197110671" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,41 54,490 828,490 824,41"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="545,90 795,89 795,65 771,53 724,53 706,70 680,60 638,69 622,53 545,55"/>
+                <Baseline points="550,79 576,80 603,80 630,80 656,80 683,81 710,81 736,81 763,82 790,82"/>
+                <TextEquiv>
+                    <Unicode>15324.m.126</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="71,154 132,150 149,156 233,153 243,148 242,104 218,104 204,117 168,117 151,101 70,105"/>
+                <Baseline points="76,140 103,140 130,140 157,139 184,138 211,138 238,140"/>
+                <TextEquiv>
+                    <Unicode>FANG GE JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657631897584_273" custom="readingOrder {index:2;}">
+                <Coords points="55,179 277,179 277,229 55,229"/>
+                <Baseline points="55,224 277,224"/>
+                <TextEquiv>
+                    <Unicode>HE (Jingzhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="98,363 198,363 216,352 229,363 299,354 313,369 459,364 459,333 444,324 414,335 325,320 283,340 256,325 169,334 98,325"/>
+                <Baseline points="103,347 128,349 153,350 178,351 203,351 228,351 253,351 278,351 303,350 328,350 353,351 378,352 403,353 428,355 454,357"/>
+                <TextEquiv>
+                    <Unicode>Fangge ji. [Poems.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="96,402 131,402 139,394 152,394 157,389 170,396 201,396 209,403 217,402 226,393 237,393 238,370 230,370 217,358 158,362 147,372 131,364 97,365"/>
+                <Baseline points="101,383 127,386 153,387 179,387 205,387 232,388"/>
+                <TextEquiv>
+                    <Unicode>pp. 217</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="611,399 643,403 660,390 683,395 729,393 730,366 663,366 653,358 612,356"/>
+                <Baseline points="617,386 644,385 671,386 698,387 725,387"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="98,467 765,466 738,428 656,444 597,421 337,442 98,429"/>
+                <Baseline points="103,454 135,454 168,454 201,454 234,454 267,454 300,454 332,454 365,455 398,455 431,455 464,455 497,456 530,456 562,456 595,457 628,457 661,457 694,458 727,458 760,458"/>
+                <TextEquiv>
+                    <Unicode>Renmin wenxue chubanshe: Peking, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15324.m.126&#13;
+FANG GE JI&#13;
+HE (Jingzhi)&#13;
+Fangge ji. [Poems.]&#13;
+pp. 217&#13;
+19 cm.&#13;
+Renmin wenxue chubanshe: Peking, 1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

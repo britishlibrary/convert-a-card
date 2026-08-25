@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.065+01:00</Created>
+        <LastChange>2023-07-03T16:16:17.717+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758486" pageNr="304" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=HZYEJWBOBJSUNITYRXAQFMQY&amp;fileType=view" imageId="35195792"/>
+    </Metadata>
+    <Page imageFilename="42758486.jpg" imageWidth="952" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393777717" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="72,16 878,16 878,628 72,628"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="543,71 777,74 787,63 807,82 849,82 877,74 876,18 542,29"/>
+                <Baseline points="548,66 572,66 596,66 620,68 644,68 667,68 691,68 715,68 739,66 759,68 762,68 786,68 810,68 834,69 858,69 878,69"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.1318</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="68,202 168,202 175,194 193,210 211,200 350,210 362,205 361,155 321,153 301,173 267,174 247,173 215,149 66,148"/>
+                <Baseline points="72,190 96,193 120,191 144,193 168,193 191,193 215,193 239,195 263,195 287,195 310,196 334,196 358,199 364,199"/>
+                <TextEquiv>
+                    <Unicode>ZHENG (Wenguang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="101,275 474,282 490,280 489,229 452,241 419,226 385,240 354,228 273,236 259,222 100,225"/>
+                <Baseline points="106,263 130,261 153,261 177,261 201,261 225,261 249,261 272,261 296,261 320,263 344,263 368,263 391,264 415,264 439,264 463,266 486,268 491,269"/>
+                <TextEquiv>
+                    <Unicode>Fei xiang ren ma zuo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="119,449 414,441 565,483 613,450 699,452 698,421 613,403 559,421 516,380 478,406 429,390 406,415 368,390 340,416 295,390 256,411 221,382 179,408 117,393"/>
+                <Baseline points="123,433 125,434 149,434 172,434 196,436 220,437 244,437 268,439 291,439 315,442 339,442 363,442 387,440 410,442 434,444 458,445 482,447 506,450 530,448 530,448 555,448 578,445 602,444 626,445 650,450 674,447 697,448 701,447"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="102,540 135,545 144,554 164,546 174,554 201,554 209,545 237,540 249,547 324,546 324,526 312,526 293,509 226,509 207,526 187,507 101,502"/>
+                <Baseline points="107,532 131,537 155,537 179,537 203,539 226,540 250,539 274,540 298,539 322,540 326,540"/>
+                <TextEquiv>
+                    <Unicode>283 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="101,612 846,626 813,580 716,601 665,577 552,597 532,577 367,573 340,594 318,572 217,571 188,593 101,568"/>
+                <Baseline points="106,605 130,609 153,609 177,609 201,609 225,610 249,610 272,612 296,612 320,610 344,610 368,612 391,612 415,612 439,613 463,612 486,613 510,615 534,615 558,613 582,615 605,615 629,617 653,615 677,617 701,617 724,618 748,618 772,618 796,618 820,618 843,618 847,618"/>
+                <TextEquiv>
+                    <Unicode>With author's inscription to Brian Aldiss.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.1318&#13;
+ZHENG (Wenguang)&#13;
+Fei xiang ren ma zuo&#13;
+1979&#13;
+283 p.: ill.&#13;
+With author's inscription to Brian Aldiss.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

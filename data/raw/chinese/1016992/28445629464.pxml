@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.179+01:00</Created>
+        <LastChange>2023-05-04T12:46:01.960+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758215" pageNr="70"/>
+    </Metadata>
+    <Page imageFilename="28445629464.jpg" imageWidth="956" imageHeight="778">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197161994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,61 52,669 899,672 895,64"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="577,106 796,114 811,104 812,79 782,68 755,68 745,77 679,82 666,69 578,67"/>
+                <Baseline points="583,95 610,95 638,96 666,97 694,97 722,99 750,99 778,100 806,101"/>
+                <TextEquiv>
+                    <Unicode>15652.a.27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="64,185 646,185 646,135 603,152 64,149"/>
+                <Baseline points="69,174 97,174 126,174 154,174 183,175 212,175 240,175 269,175 297,175 326,175 355,175 383,175 412,175 440,175 469,175 498,175 526,175 555,175 583,174 612,174 641,174"/>
+                <TextEquiv>
+                    <Unicode>FAN WEN LAN LI SHI LUN WEN XUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="59,249 117,238 238,242 246,249 276,235 277,205 260,197 246,197 230,209 192,204 184,211 139,198 61,203"/>
+                <Baseline points="65,230 90,231 116,231 142,231 168,231 193,231 219,232 245,234 271,237"/>
+                <TextEquiv>
+                    <Unicode>FAN (Wenlan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="89,305 567,322 683,313 697,289 90,270"/>
+                <Baseline points="94,297 123,297 153,299 183,300 213,301 243,301 273,302 302,302 332,302 362,303 392,303 422,303 452,303 482,304 511,304 541,304 571,304 601,304 631,305 661,305 691,306"/>
+                <TextEquiv>
+                    <Unicode>Fan Wen lan li shi lun wen xuan ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683192825137_39" custom="readingOrder {index:4;}">
+                <Coords points="591,532 689,532 689,582 591,582"/>
+                <Baseline points="591,577 689,577"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="108,642 811,640 714,605 494,622 108,605"/>
+                <Baseline points="113,633 147,634 182,635 216,636 251,637 286,638 320,638 355,638 390,638 424,639 459,639 494,639 528,638 563,638 598,638 632,638 667,638 702,639 736,639 771,639 806,640"/>
+                <TextEquiv>
+                    <Unicode>2, [1], 380 p.: [6] p. of ports.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15652.a.27&#13;
+FAN WEN LAN LI SHI LUN WEN XUAN JI&#13;
+FAN (Wenlan)&#13;
+Fan Wen lan li shi lun wen xuan ji&#13;
+1979&#13;
+2, [1], 380 p.: [6] p. of ports.; 21 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

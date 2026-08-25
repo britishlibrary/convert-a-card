@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.282+01:00</Created>
+        <LastChange>2023-05-04T12:52:12.117+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758285" pageNr="132"/>
+    </Metadata>
+    <Page imageFilename="28448819723.jpg" imageWidth="952" imageHeight="775">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197532117" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="58,36 58,726 876,725 876,35"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="631,75 681,75 695,83 710,75 733,83 872,81 874,35 855,48 631,43"/>
+                <Baseline points="636,69 661,69 687,69 713,70 739,71 764,71 790,72 816,73 842,74 868,74"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.409</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="82,200 682,205 682,178 657,172 82,173"/>
+                <Baseline points="87,193 116,192 146,192 175,192 205,192 234,192 264,192 293,193 323,193 352,194 382,194 411,195 441,196 470,196 500,197 529,197 559,198 588,198 618,198 647,198 677,198"/>
+                <TextEquiv>
+                    <Unicode>FA HAN DUI WAI MAO YI XIAO CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="151,274 774,264 774,243 735,230 152,230"/>
+                <Baseline points="157,257 187,256 218,256 248,256 279,256 310,257 340,257 371,257 401,258 432,258 463,259 493,260 524,261 554,261 585,262 616,263 646,264 677,265 707,265 738,266 769,267"/>
+                <TextEquiv>
+                    <Unicode>Fa han dui wai mao yi xiao ci dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512752756_258" custom="readingOrder {index:3;}">
+                <Coords points="779,291 866,293 865,343 778,341"/>
+                <Baseline points="778,336 865,338"/>
+                <TextEquiv>
+                    <Unicode>Petit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="82,428 852,440 852,412 807,404 82,396"/>
+                <Baseline points="87,420 125,421 163,421 201,422 239,422 277,423 315,424 353,424 391,425 429,425 467,426 505,426 543,427 581,428 619,428 657,429 695,430 733,431 771,432 809,433 847,434"/>
+                <TextEquiv>
+                    <Unicode>Dictionnaire Français-Chinois du Commerce Ex-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512770555_268" custom="readingOrder {index:5;}">
+                <Coords points="87,449 212,450 212,500 87,499"/>
+                <Baseline points="87,494 212,495"/>
+                <TextEquiv>
+                    <Unicode>térieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512784129_283" custom="readingOrder {index:6;}">
+                <Coords points="184,564 276,565 276,615 184,614"/>
+                <Baseline points="184,609 276,610"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;}">
+                <Coords points="90,674 103,675 112,666 124,665 139,675 149,675 156,670 166,675 175,673 176,651 165,651 160,645 148,644 137,636 118,635 106,639 92,637"/>
+                <Baseline points="96,660 121,660 146,661 171,664"/>
+                <TextEquiv>
+                    <Unicode>412p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:8;}">
+                <Coords points="87,714 357,714 367,710 368,679 167,676 131,687 121,677 88,677"/>
+                <Baseline points="92,703 119,703 146,703 173,704 200,704 227,704 254,704 281,704 308,704 335,704 362,704"/>
+                <TextEquiv>
+                    <Unicode>s1. Dictionaries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.409&#13;
+FA HAN DUI WAI MAO YI XIAO CI DIAN&#13;
+Fa han dui wai mao yi xiao ci dian&#13;
+Petit&#13;
+Dictionnaire Français-Chinois du Commerce Ex-&#13;
+térieur&#13;
+1981&#13;
+412p.&#13;
+s1. Dictionaries</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

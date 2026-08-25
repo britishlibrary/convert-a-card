@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.797+01:00</Created>
+        <LastChange>2023-07-03T17:22:50.281+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758541" pageNr="351" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TMDGYFGOHALCLNPIFRIMNPJE&amp;fileType=view" imageId="35195847"/>
+    </Metadata>
+    <Page imageFilename="42758541.jpg" imageWidth="956" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397770281" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="70,13 935,13 935,738 70,738"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="612,66 630,75 773,75 782,68 826,82 852,75 851,51 829,42 792,42 778,52 769,42 743,40 729,54 709,41 673,37 611,42"/>
+                <Baseline points="618,63 642,65 666,65 690,65 713,66 737,68 761,68 785,68 809,68 833,70 855,68"/>
+                <TextEquiv>
+                    <Unicode>15650.b.21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="65,153 232,147 297,162 367,146 533,147 533,94 498,94 467,118 445,96 397,97 370,122 324,107 101,117 65,95"/>
+                <Baseline points="71,143 81,143 105,141 129,141 152,143 176,141 200,141 224,141 248,141 272,143 296,141 320,143 344,141 368,143 392,143 415,141 439,141 463,141 487,141 511,141 535,141"/>
+                <TextEquiv>
+                    <Unicode>FALKLANDS BRITAIN ARGENTINA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="65,216 142,220 172,208 183,219 324,220 324,169 310,163 284,184 258,175 219,183 188,169 173,183 154,174 108,181 65,171"/>
+                <Baseline points="71,207 95,207 119,205 143,205 167,207 191,207 215,207 239,207 262,208 286,208 310,208 326,210"/>
+                <TextEquiv>
+                    <Unicode>HUANG (Xuehai)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="99,281 329,290 385,278 464,296 503,284 503,250 431,252 417,238 403,252 180,251 99,235"/>
+                <Baseline points="105,274 129,275 152,275 176,277 200,277 224,277 248,277 272,277 296,278 320,277 344,277 368,278 392,278 415,278 439,278 463,277 487,275 505,277"/>
+                <TextEquiv>
+                    <Unicode>Fu dao zhan yun fen xi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="63,385 410,373 455,402 495,363 837,367 931,422 932,342 878,325 532,344 431,318 294,371 224,314 64,322"/>
+                <Baseline points="70,366 74,364 98,369 122,371 146,371 170,372 194,374 218,374 242,376 266,377 290,379 313,380 337,379 361,379 385,376 409,374 433,371 457,366 481,363 505,363 529,363 552,363 576,363 600,363 624,364 648,364 672,364 696,364 720,366 744,366 768,363 792,364 815,363 839,363 863,363 887,363 911,363 935,363"/>
+                <TextEquiv>
+                    <Unicode>Falklands, Britian,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="76,475 97,471 119,490 135,490 163,463 182,474 267,465 314,498 324,491 322,427 286,444 239,410 224,421 191,412 175,429 117,409 73,420"/>
+                <Baseline points="81,455 105,455 129,455 152,457 176,457 200,458 224,458 248,460 272,462 296,463 320,465 325,463"/>
+                <TextEquiv>
+                    <Unicode>Argentina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="106,570 127,557 265,570 281,556 306,578 337,557 378,578 447,578 469,560 577,570 575,512 513,507 450,544 394,500 353,514 286,500 267,516 222,491 202,512 174,490 103,490"/>
+                <Baseline points="111,544 137,546 160,549 184,548 208,549 232,551 256,551 280,554 304,554 328,556 352,560 376,562 399,564 423,565 447,564 471,559 495,560 519,559 543,557 567,557 580,560"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="103,627 130,642 162,633 231,650 258,640 326,651 398,635 455,641 454,605 399,616 378,598 319,615 297,602 225,602 206,613 185,592 103,601"/>
+                <Baseline points="109,626 133,627 157,631 181,631 205,632 229,632 253,634 277,634 301,635 325,635 348,635 372,635 396,635 420,635 444,635 455,632"/>
+                <TextEquiv>
+                    <Unicode>136 p.: ill.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15650.b.21&#13;
+FALKLANDS BRITAIN ARGENTINA&#13;
+HUANG (Xuehai)&#13;
+Fu dao zhan yun fen xi&#13;
+Falklands, Britian,&#13;
+Argentina&#13;
+1982&#13;
+136 p.: ill.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

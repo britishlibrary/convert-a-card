@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.921+01:00</Created>
+        <LastChange>2023-07-03T17:30:07.294+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758550" pageNr="359" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=JATGXQPGMNJWOABRRPHPKRXV&amp;fileType=view" imageId="35195856"/>
+    </Metadata>
+    <Page imageFilename="42758550.jpg" imageWidth="952" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398207294" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="52,5 877,5 877,789 52,789"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="490,66 544,65 560,74 579,61 601,74 630,74 714,61 730,75 786,66 787,34 720,31 699,47 684,33 671,45 643,32 587,34 573,47 547,33 491,34"/>
+                <Baseline points="495,61 503,60 526,61 550,61 574,61 598,63 622,63 645,61 669,61 693,61 717,60 741,60 765,58 788,55"/>
+                <TextEquiv>
+                    <Unicode>CHI.1991.a.1373</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="56,192 128,194 135,186 153,202 169,192 256,202 266,197 265,147 241,161 186,157 173,144 149,157 115,158 84,144 55,161"/>
+                <Baseline points="60,187 84,185 107,185 131,185 155,187 179,187 203,185 226,187 250,190 268,190"/>
+                <TextEquiv>
+                    <Unicode>YANG (Xiong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688398188259_2502" custom="readingOrder {index:2;}">
+                <Coords points="91,206 248,202 249,252 92,256"/>
+                <Baseline points="92,251 249,247"/>
+                <TextEquiv>
+                    <Unicode>Fang yan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688398156566_2482" custom="readingOrder {index:3;}">
+                <Coords points="116,361 239,358 240,408 117,411"/>
+                <Baseline points="117,406 240,403"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="93,436 159,446 173,439 286,440 299,450 337,440 357,448 356,428 327,412 240,412 220,426 205,412 163,425 149,411 130,423 115,408 92,408"/>
+                <Baseline points="98,434 122,434 146,438 169,438 193,438 217,438 241,438 265,438 288,439 312,439 336,439 358,441"/>
+                <TextEquiv>
+                    <Unicode>2 v. in a case.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="98,472 388,472 435,490 585,478 584,445 563,433 484,423 350,450 261,439 230,459 205,442 98,444"/>
+                <Baseline points="103,463 126,465 150,466 174,466 198,468 222,468 246,468 269,469 293,471 317,471 341,471 365,471 388,472 412,474 436,474 460,474 466,472 466,472 490,474 514,472 538,472 561,472 585,476 587,476"/>
+                <TextEquiv>
+                    <Unicode>Reprint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="94,511 318,514 318,487 275,480 258,485 242,472 226,483 183,476 93,483"/>
+                <Baseline points="99,504 123,504 147,504 171,504 195,504 219,504 242,506 266,507 290,507 314,509 320,507"/>
+                <TextEquiv>
+                    <Unicode>s1. Etymology.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1991.a.1373&#13;
+YANG (Xiong)&#13;
+Fang yan&#13;
+1982&#13;
+2 v. in a case.&#13;
+Reprint&#13;
+s1. Etymology.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

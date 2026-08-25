@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.993+01:00</Created>
+        <LastChange>2023-08-16T14:57:15.677+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758555" pageNr="364" tsid="128197470" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=CTNGMJOXYDINKEXHDGPGHTRY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGJLAIFYJJGIEASBHAPCMHPA" imageId="35195861"/>
+    </Metadata>
+    <Page imageFilename="42758555.jpg" imageWidth="984" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692190635677" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="162,40 940,40 940,712 162,712"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="593,98 699,98 710,91 750,98 759,89 768,98 820,96 820,57 778,54 750,73 725,56 702,77 661,46 642,55 593,56"/>
+                <Baseline points="598,90 622,90 647,90 671,90 696,91 720,91 745,91 770,93 794,91 819,93 822,93"/>
+                <TextEquiv>
+                    <Unicode>15254.f.49</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="165,140 569,145 569,98 509,99 494,114 459,104 415,114 402,101 165,102"/>
+                <Baseline points="170,139 178,139 203,137 227,137 252,137 276,137 301,137 326,137 350,137 375,137 399,137 424,137 448,137 473,137 498,137 522,137 547,137 571,136"/>
+                <TextEquiv>
+                    <Unicode>FANG SHE XING TONG WEI SU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="157,229 373,232 372,206 352,205 331,187 318,200 245,197 233,186 225,196 155,196"/>
+                <Baseline points="162,221 186,221 211,221 235,222 260,222 285,224 309,224 334,227 358,231 375,232"/>
+                <TextEquiv>
+                    <Unicode>LU (Sheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="390,258 405,250 447,250 458,239 470,249 485,243 491,250 534,249 537,177 508,171 492,181 473,180 460,192 453,192 433,171 415,168 393,178"/>
+                <Baseline points="395,243 414,240 439,239 463,239 488,239 512,237 537,235"/>
+                <TextEquiv>
+                    <Unicode>I5 111</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="204,322 289,313 326,330 363,311 549,322 618,308 618,257 581,249 541,263 483,250 460,272 419,251 383,265 351,252 204,261"/>
+                <Baseline points="209,304 234,308 258,309 283,309 308,309 332,311 357,308 381,308 406,306 430,308 455,309 480,306 504,306 529,306 553,306 578,306 603,306 619,309"/>
+                <TextEquiv>
+                    <Unicode>Ci Sy Ait [S) [I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="198,369 938,373 938,350 835,328 663,325 634,354 546,328 198,331"/>
+                <Baseline points="203,357 227,357 252,358 276,358 301,358 326,358 350,358 375,358 399,360 424,360 448,360 473,358 498,360 522,360 547,358 571,358 596,360 621,362 645,362 670,362 694,360 719,360 743,358 768,358 793,358 817,358 842,358 866,358 891,360 915,362 940,363"/>
+                <TextEquiv>
+                    <Unicode>Fangshe xing tongwei su. (Radio-isotopes.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="801,401 847,402 855,395 862,402 912,402 912,379 902,379 893,370 852,374 842,364 833,363 824,371 816,366 801,374"/>
+                <Baseline points="806,393 830,393 855,393 879,394 904,394 914,396"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="199,409 241,410 260,397 279,410 298,401 328,410 340,398 451,402 451,379 431,373 369,368 332,378 294,365 263,384 242,371 200,373"/>
+                <Baseline points="204,399 208,398 232,396 257,396 281,396 306,396 330,394 355,396 380,394 404,394 429,394 453,396"/>
+                <TextEquiv>
+                    <Unicode>pp. 91; illus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="198,470 341,464 428,487 529,465 810,474 810,445 749,430 705,447 198,443"/>
+                <Baseline points="203,460 226,463 250,463 275,463 299,463 324,463 349,463 373,463 398,463 422,463 447,463 471,463 496,463 521,463 545,463 570,463 594,463 619,463 643,463 668,465 693,465 717,463 742,465 766,463 791,463 812,462"/>
+                <TextEquiv>
+                    <Unicode>Zhenzhi chubanshe: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="196,535 218,546 229,538 306,546 318,536 351,546 406,534 520,542 520,517 503,508 196,508"/>
+                <Baseline points="201,534 226,534 250,532 275,532 299,532 324,532 349,532 373,532 398,532 422,532 447,534 471,534 496,534 521,534 522,534"/>
+                <TextEquiv>
+                    <Unicode>Zhishi xiao wenku.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="715,707 851,703 863,714 886,708 910,713 910,665 865,666 848,683 829,669 807,679 800,672 770,675 760,665 715,666"/>
+                <Baseline points="720,699 745,699 770,699 794,698 819,699 843,699 868,702 893,701 912,699"/>
+                <TextEquiv>
+                    <Unicode>Chinese (P)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

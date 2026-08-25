@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.229+01:00</Created>
+        <LastChange>2023-06-29T13:29:01.485+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758426" pageNr="253"/>
+    </Metadata>
+    <Page imageFilename="28961241042.jpg" imageWidth="952" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038141486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,53 83,576 801,580 795,57"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="463,106 769,106 776,66 463,67"/>
+                <Baseline points="468,92 493,93 518,94 543,94 569,95 594,95 619,95 644,95 670,95 695,95 720,94 745,94 771,94"/>
+                <TextEquiv>
+                    <Unicode>CHI.1991.a.1287</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="95,306 627,299 642,295 642,261 301,280 95,269"/>
+                <Baseline points="100,294 126,294 153,294 180,295 207,295 234,295 261,295 287,295 314,295 341,295 368,295 395,295 422,295 449,295 475,294 502,294 529,294 556,293 583,293 610,292 637,291"/>
+                <TextEquiv>
+                    <Unicode>FAN JUN HONG, LU RUI MING XI QU XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="129,335 149,335 159,338 163,335 168,338 174,335 177,338 189,338 188,301 174,300 171,303 157,299 154,301 137,299 128,301"/>
+                <Baseline points="134,328 159,325 670,327"/>
+                <TextEquiv>
+                    <Unicode>FAN JUN HONG, LU RUI MING XI QU XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688029798055_141" custom="readingOrder {index:3;}">
+                <Coords points="389,352 449,349 451,399 391,402"/>
+                <Baseline points="391,397 451,394"/>
+                <TextEquiv>
+                    <Unicode>1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="128,427 194,429 206,417 228,426 239,416 263,429 318,427 318,407 301,406 291,396 248,403 237,396 212,398 199,409 169,397 128,398"/>
+                <Baseline points="133,420 158,421 184,421 210,420 235,419 261,419 287,420 313,422"/>
+                <TextEquiv>
+                    <Unicode>300p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="131,459 213,458 223,451 233,459 395,457 394,421 300,423 283,432 240,422 222,429 213,421 193,429 130,428"/>
+                <Baseline points="136,453 161,451 186,449 212,449 237,449 263,449 288,449 313,449 339,448 364,447 390,444"/>
+                <TextEquiv>
+                    <Unicode>ISBN 7-104-00169-7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="109,562 178,559 199,570 216,569 224,561 275,563 275,526 208,533 201,526 184,525 174,535 109,535"/>
+                <Baseline points="114,552 140,553 166,553 192,554 218,554 244,554 270,553"/>
+                <TextEquiv>
+                    <Unicode>s1. Opera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1991.a.1287&#13;
+FAN JUN HONG, LU RUI MING XI QU XUAN&#13;
+FAN JUN HONG, LU RUI MING XI QU XUAN&#13;
+1990&#13;
+300p.: ill.&#13;
+ISBN 7-104-00169-7&#13;
+s1. Opera</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

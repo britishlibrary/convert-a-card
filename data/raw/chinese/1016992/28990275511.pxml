@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.081+01:00</Created>
+        <LastChange>2023-07-03T16:16:59.680+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758487" pageNr="305" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=WCNMUPWMCLBMSDIVKBNKENCC&amp;fileType=view" imageId="35195793"/>
+    </Metadata>
+    <Page imageFilename="42758487.jpg" imageWidth="984" imageHeight="816">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393819681" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="88,90 909,90 909,732 88,732"/>
+            <TextLine id="line_1688393791440_848" custom="readingOrder {index:0;}">
+                <Coords points="613,105 828,105 828,155 613,155"/>
+                <Baseline points="613,150 828,150"/>
+                <TextEquiv>
+                    <Unicode>15656.e.5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="83,198 138,201 147,192 161,201 188,203 214,193 222,201 257,202 267,198 266,155 231,156 218,169 153,149 136,149 121,161 82,156"/>
+                <Baseline points="88,186 113,190 137,190 162,190 186,191 211,191 235,191 260,191 268,191"/>
+                <TextEquiv>
+                    <Unicode>FEI HUA JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="83,282 132,282 146,271 159,282 312,278 312,237 296,235 281,250 252,250 243,241 234,250 204,250 193,239 163,233 147,248 134,237 83,237"/>
+                <Baseline points="88,270 113,272 137,270 162,272 186,272 211,273 235,272 260,273 285,272 309,270 314,270"/>
+                <TextEquiv>
+                    <Unicode>CAO (Jinghua)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="134,378 905,393 905,354 864,342 134,340"/>
+                <Baseline points="139,363 163,368 188,371 213,371 237,373 262,373 286,373 311,373 335,375 360,373 385,375 409,373 434,375 458,373 483,373 507,373 532,375 557,375 581,375 606,375 630,375 655,375 680,376 704,375 729,375 753,376 778,376 802,376 827,376 852,376 876,376 901,378 907,376"/>
+                <TextEquiv>
+                    <Unicode>Fei hua ji. [Collected essays on literary top-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="135,417 794,417 743,386 135,382"/>
+                <Baseline points="140,404 165,406 190,408 214,406 239,408 263,408 288,409 312,409 337,409 362,408 386,409 411,409 435,409 460,409 485,409 509,409 534,409 558,409 583,409 607,411 632,409 657,409 681,411 706,411 730,411 755,411 779,412 796,416"/>
+                <TextEquiv>
+                    <Unicode>ics, Lu Xun, travel and recent events.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="129,449 157,450 165,457 175,450 192,450 199,443 211,450 279,450 279,429 258,428 238,413 222,417 213,410 195,428 182,428 167,415 153,421 129,417"/>
+                <Baseline points="134,444 158,442 183,442 208,442 232,442 257,442 281,444"/>
+                <TextEquiv>
+                    <Unicode>pp. 294.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="370,450 408,450 419,444 432,451 484,450 483,427 469,427 463,421 433,419 422,430 406,417 399,420 389,416 369,423"/>
+                <Baseline points="375,444 399,442 424,442 448,444 473,444 486,444"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="131,514 836,522 836,484 131,479"/>
+                <Baseline points="136,509 160,509 185,509 209,511 234,509 258,509 283,509 308,509 332,511 357,511 381,511 406,511 430,511 455,512 480,511 504,512 529,512 553,512 578,512 602,512 627,512 652,514 676,512 701,514 725,516 750,514 775,514 799,514 824,514 838,516"/>
+                <TextEquiv>
+                    <Unicode>Shanghai wenyi chubanshe: Shanghai, 1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15656.e.5&#13;
+FEI HUA JI&#13;
+CAO (Jinghua)&#13;
+Fei hua ji. [Collected essays on literary top-&#13;
+ics, Lu Xun, travel and recent events.]&#13;
+pp. 294.&#13;
+21 cm.&#13;
+Shanghai wenyi chubanshe: Shanghai, 1978.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

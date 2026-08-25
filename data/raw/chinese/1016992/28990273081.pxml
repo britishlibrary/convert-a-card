@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.737+01:00</Created>
+        <LastChange>2023-07-03T14:50:23.651+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758463" pageNr="284" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=OUWRWFPHFGZWTTFGMRCQVYXI&amp;fileType=view" imageId="35195769"/>
+    </Metadata>
+    <Page imageFilename="42758463.jpg" imageWidth="960" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388623651" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="52,23 900,23 900,745 52,745"/>
+            <TextLine id="line_1688388589466_292" custom="readingOrder {index:0;}">
+                <Coords points="582,33 825,34 825,84 582,83"/>
+                <Baseline points="582,78 825,79"/>
+                <TextEquiv>
+                    <Unicode>15672.h.52</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="78,135 363,135 363,109 248,99 142,109 123,91 78,93"/>
+                <Baseline points="84,134 108,131 132,132 156,132 180,132 204,132 228,134 252,132 276,132 300,132 324,134 348,134 366,137"/>
+                <TextEquiv>
+                    <Unicode>FENG CHI YUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="46,210 98,206 121,220 145,218 154,209 163,216 182,209 193,219 211,218 211,166 198,166 185,179 129,180 117,168 104,180 46,179"/>
+                <Baseline points="52,206 76,206 100,207 124,209 148,206 172,206 196,207 214,209"/>
+                <TextEquiv>
+                    <Unicode>GU (Qian)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="75,274 123,279 135,291 158,290 169,278 229,278 240,290 260,279 371,283 371,242 184,243 167,260 147,243 75,243"/>
+                <Baseline points="81,274 86,274 110,273 134,274 158,274 182,274 206,274 230,276 254,274 278,273 302,274 326,274 350,274 374,273"/>
+                <TextEquiv>
+                    <Unicode>Feng chi yuan ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="77,466 216,453 257,482 284,462 397,474 428,455 550,483 568,463 669,462 669,416 603,411 563,441 504,394 451,436 391,398 294,433 250,396 194,399 143,448 77,433"/>
+                <Baseline points="83,455 95,457 119,458 143,458 167,454 191,452 215,452 239,454 263,455 287,455 311,455 335,454 359,454 383,454 407,454 431,455 455,457 479,460 503,462 527,463 551,465 575,462 599,457 623,455 647,452 671,449"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="73,582 729,597 729,529 641,554 557,536 495,571 450,548 218,570 73,549"/>
+                <Baseline points="79,581 103,581 127,581 151,583 175,583 199,583 223,585 247,583 271,583 295,581 319,581 343,581 367,581 391,581 415,581 439,581 463,583 487,585 511,586 535,586 559,586 583,586 607,586 631,586 655,589 679,589 703,591 727,593 732,591"/>
+                <TextEquiv>
+                    <Unicode>6 ce in a case; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15672.h.52&#13;
+FENG CHI YUAN JI&#13;
+GU (Qian)&#13;
+Feng chi yuan ji&#13;
+1980&#13;
+6 ce in a case; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

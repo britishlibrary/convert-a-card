@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.705+01:00</Created>
+        <LastChange>2023-07-03T14:47:52.633+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758461" pageNr="282" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=EMHSYRLTFSWNRJHWCWRYIDQF&amp;fileType=view" imageId="35195767"/>
+    </Metadata>
+    <Page imageFilename="42758461.jpg" imageWidth="964" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388472633" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="25,3 826,3 826,770 25,770"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="589,52 615,66 640,59 665,66 704,52 748,64 758,58 766,66 824,65 823,19 730,18 714,35 677,21 588,19"/>
+                <Baseline points="594,53 619,54 643,54 667,54 691,54 715,56 739,56 763,57 787,57 812,56 826,56"/>
+                <TextEquiv>
+                    <Unicode>15672.c.57</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="46,128 63,138 135,122 226,130 244,116 365,121 366,84 307,83 285,69 266,69 241,94 222,81 209,94 47,83"/>
+                <Baseline points="51,115 75,117 99,118 123,118 147,118 172,118 196,118 220,118 244,118 268,118 292,118 316,115 340,115 365,115 366,115"/>
+                <TextEquiv>
+                    <Unicode>FENG CHUANG ZUO YU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="31,191 100,192 118,203 150,193 208,202 220,195 219,156 194,154 180,166 160,164 147,153 128,152 124,158 113,153 94,162 60,145 53,153 42,146 29,151"/>
+                <Baseline points="35,186 59,186 83,186 107,186 131,188 155,188 180,189 204,191 221,192"/>
+                <TextEquiv>
+                    <Unicode>LUO (Jizu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="60,255 126,267 159,258 340,261 352,273 409,259 409,247 379,232 210,233 184,220 172,232 60,229"/>
+                <Baseline points="65,254 90,254 114,255 138,257 162,257 186,257 210,258 234,258 258,258 283,258 307,258 331,258 355,258 379,258 403,258 410,260"/>
+                <TextEquiv>
+                    <Unicode>Feng chuang zuo yu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="54,445 638,448 638,408 617,397 530,386 498,407 466,376 433,396 396,377 372,401 341,377 313,394 275,379 213,408 167,369 133,399 85,379 54,394"/>
+                <Baseline points="59,434 83,430 107,432 131,432 155,432 180,434 204,432 228,434 252,435 276,435 300,435 324,432 348,432 373,434 397,432 421,435 445,439 469,440 493,440 517,439 541,437 566,437 590,437 614,437 638,442 640,442"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="67,554 98,554 122,536 146,546 184,538 224,553 269,538 374,538 374,525 349,508 289,510 276,497 263,510 188,510 173,495 145,509 67,496"/>
+                <Baseline points="72,538 96,535 120,535 144,537 168,537 192,537 217,537 241,537 265,537 289,537 313,535 337,535 361,537 376,540"/>
+                <TextEquiv>
+                    <Unicode>9, 199 p.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15672.c.57&#13;
+FENG CHUANG ZUO YU&#13;
+LUO (Jizu)&#13;
+Feng chuang zuo yu&#13;
+1984&#13;
+9, 199 p.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

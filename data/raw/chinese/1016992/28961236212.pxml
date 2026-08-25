@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.763+01:00</Created>
+        <LastChange>2023-06-27T10:02:25.516+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758392" pageNr="224"/>
+    </Metadata>
+    <Page imageFilename="28961236212.jpg" imageWidth="980" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687852945516" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="87,104 87,592 805,592 805,104"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="553,142 727,137 758,146 810,137 810,101 736,101 723,114 702,114 688,101 665,114 620,101 553,101"/>
+                <Baseline points="558,131 585,132 612,132 640,132 667,132 695,132 722,132 750,131 777,130 805,128"/>
+                <TextEquiv>
+                    <Unicode>15293.b.4/18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="119,202 190,210 206,202 267,202 295,211 304,202 364,195 364,175 303,158 273,158 256,173 238,165 120,164"/>
+                <Baseline points="124,192 150,193 176,193 202,193 228,192 254,192 280,192 306,193 332,195 359,196"/>
+                <TextEquiv>
+                    <Unicode>FANG HAI JI LÜE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="87,271 112,271 137,271 162,271 187,271 212,271 237,271 262,271 287,271 313,270 338,270 344,270 344,255 338,255 313,255 287,256 262,256 237,256 212,256 187,256 162,256 137,256 112,256 87,256"/>
+                <Baseline points="87,271 112,271 137,271 162,271 187,271 212,271 237,271 262,271 287,271 313,270 338,270 344,270"/>
+                <TextEquiv>
+                    <Unicode>WANG (Zhichun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="132,382 283,386 383,365 420,380 742,377 742,354 649,340 395,341 376,360 132,352"/>
+                <Baseline points="137,372 167,372 197,372 227,372 257,372 287,372 317,372 347,372 377,371 407,371 437,371 467,370 497,370 527,370 557,370 587,369 617,369 647,369 677,370 707,370 737,370"/>
+                <TextEquiv>
+                    <Unicode>Fanghai jilüe. [On coastal defence.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="124,421 380,406 635,418 635,375 473,389 124,381"/>
+                <Baseline points="129,406 154,407 179,407 204,406 229,406 254,406 279,406 304,405 329,405 354,405 379,404 404,404 429,404 454,404 479,404 504,404 529,404 554,404 579,405 604,405 630,406"/>
+                <TextEquiv>
+                    <Unicode>Reprint of the 1880 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="127,451 216,450 216,429 208,429 200,421 191,423 182,414 168,423 158,421 154,424 141,417 135,421 127,420"/>
+                <Baseline points="132,444 158,442 184,441 211,443"/>
+                <TextEquiv>
+                    <Unicode>2 ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="133,524 646,522 703,514 703,485 132,485"/>
+                <Baseline points="137,511 165,511 193,511 221,511 249,510 277,510 305,510 333,509 361,509 389,509 417,508 445,508 473,508 501,508 529,508 557,507 585,507 613,507 641,507 669,507 698,507"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="131,594 727,583 711,549 657,564 607,549 131,554"/>
+                <Baseline points="136,580 165,579 194,579 223,578 253,578 282,577 311,577 341,577 370,577 399,576 429,576 458,576 487,576 516,576 546,576 575,576 604,576 634,576 663,575 692,575 722,575"/>
+                <TextEquiv>
+                    <Unicode>Qingmo Minchu shiliao congshu, 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.b.4/18&#13;
+FANG HAI JI LÜE&#13;
+WANG (Zhichun)&#13;
+Fanghai jilüe. [On coastal defence.&#13;
+Reprint of the 1880 edition.]&#13;
+2 ch.&#13;
+Chengwen chubanshe: Taipei, 1968.&#13;
+Qingmo Minchu shiliao congshu, 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

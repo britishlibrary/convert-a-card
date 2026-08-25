@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.809+01:00</Created>
+        <LastChange>2023-05-04T13:49:30.916+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758322" pageNr="164" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780473010.jpg" imageWidth="952" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683200970916" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="28,37 31,663 921,663 918,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="580,84 594,90 608,85 624,97 639,83 668,84 688,98 715,94 732,82 810,82 810,55 797,55 782,41 760,42 747,54 686,59 662,45 641,45 632,34 581,36"/>
+                <Baseline points="585,73 612,74 640,74 667,75 695,75 722,75 750,75 777,76 805,77"/>
+                <TextEquiv>
+                    <Unicode>15662.c.12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="255,129 418,130 441,123 442,98 360,93 352,85 290,90 277,77 256,77"/>
+                <Baseline points="260,119 285,118 310,118 335,118 360,119 385,119 410,120 436,121"/>
+                <TextEquiv>
+                    <Unicode>FA YUAN SI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="33,210 70,210 80,201 89,210 173,206 184,218 219,215 220,170 195,170 183,182 142,181 134,173 71,178 34,172"/>
+                <Baseline points="38,200 63,201 88,202 113,203 138,204 163,204 188,205 214,205"/>
+                <TextEquiv>
+                    <Unicode>FA YUAN SI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="98,282 145,282 153,290 172,290 182,281 277,283 298,275 298,260 286,260 280,253 140,256 128,246 99,245"/>
+                <Baseline points="103,274 130,274 157,275 184,276 211,276 238,277 265,277 293,276"/>
+                <TextEquiv>
+                    <Unicode>Fa yuan si</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683200949575_1872" custom="readingOrder {index:4;}">
+                <Coords points="593,425 678,426 677,476 592,475"/>
+                <Baseline points="592,470 677,471"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="106,538 569,532 616,549 616,511 576,502 286,509 240,493 215,511 106,493"/>
+                <Baseline points="111,522 136,522 161,523 186,523 211,523 236,524 261,524 286,524 311,524 336,524 361,524 386,525 411,525 436,525 461,525 486,525 511,525 536,525 561,526 586,526 611,526"/>
+                <TextEquiv>
+                    <Unicode>99 p.: pls, many col.; 27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="107,602 734,594 858,613 888,582 108,565"/>
+                <Baseline points="112,589 150,590 189,591 227,591 266,592 304,593 343,593 381,593 420,593 458,594 497,594 535,594 574,594 612,595 651,595 689,596 728,596 766,597 805,598 843,599 882,600"/>
+                <TextEquiv>
+                    <Unicode>Guide to the Buddhist Association's teaching</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="110,634 551,653 753,635 696,605 471,605 431,622 110,605"/>
+                <Baseline points="115,627 146,628 178,629 209,629 241,630 273,631 304,631 336,632 368,632 399,632 431,632 463,632 494,633 526,633 558,633 589,633 621,633 653,633 684,633 716,633 748,633"/>
+                <TextEquiv>
+                    <Unicode>temple in Beijing, a Tang foundation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15662.c.12&#13;
+FA YUAN SI&#13;
+FA YUAN SI&#13;
+Fa yuan si&#13;
+1981&#13;
+99 p.: pls, many col.; 27 cm.&#13;
+Guide to the Buddhist Association's teaching&#13;
+temple in Beijing, a Tang foundation</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

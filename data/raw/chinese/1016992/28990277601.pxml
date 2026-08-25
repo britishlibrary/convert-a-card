@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.316+01:00</Created>
+        <LastChange>2023-07-03T16:35:54.461+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758503" pageNr="319" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ZPWLTKCSRVWBEIALNCUSLMHQ&amp;fileType=view" imageId="35195809"/>
+    </Metadata>
+    <Page imageFilename="42758503.jpg" imageWidth="948" imageHeight="785">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394954462" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="39,0 892,0 892,780 39,780"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="641,58 746,58 755,51 807,58 815,50 823,58 871,58 871,22 835,19 803,37 773,20 756,35 734,35 719,21 641,28"/>
+                <Baseline points="646,50 669,50 693,52 717,52 740,52 764,52 788,52 811,52 835,52 859,50 873,50"/>
+                <TextEquiv>
+                    <Unicode>15674.f.75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="86,125 625,130 625,92 273,90 253,107 235,89 86,89"/>
+                <Baseline points="91,120 105,120 129,120 153,120 176,120 200,120 224,120 247,120 271,121 295,123 319,123 342,123 366,121 390,121 413,123 437,121 461,121 484,121 508,123 532,121 555,121 579,121 603,121 627,118"/>
+                <TextEquiv>
+                    <Unicode>FANG WENG CI BIAN NIAN JIAN ZHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="85,217 97,218 106,209 129,210 136,203 153,213 171,207 231,210 231,159 220,160 200,180 190,180 179,169 164,169 154,159 140,169 85,169"/>
+                <Baseline points="90,199 91,199 115,199 138,199 162,199 186,200 210,202 233,197"/>
+                <TextEquiv>
+                    <Unicode>LU (You)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="88,269 168,287 211,271 674,270 675,229 537,234 519,252 450,236 433,253 323,233 210,257 88,232"/>
+                <Baseline points="93,262 107,265 131,268 154,270 178,270 202,271 225,271 249,271 273,271 296,270 320,271 344,270 368,270 391,268 415,266 439,266 462,266 486,265 510,265 533,265 557,265 581,263 604,262 628,262 652,260 676,260"/>
+                <TextEquiv>
+                    <Unicode>Fang weng ci bian nian jian zhu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:4;}">
+                <Coords points="687,538 694,539 705,530 717,535 743,521 760,530 777,528 790,534 792,493 783,492 763,474 754,474 748,467 725,485 717,477 703,484 691,476"/>
+                <Baseline points="693,525 718,525 742,521 766,522 789,521 792,521"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:5;}">
+                <Coords points="130,659 269,657 328,673 522,653 522,633 489,613 463,636 441,616 388,618 364,634 300,613 266,639 247,619 180,635 159,612 131,611"/>
+                <Baseline points="135,652 145,653 169,655 192,655 216,657 240,657 263,657 287,657 311,657 334,657 358,657 382,657 405,657 429,655 453,653 477,653 500,650 524,650"/>
+                <TextEquiv>
+                    <Unicode>12, 12, 168 p.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15674.f.75&#13;
+FANG WENG CI BIAN NIAN JIAN ZHU&#13;
+LU (You)&#13;
+Fang weng ci bian nian jian zhu&#13;
+1982&#13;
+12, 12, 168 p.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

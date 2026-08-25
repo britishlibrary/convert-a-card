@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.796+01:00</Created>
+        <LastChange>2023-06-21T18:38:39.411+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758395" pageNr="226"/>
+    </Metadata>
+    <Page imageFilename="28961236552.jpg" imageWidth="952" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687365519411" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="104,72 104,604 869,604 869,72"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="548,106 857,106 857,65 805,65 781,75 548,74"/>
+                <Baseline points="553,99 580,98 607,98 634,98 661,98 688,99 716,99 743,99 770,99 797,98 824,98 852,98"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1599</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="99,242 135,242 144,233 160,242 271,240 271,189 257,189 238,208 190,208 166,197 99,204"/>
+                <Baseline points="104,230 131,230 158,230 185,230 212,230 239,230 266,230"/>
+                <TextEquiv>
+                    <Unicode>XU (Daran)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="122,298 374,291 386,285 386,252 346,246 329,253 122,253"/>
+                <Baseline points="127,282 152,280 177,279 203,279 228,279 254,279 279,279 304,279 330,279 355,279 381,278"/>
+                <TextEquiv>
+                    <Unicode>Fang feng lin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="302,455 352,459 367,474 375,474 386,463 431,466 451,453 452,411 425,405 413,417 382,412 372,404 344,406 310,439 303,439"/>
+                <Baseline points="307,451 334,452 362,452 390,451 418,453 446,455"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="133,514 840,513 840,485 133,485"/>
+                <Baseline points="138,508 172,508 207,508 242,508 277,508 312,508 347,508 381,507 416,507 451,507 486,507 521,507 556,507 591,507 625,507 660,507 695,507 730,506 765,506 800,506 835,506"/>
+                <TextEquiv>
+                    <Unicode>143 p. - (Overseas Chinese wrters series =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="133,601 249,602 264,592 265,558 223,559 217,565 199,565 191,573 175,573 167,565 134,565"/>
+                <Baseline points="138,590 168,590 198,590 228,591 259,590"/>
+                <TextEquiv>
+                    <Unicode>s1. L21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI. 1986. a. 1599
+XU (Daran)
+Fang feng lin
+5/. — 5/6.
+186
+
+6
+143 p. - (Overseas Chinese wrters series -
+S4XX)
+s1. 121</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

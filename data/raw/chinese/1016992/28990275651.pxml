@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.112+01:00</Created>
+        <LastChange>2023-07-03T16:18:16.325+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758489" pageNr="307" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=XOFKNRSOFRAUHPGSDGEWODHY&amp;fileType=view" imageId="35195795"/>
+    </Metadata>
+    <Page imageFilename="42758489.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393896325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="59,36 775,36 775,780 59,780"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="474,89 773,97 773,58 733,56 699,69 575,57 556,77 528,56 474,58"/>
+                <Baseline points="479,86 503,86 527,86 551,87 575,87 599,86 623,87 647,87 671,87 695,89 719,89 743,89 767,89 775,91"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.223</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="129,234 208,234 217,225 236,241 260,242 284,232 343,240 343,187 323,199 290,202 244,202 234,193 217,209 199,196 129,200"/>
+                <Baseline points="134,227 153,227 177,227 201,227 225,228 249,228 273,227 297,227 321,225 345,225"/>
+                <TextEquiv>
+                    <Unicode>WANG (Qishu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="175,280 419,284 444,276 444,255 400,250 175,253"/>
+                <Baseline points="180,273 204,273 228,275 252,276 276,276 300,275 324,275 343,273 350,273 374,273 398,273 422,275 446,273"/>
+                <TextEquiv>
+                    <Unicode>Fei hong tang yin pu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="159,337 273,336 360,353 506,337 573,345 573,306 513,307 496,324 439,305 159,316"/>
+                <Baseline points="164,327 188,331 212,332 236,334 260,334 284,335 308,337 332,337 356,335 380,335 404,335 428,335 452,335 476,335 500,335 524,335 548,335 572,335 575,334"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="154,369 233,372 248,367 257,375 265,369 305,370 305,344 279,343 274,338 253,338 231,354 196,338 154,341"/>
+                <Baseline points="159,364 183,366 207,366 231,366 255,366 279,366 303,366 307,366"/>
+                <TextEquiv>
+                    <Unicode>794p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="158,401 428,402 429,363 330,371 313,364 259,375 159,370"/>
+                <Baseline points="163,398 167,398 191,396 215,396 239,395 263,396 287,396 311,396 335,395 359,395 383,395 407,393 431,393"/>
+                <TextEquiv>
+                    <Unicode>ISBN 7-5325-1144-8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="126,578 183,578 191,570 206,578 303,578 303,556 293,556 273,538 204,537 189,552 171,552 157,538 126,536"/>
+                <Baseline points="131,566 155,569 179,567 203,567 227,567 251,567 275,567 299,569 305,567"/>
+                <TextEquiv>
+                    <Unicode>s1. Seals.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.223&#13;
+WANG (Qishu)&#13;
+Fei hong tang yin pu&#13;
+1992&#13;
+794p.: ill.&#13;
+ISBN 7-5325-1144-8&#13;
+s1. Seals.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

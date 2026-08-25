@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.740+01:00</Created>
+        <LastChange>2023-07-03T17:19:50.734+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758536" pageNr="347" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TCSOSQSJQLMENFQVOXUXRVNX&amp;fileType=view" imageId="35195842"/>
+    </Metadata>
+    <Page imageFilename="42758536.jpg" imageWidth="980" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397590734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="99,69 924,69 924,636 99,636"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="599,123 630,132 865,123 923,148 923,97 866,77 797,80 779,99 728,103 703,103 680,81 658,101 639,85 620,99 598,83"/>
+                <Baseline points="604,119 628,119 653,120 677,120 702,120 726,120 751,120 775,120 800,120 824,120 849,120 873,120 898,122 922,122 924,122"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1029-30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="135,164 272,156 349,170 572,150 588,163 616,154 617,126 441,120 422,139 403,120 136,126"/>
+                <Baseline points="140,158 153,158 177,158 202,156 226,156 251,156 275,155 300,153 324,153 349,151 373,151 398,151 422,153 447,151 471,151 496,151 520,150 545,150 569,150 594,150 618,150"/>
+                <TextEquiv>
+                    <Unicode>FA LAN XI DUAN PIAN XIAO SHUO JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="94,264 528,274 529,219 509,232 370,236 310,222 259,235 95,233"/>
+                <Baseline points="99,261 124,261 148,259 173,259 197,259 222,259 246,261 271,259 295,257 320,259 344,259 369,261 393,259 417,259 442,259 466,257 491,259 515,261 530,262"/>
+                <TextEquiv>
+                    <Unicode>DE NAVARRE (Margneritle)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="132,369 822,369 822,332 754,328 667,353 611,330 132,336"/>
+                <Baseline points="137,364 138,364 163,364 187,364 212,365 236,365 261,364 285,364 310,364 334,364 359,365 383,364 408,364 432,364 457,364 481,364 506,362 530,364 555,364 579,364 604,362 628,364 653,362 677,360 702,362 726,362 751,362 775,362 800,362 824,360"/>
+                <TextEquiv>
+                    <Unicode>Falanxi duanpian xiaoshuo ji. [Select</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="132,410 882,409 882,379 801,369 132,381"/>
+                <Baseline points="137,400 161,401 186,401 210,400 235,400 259,400 284,400 308,400 333,400 357,400 382,400 406,400 431,398 455,400 480,400 504,400 529,400 553,400 578,400 602,398 626,400 651,400 675,400 700,400 724,398 749,398 773,400 798,400 822,398 847,398 871,398 884,400"/>
+                <TextEquiv>
+                    <Unicode>short stories by different French writers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="137,443 778,443 778,416 752,408 615,408 588,430 525,410 137,410"/>
+                <Baseline points="142,439 143,437 168,435 192,435 217,435 241,437 266,437 290,435 315,437 339,437 364,435 388,437 413,437 437,439 462,439 486,437 511,439 535,437 560,437 584,437 609,435 633,435 658,435 682,434 706,435 731,435 755,434 780,434"/>
+                <TextEquiv>
+                    <Unicode>Translated by Li Qingya. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="137,490 174,490 183,482 207,482 216,474 245,483 300,482 300,448 286,442 231,445 215,461 200,449 138,450"/>
+                <Baseline points="143,473 168,473 192,473 217,473 241,473 266,470 290,471 302,471"/>
+                <TextEquiv>
+                    <Unicode>pps. 313.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="132,549 846,546 847,506 133,511"/>
+                <Baseline points="137,543 138,543 163,542 187,542 212,540 236,542 261,542 285,542 310,542 334,542 359,542 383,542 408,542 432,542 457,542 481,542 506,540 530,540 555,540 579,540 604,540 628,540 653,540 677,540 702,540 726,540 751,538 775,540 800,540 824,540 849,538"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="135,623 724,623 812,643 812,611 767,593 399,588 379,608 331,587 135,585"/>
+                <Baseline points="140,615 164,617 189,617 213,615 238,617 262,617 287,617 311,617 336,618 360,618 385,618 409,618 434,618 458,618 483,618 507,620 532,618 556,618 581,620 605,622 630,620 654,622 679,622 703,622 728,623 752,623 777,625 801,626 814,626"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no. 1029-30. [in 1 vol.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1029-30.&#13;
+FA LAN XI DUAN PIAN XIAO SHUO JI&#13;
+DE NAVARRE (Margneritle)&#13;
+Falanxi duanpian xiaoshuo ji. [Select&#13;
+short stories by different French writers.&#13;
+Translated by Li Qingya. A reprint.]&#13;
+pps. 313.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1969.&#13;
+Renren wenku, no. 1029-30. [in 1 vol.]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

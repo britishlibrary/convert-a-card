@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.680+01:00</Created>
+        <LastChange>2023-05-04T12:50:10.775+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758250" pageNr="100"/>
+    </Metadata>
+    <Page imageFilename="28448804223.jpg" imageWidth="960" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197410775" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="33,53 35,660 910,660 908,53"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="595,86 824,90 824,56 814,53 780,53 765,68 736,58 710,68 682,46 595,53"/>
+                <Baseline points="600,79 634,79 660,80 687,80 713,80 739,80 766,80 792,80 819,80"/>
+                <TextEquiv>
+                    <Unicode>15656.g.20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654530535829_589" custom="readingOrder {index:1;}">
+                <Coords points="42,153 758,162 774,108 628,125 42,116"/>
+                <Baseline points="47,155 769,159"/>
+                <TextEquiv>
+                    <Unicode>FEI LU BIN HUA QIAO KANG RI YOU JI ZHI DUI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="38,218 334,226 352,216 352,194 333,180 289,196 168,190 153,180 140,191 39,186"/>
+                <Baseline points="44,211 69,212 94,212 119,212 145,212 170,212 195,212 220,213 246,213 271,214 296,215 321,216 347,217"/>
+                <TextEquiv>
+                    <Unicode>LIANG (Shangyuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913827506_1100" custom="readingOrder {index:3;}">
+                <Coords points="111,282 315,287 337,306 700,274 872,288 872,265 759,253 111,262"/>
+                <Baseline points="116,285 867,291"/>
+                <TextEquiv>
+                    <Unicode>Fei lu bin hua qiao kang ri you si zhi dui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194926371_512" custom="readingOrder {index:4;}">
+                <Coords points="119,392 332,392 332,442 119,442"/>
+                <Baseline points="119,437 332,437"/>
+                <TextEquiv>
+                    <Unicode>1942-1945</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194929019_517" custom="readingOrder {index:5;}">
+                <Coords points="664,474 757,476 756,526 663,524"/>
+                <Baseline points="663,519 756,521"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:6;}">
+                <Coords points="126,570 900,563 813,533 198,525 163,544 126,525"/>
+                <Baseline points="131,556 169,557 207,557 245,558 283,558 322,559 360,559 398,559 436,559 474,558 513,558 551,558 589,558 627,558 665,558 704,558 742,558 780,558 818,558 856,558 895,559"/>
+                <TextEquiv>
+                    <Unicode>3, 267 p.: [8] p. of pls., some col.; 20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913830960_1105" custom="readingOrder {index:7;}">
+                <Coords points="128,633 264,635 280,628 354,635 379,628 379,604 230,605 222,611 185,596 128,597"/>
+                <Baseline points="133,624 374,627"/>
+                <TextEquiv>
+                    <Unicode>Title on cover</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15656.g.20&#13;
+FEI LU BIN HUA QIAO KANG RI YOU JI ZHI DUI&#13;
+LIANG (Shangyuan)&#13;
+Fei lu bin hua qiao kang ri you si zhi dui&#13;
+1942-1945&#13;
+1980&#13;
+3, 267 p.: [8] p. of pls., some col.; 20 cm.&#13;
+Title on cover</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

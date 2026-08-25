@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.881+01:00</Created>
+        <LastChange>2023-05-04T13:55:03.617+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758328" pageNr="169"/>
+    </Metadata>
+    <Page imageFilename="28961210662.jpg" imageWidth="976" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201303618" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,110 55,648 878,644 880,111"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="557,148 605,154 617,146 714,144 726,153 754,154 776,147 776,105 740,104 723,121 557,108"/>
+                <Baseline points="562,138 588,138 614,139 640,140 666,140 692,141 718,141 744,141 771,141"/>
+                <TextEquiv>
+                    <Unicode>15412.a.33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="112,211 163,211 184,226 200,210 247,208 281,216 300,232 321,211 349,202 349,174 314,174 295,165 233,184 200,181 176,165 164,176 112,176"/>
+                <Baseline points="117,202 142,203 167,203 192,203 217,202 243,202 268,202 293,203 318,204 344,205"/>
+                <TextEquiv>
+                    <Unicode>FENG SAO ZHI GE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201260855_2040" custom="readingOrder {index:2;}">
+                <Coords points="83,236 158,238 157,288 82,286"/>
+                <Baseline points="82,281 157,283"/>
+                <TextEquiv>
+                    <Unicode>QIJI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="112,385 840,390 840,357 112,358"/>
+                <Baseline points="117,373 152,374 188,375 224,376 260,377 296,378 332,378 368,378 404,378 440,378 476,378 511,378 547,378 583,378 619,379 655,379 691,379 727,380 763,380 799,381 835,383"/>
+                <TextEquiv>
+                    <Unicode>Fengsao zhige. [Short poems on styles of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="114,426 773,426 756,389 733,408 678,389 114,396"/>
+                <Baseline points="119,411 151,411 183,412 216,412 248,413 281,413 313,413 346,413 378,413 411,413 443,413 475,414 508,414 540,414 573,414 605,414 638,415 670,415 703,416 735,417 768,417"/>
+                <TextEquiv>
+                    <Unicode>poetic composition by a Tang monk. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="121,458 376,451 431,466 621,466 612,424 121,428"/>
+                <Baseline points="126,446 151,446 177,447 203,447 229,447 254,447 280,448 306,448 332,448 358,448 383,448 409,448 435,448 461,449 487,449 512,450 538,450 564,451 590,452 630,451"/>
+                <TextEquiv>
+                    <Unicode>reprint of the 1805 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="119,497 177,493 220,494 231,499 238,497 239,469 230,469 224,462 194,461 186,465 176,460 120,461"/>
+                <Baseline points="125,483 152,483 179,483 206,484 234,485"/>
+                <TextEquiv>
+                    <Unicode>1 fasc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="121,563 661,561 658,526 121,524"/>
+                <Baseline points="126,550 152,551 179,551 205,551 232,551 258,551 285,552 311,552 338,552 364,552 391,552 417,552 444,552 470,552 497,552 523,552 550,553 576,553 603,553 629,554 656,554"/>
+                <TextEquiv>
+                    <Unicode>Yiwen yinshuguan: Taipei, 1965.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="108,634 827,635 827,605 747,597 108,598"/>
+                <Baseline points="113,620 148,621 183,621 219,621 254,621 290,622 325,622 361,622 396,622 432,623 467,623 502,623 538,623 573,624 609,624 644,624 680,625 715,625 751,625 786,626 822,626"/>
+                <TextEquiv>
+                    <Unicode>Xuejin taoyuan, in Baibu congshu jicheng.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15412.a.33&#13;
+FENG SAO ZHI GE&#13;
+QIJI&#13;
+Fengsao zhige. [Short poems on styles of&#13;
+poetic composition by a Tang monk. A&#13;
+reprint of the 1805 edition.]&#13;
+1 fasc.&#13;
+Yiwen yinshuguan: Taipei, 1965.&#13;
+Xuejin taoyuan, in Baibu congshu jicheng.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

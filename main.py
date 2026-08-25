@@ -7,14 +7,14 @@ import pickle
 import xml.etree.ElementTree as ET
 from tqdm import tqdm
 import pandas as pd
-from src.data import oclc
 
 LOAD_XMLS = False
-LOAD_PICKLE = True
+LOAD_PICKLE = False
 
 smark_regex = re.compile("[0-9]{1,5}[\s\.]{1,2}[\w]{1,3}[\s\.]{1,2}[\w0-9]{1,5}")
 author_regex = re.compile("[A-Z]+[\s]+\([A-Z][a-z]+\)")
 isbn_regex = re.compile("ISBN\s[0-9\-\s]+")
+
 
 def extractLines(root: ET.Element):
     lines = []
@@ -123,10 +123,3 @@ if LOAD_XMLS:
 if LOAD_PICKLE:
     cards_df = pickle.load(open("notebooks\\cards_df.p", "rb"))
     # cards_df["xml"] = cards_df["xml"].str.decode("utf-8")
-
-
-
-# res_dict, res = oclc.OCLC_orig_query("FENG JIAN ZHU YI DE SHENG CHAN FANG SHI", "ZHANG (Yu)")
-
-# # print(result[0])
-# print("hello")

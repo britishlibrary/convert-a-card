@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.595+01:00</Created>
+        <LastChange>2023-07-03T17:01:23.172+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758525" pageNr="337" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TPCRGGYWLYYYKGSBNTJODWCI&amp;fileType=view" imageId="35195831"/>
+    </Metadata>
+    <Page imageFilename="42758525.jpg" imageWidth="952" imageHeight="770">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396483173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="38,16 852,16 855,604 41,604"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="509,67 535,75 753,67 794,82 828,70 827,44 769,42 746,53 705,45 692,56 668,34 609,43 592,60 574,43 508,41"/>
+                <Baseline points="514,66 538,66 562,68 585,68 609,68 633,68 657,69 681,69 704,69 728,69 752,69 776,69 800,69 823,71 830,69"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1391</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="76,201 102,210 120,209 131,198 145,210 166,210 174,202 184,210 199,210 207,202 255,209 256,153 233,171 191,181 171,163 153,159 129,178 113,165 77,163"/>
+                <Baseline points="82,196 106,198 130,198 154,198 177,198 201,198 225,196 249,196 257,196"/>
+                <TextEquiv>
+                    <Unicode>LI (Buyun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="106,256 214,266 502,256 502,215 491,210 106,212"/>
+                <Baseline points="111,246 134,247 158,249 182,249 206,249 230,249 254,249 277,249 301,249 325,249 349,247 373,247 396,247 420,247 444,246 468,246 492,249 504,249"/>
+                <TextEquiv>
+                    <Unicode>Fa zhi min zhu zi you</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="218,443 341,450 467,418 494,442 578,426 607,450 646,434 685,450 780,423 764,380 694,365 624,412 584,373 550,393 499,369 390,412 338,375 301,370 276,394 218,371"/>
+                <Baseline points="223,423 247,425 271,425 295,427 319,427 342,427 366,425 390,422 414,422 438,419 462,417 485,419 509,420 533,422 557,425 581,425 604,428 628,435 652,433 676,431 700,427 723,425 747,422 771,422 782,423"/>
+                <TextEquiv>
+                    <Unicode>1985</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="115,504 155,507 167,503 177,505 183,500 191,506 219,506 229,504 229,483 220,484 204,469 114,466"/>
+                <Baseline points="120,492 144,495 168,495 192,495 215,496 231,498"/>
+                <TextEquiv>
+                    <Unicode>279 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="112,566 499,572 499,531 294,534 278,550 241,534 192,533 174,549 158,533 112,531"/>
+                <Baseline points="117,560 141,562 165,562 188,562 212,563 236,563 260,563 284,563 308,563 331,563 355,563 379,562 403,562 427,562 450,562 474,562 498,560 501,562"/>
+                <TextEquiv>
+                    <Unicode>s1. Law. s2. Democracy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1391&#13;
+LI (Buyun)&#13;
+Fa zhi min zhu zi you&#13;
+1985&#13;
+279 p.&#13;
+s1. Law. s2. Democracy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.859+01:00</Created>
+        <LastChange>2023-06-21T18:50:07.822+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758399" pageNr="230"/>
+    </Metadata>
+    <Page imageFilename="28961238432.jpg" imageWidth="972" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687366207822" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="45,53 45,614 904,614 904,53"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="695,81 799,82 806,76 817,82 847,83 858,77 886,83 899,78 900,33 886,38 697,32"/>
+                <Baseline points="701,73 728,74 756,75 783,76 811,76 838,77 866,78 894,80"/>
+                <TextEquiv>
+                    <Unicode>15680.h.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="56,170 127,164 135,170 147,164 152,170 287,170 302,162 302,147 270,132 56,131"/>
+                <Baseline points="61,158 87,158 113,158 139,158 165,158 192,159 218,159 244,160 270,160 297,161"/>
+                <TextEquiv>
+                    <Unicode>FAN YI LUN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="76,258 342,257 342,214 120,212 77,220"/>
+                <Baseline points="82,244 107,245 133,245 158,245 184,245 209,244 235,244 260,245 286,245 311,246 337,247"/>
+                <TextEquiv>
+                    <Unicode>Fan yi lun ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="212,321 226,321 245,339 259,334 265,339 295,338 296,318 287,318 277,308 272,314 242,313 237,318 225,312 212,312"/>
+                <Baseline points="217,330 253,329 290,332"/>
+                <TextEquiv>
+                    <Unicode>1984.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="64,362 147,359 176,361 183,368 234,359 275,362 275,339 241,336 226,321 201,321 179,309 163,320 153,312 92,309 64,330"/>
+                <Baseline points="69,352 94,353 119,353 144,353 169,353 194,353 219,353 244,354 270,355"/>
+                <TextEquiv>
+                    <Unicode>x, 1047 p. ; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="71,407 575,418 575,393 494,381 71,380"/>
+                <Baseline points="76,402 102,402 128,403 154,403 180,404 206,404 232,404 258,404 284,405 310,405 336,405 362,405 388,406 414,406 440,407 466,407 492,408 518,409 544,409 570,410"/>
+                <TextEquiv>
+                    <Unicode>Colophon title also in pinyin: Fanyi lunji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="300,429 310,429 339,429 368,428 397,428 426,429 455,429 455,414 426,414 397,413 368,413 339,414 310,414 301,414"/>
+                <Baseline points="300,429 310,429 339,429 368,428 397,428 426,429 455,429"/>
+                <TextEquiv>
+                    <Unicode>p. [1026] - 1047.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="68,458 447,466 457,465 458,438 69,431"/>
+                <Baseline points="74,447 99,447 124,448 149,448 174,449 200,449 225,450 250,450 275,450 300,451 326,451 351,451 376,452 401,452 426,453 452,453"/>
+                <TextEquiv>
+                    <Unicode>Includes bibliographical references.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:8;}">
+                <Coords points="68,498 109,499 151,499 193,500 235,501 277,501 318,502 360,503 402,504 444,505 486,506 527,506 569,507 611,508 653,509 695,510 726,511 726,496 695,495 653,494 611,493 569,492 527,491 486,491 444,490 402,489 360,488 318,487 277,486 235,486 193,485 151,484 109,484 68,483"/>
+                <Baseline points="68,498 109,499 151,499 193,500 235,501 277,501 318,502 360,503 402,504 444,505 486,506 527,506 569,507 611,508 653,509 695,510 726,511"/>
+                <TextEquiv>
+                    <Unicode>1. Translating and interpreting--Addresses, essays, lectures.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="39,534 154,530 168,538 176,531 230,531 294,538 294,510 263,504 89,508 40,499"/>
+                <Baseline points="45,522 72,523 99,523 126,524 153,524 180,524 207,525 234,525 261,526 289,527"/>
+                <TextEquiv>
+                    <Unicode>Title: Fanyi lunji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="65,579 101,578 126,578 152,578 177,578 202,578 228,578 228,563 202,563 177,563 152,563 126,563 101,563 65,564"/>
+                <Baseline points="65,579 101,578 126,578 152,578 177,578 202,578 228,578"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB086-B298</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="400,595 736,595 750,592 751,558 645,572 400,556"/>
+                <Baseline points="405,583 431,583 457,584 483,584 509,584 535,585 561,586 588,586 614,587 640,587 666,588 692,588 718,588 745,588"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114 DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="63,610 235,610 235,585 215,584 209,590 173,583 63,583"/>
+                <Baseline points="68,602 95,602 122,602 149,603 176,603 203,604 230,604"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15688.h.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15680. h. 2.
+FAN YI LUN JI
+Fan yi lun ji
+IDS MIE. Mlh.  K 5 EDIE 3 1 iK
+1984.
+„A0 ,. 7 2 en.
+Colophon title also in pinyini F'anv'i l'unj'i.
+1 p. (10261-1947.
+ NXE
+Ineludes bibliegraphical references.
+1. Translating and interpreting--Addresses, essays, lectures. I. F . II.
+Titlei F'any'i l'unj'i.
+D: UKB086-B298
+CCi 9114 DCFI à ICIKI
+CALLI 15686. h.2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

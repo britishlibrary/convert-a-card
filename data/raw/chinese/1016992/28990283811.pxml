@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.581+01:00</Created>
+        <LastChange>2023-07-03T17:00:30.569+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758523" pageNr="336" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=OLANVNTBTUXLCWHRYDFAGBWJ&amp;fileType=view" imageId="35195829"/>
+    </Metadata>
+    <Page imageFilename="42758523.jpg" imageWidth="988" imageHeight="819">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396430570" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="112,73 799,73 799,506 112,506"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="575,127 593,138 624,130 657,138 681,128 711,138 741,126 757,138 781,138 797,128 797,83 765,86 731,111 709,89 685,112 658,87 575,91"/>
+                <Baseline points="580,123 604,125 629,128 654,126 678,128 703,128 728,128 753,128 777,126 799,123"/>
+                <TextEquiv>
+                    <Unicode>15273.f.26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="117,201 177,194 213,202 264,186 273,194 424,194 424,150 248,156 209,147 117,156"/>
+                <Baseline points="122,187 130,187 154,186 179,187 204,187 229,187 253,186 278,186 303,186 327,186 352,186 377,184 402,184 426,181"/>
+                <TextEquiv>
+                    <Unicode>THE FACE OF TAIWAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="107,266 138,272 147,264 200,266 208,258 226,274 280,264 324,274 323,228 263,237 251,225 226,225 212,235 201,224 106,223"/>
+                <Baseline points="112,253 136,257 161,255 186,255 210,255 235,255 260,257 285,258 309,258 326,260"/>
+                <TextEquiv>
+                    <Unicode>FOLEY (Fred)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="147,362 714,371 736,359 736,327 533,326 515,344 494,327 477,344 317,325 291,343 273,325 146,321"/>
+                <Baseline points="152,352 177,355 202,355 227,355 252,355 276,357 301,355 326,357 351,357 375,357 400,357 425,357 449,357 474,357 499,357 524,357 548,357 573,357 598,357 622,359 647,359 672,359 697,359 721,359 738,357"/>
+                <TextEquiv>
+                    <Unicode>The face of Taiwan. A selection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="144,402 231,401 242,391 255,401 388,402 388,376 332,364 297,370 273,364 242,376 216,364 182,370 162,362 144,374"/>
+                <Baseline points="149,388 174,390 199,390 224,390 248,390 273,390 298,390 322,390 347,390 372,392 390,388"/>
+                <TextEquiv>
+                    <Unicode>photo studies.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="138,433 204,434 208,430 213,430 213,403 193,405 138,403"/>
+                <Baseline points="143,421 168,423 192,423 215,421"/>
+                <TextEquiv>
+                    <Unicode>n.p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="140,498 216,506 357,492 385,506 456,498 456,473 412,458 315,473 270,455 140,464"/>
+                <Baseline points="145,494 169,491 194,491 219,491 243,492 268,492 293,492 318,494 342,492 367,492 392,492 416,492 441,492 458,496"/>
+                <TextEquiv>
+                    <Unicode>[Taipei], c.1962.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15273.f.26&#13;
+THE FACE OF TAIWAN&#13;
+FOLEY (Fred)&#13;
+The face of Taiwan. A selection of&#13;
+photo studies.&#13;
+n.p.&#13;
+[Taipei], c.1962.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

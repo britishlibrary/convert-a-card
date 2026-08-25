@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.896+01:00</Created>
+        <LastChange>2023-06-27T10:06:38.653+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758401" pageNr="232"/>
+    </Metadata>
+    <Page imageFilename="28961238702.jpg" imageWidth="948" imageHeight="776">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853198654" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="52,76 52,682 859,682 859,76"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="518,114 807,114 819,107 820,68 769,69 751,83 518,76"/>
+                <Baseline points="523,104 549,104 575,105 602,106 628,107 655,107 681,107 708,107 734,107 761,107 787,106 814,105"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.813</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="47,226 132,226 145,219 154,227 232,229 255,224 256,191 194,196 184,189 48,186"/>
+                <Baseline points="52,214 80,215 108,215 136,216 165,216 193,217 221,218 250,219"/>
+                <TextEquiv>
+                    <Unicode>HUANG (Long)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="77,275 460,274 474,267 474,236 77,238"/>
+                <Baseline points="82,265 107,266 133,266 159,267 185,267 211,267 236,267 262,267 288,266 314,266 340,266 365,266 391,266 417,265 443,265 469,265"/>
+                <TextEquiv>
+                    <Unicode>Fan yi ji qiao zhi dao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_154" custom="readingOrder {index:3;}">
+                <Coords points="303,467 314,467 340,468 366,468 392,468 419,468 419,453 392,453 366,453 340,453 314,452 303,452"/>
+                <Baseline points="303,467 314,467 340,468 366,468 392,468 419,468"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="88,520 127,523 134,522 144,514 156,525 167,521 184,523 186,498 161,492 145,492 137,485 90,482"/>
+                <Baseline points="94,510 122,514 151,516 180,515"/>
+                <TextEquiv>
+                    <Unicode>677 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="80,551 748,562 773,547 771,526 80,519"/>
+                <Baseline points="85,543 119,543 153,544 187,544 221,545 255,545 289,546 324,546 358,546 392,547 426,547 460,548 494,548 528,548 563,548 597,549 631,549 665,549 699,549 733,549 768,549"/>
+                <TextEquiv>
+                    <Unicode>Cover title also in English: "A guide to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="93,577 119,578 145,579 171,579 197,580 223,580 249,580 275,580 301,580 327,580 353,580 379,580 405,581 431,582 471,583 471,568 431,567 406,566 379,565 353,565 327,565 301,565 275,565 249,565 223,565 197,565 171,564 145,564 120,563 94,562"/>
+                <Baseline points="93,577 119,578 145,579 171,579 197,580 223,580 249,580 275,580 301,580 327,580 353,580 379,580 405,581 431,582 471,583"/>
+                <TextEquiv>
+                    <Unicode>translation technique".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="79,634 692,642 692,619 616,607 79,608"/>
+                <Baseline points="84,629 114,630 144,630 174,630 204,631 234,631 264,631 295,631 325,631 355,632 385,632 415,632 445,632 475,632 506,633 536,633 566,633 596,634 626,634 656,635 687,635"/>
+                <TextEquiv>
+                    <Unicode>t1. A guide to translation technique.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="84,676 335,681 335,660 288,645 238,653 226,645 198,654 151,645 84,651"/>
+                <Baseline points="89,668 115,669 142,669 169,669 196,670 222,670 249,670 276,671 303,671 330,672"/>
+                <TextEquiv>
+                    <Unicode>s1. Translation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.813&#13;
+HUANG (Long)&#13;
+Fan yi ji qiao zhi dao&#13;
+1986&#13;
+677 p.&#13;
+Cover title also in English: "A guide to&#13;
+translation technique".&#13;
+t1. A guide to translation technique.&#13;
+s1. Translation.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

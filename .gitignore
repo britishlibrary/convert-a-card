@@ -9,3 +9,26 @@ notebooks/.ipynb_checkpoints/*
 
 # Pycharm
 .idea/
+
+# Any background streamlit files
+.streamlit/
+
+# Secrets
+.env
+
+# Data in data folder only (but not src/data)
+/data/
+
+# Tkb credentials
+notebooks/Transkribus_credential.py
+
+# Specific MARC results figures
+reports/figures/sample_MARC_results
+# Images for blog post
+reports/blog_media
+
+# Async logging
+logs/
+
+# Working file
+scratch.py

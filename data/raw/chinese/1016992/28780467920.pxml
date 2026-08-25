@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.620+01:00</Created>
+        <LastChange>2023-05-04T12:57:08.331+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758308" pageNr="152"/>
+    </Metadata>
+    <Page imageFilename="28780467920.jpg" imageWidth="964" imageHeight="802">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197828332" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="30,2 24,586 898,584 899,0"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="603,76 744,74 763,63 775,74 799,75 841,62 840,48 781,33 742,43 724,33 702,53 680,37 602,37"/>
+                <Baseline points="608,69 633,67 658,66 684,65 709,65 734,64 760,64 785,64 810,63 836,62"/>
+                <TextEquiv>
+                    <Unicode>15672.h.74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="65,149 95,154 103,146 183,146 249,153 261,146 262,95 220,113 65,110"/>
+                <Baseline points="70,134 96,135 123,135 149,135 176,136 202,136 229,136 256,135"/>
+                <TextEquiv>
+                    <Unicode>FANG BAO JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531489527_999" custom="readingOrder {index:2;}">
+                <Coords points="25,236 41,238 68,225 217,226 234,214 233,192 215,181 199,181 190,191 155,190 134,181 119,196 112,189 85,189 77,181 58,188 42,173 23,174"/>
+                <Baseline points="30,223 229,217"/>
+                <TextEquiv>
+                    <Unicode>FANG (Bao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="78,293 145,298 157,288 228,287 250,299 259,291 284,289 284,259 265,252 250,253 231,269 223,261 191,261 179,253 160,260 134,254 117,262 78,254"/>
+                <Baseline points="83,284 111,284 139,284 167,284 195,284 223,284 251,283 279,282"/>
+                <TextEquiv>
+                    <Unicode>Fang Bao ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520873670_329" custom="readingOrder {index:4;}">
+                <Coords points="462,404 564,402 565,452 463,454"/>
+                <Baseline points="463,449 565,447"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="83,571 210,572 236,559 258,570 307,557 307,541 235,527 192,532 183,541 168,534 153,543 135,533 83,533"/>
+                <Baseline points="88,558 114,559 141,560 168,559 195,559 221,558 248,558 275,558 302,558"/>
+                <TextEquiv>
+                    <Unicode>2 v.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15672.h.74&#13;
+FANG BAO JI&#13;
+FANG (Bao)&#13;
+Fang Bao ji&#13;
+1983&#13;
+2 v.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

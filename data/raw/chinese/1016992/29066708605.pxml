@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.343+01:00</Created>
+        <LastChange>2023-08-16T15:18:14.343+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758580" pageNr="386" tsid="128197522" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=VMGZPUXWYBLDMBTJGKPAJKDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TAFYHOLFYEHPEDRRZGNUZRKL" imageId="35195886"/>
+    </Metadata>
+    <Page imageFilename="42758580.jpg" imageWidth="964" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191894343" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="57,9 917,9 917,781 57,781"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="574,65 679,74 697,62 734,74 753,58 768,72 830,71 830,52 785,29 729,42 707,34 689,49 648,26 574,35"/>
+                <Baseline points="579,59 604,61 628,62 652,62 676,64 700,64 724,64 748,64 772,64 796,62 820,65 832,65"/>
+                <TextEquiv>
+                    <Unicode>15660.i.192</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="109,109 204,123 545,122 545,92 490,95 474,79 383,83 362,97 346,81 109,77"/>
+                <Baseline points="114,109 138,109 162,110 186,112 210,114 234,114 258,114 282,112 306,112 330,112 355,112 379,112 403,112 427,112 451,114 475,114 499,114 523,115 547,110"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHAO LING SHU HUA JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="52,209 129,209 142,201 153,210 257,207 289,216 327,208 327,167 311,163 292,178 259,169 251,176 240,165 227,177 196,177 181,164 154,163 137,176 121,163 52,165"/>
+                <Baseline points="57,199 81,199 106,197 130,199 154,197 178,199 202,199 226,199 250,199 274,200 298,200 322,202 329,202"/>
+                <TextEquiv>
+                    <Unicode>FANG (Zhaoling)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="104,272 553,273 554,234 381,247 105,234"/>
+                <Baseline points="109,266 133,266 157,268 181,268 205,268 229,268 253,266 277,266 302,268 326,268 350,268 374,268 398,268 422,266 446,266 470,266 494,266 518,268 542,266 555,266"/>
+                <TextEquiv>
+                    <Unicode>Fang Zhao ling shu hua ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="289,334 330,315 344,314 359,330 404,310 421,322 443,313 444,276 410,279 383,271 354,290 321,269 290,276"/>
+                <Baseline points="295,306 302,306 326,305 350,306 374,308 398,306 422,305 446,300"/>
+                <TextEquiv>
+                    <Unicode>3 d 1i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="260,361 348,343 408,362 498,335 915,347 915,308 873,297 449,305 261,333"/>
+                <Baseline points="266,342 290,343 314,343 338,342 363,338 387,338 411,342 435,340 459,337 483,334 507,335 531,334 555,334 579,334 604,334 628,334 652,334 676,334 700,334 724,334 748,332 772,332 796,332 820,332 845,332 869,332 893,334 917,334"/>
+                <TextEquiv>
+                    <Unicode>, 99 9/6-: Fang Zhaoling: painting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="133,350 142,350 147,345 157,346 168,339 192,363 212,354 212,316 197,314 180,325 145,289 133,284"/>
+                <Baseline points="138,336 141,337 165,338 189,340 213,334"/>
+                <TextEquiv>
+                    <Unicode>7 p</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="105,410 879,417 879,384 820,372 441,372 401,395 351,373 105,380"/>
+                <Baseline points="110,403 134,403 159,403 183,403 207,403 231,403 255,403 279,404 303,404 327,404 351,404 375,404 400,403 424,403 448,404 472,404 496,403 520,403 544,403 568,404 592,403 616,403 640,403 665,403 689,404 713,404 737,403 761,403 785,403 809,403 833,403 857,406 881,408"/>
+                <TextEquiv>
+                    <Unicode>and calligraphy. - Hong Kong: Fang Zhaoling,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="112,440 130,441 136,447 146,441 173,442 180,448 191,446 191,412 167,414 160,409 153,409 149,412 112,413"/>
+                <Baseline points="117,436 141,435 165,435 189,435 192,436"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="112,482 663,478 611,433 365,463 299,434 270,452 244,431 206,462 112,440"/>
+                <Baseline points="117,467 138,473 162,473 186,472 210,473 234,473 258,473 282,473 306,473 330,473 355,473 379,473 403,473 427,472 451,472 475,472 499,472 523,472 547,472 571,472 596,472 620,472 644,472 665,472"/>
+                <TextEquiv>
+                    <Unicode>93 p. of pis., some col.:26 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="107,544 856,544 856,517 822,508 107,518"/>
+                <Baseline points="112,539 134,541 159,541 183,541 207,541 231,541 255,541 279,541 303,541 327,541 351,541 375,541 400,541 424,541 448,541 472,541 496,541 520,541 544,541 568,541 592,541 616,541 640,541 665,541 689,541 713,541 737,541 761,541 785,539 809,541 833,539 857,538"/>
+                <TextEquiv>
+                    <Unicode>Leaf inside: relates to exhibitions by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="107,585 608,586 608,557 562,547 482,547 466,563 288,547 262,563 107,546"/>
+                <Baseline points="112,575 128,576 152,576 176,576 200,576 224,576 249,576 273,576 297,576 321,576 345,576 369,576 393,576 417,576 441,576 465,576 489,576 514,576 538,578 562,576 586,578 610,573"/>
+                <TextEquiv>
+                    <Unicode>Ministry of Culture, Beijing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="804,683 816,690 833,691 851,687 863,690 867,686 878,697 894,698 904,694 903,646 896,646 880,662 872,662 855,649 843,656 831,645 816,660 803,660"/>
+                <Baseline points="809,681 833,681 857,681 881,682 906,682 907,684"/>
+                <TextEquiv>
+                    <Unicode>chi-p</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="59,775 101,777 115,771 120,776 147,778 152,772 172,775 193,763 192,730 118,734 104,724 92,732 58,731"/>
+                <Baseline points="64,766 88,767 112,767 136,767 160,771 184,769 195,767"/>
+                <TextEquiv>
+                    <Unicode>1868</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

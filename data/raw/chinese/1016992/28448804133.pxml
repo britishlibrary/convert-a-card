@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.663+01:00</Created>
+        <LastChange>2023-05-04T12:49:30.564+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758248" pageNr="99"/>
+    </Metadata>
+    <Page imageFilename="28448804133.jpg" imageWidth="980" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197370565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="43,105 43,612 878,613 878,106"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="493,146 727,146 736,143 737,100 672,108 664,116 493,108"/>
+                <Baseline points="498,137 523,137 549,137 575,137 601,138 627,138 653,139 679,139 705,140 731,140"/>
+                <TextEquiv>
+                    <Unicode>15328.a.374</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="71,194 198,193 207,202 223,195 232,201 246,194 283,195 301,186 302,151 132,153 72,141"/>
+                <Baseline points="76,183 103,182 131,182 158,182 186,182 213,183 241,183 268,184 296,184"/>
+                <TextEquiv>
+                    <Unicode>FEI LUN TAI BAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913787341_1059" custom="readingOrder {index:2;}">
+                <Coords points="49,311 133,314 140,309 153,322 168,322 175,315 232,322 247,312 247,278 62,277 49,272"/>
+                <Baseline points="54,314 242,314"/>
+                <TextEquiv>
+                    <Unicode>FENG (Jia)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="88,451 531,458 532,409 504,429 486,414 407,429 369,413 342,430 88,421"/>
+                <Baseline points="93,443 118,443 144,444 169,444 195,444 220,445 246,445 271,445 297,445 322,446 348,446 373,446 399,446 424,446 450,447 475,447 501,447 527,448"/>
+                <TextEquiv>
+                    <Unicode>Feilun taibao. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="96,498 128,498 136,490 155,485 168,490 239,490 239,465 221,452 175,451 157,458 145,470 136,461 96,461"/>
+                <Baseline points="101,479 127,480 154,481 180,480 207,480 234,481"/>
+                <TextEquiv>
+                    <Unicode>pp. 288.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="666,489 704,490 715,480 727,490 767,490 778,484 778,457 716,458 711,453 666,452"/>
+                <Baseline points="671,478 696,479 722,479 747,479 773,481"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="91,554 811,562 811,532 733,517 91,517"/>
+                <Baseline points="96,546 131,547 167,547 202,548 238,548 273,548 309,548 344,548 380,547 415,547 451,547 486,547 522,547 557,547 593,547 628,547 664,548 699,548 735,549 770,550 806,552"/>
+                <TextEquiv>
+                    <Unicode>Huangiu tushu zazhi chubanshe: Hong Kong,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="92,594 106,591 134,595 147,591 154,595 189,594 188,565 176,565 173,568 161,556 91,557"/>
+                <Baseline points="97,583 126,582 155,582 184,582"/>
+                <TextEquiv>
+                    <Unicode>1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.374&#13;
+FEI LUN TAI BAO&#13;
+FENG (Jia)&#13;
+Feilun taibao. [A novel.]&#13;
+pp. 288.&#13;
+18 cm.&#13;
+Huangiu tushu zazhi chubanshe: Hong Kong,&#13;
+1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

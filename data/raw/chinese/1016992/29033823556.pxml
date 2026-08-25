@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.877+01:00</Created>
+        <LastChange>2023-07-03T17:27:04.202+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758546" pageNr="356" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=EATRSKPQVCXTFBVZNGLUXPNB&amp;fileType=view" imageId="35195852"/>
+    </Metadata>
+    <Page imageFilename="42758546.jpg" imageWidth="944" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398024203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="77,0 896,-1 896,706 77,707"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="524,51 538,58 685,58 696,49 707,58 788,58 788,19 706,25 694,37 673,21 627,13 587,25 558,12 524,25"/>
+                <Baseline points="529,50 531,48 554,48 578,48 602,50 625,50 649,50 672,50 696,50 719,50 743,50 767,50 790,48"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.972</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="72,174 318,176 317,125 302,125 281,147 248,144 238,134 222,148 178,148 146,129 126,143 109,132 72,134"/>
+                <Baseline points="77,168 100,166 124,166 147,166 171,168 194,168 218,168 242,168 265,168 289,168 312,169 320,171"/>
+                <TextEquiv>
+                    <Unicode>LU (Fengzhang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="111,232 373,233 373,190 111,186"/>
+                <Baseline points="116,220 139,218 163,218 187,220 210,220 234,218 257,218 281,218 304,218 328,218 352,216 375,218"/>
+                <TextEquiv>
+                    <Unicode>Fang you hua gu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="108,384 772,384 772,365 707,346 108,358"/>
+                <Baseline points="113,377 136,378 160,378 183,380 207,380 231,380 254,378 278,377 301,377 325,377 348,377 372,377 396,377 419,377 443,377 466,377 490,377 514,378 537,378 561,380 584,380 608,378 631,378 655,378 679,378 702,378 726,377 749,377 773,380 774,378"/>
+                <TextEquiv>
+                    <Unicode>Sidelights on textile stamps / F.J.Leu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="172,441 873,433 873,389 803,379 694,399 628,383 547,418 493,385 320,388 289,419 172,391"/>
+                <Baseline points="177,430 191,427 215,426 238,427 262,426 286,426 309,427 333,427 356,429 380,429 404,429 427,429 451,430 474,430 498,430 521,433 545,432 569,430 592,430 616,429 639,429 663,426 686,426 710,426 734,424 757,426 781,424 804,426 828,426 852,422 875,422"/>
+                <TextEquiv>
+                    <Unicode>(1980)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="114,474 138,477 148,468 159,474 170,473 182,479 188,478 187,450 178,450 166,439 157,438 146,447 135,437 113,438"/>
+                <Baseline points="119,468 143,468 166,470 190,471 191,470"/>
+                <TextEquiv>
+                    <Unicode>2 v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="114,512 611,506 611,481 582,471 484,464 466,479 114,476"/>
+                <Baseline points="119,504 141,501 165,501 188,501 212,501 235,503 259,501 282,501 306,501 330,499 353,499 377,499 400,499 424,499 448,499 471,498 495,501 518,501 542,501 565,499 589,499 613,501"/>
+                <TextEquiv>
+                    <Unicode>Texts in Chinese and English.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="114,569 655,576 640,548 566,540 328,550 172,535 114,550"/>
+                <Baseline points="119,567 143,567 166,569 190,569 213,567 237,569 260,569 284,569 308,567 331,567 355,567 378,565 402,565 426,565 449,565 473,565 496,565 520,565 543,565 567,565 591,565 614,565 638,565 657,567"/>
+                <TextEquiv>
+                    <Unicode>t1. Sidelights on textile stamps.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:8;}">
+                <Coords points="116,610 560,607 560,586 535,572 397,573 354,593 300,574 116,579"/>
+                <Baseline points="121,600 144,602 168,602 191,602 215,602 238,602 262,602 286,602 309,602 333,600 356,600 380,598 404,600 427,600 451,598 474,598 498,598 521,598 545,598 562,600"/>
+                <TextEquiv>
+                    <Unicode>s1. Philately. s2. Textile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.972&#13;
+LU (Fengzhang)&#13;
+Fang you hua gu&#13;
+Sidelights on textile stamps / F.J.Leu.&#13;
+(1980)&#13;
+2 v.&#13;
+Texts in Chinese and English.&#13;
+t1. Sidelights on textile stamps.&#13;
+s1. Philately. s2. Textile.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

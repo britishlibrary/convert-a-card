@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.322+01:00</Created>
+        <LastChange>2023-05-03T17:44:55.257+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758171" pageNr="31"/>
+    </Metadata>
+    <Page imageFilename="28445617594.jpg" imageWidth="980" imageHeight="811">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128695258" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="71,119 70,566 917,567 918,120"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="569,162 635,161 646,168 676,159 694,171 707,162 808,162 820,155 820,120 719,125 694,117 681,130 650,117 569,124"/>
+                <Baseline points="574,152 600,152 627,153 654,154 681,154 707,155 734,155 761,155 788,155 815,155"/>
+                <TextEquiv>
+                    <Unicode>15328.a.190</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="96,210 341,210 354,203 355,182 254,171 220,171 207,181 161,165 97,164"/>
+                <Baseline points="101,197 128,196 156,197 183,197 211,198 238,199 266,200 293,201 321,202 349,203"/>
+                <TextEquiv>
+                    <Unicode>FEI XIA SHEN DAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="78,290 164,286 175,298 198,291 345,298 365,292 366,276 336,253 299,265 193,253 79,258"/>
+                <Baseline points="83,284 108,283 133,283 158,283 183,283 208,283 234,284 259,285 284,285 309,288 334,289 360,292"/>
+                <TextEquiv>
+                    <Unicode>ZHOU (Tianxing)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="111,427 401,425 424,442 553,442 570,433 571,404 462,404 427,390 401,410 259,394 231,411 216,399 112,397"/>
+                <Baseline points="116,418 142,419 168,420 195,421 221,421 248,422 274,423 300,423 327,424 353,424 380,424 406,425 432,426 459,426 485,427 512,428 538,429 565,430"/>
+                <TextEquiv>
+                    <Unicode>Feixia shendao. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="113,473 141,475 153,466 238,467 253,462 253,451 246,451 239,444 224,445 206,429 171,429 163,437 153,438 113,437"/>
+                <Baseline points="118,462 144,459 170,458 196,457 222,459 248,462"/>
+                <TextEquiv>
+                    <Unicode>pp. 234.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="758,474 787,474 802,464 831,467 838,474 863,474 863,441 851,441 847,437 804,439 794,429 758,429"/>
+                <Baseline points="763,464 794,461 826,462 858,464"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="101,532 680,547 693,514 609,500 587,518 526,497 101,505"/>
+                <Baseline points="106,523 135,524 164,524 193,525 222,525 251,526 280,526 309,527 338,528 367,528 397,529 426,529 455,530 484,530 513,531 542,532 571,532 600,533 629,533 658,534 688,535"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.190&#13;
+FEI XIA SHEN DAO&#13;
+ZHOU (Tianxing)&#13;
+Feixia shendao. [Novel.]&#13;
+pp. 234.&#13;
+18 cm.&#13;
+Wulin chubanshe: Hong Kong, 1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.502+01:00</Created>
+        <LastChange>2023-05-03T17:48:40.032+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758180" pageNr="40"/>
+    </Metadata>
+    <Page imageFilename="28445619584.jpg" imageWidth="964" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128920033" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="24,63 29,651 918,655 911,62"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="566,103 593,114 679,99 696,107 728,106 735,99 757,107 805,104 805,81 788,81 773,69 744,69 730,83 688,76 680,84 650,69 566,72"/>
+                <Baseline points="571,98 596,98 621,99 647,99 672,99 698,99 723,99 749,99 774,99 800,99"/>
+                <TextEquiv>
+                    <Unicode>15592.c.22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="56,179 644,186 742,177 741,134 55,148"/>
+                <Baseline points="53,171 94,172 128,172 162,171 196,171 230,171 263,171 297,171 331,170 365,170 399,170 432,170 466,170 500,170 534,170 567,170 601,170 635,170 669,170 703,170 737,170"/>
+                <TextEquiv>
+                    <Unicode>FEI HSIAO-T'UNG: THE DILEMMA OF A CHINESE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="54,212 263,210 263,191 245,181 54,180"/>
+                <Baseline points="59,204 87,205 115,205 144,205 172,205 201,205 229,205 258,206"/>
+                <TextEquiv>
+                    <Unicode>INTELLECTUAL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="35,250 88,250 97,241 111,250 205,242 273,250 274,205 245,220 207,218 199,210 186,219 152,219 141,211 110,210 97,220 83,212 36,212"/>
+                <Baseline points="40,234 65,236 90,238 116,238 141,238 166,237 192,237 217,237 242,238 268,241"/>
+                <TextEquiv>
+                    <Unicode>FEI (Xiaotong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="62,314 709,314 781,306 781,281 62,286"/>
+                <Baseline points="67,305 102,305 137,305 173,305 208,305 244,304 279,304 315,304 350,304 386,304 421,303 456,303 492,303 527,302 563,302 598,302 634,302 669,301 705,301 740,301 776,301"/>
+                <TextEquiv>
+                    <Unicode>Fei Hsiao-t'ung: the dilemma of a Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283892585_899" custom="readingOrder {index:5;}">
+                <Coords points="68,304 887,294 888,344 69,354"/>
+                <Baseline points="69,349 888,339"/>
+                <TextEquiv>
+                    <Unicode>intellectual / selected and translated by James</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657283922585_913" custom="readingOrder {index:6;}">
+                <Coords points="61,335 872,329 872,379 61,385"/>
+                <Baseline points="61,380 872,374"/>
+                <TextEquiv>
+                    <Unicode>P. McGough. — White Plains: M.E. Sharpe, 1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="64,417 80,426 127,418 136,427 160,417 183,426 197,412 214,420 310,418 309,395 295,389 238,395 228,386 211,387 197,399 187,389 166,396 159,389 128,393 117,384 63,386"/>
+                <Baseline points="69,412 95,412 121,412 147,411 173,411 200,411 226,410 252,410 278,410 305,410"/>
+                <TextEquiv>
+                    <Unicode>157 p.; 24 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="66,487 860,489 842,445 66,454"/>
+                <Baseline points="71,480 110,480 149,479 188,479 227,478 267,478 306,477 345,477 384,477 423,477 463,476 502,476 541,476 580,476 619,476 659,476 698,476 737,476 776,476 815,476 855,476"/>
+                <TextEquiv>
+                    <Unicode>Includes translations of four articles by Fei,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="69,523 800,514 800,492 755,485 69,491"/>
+                <Baseline points="74,514 110,514 146,515 182,515 218,514 254,514 290,514 326,514 362,514 398,513 434,513 470,513 506,513 542,512 578,512 614,512 650,511 686,511 722,511 758,510 795,510"/>
+                <TextEquiv>
+                    <Unicode>five about him, and an introduction by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="65,560 125,562 150,555 239,554 251,547 251,525 159,523 102,525 97,530 65,525"/>
+                <Baseline points="70,551 95,549 120,549 145,548 170,548 195,549 220,549 246,548"/>
+                <TextEquiv>
+                    <Unicode>translator</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="65,626 184,619 243,634 351,618 383,626 389,586 353,594 65,590"/>
+                <Baseline points="70,620 96,618 122,618 148,618 174,618 200,618 227,618 253,618 279,618 305,618 331,617 357,616 384,614"/>
+                <TextEquiv>
+                    <Unicode>ISBN 0-87332-141-3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15592.c.22&#13;
+FEI HSIAO-T'UNG: THE DILEMMA OF A CHINESE&#13;
+INTELLECTUAL&#13;
+FEI (Xiaotong)&#13;
+Fei Hsiao-t'ung: the dilemma of a Chinese&#13;
+intellectual / selected and translated by James&#13;
+P. McGough. — White Plains: M.E. Sharpe, 1979&#13;
+157 p.; 24 cm.&#13;
+Includes translations of four articles by Fei,&#13;
+five about him, and an introduction by the&#13;
+translator&#13;
+ISBN 0-87332-141-3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

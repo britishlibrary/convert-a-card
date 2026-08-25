@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.425+01:00</Created>
+        <LastChange>2023-05-04T12:47:05.078+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758232" pageNr="85"/>
+    </Metadata>
+    <Page imageFilename="28445636384.jpg" imageWidth="960" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197225078" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,38 50,669 909,666 909,35"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="566,80 605,81 613,90 625,81 735,75 744,83 871,82 871,42 854,39 810,41 795,51 566,37"/>
+                <Baseline points="571,70 597,71 624,72 651,72 678,73 705,73 731,74 758,74 785,75 812,75 839,76 866,76"/>
+                <TextEquiv>
+                    <Unicode>15408.f.132 (2)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="68,182 94,165 429,161 429,114 68,115"/>
+                <Baseline points="73,152 98,152 123,152 148,152 173,152 198,152 223,152 248,152 273,152 298,152 323,153 348,153 373,154 398,155 424,155"/>
+                <TextEquiv>
+                    <Unicode>FA TIE YI WEN KAO BI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913285044_564" custom="readingOrder {index:2;}">
+                <Coords points="55,245 117,249 126,258 164,250 217,258 231,249 253,258 268,248 267,209 127,213 111,221 72,192 54,199"/>
+                <Baseline points="60,250 263,247"/>
+                <TextEquiv>
+                    <Unicode>GU (Congyi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="85,355 882,354 882,312 696,332 85,314"/>
+                <Baseline points="90,342 129,343 168,343 208,343 247,343 286,344 326,344 365,344 404,344 444,344 483,344 522,345 562,345 601,345 640,345 680,345 719,346 758,346 798,347 837,348 877,348"/>
+                <TextEquiv>
+                    <Unicode>Fa tie yi wen kao bi. [Reprint of a collection</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="86,386 879,394 879,357 86,354"/>
+                <Baseline points="91,377 130,377 169,378 208,378 247,379 286,379 325,379 365,379 404,379 443,379 482,380 521,380 560,380 599,380 639,381 678,381 717,382 756,382 795,383 834,384 874,385"/>
+                <TextEquiv>
+                    <Unicode>of annotated inscriptions, edited by Gu Congyi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="89,417 116,419 133,409 151,423 184,425 203,416 240,418 262,428 307,426 308,381 283,396 237,389 183,389 172,396 157,388 135,396 128,389 89,388"/>
+                <Baseline points="94,411 120,412 146,413 172,413 198,413 224,414 250,415 276,415 303,417"/>
+                <TextEquiv>
+                    <Unicode>of the Ming.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="86,466 119,455 192,458 207,443 219,443 233,458 327,458 336,455 337,442 312,429 265,430 253,421 193,426 180,435 161,420 133,428 125,420 87,418"/>
+                <Baseline points="91,444 117,446 144,448 171,449 197,449 224,449 251,449 277,449 304,450 331,451"/>
+                <TextEquiv>
+                    <Unicode>10 ch. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="83,526 712,529 712,491 634,485 456,502 83,493"/>
+                <Baseline points="88,515 120,516 153,517 185,518 218,519 250,519 283,520 316,520 348,520 381,520 413,520 446,520 478,520 511,520 544,520 576,520 609,521 641,522 674,524 707,525"/>
+                <TextEquiv>
+                    <Unicode>Shang wu yin shu guan: Taibei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="78,629 737,650 760,641 761,606 556,610 502,591 338,607 320,589 185,606 79,582"/>
+                <Baseline points="83,616 116,617 150,619 183,620 217,620 251,621 284,622 318,622 351,623 385,623 419,623 452,623 486,624 519,624 553,625 587,625 620,626 654,627 687,628 721,630 755,631"/>
+                <TextEquiv>
+                    <Unicode>Si ku quan shu zhen ben liu ji, 132(2).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.f.132 (2)&#13;
+FA TIE YI WEN KAO BI&#13;
+GU (Congyi)&#13;
+Fa tie yi wen kao bi. [Reprint of a collection&#13;
+of annotated inscriptions, edited by Gu Congyi&#13;
+of the Ming.]&#13;
+10 ch. 19 cm.&#13;
+Shang wu yin shu guan: Taibei, 1975.&#13;
+Si ku quan shu zhen ben liu ji, 132(2).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

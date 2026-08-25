@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.161+01:00</Created>
+        <LastChange>2023-07-03T16:23:08.260+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758492" pageNr="310" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=JGKUWQZTHQPLFJSDDQCTCGBP&amp;fileType=view" imageId="35195798"/>
+    </Metadata>
+    <Page imageFilename="42758492.jpg" imageWidth="960" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394188260" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="28,20 902,20 902,755 28,755"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="552,73 641,82 659,71 670,82 692,83 717,69 734,82 753,72 765,82 798,74 798,41 771,42 758,29 718,56 658,53 604,33 580,47 568,37 552,47"/>
+                <Baseline points="557,70 581,70 605,70 629,72 653,72 677,73 701,72 725,72 749,70 773,72 797,70 800,72"/>
+                <TextEquiv>
+                    <Unicode>15675.g.463</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="23,144 393,142 392,105 364,90 348,106 275,96 236,104 222,90 196,105 159,92 145,105 22,103"/>
+                <Baseline points="28,134 52,136 76,136 100,136 124,137 148,137 172,137 196,137 220,136 244,136 268,136 292,137 316,137 340,137 364,137 388,137 395,137"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHI ZUO PIN XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="30,207 89,211 110,203 126,218 143,210 183,210 198,218 207,215 206,170 183,179 140,178 125,169 111,184 95,171 66,175 57,166 29,175"/>
+                <Baseline points="35,200 59,200 83,201 107,201 131,203 155,203 179,204 203,204 209,204"/>
+                <TextEquiv>
+                    <Unicode>FANG (Zhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="124,298 155,292 180,302 233,291 288,304 302,294 409,294 409,260 210,266 202,258 163,270 124,254"/>
+                <Baseline points="129,288 153,288 177,289 201,289 225,289 249,289 273,289 297,289 321,291 345,291 369,291 393,291 411,288"/>
+                <TextEquiv>
+                    <Unicode>fang zhi zuo pin xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="129,415 225,418 233,410 263,422 293,416 293,381 209,378 129,383"/>
+                <Baseline points="134,408 158,405 182,405 206,405 230,406 254,406 278,406 294,408"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:5;}">
+                <Coords points="39,673 63,682 71,675 121,682 133,670 162,683 249,681 248,645 38,644"/>
+                <Baseline points="44,670 59,670 83,670 107,670 131,670 155,670 179,672 203,670 227,672 251,669"/>
+                <TextEquiv>
+                    <Unicode>I247.7 44.5718</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:6;}">
+                <Coords points="38,708 54,714 91,714 108,709 115,714 124,712 124,682 115,681 105,686 96,680 60,681 51,675 38,675"/>
+                <Baseline points="43,704 67,704 91,704 115,705 126,705"/>
+                <TextEquiv>
+                    <Unicode>I247.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:7;}">
+                <Coords points="36,746 182,745 202,754 281,746 281,714 270,708 223,718 191,718 161,704 125,718 36,716"/>
+                <Baseline points="41,737 43,737 67,737 91,739 115,739 139,739 163,739 187,739 211,739 235,739 259,737 283,734"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688394113766_1039" custom="readingOrder {index:8;}">
+                <Coords points="741,636 876,636 876,686 741,686"/>
+                <Baseline points="741,681 876,681"/>
+                <TextEquiv>
+                    <Unicode>36-58[81]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688394149826_1064" custom="readingOrder {index:9;}">
+                <Coords points="684,668 871,666 871,716 684,718"/>
+                <Baseline points="684,713 871,711"/>
+                <TextEquiv>
+                    <Unicode>81-30-4 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688394152878_1069" custom="readingOrder {index:10;}">
+                <Coords points="614,700 877,700 877,750 614,750"/>
+                <Baseline points="614,745 877,745"/>
+                <TextEquiv>
+                    <Unicode>10100.480 82-0663</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.463&#13;
+FANG ZHI ZUO PIN XUAN&#13;
+FANG (Zhi)&#13;
+fang zhi zuo pin xuan&#13;
+1981&#13;
+I247.7 44.5718&#13;
+I247.7&#13;
+1982&#13;
+36-58[81]&#13;
+81-30-4 [31]&#13;
+10100.480 82-0663</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

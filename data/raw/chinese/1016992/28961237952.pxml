@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.843+01:00</Created>
+        <LastChange>2023-06-21T18:46:10.247+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758398" pageNr="229"/>
+    </Metadata>
+    <Page imageFilename="28961237952.jpg" imageWidth="992" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687365970248" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="152,102 152,739 935,739 935,102"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="537,138 648,146 668,135 687,147 740,139 802,147 821,138 821,104 784,100 710,117 687,109 654,117 632,100 614,109 537,111"/>
+                <Baseline points="542,132 569,132 596,132 624,132 651,133 679,133 706,134 733,135 761,135 788,136 816,136"/>
+                <TextEquiv>
+                    <Unicode>15328.b.513/9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="147,203 206,218 248,195 267,209 342,202 407,219 473,190 472,163 238,173 201,156 146,169"/>
+                <Baseline points="152,195 178,195 204,195 231,195 257,196 283,196 310,195 336,195 362,195 389,195 415,195 441,194 468,194"/>
+                <TextEquiv>
+                    <Unicode>FAN YI YU CHUANG ZUO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="157,266 182,265 208,264 234,264 259,264 285,265 311,266 337,267 362,268 383,269 384,254 363,253 338,252 312,251 286,250 259,249 234,249 208,249 181,250 156,251"/>
+                <Baseline points="157,266 182,265 208,264 234,264 259,264 285,265 311,266 337,267 362,268 383,269"/>
+                <TextEquiv>
+                    <Unicode>YAN (Yuanshu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="185,450 823,450 832,412 185,413"/>
+                <Baseline points="190,433 221,435 253,436 285,436 317,437 349,437 381,438 412,438 444,438 476,438 508,438 540,438 572,438 604,438 635,438 667,438 699,438 731,438 763,438 795,439 827,439"/>
+                <TextEquiv>
+                    <Unicode>Fanyi yu chuangzuo. [A collection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="194,482 864,486 915,483 916,451 195,453"/>
+                <Baseline points="200,471 235,471 271,471 306,471 342,471 377,471 413,472 448,472 484,472 519,472 555,473 591,473 626,473 662,473 697,473 733,474 768,474 804,474 839,474 875,474 911,473"/>
+                <TextEquiv>
+                    <Unicode>seven short stories translated, with notes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="193,514 707,522 741,502 779,522 923,520 923,483 193,484"/>
+                <Baseline points="198,506 234,506 270,507 306,507 342,507 378,507 414,508 450,508 486,508 522,508 558,508 594,508 630,508 666,508 702,508 738,508 774,508 810,508 846,508 882,508 918,509"/>
+                <TextEquiv>
+                    <Unicode>and essays, from western works. With three</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="183,550 709,554 709,534 671,516 183,524"/>
+                <Baseline points="188,540 213,540 239,541 265,541 291,541 317,541 342,541 368,541 394,541 420,542 446,542 471,542 497,542 523,542 549,543 575,543 600,543 626,544 652,544 678,545 704,545"/>
+                <TextEquiv>
+                    <Unicode>others written by Yan himself.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:7;}">
+                <Coords points="185,594 288,594 299,583 360,594 380,586 380,561 368,555 347,553 337,559 319,553 301,568 265,553 246,568 221,556 185,556"/>
+                <Baseline points="190,579 216,579 242,579 269,579 295,579 322,579 348,579 375,580"/>
+                <TextEquiv>
+                    <Unicode>pp. 3, 247.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="780,586 890,586 891,561 859,556 835,560 823,549 781,549"/>
+                <Baseline points="785,578 810,577 835,577 860,578 885,580"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="183,658 792,658 776,621 317,634 183,620"/>
+                <Baseline points="188,643 219,644 251,644 282,644 314,645 345,645 377,645 408,645 440,645 471,645 503,645 534,646 566,646 597,646 629,646 660,646 692,647 723,647 755,648 787,648"/>
+                <TextEquiv>
+                    <Unicode>Xiaocao chubanshe: Hong Kong, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+                <Coords points="188,730 453,729 486,746 866,725 838,693 525,700 488,677 322,706 188,693"/>
+                <Baseline points="193,721 226,721 259,722 293,722 326,722 360,723 393,723 426,723 460,723 493,723 527,723 560,723 593,723 627,723 660,723 694,723 727,724 760,724 794,724 827,724 861,724"/>
+                <TextEquiv>
+                    <Unicode>Xiaocao congkan Grass Root Series), 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+15328. b. 513/9
+FAN YI YU CHUANG ZUO
+
+YAN (Yuanshu)
+—
+
+5
+
+Fanyi yu chuangzuo. [A collection of
+seven short stories translated, with notes
+and essays, from western works. With three
+others written by Yan himself.
+18 cm.
+PP, 3, 247.
+Xiaocao chubanshe: Hong Kong, 1972.
+Xiaocao congkan ass Root Series), 9.
+nese (P</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

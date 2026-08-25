@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.481+01:00</Created>
+        <LastChange>2023-08-16T15:23:28.691+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758591" pageNr="396" tsid="128197546" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=SCMEVGMEEWJXUPWAIYRYTEIG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMWOQPRHWOGANZLFHESQQQHH" imageId="35195897"/>
+    </Metadata>
+    <Page imageFilename="42758591.jpg" imageWidth="964" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692192208692" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="46,28 918,28 918,539 46,539"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="585,90 694,84 702,91 742,90 750,82 765,90 811,89 810,42 771,43 747,65 730,65 714,50 701,64 689,64 666,42 654,54 630,47 584,54"/>
+                <Baseline points="591,78 615,78 640,80 664,82 688,82 712,82 736,82 760,83 784,83 808,83 813,82"/>
+                <TextEquiv>
+                    <Unicode>15625.a.33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="48,176 305,179 319,173 320,132 193,133 140,148 124,130 97,148 69,137 48,144"/>
+                <Baseline points="54,170 56,170 80,170 104,170 128,170 152,170 176,170 201,168 225,168 249,168 273,168 297,168 321,168"/>
+                <TextEquiv>
+                    <Unicode>FA XUE TONG LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="41,225 124,223 136,234 227,225 300,234 314,226 313,184 299,177 281,191 164,190 157,183 149,190 41,190"/>
+                <Baseline points="46,218 70,218 94,218 119,217 143,218 167,218 191,218 215,218 239,218 263,218 287,220 311,220 315,220"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Chunlong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="103,287 155,287 171,297 226,285 277,289 287,298 318,287 386,290 386,262 366,252 177,259 170,267 117,252 103,262"/>
+                <Baseline points="109,284 133,284 157,284 181,284 205,284 229,284 254,284 278,286 302,286 326,286 350,286 374,284 389,284"/>
+                <TextEquiv>
+                    <Unicode>Fa xue tong lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="96,368 916,378 896,290 536,327 211,290 95,311"/>
+                <Baseline points="102,361 127,360 151,360 175,363 199,363 223,365 247,368 271,368 295,366 320,365 344,365 368,363 392,361 416,361 440,363 464,365 488,365 513,366 537,366 561,366 585,368 609,369 633,371 657,373 681,374 705,376 730,376 754,377 778,376 802,374 826,374 850,373 874,371 898,369 918,371"/>
+                <TextEquiv>
+                    <Unicode>et Cai , cn st / fa ta rf.. S 1h c6 648 c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="96,449 140,438 150,440 184,467 221,465 211,390 191,404 180,402 169,417 131,411 121,422 93,425"/>
+                <Baseline points="101,442 125,439 149,440 173,445 197,450 220,453"/>
+                <TextEquiv>
+                    <Unicode>1566</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="260,449 369,451 422,482 470,455 821,466 821,412 722,425 669,395 450,417 426,393 379,407 346,386 300,425 260,427"/>
+                <Baseline points="266,447 291,448 315,450 339,451 363,451 387,451 411,451 435,451 459,455 484,456 508,455 532,455 556,455 580,455 604,455 628,455 652,453 677,453 701,453 725,455 749,455 773,455 797,455 821,456 823,458"/>
+                <TextEquiv>
+                    <Unicode>: C Lg. ti RkK ht. 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="101,532 289,538 301,526 417,527 417,509 385,497 348,508 332,490 296,508 274,498 262,509 215,492 170,492 150,510 127,492 102,492"/>
+                <Baseline points="107,527 131,527 155,527 180,527 204,527 228,529 252,527 276,525 300,525 324,525 348,525 373,525 397,525 418,527"/>
+                <TextEquiv>
+                    <Unicode>9, 373 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

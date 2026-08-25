@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:55.006+01:00</Created>
+        <LastChange>2023-08-16T15:02:26.993+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758556" pageNr="365" tsid="128197475" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=HACAIKMWFELLWFYXQJYKIEQF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JXYEDDUTWRMDBXOXTOKTPJDS" imageId="35195862"/>
+    </Metadata>
+    <Page imageFilename="42758556.jpg" imageWidth="960" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692190946994" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="51,81 931,81 931,730 51,730"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="597,140 631,146 639,137 698,140 712,131 727,144 753,145 765,135 775,146 816,147 827,144 826,103 775,100 757,119 730,99 713,116 695,116 674,95 646,93 623,109 596,105"/>
+                <Baseline points="603,134 627,131 651,132 675,132 699,132 723,134 747,136 771,136 795,136 819,137 830,139"/>
+                <TextEquiv>
+                    <Unicode>15660.k.11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="58,192 117,194 152,221 185,194 241,185 350,233 402,188 475,234 514,195 559,191 559,150 476,137 400,171 353,130 326,150 58,153"/>
+                <Baseline points="64,187 88,185 112,187 136,187 160,187 184,187 208,187 232,187 256,187 280,187 304,188 328,188 352,190 376,188 400,188 424,188 448,188 472,188 496,188 520,188 544,188 561,188"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN YUN JU SI SHI JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="45,262 894,273 893,239 727,229 45,234"/>
+                <Baseline points="51,257 75,257 99,257 123,259 147,260 171,259 195,259 219,259 243,260 267,260 291,260 315,260 339,262 363,262 387,262 411,262 435,264 459,264 483,264 507,265 531,265 555,265 579,265 603,265 627,265 651,265 675,265 699,267 723,265 747,267 771,268 795,268 819,268 843,268 867,268 891,270 896,268"/>
+                <TextEquiv>
+                    <Unicode>CHINA [People's Republic] Zhongguo fojiao xiehui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="72,312 103,330 123,315 232,323 243,311 276,324 392,315 419,330 443,326 442,271 419,269 392,290 368,268 317,291 266,264 244,280 217,263 182,278 98,263 71,278"/>
+                <Baseline points="78,302 102,304 126,307 150,308 174,308 198,310 222,312 246,310 270,312 294,312 318,312 342,312 366,312 390,310 414,310 438,315 446,320"/>
+                <TextEquiv>
+                    <Unicode>1[9]46 c4 34.6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="244,381 276,385 300,368 335,370 349,364 370,379 403,381 404,326 383,321 351,341 330,323 293,330 264,315 246,316"/>
+                <Baseline points="251,370 260,371 284,366 308,361 332,363 356,363 380,366 404,363"/>
+                <TextEquiv>
+                    <Unicode>6 14 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="418,369 438,383 465,368 498,385 525,367 537,379 573,367 597,378 610,366 640,379 652,371 655,321 625,307 573,330 558,313 510,325 485,311 458,336 420,321"/>
+                <Baseline points="424,369 440,371 464,369 488,369 512,364 536,364 560,363 584,364 608,364 632,361 656,363"/>
+                <TextEquiv>
+                    <Unicode>8 c j6 422.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="80,407 917,419 928,389 79,372"/>
+                <Baseline points="86,396 89,396 113,398 137,398 161,400 185,400 209,400 233,401 257,401 281,403 305,403 329,403 353,403 377,403 401,404 425,404 449,404 473,404 497,404 521,404 545,406 569,404 593,404 617,403 641,404 665,406 689,406 713,406 737,408 761,408 785,408 809,408 833,409 857,409 881,409 905,408 931,406"/>
+                <TextEquiv>
+                    <Unicode>Fangshan yunjusi shijing. [The tripitaka, engrav.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="85,440 819,456 817,411 84,409"/>
+                <Baseline points="89,433 113,433 137,433 161,435 185,435 209,436 233,436 257,436 281,436 305,436 329,436 353,436 377,438 401,438 425,438 449,438 473,440 497,438 521,438 545,440 569,440 593,440 617,440 641,438 665,440 689,441 713,441 737,441 761,443 785,444 809,446 820,448"/>
+                <TextEquiv>
+                    <Unicode>ed on stone between the Sui and the Ming.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="80,478 344,475 365,491 379,480 425,481 425,459 380,443 348,454 333,441 302,442 287,455 272,442 224,442 201,459 168,441 151,452 80,443"/>
+                <Baseline points="86,472 110,470 134,470 158,470 182,472 206,472 230,472 254,473 278,473 302,473 326,473 350,472 374,472 398,472 422,473 428,473"/>
+                <TextEquiv>
+                    <Unicode>pp. 4, 142; 66 pls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="662,482 692,483 710,473 723,482 767,482 777,478 776,463 761,462 749,453 720,450 713,455 701,444 687,452 676,445 661,452"/>
+                <Baseline points="668,473 692,473 716,473 740,475 764,476 779,478"/>
+                <TextEquiv>
+                    <Unicode>36 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="81,542 611,554 610,515 80,507"/>
+                <Baseline points="86,536 110,539 134,539 158,540 182,540 206,540 230,540 254,540 278,540 302,542 326,542 350,542 374,542 398,542 422,542 446,544 470,544 494,544 518,544 542,545 566,544 590,544 614,545"/>
+                <TextEquiv>
+                    <Unicode>Wenwu chubanshe: Peking, 1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="654,716 665,722 794,718 808,731 824,722 843,731 857,724 856,673 845,672 831,686 810,677 801,686 781,687 768,677 748,692 732,684 652,683"/>
+                <Baseline points="659,712 683,713 707,713 731,713 755,715 779,715 803,715 827,718 851,720 859,720"/>
+                <TextEquiv>
+                    <Unicode>Chinese (P)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.853+01:00</Created>
+        <LastChange>2023-05-04T13:52:46.171+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758326" pageNr="167"/>
+    </Metadata>
+    <Page imageFilename="28780473810.jpg" imageWidth="952" imageHeight="770">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201166171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="60,40 60,725 875,725 875,40"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="521,90 551,74 599,69 616,82 650,74 739,83 836,67 836,27 783,29 770,42 522,40"/>
+                <Baseline points="527,68 552,68 577,68 603,68 628,68 653,69 679,69 704,69 729,70 755,70 780,70 805,69 831,68"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1184</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="69,211 182,209 182,163 126,163 116,173 69,173"/>
+                <Baseline points="74,199 99,198 125,198 151,198 177,198"/>
+                <TextEquiv>
+                    <Unicode>FAXIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="93,259 514,254 514,221 93,225"/>
+                <Baseline points="98,248 123,249 149,249 175,249 200,249 226,249 252,249 277,248 303,248 329,248 354,248 380,248 406,248 431,248 457,248 483,249 509,249"/>
+                <TextEquiv>
+                    <Unicode>Fa Xian zhuan jiao zhu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201152047_1976" custom="readingOrder {index:3;}">
+                <Coords points="273,390 369,390 369,440 273,440"/>
+                <Baseline points="273,435 369,435"/>
+                <TextEquiv>
+                    <Unicode>1985</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="101,490 153,490 161,482 169,490 216,490 223,483 237,490 329,485 329,465 303,461 239,460 199,468 192,461 161,462 150,452 101,453"/>
+                <Baseline points="106,479 133,479 160,480 187,480 215,480 242,480 269,479 296,479 324,478"/>
+                <TextEquiv>
+                    <Unicode>208 p.: maps.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="98,554 590,555 601,531 537,516 350,530 328,509 308,521 272,510 99,521"/>
+                <Baseline points="103,545 128,545 154,545 180,545 206,544 232,544 258,544 284,544 310,544 336,544 361,544 387,544 413,544 439,544 465,544 491,544 517,545 543,545 569,546 595,546"/>
+                <TextEquiv>
+                    <Unicode>a1.ZHANG (Xun) s1.Buddhism.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1184&#13;
+FAXIAN&#13;
+Fa Xian zhuan jiao zhu&#13;
+1985&#13;
+208 p.: maps.&#13;
+a1.ZHANG (Xun) s1.Buddhism.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

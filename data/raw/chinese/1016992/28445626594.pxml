@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.796+01:00</Created>
+        <LastChange>2023-05-04T12:44:35.082+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758196" pageNr="53"/>
+    </Metadata>
+    <Page imageFilename="28445626594.jpg" imageWidth="984" imageHeight="812">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197075082" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,79 85,770 924,769 924,78"/>
+            <TextLine id="line_1654530132218_363" custom="readingOrder {index:0;}">
+                <Coords points="523,118 848,122 855,74 789,86 753,77 703,95 634,78 524,87"/>
+                <Baseline points="528,116 849,117"/>
+                <TextEquiv>
+                    <Unicode>15293.a.35/29(2)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="80,194 134,192 155,202 194,187 256,202 264,194 313,188 312,158 282,160 263,149 79,157"/>
+                <Baseline points="85,188 112,186 140,185 168,184 196,184 224,184 252,184 280,184 308,183"/>
+                <TextEquiv>
+                    <Unicode>FANG HU LEI GAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="118,290 184,290 197,282 216,291 376,287 376,253 361,245 329,260 266,262 221,245 118,248"/>
+                <Baseline points="123,277 150,277 178,278 205,278 233,278 260,278 288,278 315,278 343,278 371,278"/>
+                <TextEquiv>
+                    <Unicode>WANG (Guoyuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="154,458 817,447 804,421 153,429"/>
+                <Baseline points="159,449 191,450 224,450 256,450 289,450 322,450 354,450 387,450 420,449 452,449 485,449 518,448 550,448 583,447 616,447 648,447 681,446 714,446 746,446 779,446 812,446"/>
+                <TextEquiv>
+                    <Unicode>Fanghu leigao. [Essays on poetry and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="167,493 794,484 794,462 754,453 520,457 493,475 414,453 331,475 167,461"/>
+                <Baseline points="172,484 202,484 233,484 264,484 295,484 326,483 357,483 387,483 418,483 449,483 480,483 511,482 542,482 573,482 603,482 634,481 665,481 696,481 727,480 758,479 789,479"/>
+                <TextEquiv>
+                    <Unicode>classical studies. A reprint of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="167,526 226,530 244,519 307,530 401,530 401,510 382,500 272,492 240,502 232,493 168,493"/>
+                <Baseline points="172,518 200,518 228,517 256,517 284,517 312,517 340,518 368,519 396,521"/>
+                <TextEquiv>
+                    <Unicode>1966 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="162,576 194,576 209,561 222,561 231,570 246,570 258,561 265,567 303,570 321,561 321,538 301,525 279,522 233,525 218,541 196,532 174,536 161,531"/>
+                <Baseline points="167,554 196,554 226,554 256,553 286,553 316,555"/>
+                <TextEquiv>
+                    <Unicode>pp. [88].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="679,553 763,556 777,569 791,566 792,537 778,534 769,525 735,524 724,530 713,524 680,524"/>
+                <Baseline points="684,547 709,546 735,546 761,548 787,551"/>
+                <TextEquiv>
+                    <Unicode>22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="159,626 703,622 703,605 671,589 609,589 594,604 574,589 159,596"/>
+                <Baseline points="164,618 190,618 217,619 244,619 270,619 297,619 324,619 350,619 377,618 404,618 431,618 457,618 484,618 511,617 537,617 564,617 591,617 617,617 644,618 671,618 698,618"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="157,713 847,712 815,677 157,676"/>
+                <Baseline points="162,699 196,700 230,701 264,702 298,702 332,702 366,703 400,703 434,703 468,703 502,703 536,703 570,703 604,703 638,703 672,704 706,704 740,705 774,706 808,707 842,708"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan. Xuji,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+                <Coords points="158,761 204,761 206,732 199,732 194,725 188,726 175,724 171,726 161,724"/>
+                <Baseline points="164,748 200,750"/>
+                <TextEquiv>
+                    <Unicode>29.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.35/29(2)&#13;
+FANG HU LEI GAO&#13;
+WANG (Guoyuan)&#13;
+Fanghu leigao. [Essays on poetry and&#13;
+classical studies. A reprint of the&#13;
+1966 edition.]&#13;
+pp. [88].&#13;
+22 cm.&#13;
+Wenhai chubanshe: Taipei, 1974.&#13;
+Jindai Zhongguo shiliao congkan. Xuji,&#13;
+29.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

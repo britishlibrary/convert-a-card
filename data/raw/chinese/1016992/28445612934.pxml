@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.094+01:00</Created>
+        <LastChange>2023-05-03T17:40:44.808+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758159" pageNr="21"/>
+    </Metadata>
+    <Page imageFilename="28445612934.jpg" imageWidth="1004" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128444809" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,77 82,566 929,566 928,77"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="630,123 813,130 825,122 871,130 871,83 792,90 630,85"/>
+                <Baseline points="635,115 660,114 686,114 712,115 737,115 763,116 789,117 814,117 840,116 866,115"/>
+                <TextEquiv>
+                    <Unicode>15328.a.510</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="98,154 136,154 160,178 175,178 209,146 253,178 279,154 304,153 304,95 242,114 186,119 176,109 159,109 146,122 128,114 98,115"/>
+                <Baseline points="103,147 131,147 159,146 187,145 215,145 243,145 271,145 299,147"/>
+                <TextEquiv>
+                    <Unicode>FENG DU YU NU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127948778_893" custom="readingOrder {index:2;}">
+                <Coords points="94,243 355,244 355,294 94,293"/>
+                <Baseline points="94,288 355,289"/>
+                <TextEquiv>
+                    <Unicode>ZHUGE (Qingyun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="124,425 555,434 548,386 474,398 376,389 355,408 316,388 125,388"/>
+                <Baseline points="129,411 155,412 181,413 207,414 234,415 260,416 286,416 313,417 339,417 365,418 392,418 418,419 444,419 471,420 497,421 523,423 550,424"/>
+                <TextEquiv>
+                    <Unicode>Fengdu yunü. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="125,466 157,466 181,453 205,457 219,466 247,466 255,458 269,458 269,438 248,437 234,426 199,424 182,440 163,429 125,429"/>
+                <Baseline points="130,453 156,452 183,451 210,451 237,452 264,453"/>
+                <TextEquiv>
+                    <Unicode>pp. 174.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="725,466 761,467 774,459 782,467 845,465 846,440 783,437 776,429 726,430"/>
+                <Baseline points="730,458 757,456 785,457 812,458 840,460"/>
+                <TextEquiv>
+                    <Unicode>17 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="120,529 640,546 695,539 696,504 282,492 221,507 121,491"/>
+                <Baseline points="126,517 154,518 182,518 210,519 238,519 267,520 295,520 323,521 351,521 379,522 408,523 436,523 464,524 492,525 520,525 549,526 577,527 605,527 633,528 661,529 690,530"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1973.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.510&#13;
+FENG DU YU NU&#13;
+ZHUGE (Qingyun)&#13;
+Fengdu yunü. [A novel.]&#13;
+pp. 174.&#13;
+17 cm.&#13;
+Wulin chubanshe: Hong Kong, 1973.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

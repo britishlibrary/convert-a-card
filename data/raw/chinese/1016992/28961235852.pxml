@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.727+01:00</Created>
+        <LastChange>2023-06-21T18:33:18.332+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961235852.jpg" imageWidth="976" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687365198333" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="210,91 210,553 917,553 917,91"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,120 614,130 744,131 852,116 852,95 835,85 790,85 770,100 598,92"/>
+                <Baseline points="603,117 630,118 657,120 684,120 711,121 738,120 765,120 792,118 819,118 847,115"/>
+                <TextEquiv>
+                    <Unicode>15329.a.808</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="242,178 384,177 394,172 395,146 354,140 243,141"/>
+                <Baseline points="247,167 275,167 303,167 332,168 360,169 389,168"/>
+                <TextEquiv>
+                    <Unicode>FANG HUA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="210,267 236,266 262,266 288,265 314,264 340,264 366,264 392,263 418,263 444,262 448,262 448,247 444,247 418,248 392,248 366,249 340,249 314,249 287,250 262,251 236,251 209,252"/>
+                <Baseline points="210,267 236,266 262,266 288,265 314,264 340,264 366,264 392,263 418,263 444,262 448,262"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Junmo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="240,381 670,378 670,332 597,345 426,333 404,355 240,341"/>
+                <Baseline points="245,367 271,367 297,367 323,368 350,367 376,367 402,367 428,367 455,366 481,366 507,365 533,365 560,365 586,365 612,365 638,365 665,365"/>
+                <TextEquiv>
+                    <Unicode>Fang hua. [Two stories.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="242,418 279,418 300,406 317,406 332,419 366,418 374,410 383,410 383,387 375,387 363,378 350,382 304,381 295,390 286,389 278,381 242,381"/>
+                <Baseline points="247,405 273,405 299,404 325,404 351,404 378,404"/>
+                <TextEquiv>
+                    <Unicode>pp. 153.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="247,485 907,477 906,436 813,430 246,445"/>
+                <Baseline points="252,472 284,472 316,472 349,472 381,471 414,471 446,470 479,470 511,469 544,469 576,468 608,468 641,467 673,467 706,466 738,466 771,465 803,465 836,465 868,465 901,464"/>
+                <TextEquiv>
+                    <Unicode>Chunfeng chubanshe: Hong Kong, [1968].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="245,554 654,544 654,517 609,509 245,517"/>
+                <Baseline points="250,541 276,541 303,540 329,540 356,540 383,540 409,539 436,539 462,538 489,538 516,537 542,537 569,536 595,536 622,536 649,535"/>
+                <TextEquiv>
+                    <Unicode>Chunfeng wenyi congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15329. a. 808
+FANG HUA
+2HANe (Junno) 3f. 
+*
+
+7
+
+Fang hua. [Two stories.
+pp. 153.
+Chunfeng chubanshe: Hong Kong, [1968].
+Chunfeng wenyi congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

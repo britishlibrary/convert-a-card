@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.696+01:00</Created>
+        <LastChange>2023-05-04T12:50:13.708+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758251" pageNr="101"/>
+    </Metadata>
+    <Page imageFilename="28448804313.jpg" imageWidth="972" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197413709" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="27,27 26,640 931,641 932,33"/>
+            <TextLine id="line_1654530555284_600" custom="readingOrder {index:0;}">
+                <Coords points="560,63 651,66 661,59 714,58 797,67 814,56 814,26 744,21 730,34 697,28 688,38 621,27 560,34"/>
+                <Baseline points="565,63 809,60"/>
+                <TextEquiv>
+                    <Unicode>15274.a.163</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654530582493_613" custom="readingOrder {index:1;}">
+                <Coords points="30,134 873,133 870,85 31,82"/>
+                <Baseline points="35,131 867,137"/>
+                <TextEquiv>
+                    <Unicode>FEI LÜ BIN DE MIN ZU WEN HUA YU HUA QIAO TONG HUA WEN TI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="71,195 159,192 183,203 191,194 245,193 275,203 288,199 288,157 240,158 225,165 180,156 71,163"/>
+                <Baseline points="76,188 101,187 127,186 153,186 179,186 205,187 231,187 257,187 283,188"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Liefu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="111,330 857,330 865,299 110,299"/>
+                <Baseline points="116,321 153,321 190,321 227,321 264,321 302,321 339,321 376,321 413,320 450,320 488,320 525,320 562,320 599,319 636,319 674,319 711,319 748,319 785,319 822,319 860,319"/>
+                <TextEquiv>
+                    <Unicode>Feilübin de minzu wenhua yu huaqiao tonghua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:4;}">
+                <Coords points="108,369 820,362 828,331 107,339"/>
+                <Baseline points="113,357 148,357 184,358 219,358 255,358 290,357 326,357 361,357 397,357 432,357 468,356 503,356 539,356 574,356 610,355 645,355 681,355 716,354 752,354 787,353 823,353"/>
+                <TextEquiv>
+                    <Unicode>wenti. [A study of the races and culture</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="113,402 796,402 796,372 113,373"/>
+                <Baseline points="119,393 152,393 186,393 219,393 253,392 287,392 320,392 354,392 387,392 421,392 455,392 488,392 522,391 555,391 589,391 623,391 656,391 690,390 723,390 757,390 791,389"/>
+                <TextEquiv>
+                    <Unicode>of the Philippines and the assimilation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="110,442 298,429 620,443 620,399 590,413 511,397 110,410"/>
+                <Baseline points="115,428 140,428 165,428 190,428 215,428 240,428 265,428 290,427 315,427 340,427 365,426 390,426 415,426 440,426 465,426 490,426 515,427 540,427 565,428 590,429 615,430"/>
+                <TextEquiv>
+                    <Unicode>problem of resident Chinese.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+                <Coords points="108,483 144,482 150,475 192,482 208,467 240,483 261,471 344,472 343,448 324,437 264,436 241,449 216,436 201,451 175,436 157,446 107,444"/>
+                <Baseline points="113,469 138,467 163,466 188,465 213,464 238,464 263,464 288,463 313,463 339,462"/>
+                <TextEquiv>
+                    <Unicode>pp. 6, 4, 158.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="762,466 847,465 860,474 880,471 880,447 871,445 863,437 807,438 797,429 763,430"/>
+                <Baseline points="768,460 794,459 821,459 848,460 875,461"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;}">
+                <Coords points="106,547 595,547 643,542 659,522 621,500 575,500 551,519 526,502 417,516 105,509"/>
+                <Baseline points="111,533 138,533 165,533 192,533 219,533 246,533 273,532 301,532 328,532 355,532 382,532 409,532 436,531 463,531 491,531 518,531 545,531 572,531 599,531 626,531 654,532"/>
+                <TextEquiv>
+                    <Unicode>Zhengzhong shuju: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:10;}">
+                <Coords points="111,611 340,619 389,607 472,618 529,600 495,573 448,583 407,572 385,587 351,573 266,586 230,573 111,574"/>
+                <Baseline points="116,599 141,600 166,601 192,602 217,602 243,603 268,603 294,603 319,603 344,602 370,602 395,602 421,602 446,602 472,602 497,603 523,603"/>
+                <TextEquiv>
+                    <Unicode>Feilübin yanjiu zhi yi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15274.a.163&#13;
+FEI LÜ BIN DE MIN ZU WEN HUA YU HUA QIAO TONG HUA WEN TI&#13;
+CHEN (Liefu)&#13;
+Feilübin de minzu wenhua yu huaqiao tonghua&#13;
+wenti. [A study of the races and culture&#13;
+of the Philippines and the assimilation&#13;
+problem of resident Chinese.]&#13;
+pp. 6, 4, 158.&#13;
+21 cm.&#13;
+Zhengzhong shuju: Taipei, 1968.&#13;
+Feilübin yanjiu zhi yi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

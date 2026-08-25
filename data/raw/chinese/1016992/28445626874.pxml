@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.853+01:00</Created>
+        <LastChange>2023-05-04T12:45:07.865+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758198" pageNr="55"/>
+    </Metadata>
+    <Page imageFilename="28445626874.jpg" imageWidth="956" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197107866" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="10,0 14,645 897,649 893,4"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="671,51 709,42 762,50 775,42 802,42 810,50 832,50 858,40 870,48 878,45 879,6 860,3 826,18 791,9 769,22 733,7 672,11"/>
+                <Baseline points="677,36 705,36 733,36 761,36 789,36 817,36 845,37 873,37"/>
+                <TextEquiv>
+                    <Unicode>15660.k.38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="22,140 408,135 408,105 63,101 22,83"/>
+                <Baseline points="27,128 52,128 77,127 102,127 127,127 152,128 177,128 202,129 227,129 252,130 277,130 302,130 327,130 352,130 377,130 403,129"/>
+                <TextEquiv>
+                    <Unicode>FANG GU BEI TI ZI TIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="13,188 28,197 309,194 385,185 395,149 12,156"/>
+                <Baseline points="18,180 44,180 71,180 97,180 124,180 150,180 177,179 204,179 230,179 257,178 283,178 310,177 336,176 363,176 390,175"/>
+                <TextEquiv>
+                    <Unicode>FANG GU BEI TI ZI TIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="53,258 419,251 419,215 311,221 301,231 287,221 182,221 139,233 53,221"/>
+                <Baseline points="58,248 83,248 108,248 134,247 159,247 185,247 210,246 236,246 261,246 286,245 312,245 337,245 363,245 388,244 414,245"/>
+                <TextEquiv>
+                    <Unicode>Fang gu bei ti zi tie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129332863_828" custom="readingOrder {index:4;}">
+                <Coords points="419,363 486,363 486,413 419,413"/>
+                <Baseline points="419,408 486,408"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="59,500 208,498 218,489 255,498 273,490 273,468 254,460 227,466 214,453 175,461 165,471 156,462 142,471 110,470 96,460 59,453"/>
+                <Baseline points="64,484 89,486 115,488 140,489 166,488 191,488 217,486 242,486 268,484"/>
+                <TextEquiv>
+                    <Unicode>80 p.; 26 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="63,562 880,560 880,510 804,533 475,536 407,514 346,537 63,532"/>
+                <Baseline points="68,557 108,556 148,556 189,556 229,556 269,555 310,555 350,554 390,554 431,553 471,553 511,552 552,552 592,551 632,551 673,551 713,551 753,551 794,551 834,551 875,551"/>
+                <TextEquiv>
+                    <Unicode>Poems by various authors in a calligraphic style</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="61,614 725,605 725,572 60,573"/>
+                <Baseline points="66,594 98,593 131,593 164,593 196,592 229,592 262,591 294,591 327,591 360,590 393,590 425,590 458,589 491,589 523,588 556,588 589,588 621,587 654,587 687,586 720,586"/>
+                <TextEquiv>
+                    <Unicode>copied frrom ancient stele inscriptions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15660.k.38&#13;
+FANG GU BEI TI ZI TIE&#13;
+FANG GU BEI TI ZI TIE&#13;
+Fang gu bei ti zi tie&#13;
+1979&#13;
+80 p.; 26 cm&#13;
+Poems by various authors in a calligraphic style&#13;
+copied frrom ancient stele inscriptions</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.911+01:00</Created>
+        <LastChange>2023-06-27T10:07:38.611+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758402" pageNr="233"/>
+    </Metadata>
+    <Page imageFilename="28961238802.jpg" imageWidth="980" imageHeight="814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853258611" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="103,100 100,718 907,718 907,100"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="535,128 648,126 680,139 708,127 768,138 788,130 789,115 771,115 749,93 713,93 697,108 679,100 650,108 618,92 536,90"/>
+                <Baseline points="540,120 567,122 594,123 621,124 648,124 675,125 702,125 729,127 756,128 783,130"/>
+                <TextEquiv>
+                    <Unicode>15244.g.27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="151,158 377,163 413,153 413,131 366,132 350,117 328,131 152,116"/>
+                <Baseline points="157,149 182,149 207,149 232,150 257,151 282,152 307,153 332,154 357,154 382,153 408,152"/>
+                <TextEquiv>
+                    <Unicode>FAN YI DE YI SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="97,255 207,256 217,266 240,258 309,258 350,266 351,217 285,231 230,221 98,220"/>
+                <Baseline points="103,251 130,251 157,251 184,251 211,252 238,252 265,253 292,253 319,254 346,253"/>
+                <TextEquiv>
+                    <Unicode>LIANG (Shiqiu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853210245_292" custom="readingOrder {index:3;}">
+                <Coords points="607,216 698,216 698,266 607,266"/>
+                <Baseline points="607,261 698,261"/>
+                <TextEquiv>
+                    <Unicode>et al</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="133,362 867,370 877,341 445,325 422,347 353,324 293,341 134,324"/>
+                <Baseline points="139,350 175,351 212,352 248,353 285,353 322,354 358,355 395,355 432,356 468,356 505,356 542,357 578,357 615,358 652,358 688,359 725,360 762,360 798,361 835,362 872,363"/>
+                <TextEquiv>
+                    <Unicode>Fanyi de yishu. [A collection of articles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="138,394 797,399 763,372 138,365"/>
+                <Baseline points="143,386 175,387 207,388 240,389 272,389 305,390 337,391 370,391 402,392 435,392 467,393 499,393 532,394 564,394 597,394 629,395 662,395 694,396 727,396 759,397 792,398"/>
+                <TextEquiv>
+                    <Unicode>on the art of translation by various</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="139,423 167,422 196,423 224,423 253,424 297,424 297,409 253,409 224,408 196,408 167,407 138,408"/>
+                <Baseline points="139,423 167,422 196,423 224,423 253,424 297,424"/>
+                <TextEquiv>
+                    <Unicode>authors.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="138,474 176,473 195,463 207,474 232,466 281,466 281,445 269,445 257,433 240,439 232,433 211,430 190,445 181,444 175,437 139,436"/>
+                <Baseline points="143,454 169,456 196,457 222,458 249,458 276,458"/>
+                <TextEquiv>
+                    <Unicode>pp. 342.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="138,532 729,539 710,502 614,517 595,500 138,492"/>
+                <Baseline points="143,523 172,524 201,524 230,525 259,525 288,526 317,526 346,527 375,527 404,528 433,528 462,528 491,529 520,529 549,530 578,530 607,531 636,532 665,533 694,533 724,534"/>
+                <TextEquiv>
+                    <Unicode>Chenzhong chubanshe: Taipei, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="132,601 276,605 310,618 361,609 386,618 398,607 447,610 458,592 430,573 394,590 352,573 247,581 134,564"/>
+                <Baseline points="138,595 164,596 190,596 216,597 242,598 268,598 295,599 321,600 347,601 373,602 399,603 425,604 452,604"/>
+                <TextEquiv>
+                    <Unicode>Xueshu congshu, 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:10;}">
+                <Coords points="822,686 895,686 895,684 880,684 881,672 822,671"/>
+                <Baseline points="822,686 895,686 895,684"/>
+                <TextEquiv>
+                    <Unicode>21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15244.g.27&#13;
+FAN YI DE YI SHU&#13;
+LIANG (Shiqiu)&#13;
+et al&#13;
+Fanyi de yishu. [A collection of articles&#13;
+on the art of translation by various&#13;
+authors.]&#13;
+pp. 342.&#13;
+Chenzhong chubanshe: Taipei, 1970.&#13;
+Xueshu congshu, 2.&#13;
+21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

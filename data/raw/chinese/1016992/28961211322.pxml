@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.024+01:00</Created>
+        <LastChange>2023-05-10T14:58:36.623+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758339" pageNr="179"/>
+    </Metadata>
+    <Page imageFilename="28961211322.jpg" imageWidth="980" imageHeight="810">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683723516623" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="83,79 80,666 872,666 875,79"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="495,130 679,138 695,130 734,130 734,78 696,78 683,91 495,90"/>
+                <Baseline points="500,121 525,121 550,120 576,121 601,121 627,121 652,122 678,122 703,123 729,123"/>
+                <TextEquiv>
+                    <Unicode>15328.a.402</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="78,196 159,202 181,180 262,180 288,201 311,178 377,173 377,127 163,130 121,117 104,122 78,101"/>
+                <Baseline points="83,165 109,165 135,164 161,165 188,165 214,165 240,165 266,165 293,166 319,166 345,166 372,166"/>
+                <TextEquiv>
+                    <Unicode>FENG LIU TIAN XIANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723474288_117" custom="readingOrder {index:2;}">
+                <Coords points="92,240 320,245 319,295 91,290"/>
+                <Baseline points="84,282 319,290"/>
+                <TextEquiv>
+                    <Unicode>YUWEN (Yaoji)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="114,498 730,498 730,481 659,468 472,460 433,479 358,461 115,461"/>
+                <Baseline points="120,483 150,485 180,486 210,487 241,487 271,488 301,489 331,489 362,490 392,490 422,491 452,491 483,491 513,492 543,492 573,493 604,493 634,494 664,494 694,495 746,498"/>
+                <TextEquiv>
+                    <Unicode>Fengliu tianxiang. [Short stories.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="114,538 152,537 173,524 195,538 241,539 263,534 263,507 233,498 198,496 174,499 168,505 114,501"/>
+                <Baseline points="119,524 146,524 174,524 202,523 230,524 258,526"/>
+                <TextEquiv>
+                    <Unicode>pp. 273.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="689,537 729,538 739,530 746,538 796,538 797,514 789,514 780,508 737,508 723,501 707,507 700,501 690,500"/>
+                <Baseline points="694,529 726,529 758,529 791,532"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="113,633 810,650 837,623 785,597 718,619 114,596"/>
+                <Baseline points="119,621 154,622 190,623 225,624 261,624 297,625 332,626 368,626 403,627 439,627 475,628 510,628 546,629 581,629 617,630 653,631 688,632 724,632 759,633 795,635 831,636"/>
+                <TextEquiv>
+                    <Unicode>Wuxia chunqiu chubanshe: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.402&#13;
+FENG LIU TIAN XIANG&#13;
+YUWEN (Yaoji)&#13;
+Fengliu tianxiang. [Short stories.]&#13;
+pp. 273.&#13;
+18 cm.&#13;
+Wuxia chunqiu chubanshe: Hong Kong, 1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

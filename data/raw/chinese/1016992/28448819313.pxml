@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.228+01:00</Created>
+        <LastChange>2023-05-04T12:52:02.435+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758282" pageNr="129" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28448819313.jpg" imageWidth="960" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197522436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="37,37 41,655 899,655 895,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="563,78 784,82 784,48 682,51 563,44"/>
+                <Baseline points="568,76 594,74 620,73 647,73 673,74 699,74 726,75 752,75 779,74"/>
+                <TextEquiv>
+                    <Unicode>15651.e.9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="59,124 433,122 452,113 452,76 311,93 59,92"/>
+                <Baseline points="64,117 89,116 115,116 140,115 166,115 191,115 217,115 242,115 268,115 293,114 319,114 344,114 370,114 395,113 421,113 447,112"/>
+                <TextEquiv>
+                    <Unicode>FA JIA ZHU ZUO XUAN DU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="39,218 435,211 435,185 420,181 39,181"/>
+                <Baseline points="44,208 69,208 95,208 121,208 146,208 172,208 198,208 224,208 249,208 275,208 301,208 327,208 352,208 378,207 404,207 430,207"/>
+                <TextEquiv>
+                    <Unicode>FA JIA ZHU ZUO XUAN DU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="92,284 485,279 485,251 278,259 236,248 206,260 159,245 142,261 121,245 92,245"/>
+                <Baseline points="97,274 122,274 148,275 173,275 199,275 224,275 250,275 275,275 301,275 326,275 352,275 377,275 403,275 428,275 454,275 480,275"/>
+                <TextEquiv>
+                    <Unicode>Fa jia zhu zuo xuan du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683196030995_935" custom="readingOrder {index:4;}">
+                <Coords points="614,423 708,423 708,473 614,473"/>
+                <Baseline points="614,468 708,468"/>
+                <TextEquiv>
+                    <Unicode>1975</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="96,531 429,522 429,502 406,494 191,492 171,505 152,486 96,485"/>
+                <Baseline points="101,520 127,520 154,519 181,519 208,519 235,519 262,519 289,519 316,519 343,519 370,519 397,519 424,518"/>
+                <TextEquiv>
+                    <Unicode>[4], 324 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="103,594 883,602 883,560 103,557"/>
+                <Baseline points="108,583 146,584 185,585 223,585 262,585 300,586 339,586 377,586 416,586 454,586 493,586 531,586 570,586 608,587 647,587 685,587 724,587 762,588 801,588 839,589 878,590"/>
+                <TextEquiv>
+                    <Unicode>Annotated selections from 'Legalist' writings;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="100,642 129,633 175,634 183,626 191,634 233,635 247,627 254,634 321,642 344,624 344,609 301,597 251,612 197,597 182,605 167,597 149,606 100,604"/>
+                <Baseline points="105,627 131,626 157,626 183,625 209,625 235,626 261,626 287,627 313,628 339,630"/>
+                <TextEquiv>
+                    <Unicode>part two only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15651.e.9&#13;
+FA JIA ZHU ZUO XUAN DU&#13;
+FA JIA ZHU ZUO XUAN DU&#13;
+Fa jia zhu zuo xuan du&#13;
+1975&#13;
+[4], 324 p.; 19 cm.&#13;
+Annotated selections from 'Legalist' writings;&#13;
+part two only</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

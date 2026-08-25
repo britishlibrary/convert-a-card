@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.071+01:00</Created>
+        <LastChange>2023-05-04T12:45:39.469+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758208" pageNr="64"/>
+    </Metadata>
+    <Page imageFilename="28445627984.jpg" imageWidth="984" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197139470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="80,117 76,732 844,733 848,118"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="575,153 607,162 615,154 692,151 720,162 740,149 810,149 853,161 853,116 812,109 754,116 741,126 702,125 693,134 664,117 575,117"/>
+                <Baseline points="580,143 606,146 633,147 660,147 687,148 714,147 740,147 767,145 794,145 821,144 848,144"/>
+                <TextEquiv>
+                    <Unicode>15244.g.26/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="129,203 188,210 198,201 282,201 304,210 322,201 431,202 447,191 446,162 374,158 362,172 322,174 276,165 223,179 189,165 128,167"/>
+                <Baseline points="134,195 159,195 185,194 211,194 236,193 262,192 288,192 313,191 339,191 365,190 390,190 416,190 442,189"/>
+                <TextEquiv>
+                    <Unicode>FAN YI ZONG HENG-TAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657813324773_196" custom="readingOrder {index:2;}">
+                <Coords points="81,246 309,243 310,293 82,296"/>
+                <Baseline points="82,291 310,288"/>
+                <TextEquiv>
+                    <Unicode>LIN (Yutang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657813351268_204" custom="readingOrder {index:3;}">
+                <Coords points="638,243 755,242 755,292 638,293"/>
+                <Baseline points="638,288 755,287"/>
+                <TextEquiv>
+                    <Unicode>et al.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657813417031_223" custom="readingOrder {index:4;}">
+                <Coords points="124,379 794,385 794,435 124,429"/>
+                <Baseline points="124,424 794,430"/>
+                <TextEquiv>
+                    <Unicode>Fanyi zongheng-tan. [A collection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+                <Coords points="121,466 774,466 774,439 742,432 121,437"/>
+                <Baseline points="126,454 158,454 190,455 222,455 254,455 286,456 318,456 351,456 383,457 415,457 447,457 479,458 511,458 543,458 576,458 608,458 640,458 672,459 704,459 736,459 769,459"/>
+                <TextEquiv>
+                    <Unicode>articles by different authors on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:6;}">
+                <Coords points="121,503 833,502 833,477 799,469 585,468 567,486 121,470"/>
+                <Baseline points="126,490 161,490 196,491 231,491 266,492 301,492 336,492 371,493 406,493 441,493 477,493 512,494 547,494 582,494 617,494 652,494 687,494 722,494 757,494 792,494 828,494"/>
+                <TextEquiv>
+                    <Unicode>problems of translation. Edited by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+                <Coords points="128,538 702,538 685,509 632,504 128,502"/>
+                <Baseline points="133,526 161,526 189,526 217,525 245,526 274,526 302,526 330,527 358,527 386,527 415,528 443,529 471,529 499,530 527,530 556,530 584,530 612,530 640,530 668,530 720,528"/>
+                <TextEquiv>
+                    <Unicode>Chinese University of Hong Kong.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+                <Coords points="121,578 157,579 186,560 202,572 222,578 230,570 272,567 272,547 261,547 237,535 228,540 206,536 186,541 179,549 153,541 120,541"/>
+                <Baseline points="126,564 154,562 182,562 210,562 238,562 267,560"/>
+                <TextEquiv>
+                    <Unicode>pp. 130.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:9;}">
+                <Coords points="646,571 749,570 749,547 730,548 722,541 707,544 685,539 670,543 661,537 646,540"/>
+                <Baseline points="651,560 682,562 713,562 744,559"/>
+                <TextEquiv>
+                    <Unicode>21cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:10;}">
+                <Coords points="119,642 802,650 802,626 768,613 119,612"/>
+                <Baseline points="124,635 157,636 191,637 224,637 258,638 292,638 325,639 359,639 393,639 426,640 460,640 494,640 527,641 561,641 595,642 628,642 662,643 696,643 729,644 763,644 797,645"/>
+                <TextEquiv>
+                    <Unicode>Chenchong tushuguang: Hong Kong, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:11;}">
+                <Coords points="119,723 486,731 535,721 535,694 497,669 463,669 442,690 394,696 374,684 327,700 232,688 216,702 119,685"/>
+                <Baseline points="124,714 149,715 174,716 200,716 225,717 250,717 276,717 301,717 327,717 352,717 377,717 403,717 428,716 453,716 479,716 504,716 530,716"/>
+                <TextEquiv>
+                    <Unicode>Fanyi lilun congshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15244.g.26/1&#13;
+FAN YI ZONG HENG-TAN&#13;
+LIN (Yutang)&#13;
+et al.&#13;
+Fanyi zongheng-tan. [A collection of&#13;
+articles by different authors on the&#13;
+problems of translation. Edited by the&#13;
+Chinese University of Hong Kong.]&#13;
+pp. 130.&#13;
+21cm.&#13;
+Chenchong tushuguang: Hong Kong, 1969.&#13;
+Fanyi lilun congshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

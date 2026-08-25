@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.778+01:00</Created>
+        <LastChange>2023-05-04T12:50:28.455+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758256" pageNr="106"/>
+    </Metadata>
+    <Page imageFilename="28448804833.jpg" imageWidth="1008" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197428456" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="95,64 84,499 956,505 949,63"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="601,99 799,107 831,106 850,94 850,80 813,62 788,62 766,81 750,68 709,77 694,61 602,61"/>
+                <Baseline points="607,90 632,91 667,91 693,92 718,93 743,93 769,93 794,94 819,94 845,95"/>
+                <TextEquiv>
+                    <Unicode>15328.a.524</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="167,147 201,147 221,163 239,146 282,142 314,155 401,148 401,121 388,116 167,109"/>
+                <Baseline points="172,141 200,140 228,140 256,141 284,141 312,141 340,141 368,141 396,141"/>
+                <TextEquiv>
+                    <Unicode>FEI JIE HUA MAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195156776_597" custom="readingOrder {index:2;}">
+                <Coords points="102,174 247,176 246,226 101,224"/>
+                <Baseline points="101,219 246,221"/>
+                <TextEquiv>
+                    <Unicode>MA (Yun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="128,354 407,359 417,370 606,363 607,335 590,325 561,336 417,324 384,344 130,316"/>
+                <Baseline points="134,345 159,347 185,348 211,349 237,350 263,351 289,352 315,352 341,352 367,353 393,354 419,354 445,355 471,356 497,357 523,358 549,360 575,361 601,363"/>
+                <TextEquiv>
+                    <Unicode>Feijie huamao. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="126,410 139,403 169,402 189,389 206,399 240,401 252,409 281,397 281,377 263,373 255,365 229,365 213,356 189,375 167,364 126,369"/>
+                <Baseline points="131,392 160,391 189,390 218,391 247,391 276,390"/>
+                <TextEquiv>
+                    <Unicode>pp. 144.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="758,411 799,411 805,405 812,410 864,410 871,404 878,404 879,387 813,380 808,375 793,372 759,372"/>
+                <Baseline points="763,401 790,401 818,402 845,403 873,403"/>
+                <TextEquiv>
+                    <Unicode>16 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="126,465 938,482 912,445 825,461 677,436 127,428"/>
+                <Baseline points="131,455 171,456 211,457 251,459 291,459 331,460 371,461 411,462 451,463 491,464 532,465 572,466 612,468 652,468 692,470 732,471 772,472 812,474 852,475 892,476 933,478"/>
+                <TextEquiv>
+                    <Unicode>Huaqiu tushu zazhi chubanshe: Hong Kong, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.524&#13;
+FEI JIE HUA MAO&#13;
+MA (Yun)&#13;
+Feijie huamao. [A novel.]&#13;
+pp. 144.&#13;
+16 cm.&#13;
+Huaqiu tushu zazhi chubanshe: Hong Kong, 1975.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

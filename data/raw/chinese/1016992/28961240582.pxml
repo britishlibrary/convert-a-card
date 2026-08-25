@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.142+01:00</Created>
+        <LastChange>2023-06-22T15:33:03.803+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758420" pageNr="248"/>
+    </Metadata>
+    <Page imageFilename="28961240582.jpg" imageWidth="964" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440783803" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="53,33 53,673 935,673 935,33"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="596,70 623,74 634,66 665,74 708,61 764,61 800,74 863,66 863,23 704,29 654,21 646,29 596,29"/>
+                <Baseline points="601,57 626,58 652,58 678,58 703,58 729,58 755,58 780,58 806,58 832,58 858,59"/>
+                <TextEquiv>
+                    <Unicode>15652.d.93/2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="94,131 713,130 893,114 892,72 93,93"/>
+                <Baseline points="99,118 138,117 177,116 217,115 256,115 296,114 335,114 374,114 414,113 453,113 493,112 532,112 571,112 611,111 650,111 690,110 729,110 768,109 808,108 847,108 887,106"/>
+                <TextEquiv>
+                    <Unicode>FAN SENG YUAN LIU KAO. XI ZANG ZONG JIAO LIU KAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="48,211 160,218 211,205 239,219 358,203 420,210 442,199 442,172 48,175"/>
+                <Baseline points="53,199 78,199 104,200 129,200 155,200 181,200 206,199 232,199 257,199 283,199 309,199 334,198 360,198 385,198 411,197 437,197"/>
+                <TextEquiv>
+                    <Unicode>FAN SENG YUAN LIU KAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="86,279 895,271 875,244 743,236 86,245"/>
+                <Baseline points="91,269 133,268 175,268 217,268 259,268 301,268 343,268 385,268 427,268 469,268 511,269 553,269 595,269 637,269 679,269 721,268 763,268 805,267 847,267 890,266"/>
+                <TextEquiv>
+                    <Unicode>Fan seng yuan liu kao. Xi zang zong jiao yuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="108,314 147,315 170,304 182,310 190,306 199,314 233,314 234,285 208,286 187,277 167,278 153,285 143,277 109,276"/>
+                <Baseline points="114,300 142,302 171,302 199,302 228,302"/>
+                <TextEquiv>
+                    <Unicode>liu kao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_169" custom="readingOrder {index:5;}">
+                <Coords points="808,534 820,533 861,532 903,528 902,513 860,517 819,518 807,519"/>
+                <Baseline points="808,534 820,533 861,532 903,528"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_171" custom="readingOrder {index:6;}">
+                <Coords points="98,654 139,653 180,652 221,652 263,651 304,651 345,651 387,651 428,651 469,651 470,651 469,636 469,636 428,636 387,636 345,636 304,636 263,636 221,637 180,637 139,638 98,639"/>
+                <Baseline points="98,654 139,653 180,652 221,652 263,651 304,651 345,651 387,651 428,651 469,651 470,651"/>
+                <TextEquiv>
+                    <Unicode>4, 4, 111 p.; 21 cm .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15652. d. 93/2.
+FAN SENG YUAN LIU KAO. XI ZANG ZONG JIAO LIU KAO
+FAN SENG YUAN LIU KAO
+Fan seng yuan liu kao. Xi zang zong jiao yuan
+liu kao
+.
+18 K. Jh 5 14 18 k; 48
+1h UI. 5. 5. %8. M. *h. 45 3k.*.
+3 1 — 14 F X8, 1472
+L, L, 111 p.; 21 em . - (55 1. f R 4472)
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

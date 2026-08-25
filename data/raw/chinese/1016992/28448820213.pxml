@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.355+01:00</Created>
+        <LastChange>2023-05-04T12:52:25.275+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758289" pageNr="136"/>
+    </Metadata>
+    <Page imageFilename="28448820213.jpg" imageWidth="976" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197545275" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="54,23 54,627 922,627 922,23"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="697,58 838,58 846,50 869,50 885,59 922,50 921,18 863,21 846,34 832,24 696,20"/>
+                <Baseline points="701,46 727,47 754,48 781,48 808,48 835,48 862,47 889,46 916,43"/>
+                <TextEquiv>
+                    <Unicode>15675.g.693</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="66,139 116,133 232,147 249,138 305,134 305,109 290,101 223,101 209,109 66,101"/>
+                <Baseline points="71,131 96,130 121,130 147,130 172,130 198,130 223,130 249,130 274,129 300,128"/>
+                <TextEquiv>
+                    <Unicode>LI (Zhongjie)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="73,216 160,208 251,210 265,206 265,171 73,179"/>
+                <Baseline points="78,205 104,202 130,201 156,201 182,201 208,202 234,203 260,203"/>
+                <TextEquiv>
+                    <Unicode>Fa gang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683196208208_998" custom="readingOrder {index:3;}">
+                <Coords points="357,281 405,283 403,333 355,331"/>
+                <Baseline points="355,326 403,328"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513078889_413" custom="readingOrder {index:4;}">
+                <Coords points="85,304 359,308 358,358 84,354"/>
+                <Baseline points="84,349 358,353"/>
+                <TextEquiv>
+                    <Unicode>2, 242 p. 1 111. ;  19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="84,402 165,402 177,398 177,383 167,381 159,373 143,373 135,365 128,365 121,372 106,373 93,365 84,365"/>
+                <Baseline points="89,391 116,391 144,391 172,391"/>
+                <TextEquiv>
+                    <Unicode>fiction.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="78,458 168,465 172,461 181,461 182,434 162,434 154,429 137,428 107,429 100,434 96,429 79,429"/>
+                <Baseline points="83,453 114,452 145,453 176,455"/>
+                <TextEquiv>
+                    <Unicode>1. Title.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="77,517 130,523 144,515 180,523 188,517 222,522 286,515 286,490 139,496 111,486 92,493 77,485"/>
+                <Baseline points="82,514 110,513 138,513 167,514 195,514 224,514 252,513 281,512"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 83179475/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513149891_427" custom="readingOrder {index:8;}">
+                <Coords points="77,494 593,499 593,549 77,544"/>
+                <Baseline points="77,539 593,544"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: PL2877.C823.F3 1982 (Orien China)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="86,562 111,563 117,558 130,566 193,561 224,568 247,564 247,540 86,540"/>
+                <Baseline points="91,558 116,559 141,559 166,558 191,558 216,559 242,560"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB086-B788</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:10;}">
+                <Coords points="428,569 465,570 468,567 471,570 505,570 508,567 519,570 529,566 529,550 524,550 518,544 496,545 482,541 471,546 458,545 454,541 428,543"/>
+                <Baseline points="433,562 463,562 493,562 524,562"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:11;}">
+                <Coords points="593,570 767,570 792,551 792,535 710,541 701,550 593,541"/>
+                <Baseline points="598,563 625,564 652,565 679,565 706,565 733,565 760,565 787,564"/>
+                <TextEquiv>
+                    <Unicode>DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:12;}">
+                <Coords points="79,594 278,594 279,565 261,557 231,566 80,563"/>
+                <Baseline points="84,581 111,582 138,583 165,583 192,583 219,583 246,583 273,584"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15675.g.693</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.693&#13;
+LI (Zhongjie)&#13;
+Fa gang&#13;
+1982&#13;
+2, 242 p. 1 111. ;  19 cm.&#13;
+fiction.&#13;
+1. Title.&#13;
+LCCN: 83179475/ACN&#13;
+L.C. CALL NO: PL2877.C823.F3 1982 (Orien China)&#13;
+ID: UKB086-B788&#13;
+CC: 9114&#13;
+DCF: a [CJK]&#13;
+CALL: 15675.g.693</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.985+01:00</Created>
+        <LastChange>2023-05-04T12:45:24.761+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758204" pageNr="60"/>
+    </Metadata>
+    <Page imageFilename="28445627474.jpg" imageWidth="984" imageHeight="816">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197124761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="113,56 111,662 922,662 924,56"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="536,95 796,99 856,85 856,68 828,53 783,61 744,52 714,66 664,68 647,68 632,53 536,56"/>
+                <Baseline points="541,84 566,84 592,84 618,84 644,85 670,85 696,85 721,85 747,85 773,85 799,85 825,85 851,84"/>
+                <TextEquiv>
+                    <Unicode>15408.c.360-361</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="129,130 403,130 402,82 196,83 185,95 129,93"/>
+                <Baseline points="134,119 160,119 186,120 213,119 239,119 266,119 292,118 318,118 345,118 371,118 398,119"/>
+                <TextEquiv>
+                    <Unicode>FAN ZHONG ZHEN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633649523_558" custom="readingOrder {index:2;}">
+                <Coords points="122,187 357,181 358,231 123,237"/>
+                <Baseline points="123,232 358,226"/>
+                <TextEquiv>
+                    <Unicode>FAN (Chengmo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="161,402 853,398 853,371 823,365 161,365"/>
+                <Baseline points="166,388 200,389 234,390 268,390 302,390 336,391 370,391 404,391 438,391 472,391 507,391 541,391 575,391 609,390 643,390 677,390 711,390 745,390 779,390 813,391 848,391"/>
+                <TextEquiv>
+                    <Unicode>Fan Zhongzhen ji. [Collected memorials</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="172,434 567,442 592,425 803,442 818,403 172,406"/>
+                <Baseline points="177,428 208,427 240,426 272,425 304,425 336,425 367,425 399,425 431,426 463,426 495,427 526,427 558,428 590,428 622,428 654,428 685,428 717,427 749,427 781,426 813,424"/>
+                <TextEquiv>
+                    <Unicode>and other prose writings and poems by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="169,475 902,482 880,437 615,436 592,455 169,438"/>
+                <Baseline points="174,460 210,461 246,462 282,463 318,464 354,464 390,464 427,464 463,464 499,464 535,464 571,464 607,464 643,464 680,464 716,464 752,464 788,464 824,464 860,465 897,465"/>
+                <TextEquiv>
+                    <Unicode>Fan Chengmo of the Qing. Facsimile of MS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="162,506 184,505 192,497 201,507 258,505 279,523 295,513 295,488 279,485 273,478 162,476"/>
+                <Baseline points="167,500 197,498 228,499 259,500 290,500"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="707,509 716,509 721,514 737,513 745,505 784,506 792,514 809,510 809,483 797,483 791,477 758,477 748,481 742,476 707,475"/>
+                <Baseline points="712,500 742,498 773,499 804,501"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="162,578 759,586 781,538 660,538 642,554 163,540"/>
+                <Baseline points="167,568 197,568 227,568 258,569 288,569 319,569 349,569 379,569 410,569 440,569 471,569 501,569 531,569 562,569 592,569 623,569 653,569 683,570 714,570 744,570 775,571"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1972].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="166,650 779,645 741,612 672,613 653,632 628,613 334,613 245,631 166,613"/>
+                <Baseline points="171,642 201,642 231,642 261,642 291,642 321,643 351,643 382,642 412,642 442,642 472,642 502,642 532,642 562,642 593,642 623,642 653,642 683,642 713,643 743,643 774,643"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben san ji, 360-1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.c.360-361&#13;
+FAN ZHONG ZHEN JI&#13;
+FAN (Chengmo)&#13;
+Fan Zhongzhen ji. [Collected memorials&#13;
+and other prose writings and poems by&#13;
+Fan Chengmo of the Qing. Facsimile of MS.&#13;
+2 vols.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, [1972].&#13;
+Siku quanshu zhenben san ji, 360-1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

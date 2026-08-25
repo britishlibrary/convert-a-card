@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.269+01:00</Created>
+        <LastChange>2023-05-10T17:08:06.552+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758357" pageNr="195"/>
+    </Metadata>
+    <Page imageFilename="28961219372.jpg" imageWidth="956" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731286552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="34,23 34,692 917,694 917,25"/>
+            <TextLine id="line_1654531861711_1319" custom="readingOrder {index:0;}">
+                <Coords points="596,72 616,82 712,82 752,81 780,69 824,82 876,82 876,38 848,36 837,45 827,36 798,37 766,50 720,44 709,55 671,38 596,51"/>
+                <Baseline points="602,74 871,74"/>
+                <TextEquiv>
+                    <Unicode>15408.k.109/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="50,130 271,122 284,114 284,86 240,93 121,92 114,99 50,92"/>
+                <Baseline points="55,117 83,117 111,118 139,118 167,119 195,119 223,119 251,118 279,116"/>
+                <TextEquiv>
+                    <Unicode>FEN LI OU CUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="33,223 64,225 96,210 112,226 128,226 136,218 168,219 175,226 214,225 215,176 199,175 187,187 124,186 119,180 34,186"/>
+                <Baseline points="38,211 66,212 95,213 123,214 152,214 180,215 209,215"/>
+                <TextEquiv>
+                    <Unicode>WAN (Jing)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="72,291 305,289 318,281 318,259 178,262 169,253 130,253 123,260 71,253"/>
+                <Baseline points="76,281 102,282 128,282 155,282 181,282 207,281 234,281 260,280 286,280 313,279"/>
+                <TextEquiv>
+                    <Unicode>Fen li ou cun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731260879_2167" custom="readingOrder {index:4;}">
+                <Coords points="408,421 492,421 492,471 408,471"/>
+                <Baseline points="408,466 492,466"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731245950_2157" custom="readingOrder {index:5;}">
+                <Coords points="66,551 307,549 307,599 66,601"/>
+                <Baseline points="66,596 307,594"/>
+                <TextEquiv>
+                    <Unicode>2 juan; 19cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731267732_2174" custom="readingOrder {index:6;}">
+                <Coords points="73,626 241,626 241,676 73,676"/>
+                <Baseline points="73,671 241,671"/>
+                <TextEquiv>
+                    <Unicode>Qing work</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.k.109/1&#13;
+FEN LI OU CUN&#13;
+WAN (Jing)&#13;
+Fen li ou cun&#13;
+1980&#13;
+2 juan; 19cm.&#13;
+Qing work</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

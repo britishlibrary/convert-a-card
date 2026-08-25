@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.583+01:00</Created>
+        <LastChange>2023-05-04T12:47:37.953+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758242" pageNr="94"/>
+    </Metadata>
+    <Page imageFilename="28448802773.jpg" imageWidth="948" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197257954" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="48,23 54,466 911,468 905,25"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="550,71 823,74 845,63 845,33 798,33 780,51 729,37 568,36 550,48"/>
+                <Baseline points="555,63 598,65 625,66 652,66 679,67 706,67 732,67 759,66 786,66 813,66 840,65"/>
+                <TextEquiv>
+                    <Unicode>CEI.1992.a.45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="172,218 233,210 256,220 291,211 323,214 334,206 359,214 405,210 404,177 171,181"/>
+                <Baseline points="177,206 204,208 232,209 260,209 288,209 316,207 344,206 372,205 400,204"/>
+                <TextEquiv>
+                    <Unicode>FEN LEI CI YUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="199,254 230,254 258,239 279,245 319,237 330,247 355,248 391,272 435,272 436,216 350,211 284,219 239,211 230,219 200,213"/>
+                <Baseline points="205,239 230,237 255,237 280,238 305,238 330,240 355,241 380,241 405,239 431,236"/>
+                <TextEquiv>
+                    <Unicode>Fen lei ci yuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913650783_917" custom="readingOrder {index:3;}">
+                <Coords points="517,304 526,304 530,308 581,305 598,292 603,292 603,277 591,277 586,272 576,269 515,269"/>
+                <Baseline points="522,303 599,300"/>
+                <TextEquiv>
+                    <Unicode>1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="210,337 221,339 255,338 256,316 246,317 232,301 212,301"/>
+                <Baseline points="216,327 251,328"/>
+                <TextEquiv>
+                    <Unicode>3v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913632754_903" custom="readingOrder {index:5;}">
+                <Coords points="205,372 216,378 261,379 344,378 356,371 356,355 334,349 322,340 311,349 303,349 294,341 267,349 242,349 230,341 205,342"/>
+                <Baseline points="210,370 351,373"/>
+                <TextEquiv>
+                    <Unicode>Reprint:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="191,430 266,434 278,442 297,442 305,434 399,440 399,406 351,405 341,397 320,406 292,406 266,396 241,411 232,405 191,405"/>
+                <Baseline points="196,426 224,426 252,426 280,426 309,426 337,426 365,427 394,429"/>
+                <TextEquiv>
+                    <Unicode>s1.Etymology</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CEI.1992.a.45&#13;
+FEN LEI CI YUAN&#13;
+Fen lei ci yuan&#13;
+1990&#13;
+3v.&#13;
+Reprint:&#13;
+s1.Etymology</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

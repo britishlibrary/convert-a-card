@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.120+01:00</Created>
+        <LastChange>2023-05-04T12:45:49.738+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758212" pageNr="67"/>
+    </Metadata>
+    <Page imageFilename="28445629014.jpg" imageWidth="984" imageHeight="818">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197149738" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="144,74 149,550 953,551 948,75"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="646,113 763,110 853,119 885,110 886,86 833,76 818,88 647,76"/>
+                <Baseline points="651,103 676,103 701,104 727,104 752,105 778,106 803,107 829,108 854,109 880,110"/>
+                <TextEquiv>
+                    <Unicode>15121.a.67</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="170,177 211,178 223,185 238,178 301,174 350,178 367,166 367,135 316,138 306,148 227,132 212,141 170,140"/>
+                <Baseline points="175,165 201,166 228,166 255,166 281,167 308,168 335,168 362,169"/>
+                <TextEquiv>
+                    <Unicode>FAN XING JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657814303988_342" custom="readingOrder {index:2;}">
+                <Coords points="151,192 369,196 368,246 150,242"/>
+                <Baseline points="150,237 368,241"/>
+                <TextEquiv>
+                    <Unicode>WU (Mingjie)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="192,378 728,379 755,395 840,386 850,355 193,341"/>
+                <Baseline points="197,368 229,368 261,369 294,370 326,371 358,371 391,372 423,372 455,373 488,373 520,373 552,374 585,374 617,375 649,375 682,375 714,376 746,377 779,377 811,378 844,379"/>
+                <TextEquiv>
+                    <Unicode>Fanxing ji. [Essays and poems by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="187,418 306,405 339,415 396,412 426,426 477,417 518,425 518,401 452,380 439,389 318,378 306,387 188,382"/>
+                <Baseline points="192,401 218,402 245,403 272,404 299,405 325,405 352,406 379,406 406,407 432,408 459,409 486,410 529,413"/>
+                <TextEquiv>
+                    <Unicode>pastor Wu Mingjie.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="186,457 256,448 266,458 328,458 337,449 411,451 426,445 426,433 383,412 351,413 331,431 310,413 264,412 239,425 186,421"/>
+                <Baseline points="191,441 216,441 242,441 267,441 293,442 318,442 344,443 369,443 395,444 421,444"/>
+                <TextEquiv>
+                    <Unicode>pp. [8], 122.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="754,458 861,456 861,439 845,436 840,430 804,430 791,421 755,420"/>
+                <Baseline points="759,449 791,448 823,450 856,451"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="187,516 825,526 790,485 188,485"/>
+                <Baseline points="192,508 223,509 254,509 286,509 317,510 349,510 380,511 411,512 443,512 474,513 506,513 537,514 568,515 600,516 631,516 663,517 694,517 725,518 757,519 788,519 820,520"/>
+                <TextEquiv>
+                    <Unicode>Daosheng chubanshe: Hong Kong, 1963.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15121.a.67&#13;
+FAN XING JI&#13;
+WU (Mingjie)&#13;
+Fanxing ji. [Essays and poems by the&#13;
+pastor Wu Mingjie.]&#13;
+pp. [8], 122.&#13;
+18 cm.&#13;
+Daosheng chubanshe: Hong Kong, 1963.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

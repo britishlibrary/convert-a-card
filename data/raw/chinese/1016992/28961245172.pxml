@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.406+01:00</Created>
+        <LastChange>2023-06-29T13:30:11.375+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758440" pageNr="265"/>
+    </Metadata>
+    <Page imageFilename="28961245172.jpg" imageWidth="948" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038211376" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="52,18 55,644 916,644 913,18"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="532,66 767,64 767,47 751,45 734,29 713,29 696,46 678,36 656,36 644,48 619,28 572,34 532,29"/>
+                <Baseline points="537,55 562,56 587,56 612,55 637,55 662,55 687,55 712,55 737,55 762,56"/>
+                <TextEquiv>
+                    <Unicode>15625.a.14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="46,130 543,130 557,129 558,94 47,83"/>
+                <Baseline points="52,111 77,111 102,111 127,111 152,112 177,112 202,113 227,113 252,114 277,114 302,115 327,116 352,116 377,117 402,117 427,118 452,119 477,119 502,120 527,120 552,121"/>
+                <TextEquiv>
+                    <Unicode>FA XUE JI BEN ZHI SHI JIANG HUA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="51,202 140,203 150,196 167,210 193,201 233,210 286,200 286,164 272,157 237,173 208,173 173,157 149,170 51,164"/>
+                <Baseline points="56,193 81,192 106,192 131,191 156,191 181,191 206,191 231,192 256,193 281,194"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Youyu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="101,266 567,274 653,266 653,230 101,237"/>
+                <Baseline points="106,259 133,259 160,260 187,260 214,260 241,260 268,260 295,260 322,259 349,259 377,259 404,259 431,258 458,258 485,258 512,257 539,257 566,257 593,256 620,256 648,255"/>
+                <TextEquiv>
+                    <Unicode>Fa xue ji ben zhi shi jiang hua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036952527_854" custom="readingOrder {index:4;}">
+                <Coords points="828,399 911,399 911,449 828,449"/>
+                <Baseline points="828,444 911,444"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="105,508 162,502 179,511 241,514 257,505 273,513 293,495 305,507 413,498 413,481 326,468 256,484 214,468 169,469 149,487 129,469 105,469"/>
+                <Baseline points="110,497 137,497 164,497 191,497 218,496 245,496 272,496 299,496 326,496 353,495 380,495 408,495"/>
+                <TextEquiv>
+                    <Unicode>6, 198 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="107,579 863,562 829,533 526,550 107,535"/>
+                <Baseline points="112,566 149,566 186,565 223,565 261,565 298,565 335,564 373,564 410,564 447,564 485,563 522,563 559,563 596,563 634,562 671,562 708,561 746,561 783,560 820,559 858,559"/>
+                <TextEquiv>
+                    <Unicode>Introduction to the law, first published in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="108,611 118,610 130,618 145,610 158,618 170,619 177,618 185,609 190,609 187,576 165,579 155,574 150,579 141,576 106,580"/>
+                <Baseline points="113,603 148,601 184,598"/>
+                <TextEquiv>
+                    <Unicode>1963</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.14&#13;
+FA XUE JI BEN ZHI SHI JIANG HUA&#13;
+ZHANG (Youyu)&#13;
+Fa xue ji ben zhi shi jiang hua&#13;
+1980&#13;
+6, 198 p.; 19 cm.&#13;
+Introduction to the law, first published in&#13;
+1963</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

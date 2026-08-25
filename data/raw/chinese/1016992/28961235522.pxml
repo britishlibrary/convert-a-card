@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.688+01:00</Created>
+        <LastChange>2023-06-21T18:14:54.343+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961235522.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687364094344" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="58,48 58,615 937,615 937,48"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="617,92 718,98 730,86 842,90 842,69 820,53 794,53 780,67 744,59 728,71 678,45 664,53 617,53"/>
+                <Baseline points="622,83 648,82 675,82 702,83 729,83 756,83 783,83 810,82 837,82"/>
+                <TextEquiv>
+                    <Unicode>15678.a.51</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="67,157 120,167 158,153 400,153 400,120 160,118 94,100 67,112"/>
+                <Baseline points="72,145 98,144 125,143 152,143 179,144 206,144 233,146 260,146 287,147 314,148 341,148 368,147 395,146"/>
+                <TextEquiv>
+                    <Unicode>FANG JIA D RI ZI LI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="67,228 150,234 159,227 230,227 236,234 255,234 271,223 271,200 255,189 184,201 148,189 108,197 91,189 67,195"/>
+                <Baseline points="72,220 99,219 127,218 155,219 182,220 210,220 238,221 266,220"/>
+                <TextEquiv>
+                    <Unicode>LIU (Benfu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="147,298 500,299 516,288 516,266 486,261 147,261"/>
+                <Baseline points="152,286 177,287 203,288 228,289 254,289 280,289 305,289 331,289 357,289 382,289 408,288 434,288 459,288 485,287 511,287"/>
+                <TextEquiv>
+                    <Unicode>Fang jia de ri zi li</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_127" custom="readingOrder {index:4;}">
+                <Coords points="516,450 540,450 566,450 592,451 619,452 620,437 593,436 566,435 540,435 516,435"/>
+                <Baseline points="516,450 540,450 566,450 592,451 619,452"/>
+                <TextEquiv>
+                    <Unicode>1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="160,537 449,538 458,529 508,538 530,527 530,515 457,512 444,500 370,509 295,501 256,517 209,501 160,501"/>
+                <Baseline points="165,523 190,525 216,526 242,527 267,528 293,528 319,527 345,527 370,526 396,526 422,526 447,525 473,525 499,526 525,526"/>
+                <TextEquiv>
+                    <Unicode>105 p.: illus; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="155,605 613,601 613,575 544,565 155,565"/>
+                <Baseline points="160,594 186,594 212,594 239,594 265,594 291,594 318,594 344,594 370,594 397,594 423,594 449,594 476,594 502,594 528,594 555,594 581,595 608,595"/>
+                <TextEquiv>
+                    <Unicode>Short stories for children</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15678. a. 51.
+FANG JIA DE RI ZI LI
+LIU (Benfu)
+Fang jia de ri zi li
+34 42 9 91 2/8 * % 21. — Lchi.
+1XK E 1975.
+105 p.: illus; 19 cm.
+Short stories for children
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

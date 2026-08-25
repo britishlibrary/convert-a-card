@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.110+01:00</Created>
+        <LastChange>2023-06-22T15:29:21.054+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758418" pageNr="246"/>
+    </Metadata>
+    <Page imageFilename="28961240082.jpg" imageWidth="960" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440561054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="69,32 69,693 918,693 918,32"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="625,73 773,75 798,62 812,74 841,74 842,35 799,36 779,51 745,45 734,55 699,36 625,38"/>
+                <Baseline points="630,63 655,65 681,67 707,67 733,67 759,67 785,67 811,67 837,68"/>
+                <TextEquiv>
+                    <Unicode>15634.a.12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="65,130 472,122 488,112 488,87 472,85 65,85"/>
+                <Baseline points="70,112 95,111 121,111 147,111 173,111 199,111 224,111 250,111 276,111 302,112 328,112 353,112 379,112 405,111 431,111 457,111 483,110"/>
+                <TextEquiv>
+                    <Unicode>FAN SHENG ZHI SHU JI SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="64,210 119,210 130,203 144,218 171,209 226,208 282,218 307,203 308,178 289,165 257,179 207,172 180,178 151,165 130,173 64,173"/>
+                <Baseline points="69,200 94,200 120,201 146,201 172,201 198,202 224,202 250,203 276,204 302,205"/>
+                <TextEquiv>
+                    <Unicode>WAN (Guoting)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="99,279 528,273 528,247 514,244 460,256 446,244 269,255 99,245"/>
+                <Baseline points="104,269 130,269 156,270 182,270 208,270 234,270 261,270 287,270 313,270 339,270 365,270 392,270 418,270 444,270 470,270 496,269 523,269"/>
+                <TextEquiv>
+                    <Unicode>Fan Sheng zhi shu ji shi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_180" custom="readingOrder {index:4;}">
+                <Coords points="668,443 697,442 731,440 765,437 764,422 730,425 696,427 667,428"/>
+                <Baseline points="668,443 697,442 731,440 765,437"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="103,547 120,554 152,545 165,554 211,554 233,536 258,554 278,545 341,546 341,514 247,509 233,520 206,517 199,524 192,517 158,521 135,510 103,510"/>
+                <Baseline points="108,540 133,540 158,541 184,541 209,541 234,542 260,541 285,541 310,540 336,539"/>
+                <TextEquiv>
+                    <Unicode>172 p.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="97,619 665,618 683,601 794,619 827,615 827,583 96,581"/>
+                <Baseline points="102,609 138,609 174,609 210,609 246,609 282,608 318,608 354,608 390,608 426,608 462,608 498,608 534,608 570,608 606,608 642,607 678,607 714,607 750,607 786,606 822,606"/>
+                <TextEquiv>
+                    <Unicode>Annotated, full-character text of the Han</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="103,650 923,651 876,610 656,631 103,621"/>
+                <Baseline points="108,644 148,644 189,644 229,644 270,644 310,643 351,643 391,643 432,643 472,642 513,642 553,642 594,642 634,642 675,642 715,643 756,643 796,644 837,644 877,645 918,647"/>
+                <TextEquiv>
+                    <Unicode>agricultural work in 9 sections, with rendering</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_181" custom="readingOrder {index:8;}">
+                <Coords points="99,680 125,679 151,679 178,679 204,680 231,680 257,680 284,680 310,680 336,680 363,680 389,680 416,679 442,678 469,677 524,678 549,677 575,677 600,677 626,677 651,678 677,678 702,677 728,676 727,661 701,662 677,663 651,663 626,662 600,662 575,662 549,662 524,663 469,662 441,663 415,664 389,665 363,665 336,665 310,665 284,665 257,665 231,665 204,665 178,664 151,664 125,664 98,665"/>
+                <Baseline points="99,680 125,679 151,679 178,679 204,680 231,680 257,680 284,680 310,680 336,680 363,680 389,680 416,679 442,678 469,677 524,678 549,677 575,677 600,677 626,677 651,678 677,678 702,677 728,676"/>
+                <TextEquiv>
+                    <Unicode>in modern Chinese after each section</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15634. a. 12.
+FAN SHENG ZHI SHU JI SHI
+WAN (Guoting)
+Fan Sheng zhi shu ji shi
+
+1/ 2 K. — M f.. %  1780
+172 p.; 19 cm
+Annotated, full-character text of the Han
+agricultural work in 9 sections, with rendering
+each section
+in modern Chinese aft
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

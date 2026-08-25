@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.271+01:00</Created>
+        <LastChange>2023-06-29T13:29:20.073+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758429" pageNr="256"/>
+    </Metadata>
+    <Page imageFilename="28961242442.jpg" imageWidth="992" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038160074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="40,62 49,516 904,514 898,63"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="567,91 585,98 612,91 632,99 640,91 657,96 681,88 720,99 734,89 746,98 782,97 782,70 760,61 662,67 625,54 567,57"/>
+                <Baseline points="572,84 608,84 636,85 664,85 692,86 720,86 748,86 777,87"/>
+                <TextEquiv>
+                    <Unicode>15671.c.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="79,138 266,124 292,139 674,139 697,134 697,100 79,102"/>
+                <Baseline points="84,126 114,126 144,125 175,125 205,125 236,125 266,125 296,125 327,125 357,125 388,125 418,125 448,126 479,126 509,126 540,126 570,126 600,126 631,126 661,127 692,127"/>
+                <TextEquiv>
+                    <Unicode>FAN DONG DE "QI MENG DU WU" BI XU PI PAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688030189447_232" custom="readingOrder {index:2;}">
+                <Coords points="50,141 207,141 207,191 50,191"/>
+                <Baseline points="50,186 207,186"/>
+                <TextEquiv>
+                    <Unicode>QIN (Hua)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688030350122_251" custom="readingOrder {index:3;}">
+                <Coords points="83,244 902,254 901,304 82,294"/>
+                <Baseline points="82,289 901,299"/>
+                <TextEquiv>
+                    <Unicode>Fandong de "Qi meng duwu" bixu pipan. [Essays</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="83,324 835,329 821,300 83,293"/>
+                <Baseline points="88,317 125,317 162,317 199,318 236,318 273,318 310,319 347,319 384,319 421,320 459,320 496,320 533,321 570,321 607,321 644,321 681,322 718,322 755,323 792,323 830,323"/>
+                <TextEquiv>
+                    <Unicode>by Qin Hua and others criticising classical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="93,359 858,366 858,346 807,333 93,331"/>
+                <Baseline points="98,348 135,349 173,351 211,351 249,352 286,353 324,353 362,353 400,354 437,354 475,355 513,355 551,355 588,356 626,356 664,357 702,357 739,358 777,359 815,360 853,361"/>
+                <TextEquiv>
+                    <Unicode>vorks including the Qian zi wen, San zi jing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="83,394 231,393 244,403 305,389 496,402 496,382 461,365 84,364"/>
+                <Baseline points="88,383 113,383 138,384 163,384 188,385 213,385 239,386 264,386 289,387 314,387 339,388 365,389 390,389 415,390 440,391 465,391 491,392"/>
+                <TextEquiv>
+                    <Unicode>and Gailiang nuer jing.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="88,433 121,434 145,420 175,434 224,433 244,422 265,434 362,434 362,404 259,397 247,409 227,410 199,395 155,396 141,407 119,396 88,397"/>
+                <Baseline points="93,423 119,423 145,423 172,422 198,422 225,422 251,421 277,421 304,422 330,422 357,423"/>
+                <TextEquiv>
+                    <Unicode>pp. 237. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="87,498 625,499 625,465 608,461 223,460 196,475 88,460"/>
+                <Baseline points="93,486 119,486 145,487 172,487 198,487 224,488 251,488 277,488 303,489 330,489 356,490 382,490 409,490 435,491 461,491 488,492 514,492 540,493 567,493 593,493 620,494"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Peking, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15671.c.1&#13;
+FAN DONG DE "QI MENG DU WU" BI XU PI PAN&#13;
+QIN (Hua)&#13;
+Fandong de "Qi meng duwu" bixu pipan. [Essays&#13;
+by Qin Hua and others criticising classical&#13;
+vorks including the Qian zi wen, San zi jing&#13;
+and Gailiang nuer jing.]&#13;
+pp. 237. 19 cm.&#13;
+Renmin chubanshe: Peking, 1975.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

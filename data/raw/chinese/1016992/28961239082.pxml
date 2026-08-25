@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.960+01:00</Created>
+        <LastChange>2023-06-22T15:12:49.102+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758406" pageNr="236"/>
+    </Metadata>
+    <Page imageFilename="28961239082.jpg" imageWidth="956" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687439569102" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="44,23 44,700 908,700 908,23"/>
+            <TextLine id="line_1654764109798_186" custom="readingOrder {index:0;}">
+                <Coords points="628,69 657,75 684,66 726,75 737,66 804,64 825,82 849,82 874,62 874,45 861,45 838,28 815,29 801,42 759,36 748,47 730,45 712,29 628,36"/>
+                <Baseline points="633,69 868,69"/>
+                <TextEquiv>
+                    <Unicode>15684.c.23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="61,123 321,122 334,114 334,89 61,93"/>
+                <Baseline points="66,116 92,115 118,115 144,115 171,115 197,115 223,116 250,115 276,114 302,113 329,111"/>
+                <TextEquiv>
+                    <Unicode>FAN YI CONG LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="39,218 116,214 206,218 206,172 134,173 121,186 108,180 60,180 53,173 39,174"/>
+                <Baseline points="44,210 70,208 96,208 122,208 148,209 174,209 201,208"/>
+                <TextEquiv>
+                    <Unicode>SONG (Qi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="74,283 135,283 144,291 189,277 254,289 281,281 348,283 348,247 192,252 182,244 135,251 74,244"/>
+                <Baseline points="79,275 105,275 131,275 158,275 184,275 211,275 237,275 263,275 290,274 316,274 343,273"/>
+                <TextEquiv>
+                    <Unicode>Fan yi cong lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="725,450 752,448 779,446 806,446 833,447 833,432 806,431 778,431 751,433 724,435"/>
+                <Baseline points="725,450 752,448 779,446 806,446 833,447"/>
+                <TextEquiv>
+                    <Unicode>[1983]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:5;}">
+                <Coords points="81,631 122,630 163,630 205,629 246,629 287,628 329,628 370,627 397,626 396,611 370,612 329,613 287,613 246,614 205,614 163,615 122,615 81,616"/>
+                <Baseline points="81,631 122,630 163,630 205,629 246,629 287,628 329,628 370,627 397,626"/>
+                <TextEquiv>
+                    <Unicode>3, 158 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15684. c. 23.
+FAN YI CONG LUN
+SONG (Qi)
+Fan yi cong lun
+0 2 J 25 % *. 450 K.
+2 1983
+"21 44, 819
+3, 158 p.; 21 om. - (5/ TAKBXa
+K  2 4 7 12 4 +, 2
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

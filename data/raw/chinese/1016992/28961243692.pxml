@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.319+01:00</Created>
+        <LastChange>2023-06-29T13:29:42.745+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758433" pageNr="259"/>
+    </Metadata>
+    <Page imageFilename="28961243692.jpg" imageWidth="948" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038182745" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="82,42 83,708 920,708 919,42"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="543,69 840,74 850,64 901,65 901,37 874,45 844,33 782,37 768,51 706,49 689,37 629,37 608,51 590,37 543,37"/>
+                <Baseline points="548,63 574,63 601,64 628,64 655,64 681,64 708,64 735,64 762,64 788,63 815,63 842,63 869,63 896,62"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.239/1-2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="78,113 839,107 853,68 78,85"/>
+                <Baseline points="83,108 131,107 169,107 207,106 244,106 282,106 320,105 357,105 395,105 433,104 471,104 508,104 546,103 584,103 621,102 659,102 697,101 734,100 772,99 810,98 848,97"/>
+                <TextEquiv>
+                    <Unicode>FAMILY PROCESS AND POLITICAL PROCESS IN MODERN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654764345569_350" custom="readingOrder {index:2;}">
+                <Coords points="90,140 282,147 347,132 347,113 330,110 290,116 249,109 90,113"/>
+                <Baseline points="95,141 342,142"/>
+                <TextEquiv>
+                    <Unicode>CHINESE HISTORY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="97,215 870,202 869,160 383,192 331,173 199,196 96,181"/>
+                <Baseline points="102,204 140,204 178,204 216,203 254,203 292,202 330,201 368,201 406,200 444,199 483,198 521,198 559,197 597,196 635,195 673,195 711,194 749,194 787,193 825,193 864,193"/>
+                <TextEquiv>
+                    <Unicode>JIN SHI JIA ZU YU ZHENG ZHI BI JIAO LI SHI LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="129,262 906,249 905,218 855,213 128,231"/>
+                <Baseline points="134,253 172,252 210,252 248,251 287,251 325,250 363,249 402,249 440,248 478,247 517,246 555,245 593,244 631,244 670,243 708,242 746,242 785,241 823,241 861,241 900,241"/>
+                <TextEquiv>
+                    <Unicode>Jin shi jia zu yu zheng zhi bi jiao li shi lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="134,290 183,290 198,298 212,298 222,290 241,287 241,262 198,261 190,268 183,261 152,261 144,268 134,268"/>
+                <Baseline points="139,284 171,284 203,284 236,284"/>
+                <TextEquiv>
+                    <Unicode>wen ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="195,407 844,395 863,372 194,373"/>
+                <Baseline points="200,398 232,398 265,398 298,398 331,398 364,398 397,397 430,396 463,395 496,394 529,393 561,393 594,391 627,391 660,390 693,390 726,389 759,389 792,390 825,390 858,391"/>
+                <TextEquiv>
+                    <Unicode>Family process and political process in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="203,444 273,445 314,428 367,442 420,430 466,442 519,429 558,437 569,434 568,402 202,413"/>
+                <Baseline points="207,431 232,431 257,431 283,431 308,430 334,430 359,429 385,429 410,428 435,428 461,427 486,427 512,427 537,427 563,427"/>
+                <TextEquiv>
+                    <Unicode>modern Chinese history</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035990737_515" custom="readingOrder {index:8;}">
+                <Coords points="480,481 554,479 555,529 481,531"/>
+                <Baseline points="481,526 555,524"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="170,578 420,570 466,580 481,564 504,579 575,578 582,539 344,543 251,561 169,549"/>
+                <Baseline points="175,572 200,573 225,573 250,573 275,573 300,572 326,572 351,571 376,570 401,569 426,568 452,567 477,567 502,566 527,566 552,566 578,567"/>
+                <TextEquiv>
+                    <Unicode>2 v. ISBN 957 671 054 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:10;}">
+                <Coords points="171,611 390,602 444,630 487,630 535,602 535,586 499,577 388,591 374,581 171,583"/>
+                <Baseline points="176,608 201,608 226,607 251,607 277,606 302,605 327,605 353,604 378,603 403,603 428,602 454,602 479,602 504,602 530,603"/>
+                <TextEquiv>
+                    <Unicode>Partially in English.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:11;}">
+                <Coords points="90,643 809,642 891,634 890,597 551,585 453,618 89,613"/>
+                <Baseline points="94,636 133,636 173,636 212,636 252,636 291,635 331,635 370,634 410,633 449,632 489,632 529,630 568,630 608,629 647,628 687,627 726,627 766,626 805,626 845,626 885,626"/>
+                <TextEquiv>
+                    <Unicode>t1. Family process and political process an moden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:12;}">
+                <Coords points="140,682 196,674 410,672 410,646 368,633 335,634 310,646 248,637 140,648"/>
+                <Baseline points="145,663 171,663 197,664 223,664 249,663 275,663 301,662 327,662 353,662 379,663 405,665"/>
+                <TextEquiv>
+                    <Unicode>Chinese history.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:13;}">
+                <Coords points="603,666 648,666 653,661 662,667 745,666 757,658 757,639 702,637 696,641 689,635 670,635 650,647 616,634 603,637"/>
+                <Baseline points="608,657 636,658 665,658 694,657 723,657 752,657"/>
+                <TextEquiv>
+                    <Unicode>s1. Clans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:14;}">
+                <Coords points="599,699 724,699 737,694 737,673 724,669 714,669 706,675 695,669 599,671"/>
+                <Baseline points="604,692 629,693 655,693 680,692 706,692 732,692"/>
+                <TextEquiv>
+                    <Unicode>s2. H19.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.239/1-2&#13;
+FAMILY PROCESS AND POLITICAL PROCESS IN MODERN&#13;
+CHINESE HISTORY&#13;
+JIN SHI JIA ZU YU ZHENG ZHI BI JIAO LI SHI LUN&#13;
+Jin shi jia zu yu zheng zhi bi jiao li shi lun&#13;
+wen ji&#13;
+Family process and political process in&#13;
+modern Chinese history&#13;
+1982&#13;
+2 v. ISBN 957 671 054 5&#13;
+Partially in English.&#13;
+t1. Family process and political process an moden&#13;
+Chinese history.&#13;
+s1. Clans&#13;
+s2. H19.1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

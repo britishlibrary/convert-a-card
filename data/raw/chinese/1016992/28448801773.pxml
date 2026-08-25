@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.538+01:00</Created>
+        <LastChange>2023-05-04T12:47:30.640+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758240" pageNr="92"/>
+    </Metadata>
+    <Page imageFilename="28448801773.jpg" imageWidth="956" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197250640" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="67,40 64,510 873,507 876,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="624,73 732,71 766,82 781,76 834,81 835,44 813,36 793,36 776,52 759,36 742,37 731,47 703,36 625,36"/>
+                <Baseline points="629,63 654,65 679,66 704,67 729,68 754,69 779,70 804,70 829,71"/>
+                <TextEquiv>
+                    <Unicode>15677.d.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="124,122 269,122 284,112 284,73 231,74 213,87 124,84"/>
+                <Baseline points="129,109 154,109 179,109 204,110 229,111 254,110 279,109"/>
+                <TextEquiv>
+                    <Unicode>FENG CHEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913543937_821" custom="readingOrder {index:2;}">
+                <Coords points="69,202 159,199 170,210 272,207 272,165 246,165 239,172 190,172 167,165 157,175 144,165 69,169"/>
+                <Baseline points="74,206 267,206"/>
+                <TextEquiv>
+                    <Unicode>XIAO (Tong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="116,306 813,314 813,285 703,277 116,276"/>
+                <Baseline points="121,297 155,298 189,299 224,300 258,301 292,301 327,302 361,302 395,303 430,303 464,303 498,303 533,304 567,304 601,304 636,304 670,305 704,305 739,305 773,306 808,307"/>
+                <TextEquiv>
+                    <Unicode>Feng chen. [Travel weary; a novel about an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="114,339 629,355 818,346 819,325 115,314"/>
+                <Baseline points="119,332 153,333 188,333 223,333 257,334 292,334 327,335 361,335 396,336 431,336 466,337 500,337 535,337 570,338 604,338 639,338 674,338 708,339 743,339 778,339 813,339"/>
+                <TextEquiv>
+                    <Unicode>artist of Chinese origin living in South-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="109,377 232,375 305,382 306,342 289,340 271,357 243,340 232,350 205,345 192,354 174,341 152,349 110,343"/>
+                <Baseline points="115,368 141,367 168,367 194,368 221,369 247,370 274,371 301,372"/>
+                <TextEquiv>
+                    <Unicode>East Asia.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="112,418 273,414 285,426 303,426 313,416 395,416 395,398 378,389 329,391 314,381 281,381 268,394 246,394 229,377 177,381 166,392 151,382 112,381"/>
+                <Baseline points="117,408 144,407 171,406 198,406 226,405 253,405 280,405 308,406 335,406 362,407 390,408"/>
+                <TextEquiv>
+                    <Unicode>pp. 338. 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="111,482 656,490 663,448 265,444 239,461 112,444"/>
+                <Baseline points="116,473 143,473 170,473 197,473 224,473 251,473 278,474 305,474 332,474 359,474 386,474 413,475 440,475 467,476 494,476 521,477 548,477 575,478 602,478 629,479 657,479"/>
+                <TextEquiv>
+                    <Unicode>Hong ye shu ju: Hong Kong, 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15677.d.7&#13;
+FENG CHEN&#13;
+XIAO (Tong)&#13;
+Feng chen. [Travel weary; a novel about an&#13;
+artist of Chinese origin living in South-&#13;
+East Asia.]&#13;
+pp. 338. 21 cm.&#13;
+Hong ye shu ju: Hong Kong, 1979.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

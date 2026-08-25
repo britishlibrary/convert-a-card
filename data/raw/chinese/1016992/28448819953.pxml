@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.320+01:00</Created>
+        <LastChange>2023-05-04T12:52:19.003+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758287" pageNr="134"/>
+    </Metadata>
+    <Page imageFilename="28448819953.jpg" imageWidth="984" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197539004" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="99,64 99,610 871,610 871,64"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="514,106 630,102 642,110 681,97 727,105 760,95 760,59 702,61 689,74 617,71 607,62 514,69"/>
+                <Baseline points="519,95 545,94 571,94 597,94 623,94 650,93 676,93 702,93 728,92 755,91"/>
+                <TextEquiv>
+                    <Unicode>15400.e.091</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="145,166 168,178 237,163 417,178 503,170 503,122 165,122 145,109"/>
+                <Baseline points="150,158 176,158 203,158 230,158 257,158 283,158 310,158 337,158 364,158 390,159 417,159 444,159 471,160 498,160"/>
+                <TextEquiv>
+                    <Unicode>FA GUO WEN XUE DE GU SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512893641_317" custom="readingOrder {index:2;}">
+                <Coords points="107,196 306,196 306,246 107,246"/>
+                <Baseline points="107,241 306,241"/>
+                <TextEquiv>
+                    <Unicode>XU (Xiacun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="125,344 414,339 434,356 554,327 585,352 816,346 803,309 124,314"/>
+                <Baseline points="130,341 164,340 198,340 232,340 266,339 300,339 334,339 368,339 402,339 436,339 470,339 504,339 538,339 572,339 606,339 640,339 674,338 708,338 742,337 776,336 811,336"/>
+                <TextEquiv>
+                    <Unicode>Faguo wenxue de gushi. [Biographical</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="132,387 876,380 876,355 849,348 132,350"/>
+                <Baseline points="137,378 173,378 210,378 247,378 283,378 320,377 357,377 393,377 430,377 467,376 504,376 540,376 577,376 614,375 650,375 687,375 724,375 760,375 797,375 834,375 871,375"/>
+                <TextEquiv>
+                    <Unicode>background to French literature. Preface</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512928792_334" custom="readingOrder {index:5;}">
+                <Coords points="130,373 297,372 297,422 130,423"/>
+                <Baseline points="130,418 297,417"/>
+                <TextEquiv>
+                    <Unicode>of 1942.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="132,467 160,467 173,474 198,452 212,462 232,466 246,459 279,459 289,453 289,436 276,436 260,420 248,427 241,421 218,422 184,437 169,429 131,431"/>
+                <Baseline points="137,454 166,452 195,451 225,451 254,451 284,450"/>
+                <TextEquiv>
+                    <Unicode>pp. 176.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="133,532 872,527 842,484 764,503 133,487"/>
+                <Baseline points="138,519 174,520 210,520 247,520 283,520 320,520 356,520 393,520 429,520 466,520 502,520 538,520 575,519 611,519 648,519 684,519 721,519 757,519 794,519 830,519 867,519"/>
+                <TextEquiv>
+                    <Unicode>Taiwan Shangwu yinshuguan: Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="126,599 259,599 295,610 455,601 455,566 415,557 379,582 326,565 168,573 143,557 126,566"/>
+                <Baseline points="131,597 157,595 184,595 210,594 237,594 263,594 290,594 317,595 343,595 370,595 396,595 423,595 450,594"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, 091</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.091&#13;
+FA GUO WEN XUE DE GU SHI&#13;
+XU (Xiacun)&#13;
+Faguo wenxue de gushi. [Biographical&#13;
+background to French literature. Preface&#13;
+of 1942.]&#13;
+pp. 176.&#13;
+Taiwan Shangwu yinshuguan: Taipei, 1966.&#13;
+Renren wenku, 091</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.957+01:00</Created>
+        <LastChange>2023-05-04T12:51:13.848+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758267" pageNr="116" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28448814193.jpg" imageWidth="960" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197473848" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,46 50,696 913,694 911,44"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,87 824,83 824,45 783,45 772,56 694,57 684,47 656,51 649,45 598,50"/>
+                <Baseline points="603,76 630,77 657,77 684,77 711,77 738,76 765,75 792,76 819,77"/>
+                <TextEquiv>
+                    <Unicode>15656.d.18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="107,146 746,146 746,104 610,123 107,117"/>
+                <Baseline points="112,139 143,139 174,139 206,139 237,139 269,139 300,139 332,139 363,139 395,139 426,139 457,139 489,139 520,139 552,139 583,139 615,139 646,139 678,139 709,139 741,138"/>
+                <TextEquiv>
+                    <Unicode>FAN GONG KAN LUAN. SHANG PIAN: JIAO TU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="55,220 580,226 719,218 734,184 590,200 55,189"/>
+                <Baseline points="60,212 93,212 126,212 160,212 193,212 227,212 260,212 294,212 327,212 361,212 394,212 427,212 461,212 494,212 528,212 561,212 595,212 628,211 662,211 695,211 729,210"/>
+                <TextEquiv>
+                    <Unicode>FAN GONG KAN LUAN. SHANG PIAN: JIAO TU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="126,291 676,298 813,281 768,253 464,253 446,269 126,253"/>
+                <Baseline points="131,282 164,282 198,282 232,282 266,282 300,282 334,282 367,282 401,282 435,282 469,282 503,282 537,282 571,282 604,282 638,282 672,282 706,282 740,282 774,282 808,281"/>
+                <TextEquiv>
+                    <Unicode>Fan gong kan luan. Shang pian: jiao tu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682501638139_557" custom="readingOrder {index:4;}">
+                <Coords points="524,486 689,485 689,535 524,536"/>
+                <Baseline points="524,531 689,530"/>
+                <TextEquiv>
+                    <Unicode>[1982]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195515086_733" custom="readingOrder {index:5;}">
+                <Coords points="105,555 621,559 621,609 105,605"/>
+                <Baseline points="105,600 621,604"/>
+                <TextEquiv>
+                    <Unicode>5 vols.: illus.: maps; 22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15656.d.18&#13;
+FAN GONG KAN LUAN. SHANG PIAN: JIAO TU&#13;
+FAN GONG KAN LUAN. SHANG PIAN: JIAO TU&#13;
+Fan gong kan luan. Shang pian: jiao tu&#13;
+[1982]&#13;
+5 vols.: illus.: maps; 22 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

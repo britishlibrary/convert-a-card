@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.371+01:00</Created>
+        <LastChange>2023-08-16T15:28:39.497+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758582" pageNr="388" tsid="128197528" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=GTXUBPPBDKQBLFXTKKDOQBPQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKYNKOOOUAKZGQBFXUENHVZL" imageId="35195888"/>
+    </Metadata>
+    <Page imageFilename="42758582.jpg" imageWidth="964" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692192519497" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="36,48 878,48 878,735 36,735"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="626,96 641,106 735,106 743,98 754,106 792,106 800,98 808,106 858,106 858,66 811,66 794,83 782,83 755,65 734,83 702,58 626,57"/>
+                <Baseline points="631,98 656,98 680,98 704,99 728,98 752,98 776,98 800,99 824,99 849,98 861,98"/>
+                <TextEquiv>
+                    <Unicode>15655.b.55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="66,178 113,187 273,179 330,193 407,183 407,140 343,142 333,131 208,146 164,133 66,145"/>
+                <Baseline points="72,176 96,175 120,176 144,176 168,176 192,178 217,176 241,178 265,176 289,176 313,176 337,175 361,175 385,175 410,172"/>
+                <TextEquiv>
+                    <Unicode>FANG YI ZHI NIAN PU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="30,240 91,243 106,237 126,250 138,241 207,242 228,251 247,238 247,212 226,198 208,212 150,212 137,198 126,198 114,211 76,213 49,196 30,210"/>
+                <Baseline points="36,234 61,236 85,236 109,236 133,237 157,236 181,236 205,236 229,237 249,236"/>
+                <TextEquiv>
+                    <Unicode>REN (Daowu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="66,313 152,322 163,311 182,323 196,312 297,308 404,322 444,308 422,283 342,283 329,270 312,283 269,270 225,284 212,271 121,283 66,268"/>
+                <Baseline points="72,305 96,305 120,307 144,308 168,307 192,308 217,308 241,308 265,308 289,307 313,307 337,307 361,307 385,308 410,307 434,307 447,308"/>
+                <TextEquiv>
+                    <Unicode>Fang (Yi zhi nian pu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="71,394 875,394 849,320 640,341 593,313 559,339 509,307 468,344 423,319 366,351 237,321 200,354 71,342"/>
+                <Baseline points="77,385 82,385 106,385 130,384 154,385 178,385 202,387 226,387 250,389 274,387 299,387 323,385 347,381 371,385 395,385 419,385 443,387 467,387 492,387 516,384 540,384 564,382 588,384 612,384 636,385 660,384 685,385 709,384 733,382 757,384 781,385 805,385 829,389 853,385 878,384"/>
+                <TextEquiv>
+                    <Unicode>3 4l 16 5 18 [4kIa. 16 c6 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="361,439 370,440 373,437 376,438 384,433 396,433 405,436 406,404 390,403 371,408 362,407"/>
+                <Baseline points="366,432 384,430 408,430"/>
+                <TextEquiv>
+                    <Unicode>11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="133,469 177,490 199,474 241,491 260,477 289,490 304,474 391,490 408,472 439,489 513,490 535,479 535,434 444,416 411,451 384,432 333,462 270,412 230,414 203,443 171,420 132,428"/>
+                <Baseline points="139,469 164,471 188,474 212,475 236,475 239,476 239,476 263,474 287,475 311,474 336,474 360,472 384,472 408,472 432,477 456,479 480,479 504,479 529,479 538,478"/>
+                <TextEquiv>
+                    <Unicode>6 96., ; 1t6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="532,484 586,483 630,499 656,490 671,505 723,480 754,490 811,485 829,475 830,435 810,424 746,426 702,462 681,464 639,421 616,420 590,440 555,417 533,418"/>
+                <Baseline points="538,478 564,477 588,480 612,480 636,482 660,484 685,484 709,480 733,479 757,475 781,475 805,475 829,475 832,475"/>
+                <TextEquiv>
+                    <Unicode>24 p , 1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="63,591 366,585 407,594 418,589 419,558 242,560 227,545 214,558 191,547 180,558 109,559 95,545 64,545"/>
+                <Baseline points="69,588 83,588 107,588 131,586 155,586 180,586 204,586 228,588 252,588 276,588 300,586 324,585 348,585 373,585 397,586 421,586"/>
+                <TextEquiv>
+                    <Unicode>5, 2, 297 p.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="729,728 749,731 796,727 808,738 828,738 826,684 821,684 812,695 793,695 781,684 771,696 761,695 752,701 742,694 735,702 728,702"/>
+                <Baseline points="734,720 759,722 783,723 807,723 831,725"/>
+                <TextEquiv>
+                    <Unicode>chi-p</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

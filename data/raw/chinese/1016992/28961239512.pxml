@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.025+01:00</Created>
+        <LastChange>2023-06-22T15:20:55.106+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758411" pageNr="240"/>
+    </Metadata>
+    <Page imageFilename="28961239512.jpg" imageWidth="952" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440055106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="25,42 25,597 907,597 907,42"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="567,85 763,90 775,82 813,82 813,50 778,45 740,54 653,53 634,44 567,47"/>
+                <Baseline points="572,77 598,76 624,76 650,76 676,77 703,77 729,77 755,77 781,78 808,78"/>
+                <TextEquiv>
+                    <Unicode>15683.a.4/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="56,142 77,132 314,130 340,120 340,78 55,88"/>
+                <Baseline points="61,122 88,121 115,120 143,120 170,119 198,119 225,119 252,119 280,120 307,120 335,119"/>
+                <TextEquiv>
+                    <Unicode>FAN WEN SHANG XI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="20,218 99,212 120,227 145,217 280,226 291,220 291,183 76,178 20,186"/>
+                <Baseline points="25,207 51,208 77,209 103,210 129,210 155,211 181,211 207,211 233,210 259,208 286,207"/>
+                <TextEquiv>
+                    <Unicode>FANG (Xuanchen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="56,281 113,271 235,273 271,283 286,273 337,273 337,238 287,245 209,237 181,248 57,241"/>
+                <Baseline points="62,264 89,264 116,265 143,265 170,266 197,266 224,267 251,267 278,267 305,268 332,268"/>
+                <TextEquiv>
+                    <Unicode>Fan wen shang xi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_158" custom="readingOrder {index:4;}">
+                <Coords points="355,424 368,423 393,423 419,422 444,422 469,422 494,422 520,423 521,408 494,407 469,407 444,407 419,407 393,408 368,408 354,409"/>
+                <Baseline points="355,424 368,423 393,423 419,422 444,422 469,422 494,422 520,423"/>
+                <TextEquiv>
+                    <Unicode>67 [1978]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_160" custom="readingOrder {index:5;}">
+                <Coords points="65,482 100,481 135,480 171,479 206,478 242,478 277,478 312,478 348,479 361,479 361,464 348,464 312,463 277,463 242,463 206,463 171,464 135,465 100,466 65,467"/>
+                <Baseline points="65,482 100,481 135,480 171,479 206,478 242,478 277,478 312,478 348,479 361,479"/>
+                <TextEquiv>
+                    <Unicode>3, 151 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="53,554 884,561 884,526 53,522"/>
+                <Baseline points="58,546 99,547 140,548 181,548 222,548 263,548 304,548 345,548 386,547 427,547 468,547 509,546 550,546 591,546 632,547 673,547 714,547 755,548 796,549 837,550 879,552"/>
+                <TextEquiv>
+                    <Unicode>A collection of model essays by various writers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="60,589 713,594 713,565 662,557 60,556"/>
+                <Baseline points="65,580 97,581 129,581 161,581 193,582 225,582 257,582 290,582 322,582 354,582 386,582 418,582 450,582 482,582 515,582 547,582 579,582 611,582 643,582 675,583 708,583"/>
+                <TextEquiv>
+                    <Unicode>with critical comment by Fang Xuanchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15683. a. 4/1.
+FAN WEN SHANG XI
+FANG (Xuanchen)
+Fan wen shang xi
+1  / |75 X 34 4.—34.
+4 X67 (1978)
+3, 151 p.; 19 om. — ( 5 
+A collection of model essays by various writers,
+with critical comment by Fang Xuanchen
+chi¬
+OMEB (57</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

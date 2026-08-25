@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.054+01:00</Created>
+        <LastChange>2023-05-10T17:01:22.876+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758342" pageNr="181"/>
+    </Metadata>
+    <Page imageFilename="28961212192.jpg" imageWidth="964" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683730882876" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,36 65,739 937,739 937,36"/>
+            <TextLine id="line_1654531719108_1187" custom="readingOrder {index:0;}">
+                <Coords points="601,59 632,74 689,66 698,75 713,66 785,63 801,73 852,74 872,63 872,44 819,21 795,26 778,45 736,26 720,40 689,29 619,29 601,40"/>
+                <Baseline points="606,69 867,66"/>
+                <TextEquiv>
+                    <Unicode>15674.i.163</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="60,125 553,122 553,84 514,77 60,81"/>
+                <Baseline points="65,116 90,116 115,116 141,116 166,116 192,116 217,116 242,116 268,116 293,116 319,116 344,116 370,116 395,116 420,116 446,116 471,116 497,117 522,117 548,118"/>
+                <TextEquiv>
+                    <Unicode>FENG LIU QIAN ZAI YI YAN PING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="61,211 151,210 165,202 185,218 230,208 242,218 328,218 337,214 337,167 229,181 182,171 61,173"/>
+                <Baseline points="66,202 92,201 119,201 145,201 172,201 199,202 225,202 252,203 278,203 305,203 332,203"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Zongqia)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="163,282 399,278 428,267 445,279 553,275 552,239 298,253 162,245"/>
+                <Baseline points="168,271 193,271 218,271 244,271 269,271 294,270 320,270 345,270 370,269 396,269 421,268 446,268 472,267 497,266 522,265 548,264"/>
+                <TextEquiv>
+                    <Unicode>feng liu qian zai yi yan ping</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723600487_194" custom="readingOrder {index:4;}">
+                <Coords points="171,353 242,355 241,405 170,403"/>
+                <Baseline points="170,398 241,400"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+                <Coords points="86,698 136,701 150,687 168,698 198,701 228,691 249,699 300,698 312,691 311,661 269,667 247,662 233,677 223,668 169,669 155,678 140,669 86,669"/>
+                <Baseline points="91,694 118,694 145,694 172,693 199,693 226,692 253,691 280,690 307,688"/>
+                <TextEquiv>
+                    <Unicode>I227 44.3 I227</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723603077_199" custom="readingOrder {index:6;}">
+                <Coords points="85,688 146,688 146,738 85,738"/>
+                <Baseline points="85,733 146,733"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="807,658 833,659 846,654 882,659 889,654 907,657 940,648 939,625 909,621 901,614 840,624 836,620 806,621"/>
+                <Baseline points="811,649 841,647 872,647 903,647 934,643"/>
+                <TextEquiv>
+                    <Unicode>23-66[82]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="727,693 823,690 830,683 843,690 856,681 885,690 935,684 934,658 915,655 891,654 863,668 849,660 758,662 726,653"/>
+                <Baseline points="760,684 788,682 816,681 845,681 873,680 901,680 930,681"/>
+                <TextEquiv>
+                    <Unicode>82-18-7 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="676,730 778,730 803,719 856,722 870,713 879,722 919,725 935,721 935,688 881,692 869,701 824,693 812,706 798,693 676,693"/>
+                <Baseline points="681,719 708,718 736,718 764,718 791,718 819,717 847,717 874,716 902,715 930,713"/>
+                <TextEquiv>
+                    <Unicode>10173.328 82—7554</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15674.i.163&#13;
+FENG LIU QIAN ZAI YI YAN PING&#13;
+ZHANG (Zongqia)&#13;
+feng liu qian zai yi yan ping&#13;
+1982&#13;
+I227 44.3 I227&#13;
+1982&#13;
+23-66[82]&#13;
+82-18-7 [31]&#13;
+10173.328 82—7554</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

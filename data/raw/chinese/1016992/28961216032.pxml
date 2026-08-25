@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.150+01:00</Created>
+        <LastChange>2023-05-10T15:11:23.813+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758348" pageNr="187"/>
+    </Metadata>
+    <Page imageFilename="28961216032.jpg" imageWidth="980" imageHeight="821">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724283813" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,52 46,625 900,625 902,52"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="571,85 884,98 885,44 742,53 729,66 675,64 655,45 571,48"/>
+                <Baseline points="576,79 601,80 626,80 651,80 677,80 702,80 727,80 752,80 778,81 803,81 828,82 853,83 879,84"/>
+                <TextEquiv>
+                    <Unicode>15408.c.28-29(1)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="134,133 213,138 223,130 304,126 339,153 363,131 404,130 428,118 428,100 409,93 338,85 229,93 200,78 191,87 134,87"/>
+                <Baseline points="139,119 164,119 190,119 216,119 242,119 268,119 293,119 319,119 345,119 371,119 397,119 423,118"/>
+                <TextEquiv>
+                    <Unicode>FENG CHUAN YI SHUO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683724231904_469" custom="readingOrder {index:2;}">
+                <Coords points="57,166 335,171 334,221 56,216"/>
+                <Baseline points="56,211 334,216"/>
+                <TextEquiv>
+                    <Unicode>WANG (Xingjing)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="103,386 812,381 811,363 751,357 103,356"/>
+                <Baseline points="108,376 144,378 181,379 218,380 255,381 291,381 328,381 365,381 402,381 439,381 475,381 512,381 549,380 586,380 623,380 659,381 696,381 733,381 770,383 807,384"/>
+                <TextEquiv>
+                    <Unicode>Fengchuan yishuo. [A Qing commentary on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="103,421 759,424 759,398 719,389 103,390"/>
+                <Baseline points="108,413 140,414 172,414 204,415 237,415 269,416 301,416 334,416 366,416 398,416 431,416 463,416 495,416 527,415 560,415 592,415 624,415 657,416 689,416 721,416 784,419"/>
+                <TextEquiv>
+                    <Unicode>the Book of Changes. Facsimile of MS.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="109,458 216,456 216,438 199,437 183,426 162,428 158,432 147,432 123,424 109,426"/>
+                <Baseline points="114,449 146,449 178,449 211,452"/>
+                <TextEquiv>
+                    <Unicode>10 ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:6;}">
+                <Coords points="746,464 776,466 791,452 798,458 854,457 855,438 840,437 829,428 782,431 748,424"/>
+                <Baseline points="752,451 784,449 816,451 849,456"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:7;}">
+                <Coords points="100,530 694,538 711,530 712,487 101,491"/>
+                <Baseline points="105,517 135,518 165,518 195,519 225,519 255,520 285,520 315,520 345,520 375,520 405,520 435,520 465,520 495,520 525,520 555,520 585,521 615,521 645,522 675,523 706,524"/>
+                <TextEquiv>
+                    <Unicode>Shangwu yinshuguan: Taipei, [1972].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="101,595 699,602 708,562 102,565"/>
+                <Baseline points="106,587 135,587 165,587 195,587 225,587 255,587 284,587 314,588 344,588 374,588 404,588 433,588 463,588 493,589 523,589 553,589 582,589 612,590 642,590 672,590 702,590"/>
+                <TextEquiv>
+                    <Unicode>Siku quanshu zhenben san ji, 28-29.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.c.28-29(1)&#13;
+FENG CHUAN YI SHUO&#13;
+WANG (Xingjing)&#13;
+Fengchuan yishuo. [A Qing commentary on&#13;
+the Book of Changes. Facsimile of MS.]&#13;
+10 ch.&#13;
+19 cm.&#13;
+Shangwu yinshuguan: Taipei, [1972].&#13;
+Siku quanshu zhenben san ji, 28-29.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

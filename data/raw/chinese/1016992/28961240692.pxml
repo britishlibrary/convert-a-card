@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.158+01:00</Created>
+        <LastChange>2023-06-22T15:34:25.425+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758422" pageNr="249"/>
+    </Metadata>
+    <Page imageFilename="28961240692.jpg" imageWidth="984" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440865425" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="137,78 137,575 837,575 837,78"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="556,112 584,122 600,114 726,109 815,114 824,110 824,87 807,77 774,76 736,76 717,91 696,77 555,79"/>
+                <Baseline points="561,101 586,103 612,105 638,105 664,106 690,105 715,105 741,104 767,103 793,102 819,101"/>
+                <TextEquiv>
+                    <Unicode>15402.b.D121</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="180,197 326,192 356,203 401,184 487,201 502,186 547,180 546,135 179,142"/>
+                <Baseline points="185,180 210,180 236,180 261,180 287,179 312,179 338,179 363,178 389,178 414,177 440,177 465,177 491,177 516,178 542,178"/>
+                <TextEquiv>
+                    <Unicode>FAN NAN WEN JI XIANG ZHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="132,249 171,251 184,244 201,259 220,250 311,259 320,250 364,258 382,248 382,217 369,213 350,212 338,221 323,213 285,221 201,213 186,222 132,213"/>
+                <Baseline points="137,244 163,242 190,242 217,242 243,243 270,244 297,244 323,244 350,242 377,239"/>
+                <TextEquiv>
+                    <Unicode>LI (Shangyin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:3;}">
+                <Coords points="172,344 198,345 224,346 250,347 277,347 303,348 329,348 355,348 382,348 408,347 434,347 460,347 487,346 513,346 539,346 565,345 592,345 604,346 629,346 655,346 681,346 707,346 733,346 759,346 785,346 811,346 837,346 837,331 811,331 785,331 759,331 733,331 707,331 681,331 655,331 629,331 605,331 593,330 565,330 539,331 513,331 487,331 460,332 434,332 408,332 382,333 355,333 329,333 303,333 277,332 250,332 225,331 199,330 173,329"/>
+                <Baseline points="172,344 198,345 224,346 250,347 277,347 303,348 329,348 355,348 382,348 408,347 434,347 460,347 487,346 513,346 539,346 565,345 592,345 604,346 629,346 655,346 681,346 707,346 733,346 759,346 785,346 811,346 837,346"/>
+                <TextEquiv>
+                    <Unicode>Fannan wenji xiangzhu. [Essays, with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="177,382 206,382 236,383 265,383 295,383 325,383 354,383 384,383 413,383 443,382 473,382 502,382 532,382 561,382 591,383 621,383 650,383 680,384 709,385 739,385 778,386 778,371 739,370 709,370 681,369 650,368 621,368 591,368 561,367 532,367 502,367 473,367 443,367 413,368 384,368 354,368 325,368 295,368 265,368 236,368 206,367 177,367"/>
+                <Baseline points="177,382 206,382 236,383 265,383 295,383 325,383 354,383 384,383 413,383 443,382 473,382 502,382 532,382 561,382 591,383 621,383 650,383 680,384 709,385 739,385 778,386"/>
+                <TextEquiv>
+                    <Unicode>notes by Feng Hao, of the Ch'ing.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="172,434 209,434 224,425 242,428 248,434 262,434 267,429 287,434 315,426 315,403 303,403 296,396 270,393 248,397 236,409 214,397 172,397"/>
+                <Baseline points="177,420 203,421 230,422 256,422 283,421 310,420"/>
+                <TextEquiv>
+                    <Unicode>pp. 329.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="176,502 296,506 316,498 343,506 356,498 407,498 407,467 386,461 319,461 304,476 293,476 278,461 218,461 209,468 176,461"/>
+                <Baseline points="181,491 208,492 236,492 263,492 291,492 319,492 346,491 374,491 402,491"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="172,571 259,566 335,578 345,569 391,568 391,549 376,541 320,540 310,532 278,539 266,533 252,545 223,533 172,533"/>
+                <Baseline points="177,563 203,563 229,563 255,564 281,564 307,564 333,564 359,564 386,563"/>
+                <TextEquiv>
+                    <Unicode>Sibu beiyao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15402. b. D121
+FAN NAN WEN JI XIANG ZHU
+LI (Shangyin)
+
+[Essays, with
+Fannan wenji xiangzhu.
+notes by Feng Hao, of the Ch'ing.)
+pp. 329.
+Taipei, 1966.
+Sibu beiyao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

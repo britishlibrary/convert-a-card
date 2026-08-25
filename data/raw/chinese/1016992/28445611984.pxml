@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.857+01:00</Created>
+        <LastChange>2023-05-03T17:34:15.704+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758148" pageNr="11"/>
+    </Metadata>
+    <Page imageFilename="28445611984.jpg" imageWidth="964" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128055705" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="18,19 18,548 910,550 910,21"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="581,59 659,73 692,63 721,74 760,67 783,75 853,73 854,42 833,29 796,29 763,43 729,36 709,52 673,28 582,27"/>
+                <Baseline points="587,57 613,59 639,60 665,61 691,62 717,63 743,63 769,64 795,64 821,64 848,64"/>
+                <TextEquiv>
+                    <Unicode>15675.g.626</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="42,130 65,137 94,123 117,134 127,124 245,117 377,122 391,116 391,89 42,92"/>
+                <Baseline points="48,116 74,116 100,116 126,117 152,117 178,116 204,116 230,116 256,116 282,116 308,116 334,116 360,116 386,116"/>
+                <TextEquiv>
+                    <Unicode>FENG JI CAI XUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="38,181 112,187 128,179 136,187 215,186 250,194 259,191 261,145 230,143 208,156 135,140 118,152 73,147 40,134"/>
+                <Baseline points="44,172 70,173 96,174 122,174 149,175 175,176 201,177 227,179 254,181"/>
+                <TextEquiv>
+                    <Unicode>FENG (Jicai)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="74,250 154,266 206,253 405,266 424,258 425,237 271,231 262,221 203,233 191,220 159,227 75,213"/>
+                <Baseline points="79,243 105,244 131,246 157,247 183,248 209,249 235,250 262,251 288,251 314,252 340,253 366,254 392,255 419,256"/>
+                <TextEquiv>
+                    <Unicode>Feng Ji cai xuan ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128050146_198" custom="readingOrder {index:4;}">
+                <Coords points="315,401 399,404 397,454 313,451"/>
+                <Baseline points="313,446 397,449"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="65,530 105,525 135,537 159,530 221,530 241,538 271,524 290,525 290,513 276,513 265,501 218,504 207,493 181,492 137,503 128,493 87,492 66,484"/>
+                <Baseline points="70,521 96,521 123,522 150,522 177,524 204,524 231,525 258,525 285,525"/>
+                <TextEquiv>
+                    <Unicode>3 v.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.626&#13;
+FENG JI CAI XUAN JI&#13;
+FENG (Jicai)&#13;
+Feng Ji cai xuan ji&#13;
+1984&#13;
+3 v.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

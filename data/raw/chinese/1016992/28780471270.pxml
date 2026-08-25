@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.664+01:00</Created>
+        <LastChange>2023-05-04T12:59:37.473+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758312" pageNr="155"/>
+    </Metadata>
+    <Page imageFilename="28780471270.jpg" imageWidth="984" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197977473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="129,87 129,597 876,597 876,87"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="579,123 631,122 638,115 674,122 686,114 790,122 814,114 813,77 753,77 735,93 712,77 695,77 680,92 663,77 631,77 622,86 578,77"/>
+                <Baseline points="583,111 608,110 633,110 658,110 683,109 708,109 733,108 758,108 783,108 808,109"/>
+                <TextEquiv>
+                    <Unicode>15402.b.D55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="163,190 299,193 319,179 335,192 375,194 481,186 495,177 495,119 163,123"/>
+                <Baseline points="168,181 194,180 221,179 248,178 275,178 302,178 329,178 355,178 382,178 409,178 436,178 463,178 490,178"/>
+                <TextEquiv>
+                    <Unicode>FAN CHUAN SHI JI ZHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683197950558_1619" custom="readingOrder {index:2;}">
+                <Coords points="131,217 264,214 265,264 132,267"/>
+                <Baseline points="132,262 265,259"/>
+                <TextEquiv>
+                    <Unicode>DU (Mu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="174,368 861,362 867,321 672,341 543,325 524,344 465,324 173,333"/>
+                <Baseline points="178,356 212,356 246,355 280,355 314,355 349,355 383,355 417,354 451,354 485,353 520,353 554,353 588,352 622,352 656,352 691,351 725,351 759,351 793,350 827,350 862,350"/>
+                <TextEquiv>
+                    <Unicode>Fanchuan shiji zhu. [Poems, with notes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="172,403 196,410 215,394 225,402 245,397 284,406 410,396 410,381 346,365 282,374 255,373 246,365 172,370"/>
+                <Baseline points="177,393 202,392 227,392 253,391 278,391 303,390 329,390 354,390 379,391 424,389"/>
+                <TextEquiv>
+                    <Unicode>by Feng Jiwu.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="168,442 224,442 235,430 244,430 262,442 295,442 302,435 323,431 322,414 315,415 300,403 258,402 228,417 179,404 167,408"/>
+                <Baseline points="173,434 202,431 231,430 260,429 289,428 318,428"/>
+                <TextEquiv>
+                    <Unicode>pp. 196.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="169,504 223,515 251,509 295,514 306,503 336,514 414,504 414,485 391,468 319,469 301,487 279,469 256,476 169,470"/>
+                <Baseline points="174,498 200,498 226,498 252,498 278,498 304,498 330,498 356,497 382,497 409,496"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="170,578 261,575 310,578 325,587 335,578 383,578 398,568 398,554 367,546 170,541"/>
+                <Baseline points="175,567 202,567 229,568 256,568 284,569 311,569 338,569 365,568 393,567"/>
+                <TextEquiv>
+                    <Unicode>Sibu beiyao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15402.b.D55&#13;
+FAN CHUAN SHI JI ZHU&#13;
+DU (Mu)&#13;
+Fanchuan shiji zhu. [Poems, with notes&#13;
+by Feng Jiwu.]&#13;
+pp. 196.&#13;
+Taipei, 1966.&#13;
+Sibu beiyao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

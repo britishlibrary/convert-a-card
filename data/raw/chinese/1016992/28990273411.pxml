@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.852+01:00</Created>
+        <LastChange>2023-07-03T15:13:41.060+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758471" pageNr="291" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=DEQYMXRZCFMZIMLHPMULVGPB&amp;fileType=view" imageId="35195777"/>
+    </Metadata>
+    <Page imageFilename="42758471.jpg" imageWidth="984" imageHeight="813">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688390021060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="83,53 917,53 917,736 83,736"/>
+            <TextLine id="line_1688389971087_486" custom="readingOrder {index:0;}">
+                <Coords points="506,64 759,66 759,116 506,114"/>
+                <Baseline points="506,109 759,111"/>
+                <TextEquiv>
+                    <Unicode>15222.e.295</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="93,165 149,169 177,191 200,169 266,170 290,188 312,167 363,162 363,127 307,128 296,116 258,133 204,134 161,110 129,131 93,132"/>
+                <Baseline points="98,160 119,160 144,158 168,158 193,158 218,158 242,158 267,157 291,158 316,157 340,157 365,155"/>
+                <TextEquiv>
+                    <Unicode>FENG BAO SHI NIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="78,246 160,250 167,243 182,258 225,248 249,258 296,249 324,259 342,249 342,211 311,211 297,222 230,219 209,208 173,219 158,207 95,205 78,216"/>
+                <Baseline points="83,242 108,242 132,242 157,242 181,244 206,242 231,240 255,242 280,242 304,244 329,245 344,247"/>
+                <TextEquiv>
+                    <Unicode>ZHOU (Jingwen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="121,426 658,424 658,384 487,396 451,377 403,407 347,386 121,383"/>
+                <Baseline points="126,413 150,413 175,414 199,414 224,414 249,416 273,416 298,416 322,416 347,416 372,416 396,417 421,419 445,417 470,416 495,416 519,416 544,414 568,414 593,416 617,414 642,414 660,414"/>
+                <TextEquiv>
+                    <Unicode>Fengbao shinian. [Ten years of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="667,409 690,426 757,422 785,429 792,422 802,422 802,380 791,380 780,391 753,391 738,380 721,393 703,382 691,394 667,394"/>
+                <Baseline points="672,414 696,414 721,414 745,414 770,414 794,414 804,416"/>
+                <TextEquiv>
+                    <Unicode>violent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="121,458 806,456 792,423 121,426"/>
+                <Baseline points="126,452 144,452 168,450 193,450 218,450 242,450 267,450 291,450 316,449 340,450 365,450 390,449 414,449 439,450 463,449 488,449 513,449 537,449 562,449 586,449 611,449 635,447 660,449 685,449 709,449 734,449 758,449 783,447 808,449"/>
+                <TextEquiv>
+                    <Unicode>storm: the experiences in the Communist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="121,489 880,498 851,450 284,457 263,477 121,458"/>
+                <Baseline points="126,485 150,485 175,486 199,485 224,485 249,485 273,485 298,483 322,483 347,485 372,485 396,485 421,485 445,485 470,485 495,483 519,485 544,485 568,483 593,481 617,483 642,483 667,483 691,481 716,483 740,483 765,483 790,483 814,483 839,483 863,485 881,486"/>
+                <TextEquiv>
+                    <Unicode>regime. Written by a former Mao's official,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:7;}">
+                <Coords points="116,529 791,530 791,507 718,492 116,499"/>
+                <Baseline points="121,519 145,519 170,519 195,519 219,519 244,521 268,519 293,519 317,521 342,522 367,522 391,521 416,519 440,519 465,519 490,519 514,519 539,519 563,519 588,519 613,519 637,517 662,519 686,519 711,519 735,519 760,521 785,522 793,524"/>
+                <TextEquiv>
+                    <Unicode>now a leading journalist in Hong Kong.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:8;}">
+                <Coords points="116,570 183,563 229,570 237,562 248,571 287,563 295,570 371,570 372,546 351,531 324,528 296,532 282,546 248,531 231,547 213,530 195,530 178,547 117,541"/>
+                <Baseline points="121,563 127,562 152,562 177,562 201,562 226,562 250,560 275,562 299,560 324,560 349,560 373,562"/>
+                <TextEquiv>
+                    <Unicode>pp. 5, 9, 588.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:9;}">
+                <Coords points="736,558 781,563 790,557 798,562 832,562 840,570 850,570 849,535 837,534 828,525 813,526 805,534 782,531 780,534 776,530 735,533"/>
+                <Baseline points="740,555 765,557 790,557 814,557 839,558 852,560"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:10;}">
+                <Coords points="116,634 725,634 725,595 116,594"/>
+                <Baseline points="121,626 145,626 170,626 195,626 219,626 244,627 268,627 293,627 317,627 342,627 367,626 391,626 416,627 440,626 465,626 490,627 514,626 539,626 563,627 588,629 613,629 637,629 662,627 686,626 711,626 727,627"/>
+                <TextEquiv>
+                    <Unicode>Shidai piping she: Hong Kong, 1962.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:11;}">
+                <Coords points="126,714 171,703 274,702 426,714 432,669 413,679 244,679 231,667 193,668 166,683 125,664"/>
+                <Baseline points="131,704 155,699 180,701 204,701 229,699 254,699 278,699 303,699 327,701 352,701 376,701 401,703 426,706 434,708"/>
+                <TextEquiv>
+                    <Unicode>[A third edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15222.e.295&#13;
+FENG BAO SHI NIAN&#13;
+ZHOU (Jingwen)&#13;
+Fengbao shinian. [Ten years of&#13;
+violent&#13;
+storm: the experiences in the Communist&#13;
+regime. Written by a former Mao's official,&#13;
+now a leading journalist in Hong Kong.]&#13;
+pp. 5, 9, 588.&#13;
+21 cm.&#13;
+Shidai piping she: Hong Kong, 1962.&#13;
+[A third edition.]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

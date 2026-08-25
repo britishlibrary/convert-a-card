@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.568+01:00</Created>
+        <LastChange>2023-06-27T09:48:47.807+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758379" pageNr="213"/>
+    </Metadata>
+    <Page imageFilename="28961232382.jpg" imageWidth="952" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687852127807" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="133,16 133,540 785,540 785,16"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="537,50 782,48 782,9 763,9 752,20 736,13 722,20 630,13 607,23 593,13 537,13"/>
+                <Baseline points="542,40 568,42 594,42 620,41 646,40 672,39 698,39 724,39 750,41 777,43"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.b.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="128,170 201,165 220,177 311,174 349,181 346,148 250,150 226,132 130,134"/>
+                <Baseline points="133,164 159,164 185,165 212,167 238,168 264,170 291,171 317,171 344,170"/>
+                <TextEquiv>
+                    <Unicode>FANG (Renrong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="146,214 171,203 378,211 498,199 590,211 589,168 145,182"/>
+                <Baseline points="150,199 175,198 201,198 226,198 252,198 277,197 303,197 328,196 354,196 379,196 405,195 430,194 456,194 481,194 507,193 532,193 558,192 584,192"/>
+                <TextEquiv>
+                    <Unicode>Fang song ben xin ding xu zhi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_132" custom="readingOrder {index:3;}">
+                <Coords points="415,258 426,258 452,257 478,255 477,240 451,242 426,243 415,243"/>
+                <Baseline points="415,258 426,258 452,257 478,255"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="164,299 248,290 256,281 267,291 287,285 296,291 363,290 361,269 310,268 297,261 286,271 270,258 244,269 213,266 200,280 162,270"/>
+                <Baseline points="168,294 195,290 222,286 249,284 276,283 303,283 330,283 357,283"/>
+                <TextEquiv>
+                    <Unicode>2v. in 1 han.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="161,332 230,324 246,330 255,323 275,331 330,331 343,321 354,331 434,325 433,297 413,293 403,300 376,292 345,300 332,292 160,300"/>
+                <Baseline points="166,325 192,323 218,321 244,320 270,319 297,318 323,318 349,318 375,318 401,317 428,317"/>
+                <TextEquiv>
+                    <Unicode>ISBN 7-80568-394-8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;}">
+                <Coords points="172,538 784,538 790,486 172,489"/>
+                <Baseline points="177,529 207,528 237,528 268,528 298,528 329,528 359,528 389,528 420,528 450,528 481,528 511,528 541,528 572,528 602,528 633,528 663,528 693,528 724,528 754,528 785,528"/>
+                <TextEquiv>
+                    <Unicode>s1.Gazetteers. t1.Xin ding xu zhi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.b.2&#13;
+FANG (Renrong)&#13;
+Fang song ben xin ding xu zhi&#13;
+1992&#13;
+2v. in 1 han.&#13;
+ISBN 7-80568-394-8&#13;
+s1.Gazetteers. t1.Xin ding xu zhi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

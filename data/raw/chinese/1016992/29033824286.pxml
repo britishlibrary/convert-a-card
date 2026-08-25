@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.034+01:00</Created>
+        <LastChange>2023-08-16T15:03:10.078+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758559" pageNr="367" tsid="128197477" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=QIUVMYSNIYNPZXDBMPAPCWUT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MMNVKHLGGQFVVCSMFGVZDGXN" imageId="35195865"/>
+    </Metadata>
+    <Page imageFilename="42758559.jpg" imageWidth="980" imageHeight="813">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692190990078" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="132,70 826,70 826,475 132,475"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="576,120 613,138 689,130 697,122 706,130 825,130 824,97 812,97 793,78 770,80 750,101 707,88 689,107 654,79 575,93"/>
+                <Baseline points="581,124 605,122 630,120 654,122 679,124 703,124 728,124 752,124 777,122 801,122 826,122"/>
+                <TextEquiv>
+                    <Unicode>15328.b.381</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="154,185 286,187 286,152 262,148 241,151 230,140 212,156 192,157 178,142 155,142"/>
+                <Baseline points="159,181 166,181 191,181 215,179 239,181 264,179 288,179"/>
+                <TextEquiv>
+                    <Unicode>FANG LIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="126,266 168,274 213,261 235,274 247,265 364,265 390,275 424,258 439,265 439,217 420,231 399,220 374,234 323,225 251,233 237,219 220,232 164,234 155,225 127,234"/>
+                <Baseline points="132,259 146,259 171,259 195,259 220,257 244,259 269,257 293,257 318,257 342,257 367,259 391,256 416,256 441,256"/>
+                <TextEquiv>
+                    <Unicode>YANG (Tiancheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="497,282 519,282 539,261 564,274 575,266 583,274 599,266 607,274 624,274 654,265 653,200 632,190 609,211 592,211 566,229 544,212 535,219 496,219"/>
+                <Baseline points="502,256 527,256 551,261 576,261 600,261 625,257 649,259 656,259"/>
+                <TextEquiv>
+                    <Unicode>786</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="257,301 262,301 277,314 280,314 291,304 308,301 307,269 293,270 289,266 285,269 279,268 266,281 256,281"/>
+                <Baseline points="262,295 287,298 310,297"/>
+                <TextEquiv>
+                    <Unicode>T)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="259,338 272,337 280,330 291,341 303,346 318,332 329,342 348,331 348,301 337,297 325,300 316,309 302,302 282,302 276,297 259,304"/>
+                <Baseline points="264,319 288,321 313,321 337,321 349,319"/>
+                <TextEquiv>
+                    <Unicode>1998</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="163,370 239,378 326,360 344,378 382,369 482,377 482,329 453,338 437,328 381,335 350,326 326,350 284,335 243,331 221,342 163,332"/>
+                <Baseline points="168,357 192,360 217,359 241,359 266,360 290,360 315,360 339,359 364,360 388,360 413,360 437,362 462,364 483,362"/>
+                <TextEquiv>
+                    <Unicode>Fanglin. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="163,410 192,410 206,402 235,403 245,397 261,403 327,401 327,369 310,362 293,373 286,368 261,370 248,382 229,381 218,370 163,373"/>
+                <Baseline points="168,393 192,393 217,395 241,396 266,395 290,393 315,395 328,395"/>
+                <TextEquiv>
+                    <Unicode>pps. 296.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="151,470 778,474 778,438 738,424 677,454 596,425 151,437"/>
+                <Baseline points="156,462 181,463 205,462 230,463 254,462 279,462 303,462 328,462 352,462 377,463 401,463 426,463 450,463 475,463 499,462 524,463 548,463 573,463 597,463 621,463 646,463 670,465 695,465 719,465 744,462 768,463 780,465"/>
+                <TextEquiv>
+                    <Unicode>Jingang chubanshe: Hong Kong, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

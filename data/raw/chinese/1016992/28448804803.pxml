@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.762+01:00</Created>
+        <LastChange>2023-05-04T12:50:25.684+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758255" pageNr="105"/>
+    </Metadata>
+    <Page imageFilename="28448804803.jpg" imageWidth="956" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197425684" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="56,59 64,689 905,689 904,57"/>
+            <TextLine id="line_1682499184954_163" custom="readingOrder {index:0;}">
+                <Coords points="604,68 881,72 880,122 603,118"/>
+                <Baseline points="603,113 880,117"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.85</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;}">
+                <Coords points="127,353 207,353 222,342 248,351 336,352 354,347 354,320 296,325 288,317 239,317 217,332 187,319 127,326"/>
+                <Baseline points="132,348 159,348 186,347 213,347 240,347 267,347 294,346 321,346 349,345"/>
+                <TextEquiv>
+                    <Unicode>HUANG (Weihong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="127,393 204,392 221,384 247,392 388,386 386,342 354,341 337,352 239,347 126,356"/>
+                <Baseline points="132,383 157,383 182,383 207,383 232,383 257,382 282,382 307,381 332,380 357,377 382,375"/>
+                <TextEquiv>
+                    <Unicode>Fei lan ao men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682499224694_181" custom="readingOrder {index:3;}">
+                <Coords points="378,409 451,408 452,458 379,459"/>
+                <Baseline points="379,454 452,453"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="228,483 236,483 239,486 242,484 262,484 268,487 273,484 293,484 294,463 286,463 279,454 269,453 264,456 261,453 250,453 242,460 230,460"/>
+                <Baseline points="234,477 261,480 288,480"/>
+                <TextEquiv>
+                    <Unicode>:ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="174,523 294,508 303,515 430,515 445,505 445,486 426,477 174,485"/>
+                <Baseline points="179,510 205,509 231,509 257,508 283,508 309,508 335,507 361,507 387,506 413,505 440,504"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962-7602-03-5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="211,675 268,670 280,675 370,674 370,635 282,635 271,646 211,638"/>
+                <Baseline points="216,665 245,666 275,666 305,666 335,665 365,666"/>
+                <TextEquiv>
+                    <Unicode>s1. Macau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.85&#13;
+HUANG (Weihong)&#13;
+Fei lan ao men&#13;
+1992&#13;
+:ill.&#13;
+ISBN 962-7602-03-5&#13;
+s1. Macau</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

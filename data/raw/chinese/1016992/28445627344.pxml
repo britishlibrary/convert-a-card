@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.956+01:00</Created>
+        <LastChange>2023-05-04T12:45:21.340+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758203" pageNr="59"/>
+    </Metadata>
+    <Page imageFilename="28445627344.jpg" imageWidth="952" imageHeight="778">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197121340" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="5,24 9,773 919,773 915,24"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="553,77 591,91 685,85 803,98 828,88 828,76 791,52 744,52 724,71 690,60 661,68 645,53 554,52"/>
+                <Baseline points="558,77 584,81 611,83 637,84 664,85 690,85 717,85 743,86 770,86 796,87 823,89"/>
+                <TextEquiv>
+                    <Unicode>15673.c.247</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="64,170 99,163 131,138 249,138 265,127 264,96 255,93 238,93 207,116 184,93 155,98 137,110 88,85 63,88"/>
+                <Baseline points="69,134 96,133 123,133 150,133 178,133 205,133 232,133 260,132"/>
+                <TextEquiv>
+                    <Unicode>FANG CAO JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="22,228 54,234 86,218 114,234 152,225 160,233 180,234 189,226 214,234 229,226 229,185 208,181 192,197 174,197 167,189 139,192 120,181 94,188 22,188"/>
+                <Baseline points="27,217 55,216 83,217 111,218 139,218 167,219 195,219 224,218"/>
+                <TextEquiv>
+                    <Unicode>LIU (Baiyu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="114,289 132,283 152,283 166,290 213,283 219,287 236,278 250,288 284,281 284,253 224,261 216,253 201,252 185,261 160,261 131,247 114,251"/>
+                <Baseline points="119,279 145,279 172,279 199,280 225,280 252,280 279,279"/>
+                <TextEquiv>
+                    <Unicode>fang cao ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129456798_878" custom="readingOrder {index:4;}">
+                <Coords points="719,328 789,329 788,379 718,378"/>
+                <Baseline points="718,373 788,374"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+                <Coords points="764,706 791,706 796,701 814,706 853,701 859,706 877,705 876,663 839,661 813,664 809,668 763,668"/>
+                <Baseline points="762,693 794,694 820,694 846,694 884,697"/>
+                <TextEquiv>
+                    <Unicode>42-21[81]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633542954_521" custom="readingOrder {index:6;}">
+                <Coords points="715,690 887,690 887,740 715,740"/>
+                <Baseline points="707,735 887,735"/>
+                <TextEquiv>
+                    <Unicode>81-11-1 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;}">
+                <Coords points="35,734 76,735 89,725 107,726 119,738 141,732 189,738 201,728 232,736 283,733 283,701 221,701 209,713 194,701 131,701 108,711 83,701 35,701"/>
+                <Baseline points="40,726 66,727 92,728 119,728 145,728 172,728 198,728 225,727 251,727 278,728"/>
+                <TextEquiv>
+                    <Unicode>I267 44.628 I267</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129470042_885" custom="readingOrder {index:8;}">
+                <Coords points="26,719 91,720 90,770 25,769"/>
+                <Baseline points="25,764 90,765"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633592662_532" custom="readingOrder {index:9;}">
+                <Coords points="625,722 892,722 892,772 625,772"/>
+                <Baseline points="625,767 892,767"/>
+                <TextEquiv>
+                    <Unicode>10151.573 82-9019</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15673.c.247&#13;
+FANG CAO JI&#13;
+LIU (Baiyu)&#13;
+fang cao ji&#13;
+1981&#13;
+42-21[81]&#13;
+81-11-1 [31]&#13;
+I267 44.628 I267&#13;
+1982&#13;
+10151.573 82-9019</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

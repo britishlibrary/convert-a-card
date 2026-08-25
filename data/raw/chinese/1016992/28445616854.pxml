@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.248+01:00</Created>
+        <LastChange>2023-05-03T17:43:39.742+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758167" pageNr="28"/>
+    </Metadata>
+    <Page imageFilename="28445616854.jpg" imageWidth="952" imageHeight="778">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128619742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="58,55 58,620 872,622 872,57"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="534,101 825,98 835,93 835,60 759,69 622,61 594,71 581,61 534,61"/>
+                <Baseline points="539,90 565,90 591,91 618,91 644,92 671,92 697,92 724,92 750,92 777,91 803,90 830,89"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.526</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="61,218 114,218 139,208 152,218 175,210 291,218 306,210 306,178 295,172 214,178 206,186 167,173 61,174"/>
+                <Baseline points="66,206 92,206 118,206 144,206 170,206 196,206 222,206 248,205 274,205 301,205"/>
+                <TextEquiv>
+                    <Unicode>SHEN (Congwen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="100,274 159,274 188,265 341,274 363,258 363,228 99,229"/>
+                <Baseline points="104,257 129,256 154,255 180,255 205,255 231,255 256,255 281,255 307,255 332,254 358,252"/>
+                <TextEquiv>
+                    <Unicode>Fei you cun di</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128613767_473" custom="readingOrder {index:3;}">
+                <Coords points="692,409 785,409 785,459 692,459"/>
+                <Baseline points="692,454 785,454"/>
+                <TextEquiv>
+                    <Unicode>1960</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="100,514 183,522 191,515 219,509 221,488 157,483 151,477 103,474"/>
+                <Baseline points="106,501 133,505 160,506 187,508 214,510"/>
+                <TextEquiv>
+                    <Unicode>131 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="98,594 127,596 133,602 151,602 159,594 212,597 229,586 229,558 166,559 152,573 143,573 135,565 98,565"/>
+                <Baseline points="103,586 133,589 163,589 193,588 224,587"/>
+                <TextEquiv>
+                    <Unicode>S1. L17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.526&#13;
+SHEN (Congwen)&#13;
+Fei you cun di&#13;
+1960&#13;
+131 p.&#13;
+S1. L17</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

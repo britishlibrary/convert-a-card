@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.506+01:00</Created>
+        <LastChange>2023-07-03T16:56:12.551+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758517" pageNr="331" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=XJGAUUVCTRFOUUOKAXUHUJUJ&amp;fileType=view" imageId="35195823"/>
+    </Metadata>
+    <Page imageFilename="42758517.jpg" imageWidth="980" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396172552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="34,10 868,10 868,729 34,729"/>
+            <TextLine id="line_1688396038735_1718" custom="readingOrder {index:0;}">
+                <Coords points="538,16 813,21 812,71 537,66"/>
+                <Baseline points="537,61 812,66"/>
+                <TextEquiv>
+                    <Unicode>15221.a.118/2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="30,84 544,83 544,48 499,41 433,65 371,41 253,51 239,38 165,65 148,49 77,42 63,56 30,40"/>
+                <Baseline points="35,76 60,78 84,78 109,78 133,78 158,78 182,78 207,78 231,78 256,78 280,78 305,76 329,78 354,78 378,78 403,79 427,79 452,78 476,78 500,78 525,78 546,79"/>
+                <TextEquiv>
+                    <Unicode>FAN GONG, MIN ZHU TUAN JIE, JIN BU:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688396066256_1732" custom="readingOrder {index:2;}">
+                <Coords points="22,69 802,72 802,122 22,119"/>
+                <Baseline points="22,114 802,117"/>
+                <TextEquiv>
+                    <Unicode>BEN BAO CHUANG KAN ER SHI NIAN LAI SHE LUN XUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="65,159 122,170 204,151 343,155 414,170 439,156 489,191 530,190 528,117 496,113 449,149 350,121 228,121 205,143 173,121 64,121"/>
+                <Baseline points="70,150 94,151 119,150 143,150 168,151 192,151 217,153 241,153 266,155 290,155 314,155 339,153 363,155 388,155 412,156 437,156 461,158 486,159 510,166 531,169"/>
+                <TextEquiv>
+                    <Unicode>TAIPEI. Lianhe bao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:4;}">
+                <Coords points="96,295 749,307 773,306 773,280 95,260"/>
+                <Baseline points="101,280 125,285 150,288 174,288 199,290 223,292 248,292 272,290 297,290 321,292 345,292 370,292 394,292 419,293 443,293 468,293 492,295 517,297 541,297 566,295 590,295 615,295 639,297 664,295 688,297 713,297 737,298 762,297 775,295"/>
+                <TextEquiv>
+                    <Unicode>Fangong, minzhu tuanjie, jinbu: Benbao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:5;}">
+                <Coords points="104,330 746,346 776,345 776,310 103,300"/>
+                <Baseline points="109,323 133,323 158,323 182,324 207,324 231,324 256,324 280,324 305,326 329,326 354,328 378,328 403,328 427,328 452,329 476,329 500,329 525,331 549,331 574,331 598,332 623,332 647,332 672,332 696,332 721,332 745,334 770,334 778,336"/>
+                <TextEquiv>
+                    <Unicode>chuangkan ershi nian lai shelun xuanji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="108,370 769,378 768,339 639,356 107,329"/>
+                <Baseline points="112,354 137,357 161,357 186,359 210,359 234,359 259,360 283,360 308,360 332,360 357,362 381,360 406,362 430,363 455,363 479,363 504,363 528,363 553,365 577,365 602,365 626,367 651,367 675,367 700,367 724,367 749,367 771,368"/>
+                <TextEquiv>
+                    <Unicode>[A collection of editorials on general</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="99,396 797,410 775,377 99,371"/>
+                <Baseline points="104,390 128,391 153,393 177,391 202,393 226,393 251,394 275,394 300,394 324,393 349,396 373,396 398,396 422,396 447,398 471,398 496,398 520,396 545,398 569,398 594,398 618,399 642,399 667,401 691,401 716,399 740,401 765,403 789,403 799,403"/>
+                <TextEquiv>
+                    <Unicode>subjects, reprinted from the Lianhe bao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:8;}">
+                <Coords points="99,434 595,451 773,442 773,410 98,400"/>
+                <Baseline points="104,425 128,425 153,425 177,424 202,425 226,427 251,427 275,429 300,429 324,430 349,430 373,430 398,430 422,430 447,432 471,432 496,432 520,432 545,432 569,430 594,432 618,434 642,435 667,434 691,435 716,434 740,435 765,435 775,434"/>
+                <TextEquiv>
+                    <Unicode>Published to mark the newspaper's 20th</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:9;}">
+                <Coords points="96,464 111,474 167,476 196,466 202,472 273,473 283,481 311,475 310,445 214,443 168,434 95,440"/>
+                <Baseline points="101,460 125,461 150,460 174,461 199,461 223,463 248,463 272,461 297,465 313,466"/>
+                <TextEquiv>
+                    <Unicode>anniversary.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:10;}">
+                <Coords points="97,511 135,514 161,500 188,520 200,521 224,506 246,506 246,483 205,468 189,474 177,470 158,488 140,474 97,476"/>
+                <Baseline points="102,496 127,499 151,499 176,499 200,499 225,500 248,499"/>
+                <TextEquiv>
+                    <Unicode>pp. 479.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:11;}">
+                <Coords points="770,514 824,514 828,510 835,514 866,514 865,483 825,483 810,472 799,473 795,469 782,481 769,481"/>
+                <Baseline points="775,504 799,505 824,505 848,507 868,507"/>
+                <TextEquiv>
+                    <Unicode>22 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:12;}">
+                <Coords points="89,570 303,571 360,586 431,586 444,573 500,587 539,579 539,548 463,535 433,556 410,536 299,548 229,534 219,546 182,531 88,542"/>
+                <Baseline points="94,563 119,564 143,564 168,564 192,564 217,566 241,566 266,567 290,567 314,569 339,569 363,569 388,569 412,571 437,569 461,571 486,571 510,572 535,572 541,572"/>
+                <TextEquiv>
+                    <Unicode>Lianhe bao: Taipei, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:13;}">
+                <Coords points="91,650 866,658 865,627 827,617 90,601"/>
+                <Baseline points="96,631 120,633 145,634 169,634 194,634 218,636 243,636 267,636 292,636 316,636 341,638 365,638 390,639 414,639 438,639 463,639 487,641 512,641 536,641 561,641 585,642 610,642 634,642 659,642 683,642 708,644 732,644 757,646 781,646 806,647 820,647 825,647 850,647 866,647"/>
+                <TextEquiv>
+                    <Unicode>Lianhe bao chubangkan er shi zhounian jinian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:14;}">
+                <Coords points="92,681 134,682 151,698 159,698 174,683 195,690 210,678 246,681 246,644 223,644 204,664 182,644 167,641 146,653 92,651"/>
+                <Baseline points="97,672 122,673 146,675 171,677 195,677 220,675 244,675 248,673"/>
+                <TextEquiv>
+                    <Unicode>wenji, 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15221.a.118/2&#13;
+FAN GONG, MIN ZHU TUAN JIE, JIN BU:&#13;
+BEN BAO CHUANG KAN ER SHI NIAN LAI SHE LUN XUAN JI&#13;
+TAIPEI. Lianhe bao.&#13;
+Fangong, minzhu tuanjie, jinbu: Benbao&#13;
+chuangkan ershi nian lai shelun xuanji.&#13;
+[A collection of editorials on general&#13;
+subjects, reprinted from the Lianhe bao.&#13;
+Published to mark the newspaper's 20th&#13;
+anniversary.]&#13;
+pp. 479.&#13;
+22 cm&#13;
+Lianhe bao: Taipei, 1971.&#13;
+Lianhe bao chubangkan er shi zhounian jinian&#13;
+wenji, 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

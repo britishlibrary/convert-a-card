@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.195+01:00</Created>
+        <LastChange>2023-05-10T15:15:19.404+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758352" pageNr="190"/>
+    </Metadata>
+    <Page imageFilename="28961218662.jpg" imageWidth="956" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724519404" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,51 47,655 905,655 907,51"/>
+            <TextLine id="line_1654531797994_1271" custom="readingOrder {index:0;}">
+                <Coords points="569,77 637,85 786,83 816,76 816,42 662,44 617,39 607,30 569,42"/>
+                <Baseline points="574,86 811,83"/>
+                <TextEquiv>
+                    <Unicode>15672.h.15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="58,149 129,137 141,146 318,146 326,138 382,146 399,136 399,103 201,117 58,102"/>
+                <Baseline points="63,135 88,135 113,134 139,134 164,134 190,134 215,134 241,134 266,134 292,134 317,134 343,133 368,132 394,132"/>
+                <TextEquiv>
+                    <Unicode>FEN SHU; XU FEN SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="44,217 93,220 104,226 148,221 182,227 195,220 197,184 105,181 94,189 72,170 46,178"/>
+                <Baseline points="49,211 77,210 105,210 133,211 161,213 190,216"/>
+                <TextEquiv>
+                    <Unicode>LI (Zhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="95,282 230,292 247,281 285,290 434,285 434,255 372,255 362,264 324,252 301,263 280,253 248,263 189,253 162,264 95,254"/>
+                <Baseline points="100,279 125,280 150,280 175,280 201,281 226,281 251,281 277,281 302,281 327,281 353,281 378,281 403,281 429,281"/>
+                <TextEquiv>
+                    <Unicode>Fen shu; Xu fen shu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683724496036_551" custom="readingOrder {index:4;}">
+                <Coords points="172,391 252,394 250,444 170,441"/>
+                <Baseline points="170,436 250,439"/>
+                <TextEquiv>
+                    <Unicode>1975</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="111,501 636,499 653,496 653,469 174,461 156,474 110,461"/>
+                <Baseline points="116,488 142,488 169,488 195,489 222,489 249,489 275,489 302,489 328,489 355,489 382,488 408,488 435,488 461,488 488,488 515,487 541,487 568,487 594,486 621,486 648,485"/>
+                <TextEquiv>
+                    <Unicode>7, 11, 272, 5,9, 127 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="127,562 868,557 825,525 127,533"/>
+                <Baseline points="132,556 168,556 205,555 241,555 278,555 314,555 351,555 387,555 424,555 460,555 497,555 534,555 570,555 607,555 643,555 680,555 716,555 753,555 789,555 826,555 863,555"/>
+                <TextEquiv>
+                    <Unicode>Collected writings of the Ming scholar. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="123,594 885,593 885,569 846,564 123,565"/>
+                <Baseline points="128,587 165,587 203,587 240,587 278,586 316,586 353,586 391,586 428,586 466,586 504,587 541,587 579,587 616,587 654,587 692,587 729,588 767,588 804,588 842,589 880,589"/>
+                <TextEquiv>
+                    <Unicode>two titles are bound together with one title-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="121,635 766,635 781,603 121,605"/>
+                <Baseline points="126,623 158,623 191,623 223,623 256,623 288,623 321,623 353,623 386,623 418,622 451,622 483,622 516,622 548,622 581,622 613,622 646,622 678,622 711,621 743,621 776,621"/>
+                <TextEquiv>
+                    <Unicode>page but separate pagination sequences</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15672.h.15&#13;
+FEN SHU; XU FEN SHU&#13;
+LI (Zhi)&#13;
+Fen shu; Xu fen shu&#13;
+1975&#13;
+7, 11, 272, 5,9, 127 p.; 21 cm.&#13;
+Collected writings of the Ming scholar. The&#13;
+two titles are bound together with one title-&#13;
+page but separate pagination sequences</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

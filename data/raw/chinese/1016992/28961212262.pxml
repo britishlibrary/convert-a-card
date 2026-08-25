@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.070+01:00</Created>
+        <LastChange>2023-05-10T15:03:07.359+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758343" pageNr="182"/>
+    </Metadata>
+    <Page imageFilename="28961212262.jpg" imageWidth="976" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683723787359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="164,97 164,481 833,481 833,97"/>
+            <TextLine id="line_1654531733436_1204" custom="readingOrder {index:0;}">
+                <Coords points="590,130 608,139 842,134 842,106 828,101 776,100 751,114 736,101 718,101 706,112 696,101 590,100"/>
+                <Baseline points="595,141 837,143"/>
+                <TextEquiv>
+                    <Unicode>15328.b.325</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="198,188 250,188 272,210 303,186 323,184 354,189 377,203 394,186 433,183 433,152 393,152 372,142 358,151 297,149 272,133 255,150 198,156"/>
+                <Baseline points="203,177 228,177 253,177 278,177 303,177 328,177 353,177 378,177 403,177 428,178"/>
+                <TextEquiv>
+                    <Unicode>FENG LIU HE JIA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683723753718_238" custom="readingOrder {index:2;}">
+                <Coords points="159,224 416,221 417,271 160,274"/>
+                <Baseline points="160,269 417,266"/>
+                <TextEquiv>
+                    <Unicode>HEXING, pseud.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="199,377 467,367 478,378 626,378 626,332 595,345 481,333 455,355 388,333 199,340"/>
+                <Baseline points="204,365 230,366 256,366 282,367 308,367 334,367 360,367 386,367 412,366 438,366 464,366 490,366 516,366 542,366 568,367 594,368 621,368"/>
+                <TextEquiv>
+                    <Unicode>Fengliu hejia. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="200,419 232,417 239,410 256,410 262,404 276,410 337,410 346,407 346,384 329,381 314,371 289,377 276,372 260,385 243,380 198,381"/>
+                <Baseline points="204,405 231,403 258,401 286,400 313,400 341,401"/>
+                <TextEquiv>
+                    <Unicode>pp. 162.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="187,476 838,473 808,437 187,443"/>
+                <Baseline points="192,470 224,470 256,470 288,470 320,470 352,470 384,470 416,470 448,470 480,470 512,470 544,470 576,470 608,470 640,470 672,470 704,470 736,470 768,470 800,470 833,471"/>
+                <TextEquiv>
+                    <Unicode>Jin'gang chubanshe: Hong Kong, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.b.325&#13;
+FENG LIU HE JIA&#13;
+HEXING, pseud.&#13;
+Fengliu hejia. [Novel.]&#13;
+pp. 162.&#13;
+Jin'gang chubanshe: Hong Kong, 1967.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

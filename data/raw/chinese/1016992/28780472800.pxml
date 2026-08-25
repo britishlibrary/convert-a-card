@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.766+01:00</Created>
+        <LastChange>2023-05-04T13:46:00.212+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758318" pageNr="161"/>
+    </Metadata>
+    <Page imageFilename="28780472800.jpg" imageWidth="980" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683200760212" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="61,117 59,623 901,623 903,117"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="606,141 634,155 784,138 794,150 826,154 837,146 907,146 908,121 860,120 832,108 716,123 701,109 606,108"/>
+                <Baseline points="611,137 637,137 664,138 690,138 717,138 743,139 770,139 796,140 823,140 849,141 876,142 903,142"/>
+                <TextEquiv>
+                    <Unicode>15400.e.831-2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="99,194 368,194 382,187 382,149 336,149 315,161 288,149 223,149 210,161 99,149"/>
+                <Baseline points="104,182 131,181 158,181 185,181 213,181 240,181 267,181 295,181 322,181 349,181 377,182"/>
+                <TextEquiv>
+                    <Unicode>FA ZHAN XIN LI XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683200723774_1780" custom="readingOrder {index:2;}">
+                <Coords points="71,230 296,239 294,289 69,280"/>
+                <Baseline points="69,275 294,284"/>
+                <TextEquiv>
+                    <Unicode>TAN (Weihan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="103,386 760,403 840,383 827,357 103,356"/>
+                <Baseline points="108,376 144,377 180,378 217,379 253,380 289,380 326,381 362,381 398,382 435,382 471,383 507,383 544,384 580,384 616,385 653,385 689,386 725,387 762,388 798,389 835,390"/>
+                <TextEquiv>
+                    <Unicode>Fazhan xinli xue. [On the psychology of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="109,426 196,426 210,417 218,427 333,431 439,421 439,405 401,391 329,398 291,390 268,399 151,388 110,397"/>
+                <Baseline points="115,413 141,413 168,413 194,414 221,414 247,415 274,416 301,416 327,417 354,418 380,418 407,418 455,414"/>
+                <TextEquiv>
+                    <Unicode>child development.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="105,466 143,466 187,447 218,466 238,458 259,466 289,459 405,466 421,458 421,442 391,429 275,435 248,421 234,429 201,421 173,433 106,429"/>
+                <Baseline points="111,452 136,451 161,451 187,451 212,451 238,451 263,452 288,452 314,453 339,453 365,454 390,454 416,454"/>
+                <TextEquiv>
+                    <Unicode>pps. 156; tables.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="105,530 809,537 809,513 762,497 705,512 105,492"/>
+                <Baseline points="110,521 144,521 179,522 214,522 248,523 283,523 318,524 352,524 387,525 422,525 457,525 491,525 526,526 561,526 595,527 630,527 665,527 699,528 734,529 769,529 804,530"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="99,602 444,610 529,597 529,582 502,565 408,564 339,585 286,564 262,574 99,564"/>
+                <Baseline points="104,591 130,591 156,591 182,592 209,592 235,592 261,593 287,593 314,594 340,594 366,595 392,595 419,595 445,595 471,595 497,595 524,595"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, no.831-2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.831-2&#13;
+FA ZHAN XIN LI XUE&#13;
+TAN (Weihan)&#13;
+Fazhan xinli xue. [On the psychology of&#13;
+child development.]&#13;
+pps. 156; tables.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1968.&#13;
+Renren wenku, no.831-2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

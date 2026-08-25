@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.522+01:00</Created>
+        <LastChange>2023-05-04T12:47:27.901+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758239" pageNr="91"/>
+    </Metadata>
+    <Page imageFilename="28448800053.jpg" imageWidth="952" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197247901" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="20,35 16,628 907,628 917,59"/>
+            <TextLine id="line_1658913519429_788" custom="readingOrder {index:0;}">
+                <Coords points="546,82 880,87 880,70 844,52 814,52 793,67 763,53 732,66 717,52 689,49 546,52"/>
+                <Baseline points="551,82 875,87"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.372</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="74,210 133,210 141,203 158,217 186,208 262,218 287,206 288,186 265,173 223,172 213,182 191,183 179,173 75,172"/>
+                <Baseline points="79,200 104,202 129,203 155,203 180,203 205,203 231,204 256,205 282,208"/>
+                <TextEquiv>
+                    <Unicode>ZHU (Lanke)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="87,287 361,289 398,272 398,255 380,245 179,237 88,250"/>
+                <Baseline points="92,276 117,274 142,272 167,272 192,271 217,271 242,272 267,273 292,274 317,274 342,275 367,276 393,276"/>
+                <TextEquiv>
+                    <Unicode>Feng huan chao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194217251_371" custom="readingOrder {index:3;}">
+                <Coords points="600,419 812,427 810,477 598,469"/>
+                <Baseline points="598,464 810,472"/>
+                <TextEquiv>
+                    <Unicode>1957 [sic.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="115,535 317,538 337,523 367,538 379,528 444,526 444,512 426,501 398,501 386,512 362,493 298,510 275,493 193,509 115,493"/>
+                <Baseline points="120,524 146,524 173,524 199,524 226,524 252,524 279,524 306,525 332,525 359,525 385,525 412,525 439,525"/>
+                <TextEquiv>
+                    <Unicode>93 p.: ill.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="108,602 451,603 451,581 430,580 415,565 317,573 189,565 176,574 161,564 109,564"/>
+                <Baseline points="114,590 139,590 165,591 190,591 216,592 241,593 267,593 292,594 318,594 343,595 369,595 394,596 420,596 446,596"/>
+                <TextEquiv>
+                    <Unicode>2nd printing, 1984.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.372&#13;
+ZHU (Lanke)&#13;
+Feng huan chao&#13;
+1957 [sic.]&#13;
+93 p.: ill.; 19 cm&#13;
+2nd printing, 1984.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

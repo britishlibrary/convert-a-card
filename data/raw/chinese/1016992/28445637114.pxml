@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.456+01:00</Created>
+        <LastChange>2023-05-04T12:47:11.098+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758235" pageNr="87"/>
+    </Metadata>
+    <Page imageFilename="28445637114.jpg" imageWidth="964" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197231098" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="-1,38 0,767 906,769 905,40"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="549,88 651,90 667,83 673,90 796,90 796,48 729,53 714,67 651,65 639,52 549,55"/>
+                <Baseline points="554,79 580,79 606,79 633,79 659,80 685,80 712,81 738,80 764,80 791,77"/>
+                <TextEquiv>
+                    <Unicode>15625.a.32/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="7,226 842,222 842,189 7,187"/>
+                <Baseline points="12,216 53,215 94,215 135,215 177,214 218,214 259,214 300,214 342,214 383,214 424,214 465,214 507,214 548,214 589,214 630,214 672,215 713,215 754,215 795,215 837,216"/>
+                <TextEquiv>
+                    <Unicode>ZHONG GUO FA LÜ SHI XUE HUI. Fa lü shi lun cong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:2;}">
+                <Coords points="64,145 365,147 375,142 375,101 323,101 313,112 275,116 64,108"/>
+                <Baseline points="69,136 94,136 119,136 144,136 169,136 194,136 219,136 244,136 269,136 294,136 319,136 344,135 370,135"/>
+                <TextEquiv>
+                    <Unicode>FA LU SHI LUN CONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="10,260 68,260 88,267 98,258 155,253 215,259 223,256 223,227 210,222 202,230 182,230 171,221 162,231 10,229"/>
+                <Baseline points="15,249 40,249 65,249 90,249 116,249 141,249 166,249 191,249 217,250"/>
+                <TextEquiv>
+                    <Unicode>wei yuan hui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="115,296 143,298 157,286 170,298 198,291 245,298 258,289 273,300 344,297 354,306 378,300 378,271 116,268"/>
+                <Baseline points="121,290 146,290 171,290 196,290 221,289 247,289 272,289 297,290 322,290 347,291 373,292"/>
+                <TextEquiv>
+                    <Unicode>fa lu shi lun cong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683193987541_273" custom="readingOrder {index:5;}">
+                <Coords points="376,371 437,368 439,418 378,421"/>
+                <Baseline points="378,416 439,413"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="7,715 65,715 75,708 123,719 181,708 238,719 268,714 268,680 223,680 193,690 153,684 76,690 7,678"/>
+                <Baseline points="12,704 37,705 62,706 87,707 112,707 137,707 162,707 187,706 212,706 237,707 263,707"/>
+                <TextEquiv>
+                    <Unicode>D929 35.204 D929</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194023615_292" custom="readingOrder {index:7;}">
+                <Coords points="6,702 60,702 60,752 6,752"/>
+                <Baseline points="6,747 60,747"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:8;}">
+                <Coords points="718,690 741,691 754,686 762,691 842,689 843,652 777,652 767,661 758,661 750,653 719,652"/>
+                <Baseline points="723,677 751,678 780,678 808,679 837,680"/>
+                <TextEquiv>
+                    <Unicode>58-14[80]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913380703_660" custom="readingOrder {index:9;}">
+                <Coords points="660,723 758,722 768,711 785,723 847,719 847,692 798,689 775,699 760,693 698,692 690,685 660,692"/>
+                <Baseline points="665,717 841,717"/>
+                <TextEquiv>
+                    <Unicode>80-19-5 [16]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="596,754 830,755 848,749 849,727 597,724"/>
+                <Baseline points="602,744 628,744 655,745 682,745 709,746 735,746 762,746 789,747 816,747 843,746"/>
+                <TextEquiv>
+                    <Unicode>6190.008 81—8984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.32/1&#13;
+ZHONG GUO FA LÜ SHI XUE HUI. Fa lü shi lun cong&#13;
+FA LU SHI LUN CONG&#13;
+wei yuan hui&#13;
+fa lu shi lun cong&#13;
+1981&#13;
+D929 35.204 D929&#13;
+1981&#13;
+58-14[80]&#13;
+80-19-5 [16]&#13;
+6190.008 81—8984</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

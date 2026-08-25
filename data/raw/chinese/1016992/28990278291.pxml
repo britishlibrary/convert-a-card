@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.402+01:00</Created>
+        <LastChange>2023-07-03T16:45:31.247+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758509" pageNr="324" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ORZMWMKPRMYPHDEVJUKQPRWF&amp;fileType=view" imageId="35195815"/>
+    </Metadata>
+    <Page imageFilename="42758509.jpg" imageWidth="944" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395531247" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="78,11 922,11 922,752 78,752"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="600,64 663,75 682,64 712,74 785,63 828,63 840,74 899,66 899,33 793,35 777,51 758,34 698,36 680,51 653,34 600,34"/>
+                <Baseline points="605,61 629,62 652,62 676,64 700,64 723,64 747,62 770,64 794,64 818,64 841,64 865,66 888,62 901,62"/>
+                <TextEquiv>
+                    <Unicode>CHI.1991.c.35/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="99,201 419,195 419,161 409,160 100,165"/>
+                <Baseline points="105,195 114,196 138,196 162,195 185,195 209,195 232,193 256,193 280,195 303,195 327,195 350,195 374,195 398,191 421,193"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN SHI JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="122,252 782,244 782,209 122,211"/>
+                <Baseline points="127,245 147,243 171,242 195,243 218,242 242,242 265,242 289,242 313,242 336,242 360,240 383,240 407,242 431,242 454,242 478,242 501,240 525,242 549,240 572,242 596,240 619,240 643,240 667,240 690,242 714,242 737,242 761,243 784,243"/>
+                <TextEquiv>
+                    <Unicode>Fang shan shi jing: Liao jin ke jing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="188,516 205,522 277,482 381,486 396,499 456,498 470,485 520,498 535,483 580,482 580,459 543,437 464,464 409,427 395,441 362,427 320,459 294,438 271,450 211,433 188,445"/>
+                <Baseline points="193,492 204,487 228,484 251,484 275,482 298,481 322,482 346,482 369,484 393,486 416,487 440,487 464,486 487,482 511,484 534,482 558,482 582,481"/>
+                <TextEquiv>
+                    <Unicode>1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="191,543 208,546 213,541 223,548 240,539 257,546 271,537 283,546 361,546 360,520 347,520 336,509 322,510 313,519 304,510 283,505 268,519 222,506 204,522 190,520"/>
+                <Baseline points="196,534 220,536 243,538 267,536 291,536 314,536 338,536 361,539 363,539"/>
+                <TextEquiv>
+                    <Unicode>v. : facs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="135,574 801,578 791,538 135,536"/>
+                <Baseline points="140,567 163,567 187,569 210,569 234,569 257,569 281,569 305,571 328,569 352,569 375,571 399,569 423,571 446,571 470,572 493,571 517,569 541,569 564,569 588,569 611,569 635,569 659,569 682,569 706,567 729,569 753,567 777,569 800,571 803,571"/>
+                <TextEquiv>
+                    <Unicode>Donation from Zheng guo fo jiao xie hui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="152,639 537,634 637,650 736,638 737,608 534,599 386,625 292,601 152,611"/>
+                <Baseline points="157,633 160,633 184,637 207,637 231,635 254,635 278,635 302,637 325,635 349,635 372,637 396,633 420,632 443,633 467,635 490,635 514,633 538,633 561,633 585,633 608,633 633,630 633,630 657,632 681,632 704,632 728,630 737,630"/>
+                <TextEquiv>
+                    <Unicode>s1. Buddhism s2. Inscriptions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1991.c.35/1&#13;
+FANG SHAN SHI JING&#13;
+Fang shan shi jing: Liao jin ke jing&#13;
+1991&#13;
+v. : facs.&#13;
+Donation from Zheng guo fo jiao xie hui&#13;
+s1. Buddhism s2. Inscriptions</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

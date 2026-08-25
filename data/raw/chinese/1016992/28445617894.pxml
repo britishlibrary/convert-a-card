@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.403+01:00</Created>
+        <LastChange>2023-05-03T17:46:10.303+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758175" pageNr="35"/>
+    </Metadata>
+    <Page imageFilename="28445617894.jpg" imageWidth="952" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128770303" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,36 53,654 918,655 914,37"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="631,90 695,89 703,82 784,82 815,90 823,82 853,82 853,49 824,45 791,61 764,54 733,61 713,45 631,52"/>
+                <Baseline points="636,76 662,76 688,76 715,76 741,76 767,76 794,76 820,76 847,76"/>
+                <TextEquiv>
+                    <Unicode>15656.a.36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="54,139 295,138 311,128 311,89 169,88 152,102 54,101"/>
+                <Baseline points="60,130 87,131 114,131 142,131 169,130 196,130 224,130 251,131 278,131 306,132"/>
+                <TextEquiv>
+                    <Unicode>FEI SHI YI JIU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="67,226 110,226 123,216 141,226 175,219 183,226 262,226 270,224 271,176 243,189 208,188 191,195 151,180 67,186"/>
+                <Baseline points="72,213 99,214 127,214 154,213 182,213 209,214 237,214 265,217"/>
+                <TextEquiv>
+                    <Unicode>LIU (Ziying)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="96,291 225,290 246,298 256,289 341,291 357,282 357,262 298,252 207,253 167,267 96,261"/>
+                <Baseline points="101,281 126,282 151,283 176,284 201,284 226,284 251,284 276,284 301,283 326,281 352,278"/>
+                <TextEquiv>
+                    <Unicode>Fei shi yi jiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128764963_554" custom="readingOrder {index:4;}">
+                <Coords points="602,396 714,397 714,447 602,446"/>
+                <Baseline points="602,441 714,442"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="99,568 415,563 456,552 456,534 402,535 389,524 348,537 282,535 271,524 224,525 212,537 162,524 133,537 99,525"/>
+                <Baseline points="104,552 130,552 157,553 184,553 210,553 237,553 264,553 290,553 317,552 344,552 370,551 397,551 424,550 451,549"/>
+                <TextEquiv>
+                    <Unicode>8, 12, 403 p.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="94,629 282,619 528,633 632,624 641,590 94,596"/>
+                <Baseline points="99,621 125,620 152,620 179,620 206,620 233,619 260,619 286,619 313,619 340,619 367,618 394,618 421,618 448,618 474,617 501,617 528,617 555,616 582,616 609,615 636,614"/>
+                <TextEquiv>
+                    <Unicode>Memoirs of a Guomindang general</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15656.a.36&#13;
+FEI SHI YI JIU&#13;
+LIU (Ziying)&#13;
+Fei shi yi jiu&#13;
+1979&#13;
+8, 12, 403 p.; 21 cm&#13;
+Memoirs of a Guomindang general</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

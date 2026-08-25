@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.537+01:00</Created>
+        <LastChange>2023-06-29T13:30:37.329+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758449" pageNr="272"/>
+    </Metadata>
+    <Page imageFilename="28961247482.jpg" imageWidth="952" imageHeight="785">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038237356" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,49 65,741 889,741 889,49"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="506,83 574,91 592,80 606,89 811,83 811,52 744,53 721,63 506,47"/>
+                <Baseline points="511,76 537,77 564,78 591,78 618,78 645,79 671,79 698,79 725,79 752,78 779,77 806,76"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.869</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="78,177 851,186 851,130 78,126"/>
+                <Baseline points="83,170 127,171 165,172 203,172 241,172 279,172 316,172 354,172 392,172 430,172 468,173 505,173 543,173 581,173 619,173 657,174 694,174 732,174 770,175 808,175 846,176"/>
+                <TextEquiv>
+                    <Unicode>ZHONG GUO ZAO CHUAN GONG CHENG XUE HUI "FA HAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="75,217 690,212 690,186 640,180 75,180"/>
+                <Baseline points="80,206 110,206 140,206 170,206 201,207 231,207 261,207 291,207 322,207 352,208 382,208 412,208 443,208 473,208 503,208 533,208 564,208 594,208 624,208 654,208 685,208"/>
+                <TextEquiv>
+                    <Unicode>CHUAN BO KE JI CI DIAN" BIAN WEI HUI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="93,274 611,274 611,231 93,233"/>
+                <Baseline points="98,253 123,253 148,253 174,253 199,253 225,253 250,253 275,254 301,254 326,254 352,255 377,255 402,255 428,256 453,256 479,256 504,256 529,256 555,256 580,256 606,256"/>
+                <TextEquiv>
+                    <Unicode>Fa han chuan bo ke ji ci dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037667441_1123" custom="readingOrder {index:4;}">
+                <Coords points="672,313 883,317 882,367 671,363"/>
+                <Baseline points="671,358 882,362"/>
+                <TextEquiv>
+                    <Unicode>Dictionnaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037684888_1134" custom="readingOrder {index:5;}">
+                <Coords points="88,380 471,378 471,428 88,430"/>
+                <Baseline points="88,425 471,423"/>
+                <TextEquiv>
+                    <Unicode>naval Français-Chinois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037738409_1145" custom="readingOrder {index:6;}">
+                <Coords points="830,522 879,522 879,572 830,572"/>
+                <Baseline points="830,567 879,567"/>
+                <TextEquiv>
+                    <Unicode>1985</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="104,618 482,626 483,602 437,588 331,600 297,583 228,598 174,595 158,581 105,585"/>
+                <Baseline points="109,607 135,608 161,609 187,610 214,610 240,610 266,611 293,611 319,611 345,611 371,612 398,612 424,612 450,612 477,613"/>
+                <TextEquiv>
+                    <Unicode>994 p.: ill., charts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="109,667 870,671 845,637 109,637"/>
+                <Baseline points="114,659 151,660 189,660 226,661 264,661 301,662 339,662 376,662 414,662 451,662 489,662 527,662 564,661 602,661 639,661 677,661 714,660 752,660 789,660 827,660 865,659"/>
+                <TextEquiv>
+                    <Unicode>s1. Dictionaries. s2. Shipbuilding. s3. French.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.869&#13;
+ZHONG GUO ZAO CHUAN GONG CHENG XUE HUI "FA HAN&#13;
+CHUAN BO KE JI CI DIAN" BIAN WEI HUI&#13;
+Fa han chuan bo ke ji ci dian&#13;
+Dictionnaire&#13;
+naval Français-Chinois&#13;
+1985&#13;
+994 p.: ill., charts.&#13;
+s1. Dictionaries. s2. Shipbuilding. s3. French.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

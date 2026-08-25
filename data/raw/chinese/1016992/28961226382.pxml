@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.370+01:00</Created>
+        <LastChange>2023-05-16T11:37:02.343+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758365" pageNr="201" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961226382.jpg" imageWidth="964" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684229822343" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="44,18 44,567 848,567 848,18"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="584,67 619,82 837,70 837,47 809,47 801,38 684,43 647,29 585,33"/>
+                <Baseline points="589,65 616,67 643,68 670,68 697,69 724,69 751,69 778,69 805,70 832,70"/>
+                <TextEquiv>
+                    <Unicode>15675.f.13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="83,146 93,145 98,147 103,145 118,147 134,146 138,143 143,144 144,111 85,108"/>
+                <Baseline points="89,138 138,140"/>
+                <TextEquiv>
+                    <Unicode>FEI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="54,212 160,210 175,218 183,211 284,210 328,218 341,210 342,179 319,173 226,183 167,172 152,186 55,180"/>
+                <Baseline points="59,206 84,205 109,205 134,205 159,204 184,204 210,204 235,204 260,204 285,205 310,206 336,208"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Zhizhang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="87,282 125,281 132,283 148,280 149,253 144,253 137,246 131,244 128,244 120,252 111,245 88,244"/>
+                <Baseline points="92,269 117,271 143,271"/>
+                <TextEquiv>
+                    <Unicode>Fei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684229791635_63" custom="readingOrder {index:4;}">
+                <Coords points="277,399 361,400 360,450 276,449"/>
+                <Baseline points="276,444 360,445"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684229805018_74" custom="readingOrder {index:5;}">
+                <Coords points="78,503 359,505 359,555 78,553"/>
+                <Baseline points="78,548 359,550"/>
+                <TextEquiv>
+                    <Unicode>193 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.f.13&#13;
+FEI&#13;
+ZHANG (Zhizhang)&#13;
+Fei&#13;
+1981&#13;
+193 p.; 21 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

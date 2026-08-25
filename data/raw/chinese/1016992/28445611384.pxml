@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.677+01:00</Created>
+        <LastChange>2023-05-03T17:29:47.455+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758140" pageNr="4"/>
+    </Metadata>
+    <Page imageFilename="28445611384.jpg" imageWidth="952" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127787455" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="25,64 29,656 914,647 908,50"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="568,89 591,98 625,91 639,104 686,86 735,89 759,106 823,89 871,89 871,68 828,49 762,53 733,69 706,60 568,60"/>
+                <Baseline points="573,84 599,85 626,86 652,86 679,87 706,87 732,87 759,87 786,86 812,86 839,86 866,85"/>
+                <TextEquiv>
+                    <Unicode>15293.a.35/362</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="95,139 531,139 544,135 544,99 500,112 95,101"/>
+                <Baseline points="100,130 125,130 151,130 177,130 203,130 229,131 254,131 280,131 306,131 332,131 358,131 384,131 409,131 435,131 461,131 487,130 513,130 539,130"/>
+                <TextEquiv>
+                    <Unicode>FENG JIN YI HE QUAN HUI LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657125956661_111" custom="readingOrder {index:2;}">
+                <Coords points="39,183 261,183 261,233 39,233"/>
+                <Baseline points="39,228 261,228"/>
+                <TextEquiv>
+                    <Unicode>LAO (Naixuan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="71,371 815,360 814,316 749,338 71,332"/>
+                <Baseline points="77,359 113,359 150,359 186,359 223,358 260,358 296,358 333,358 369,357 406,357 443,357 479,356 516,356 552,356 589,355 626,355 662,355 699,355 735,355 772,355 809,355"/>
+                <TextEquiv>
+                    <Unicode>Feng jin yi he quan hui lu. [Memorials and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:4;}">
+                <Coords points="66,403 735,402 825,394 825,364 66,374"/>
+                <Baseline points="72,394 109,394 146,394 184,393 221,393 259,393 296,393 333,392 371,392 408,392 446,392 483,391 520,391 558,391 595,391 633,390 670,390 707,390 745,389 782,389 820,389"/>
+                <TextEquiv>
+                    <Unicode>imperial rescripts on the containment of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="71,435 243,430 285,441 362,432 400,444 400,396 373,410 356,400 341,408 216,404 202,417 174,405 71,405"/>
+                <Baseline points="76,428 102,428 129,427 155,427 182,427 208,426 235,426 262,426 288,426 315,427 341,427 368,429 395,430"/>
+                <TextEquiv>
+                    <Unicode>Boxers. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="83,474 311,473 322,467 322,446 278,440 259,448 247,436 214,436 199,452 182,452 174,445 83,436"/>
+                <Baseline points="76,460 113,462 138,463 164,463 189,463 215,462 240,461 266,461 291,461 317,461"/>
+                <TextEquiv>
+                    <Unicode>70 pp. 22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:7;}">
+                <Coords points="80,541 731,533 730,494 701,492 557,511 80,505"/>
+                <Baseline points="85,531 117,530 149,530 181,530 213,529 245,529 277,529 309,529 341,528 373,528 405,528 437,528 469,528 501,528 533,528 565,528 597,527 629,527 661,527 693,527 725,527"/>
+                <TextEquiv>
+                    <Unicode>Wen hai chu ban she: Taibei, [1977. ?].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:8;}">
+                <Coords points="68,618 911,628 911,590 880,581 526,599 68,580"/>
+                <Baseline points="73,610 114,610 156,611 197,611 239,611 281,612 322,612 364,612 406,613 447,613 489,613 531,614 572,614 614,615 656,615 697,615 739,616 781,616 822,616 864,617 906,617"/>
+                <TextEquiv>
+                    <Unicode>Jin dai Zhong guo shi liao cong kan. Xu ji, 362.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.35/362&#13;
+FENG JIN YI HE QUAN HUI LU&#13;
+LAO (Naixuan)&#13;
+Feng jin yi he quan hui lu. [Memorials and&#13;
+imperial rescripts on the containment of the&#13;
+Boxers. A reprint.]&#13;
+70 pp. 22 cm.&#13;
+Wen hai chu ban she: Taibei, [1977. ?].&#13;
+Jin dai Zhong guo shi liao cong kan. Xu ji, 362.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

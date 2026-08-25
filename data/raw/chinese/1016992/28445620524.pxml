@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.619+01:00</Created>
+        <LastChange>2023-05-03T17:52:05.000+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758188" pageNr="46"/>
+    </Metadata>
+    <Page imageFilename="28445620524.jpg" imageWidth="980" imageHeight="826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129125000" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="49,73 56,492 883,492 876,73"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="591,123 636,131 659,122 775,122 808,130 835,122 836,100 794,90 785,99 743,93 727,104 713,93 592,89"/>
+                <Baseline points="596,113 622,113 648,114 674,115 700,116 726,117 752,117 778,118 804,118 830,119"/>
+                <TextEquiv>
+                    <Unicode>015000.h.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="63,194 563,191 563,147 63,141"/>
+                <Baseline points="68,184 93,184 119,184 145,185 171,185 196,185 222,185 248,186 274,186 300,186 325,187 351,187 377,187 403,188 429,188 454,188 480,189 506,189 532,189 558,190"/>
+                <TextEquiv>
+                    <Unicode>FAR EASTERN LANGUAGES CATALOG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="60,250 864,264 846,229 756,221 61,213"/>
+                <Baseline points="65,244 104,244 144,244 184,244 223,245 263,245 303,246 342,246 382,247 422,247 462,248 501,249 541,250 581,250 620,251 660,252 700,253 739,253 779,254 819,254 859,254"/>
+                <TextEquiv>
+                    <Unicode>UNITED STATES OF AMERICA. Congress. Library.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="98,354 619,362 619,336 568,325 98,317"/>
+                <Baseline points="103,341 128,343 154,344 179,345 205,346 230,347 256,348 281,348 307,349 332,349 358,349 384,350 409,350 435,350 460,350 486,351 511,351 537,351 562,352 588,352 614,352"/>
+                <TextEquiv>
+                    <Unicode>Far Eastern Languages Catalog.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="95,393 259,388 279,402 309,389 374,394 375,370 272,356 255,373 240,373 195,356 159,366 96,356"/>
+                <Baseline points="100,382 126,381 153,382 180,382 207,383 234,383 261,384 288,385 315,386 342,386 369,387"/>
+                <TextEquiv>
+                    <Unicode>22 vols. 37 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="92,465 742,466 713,428 635,447 549,429 259,441 92,424"/>
+                <Baseline points="97,451 129,451 161,452 193,452 225,453 257,453 289,453 321,454 353,454 385,455 417,455 449,456 481,456 513,457 545,457 577,458 609,458 641,459 673,460 705,461 737,462"/>
+                <TextEquiv>
+                    <Unicode>G.K. Hall &amp; Co.: Boston, Mass., 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>015000.h.7&#13;
+FAR EASTERN LANGUAGES CATALOG&#13;
+UNITED STATES OF AMERICA. Congress. Library.&#13;
+Far Eastern Languages Catalog.&#13;
+22 vols. 37 cm.&#13;
+G.K. Hall &amp; Co.: Boston, Mass., 1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

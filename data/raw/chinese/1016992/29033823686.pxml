@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.908+01:00</Created>
+        <LastChange>2023-07-03T17:28:54.131+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758549" pageNr="358" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=OTORHHMWJZKZRCVCHXADPXLH&amp;fileType=view" imageId="35195855"/>
+    </Metadata>
+    <Page imageFilename="42758549.jpg" imageWidth="948" imageHeight="780">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398134131" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="72,24 924,24 925,703 73,703"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="442,82 515,83 530,72 550,90 578,81 614,90 627,79 654,90 684,79 736,89 735,42 696,43 680,60 624,63 599,44 442,46"/>
+                <Baseline points="448,74 472,75 495,77 519,77 543,77 566,77 590,78 614,78 637,80 661,78 685,78 708,78 732,77 737,77"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.668</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="67,188 424,187 488,200 510,192 509,157 386,154 368,173 349,153 66,157"/>
+                <Baseline points="72,184 96,184 120,184 143,184 167,184 191,184 214,186 238,186 262,186 285,186 309,186 333,187 356,187 380,187 404,187 427,189 451,189 475,189 498,189 513,189"/>
+                <TextEquiv>
+                    <Unicode>FANG YAN DIAO CHA ZI BIAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="97,246 279,258 550,249 549,213 96,209"/>
+                <Baseline points="102,235 126,233 150,235 173,236 197,235 221,236 244,236 268,236 292,236 315,236 339,236 363,236 386,236 410,238 434,240 457,240 481,240 505,240 528,240 552,241"/>
+                <TextEquiv>
+                    <Unicode>Fang yan diao che zi biao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="116,529 144,528 164,511 177,522 218,512 247,530 273,507 307,530 351,507 395,514 396,480 372,464 330,477 317,466 280,467 256,488 220,450 177,475 130,450 118,456"/>
+                <Baseline points="122,509 138,511 162,511 186,511 210,508 233,510 257,506 281,505 304,503 328,503 352,505 375,506 399,506"/>
+                <TextEquiv>
+                    <Unicode>1986.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="97,567 148,566 162,578 202,568 224,578 236,566 293,578 421,576 421,549 399,537 378,547 341,537 312,557 267,536 233,555 212,546 191,556 171,537 152,547 130,533 97,542"/>
+                <Baseline points="102,560 126,563 150,566 173,566 197,566 221,566 244,565 268,566 292,568 315,568 339,566 363,566 386,566 410,568 423,568"/>
+                <TextEquiv>
+                    <Unicode>82 p. : ill., chart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="100,634 916,659 915,618 99,601"/>
+                <Baseline points="105,630 129,631 153,631 176,631 200,631 224,631 247,631 271,631 295,633 318,633 342,633 366,634 390,634 413,636 437,637 461,636 484,637 508,637 532,639 555,639 579,639 603,641 626,641 650,642 674,642 697,644 721,644 745,644 768,644 792,645 816,645 840,647 863,647 887,647 911,647 917,647"/>
+                <TextEquiv>
+                    <Unicode>a1. ZHONG GUO SHE HUI KE XUE YUAN, Yu yan yan jiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="97,682 163,672 212,674 227,682 238,681 238,655 212,640 204,646 187,641 170,653 155,642 141,646 136,641 121,645 111,639 97,641"/>
+                <Baseline points="102,671 126,669 150,669 173,669 197,669 221,671 240,671"/>
+                <TextEquiv>
+                    <Unicode>jiu suo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688398100346_2440" custom="readingOrder {index:7;}">
+                <Coords points="522,640 767,648 766,698 521,690"/>
+                <Baseline points="521,685 766,693"/>
+                <TextEquiv>
+                    <Unicode>s1. Linguistics.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.668&#13;
+FANG YAN DIAO CHA ZI BIAO&#13;
+Fang yan diao che zi biao&#13;
+1986.&#13;
+82 p. : ill., chart.&#13;
+a1. ZHONG GUO SHE HUI KE XUE YUAN, Yu yan yan jiu&#13;
+jiu suo.&#13;
+s1. Linguistics.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

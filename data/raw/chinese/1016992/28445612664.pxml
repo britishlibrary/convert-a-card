@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.000+01:00</Created>
+        <LastChange>2023-05-03T17:38:36.306+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758155" pageNr="17"/>
+    </Metadata>
+    <Page imageFilename="28445612664.jpg" imageWidth="988" imageHeight="795">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128316338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="46,31 36,688 932,688 940,32"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="539,76 559,82 594,76 601,83 666,78 691,98 723,75 736,82 790,81 790,47 735,44 712,55 693,44 643,50 630,36 539,38"/>
+                <Baseline points="544,69 570,69 597,70 624,70 651,70 677,71 704,71 731,72 758,72 785,73"/>
+                <TextEquiv>
+                    <Unicode>15266.fa.204</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="79,124 113,124 148,154 176,126 362,115 362,76 315,75 298,90 205,90 166,85 150,69 79,73"/>
+                <Baseline points="84,111 111,111 138,112 165,112 192,112 220,113 247,113 274,113 301,113 328,113 356,113"/>
+                <TextEquiv>
+                    <Unicode>FENG HUA XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127567784_729" custom="readingOrder {index:2;}">
+                <Coords points="71,166 281,166 281,216 71,216"/>
+                <Baseline points="71,211 281,211"/>
+                <TextEquiv>
+                    <Unicode>LI (Qianpan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="102,378 921,386 914,348 102,348"/>
+                <Baseline points="107,372 147,373 187,374 228,374 268,374 309,375 349,375 390,375 430,375 471,375 511,374 551,374 592,374 632,374 673,374 713,374 754,374 794,375 835,375 875,376 916,377"/>
+                <TextEquiv>
+                    <Unicode>Fenghua xian zhi. [Description of the district</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="111,418 882,411 869,384 111,385"/>
+                <Baseline points="116,411 154,411 192,410 230,410 268,410 306,410 344,410 382,410 420,410 458,411 496,411 534,411 572,411 610,411 648,411 686,411 724,411 762,411 800,411 838,411 877,411"/>
+                <TextEquiv>
+                    <Unicode>in Zhejiang province. A reprint of the 1908</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127609839_749" custom="readingOrder {index:5;}">
+                <Coords points="111,406 270,405 270,455 111,456"/>
+                <Baseline points="111,451 270,450"/>
+                <TextEquiv>
+                    <Unicode>edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127627641_760" custom="readingOrder {index:6;}">
+                <Coords points="104,442 403,440 403,490 104,492"/>
+                <Baseline points="104,487 403,485"/>
+                <TextEquiv>
+                    <Unicode>41 ch. in 6 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="748,491 764,492 769,498 774,498 793,487 810,491 858,490 859,469 848,469 842,462 820,459 798,461 788,452 750,453"/>
+                <Baseline points="754,479 787,481 820,481 853,484"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="113,562 533,556 628,570 685,562 686,535 114,525"/>
+                <Baseline points="118,548 146,548 174,548 202,548 230,548 258,548 286,548 314,549 342,549 370,549 399,549 427,550 455,550 483,550 511,550 539,551 567,551 595,552 623,552 651,553 680,553"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="110,634 469,642 557,621 854,641 854,603 793,597 110,596"/>
+                <Baseline points="115,621 151,621 188,622 225,622 261,623 298,623 335,623 371,623 408,623 445,623 482,623 518,623 555,623 592,623 628,623 665,623 702,624 738,624 775,625 812,625 849,626"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huazhong difang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="105,674 134,674 150,682 174,683 180,678 196,673 196,663 191,663 183,653 167,653 152,638 108,637"/>
+                <Baseline points="111,665 137,668 164,669 191,672"/>
+                <TextEquiv>
+                    <Unicode>204.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fa.204&#13;
+FENG HUA XIAN ZHI&#13;
+LI (Qianpan)&#13;
+Fenghua xian zhi. [Description of the district&#13;
+in Zhejiang province. A reprint of the 1908&#13;
+edition.]&#13;
+41 ch. in 6 vols.&#13;
+27 cm.&#13;
+Chengwen chubanshe: Taipei, 1975.&#13;
+Zhongguo fangzhi congshu. Huazhong difang,&#13;
+204.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

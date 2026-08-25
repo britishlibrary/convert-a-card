@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.378+01:00</Created>
+        <LastChange>2023-05-04T12:46:45.668+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758229" pageNr="82"/>
+    </Metadata>
+    <Page imageFilename="28445635464.jpg" imageWidth="980" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197205668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="139,101 143,595 918,595 914,101"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="571,144 789,145 789,110 752,108 731,118 719,109 696,109 679,118 663,108 571,109"/>
+                <Baseline points="576,134 602,133 628,134 654,134 680,134 706,135 732,135 758,135 784,135"/>
+                <TextEquiv>
+                    <Unicode>15101.k.9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="152,210 428,211 438,219 507,204 507,180 446,173 393,182 152,172"/>
+                <Baseline points="157,202 183,202 210,202 236,202 263,202 289,202 316,202 342,202 369,202 395,203 422,203 448,203 475,204 502,204"/>
+                <TextEquiv>
+                    <Unicode>FAXIANG XUE HUI JI KAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="164,274 570,274 570,244 164,244"/>
+                <Baseline points="169,269 195,268 221,268 248,268 274,268 301,268 327,268 353,268 380,268 406,268 433,268 459,268 485,268 512,267 538,267 565,266"/>
+                <TextEquiv>
+                    <Unicode>PERICDICAL PUBLICATIONS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="203,375 897,379 897,348 813,341 557,354 444,325 413,348 203,341"/>
+                <Baseline points="208,369 242,369 276,369 310,369 344,369 379,369 413,369 447,368 481,368 515,368 550,368 584,368 618,368 652,368 686,368 721,368 755,369 789,369 823,369 857,369 892,369"/>
+                <TextEquiv>
+                    <Unicode>Faxiang xuehui jikan. The Dharmalaksana</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="204,410 819,410 819,388 796,380 204,376"/>
+                <Baseline points="209,403 239,403 269,404 299,404 330,404 360,404 390,404 420,404 451,404 481,404 511,403 541,403 572,403 602,403 632,403 662,404 693,404 723,404 753,405 783,405 814,406"/>
+                <TextEquiv>
+                    <Unicode>Buddhist Institute Buddhist Journal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="205,450 406,450 418,439 431,450 519,447 519,414 503,409 423,413 413,423 336,408 319,420 287,413 277,423 253,412 205,413"/>
+                <Baseline points="210,437 235,438 260,438 286,439 311,439 336,439 362,439 387,439 412,438 438,438 463,438 488,437 514,437"/>
+                <TextEquiv>
+                    <Unicode>Vol. 1. (Oct. 1968)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="201,515 837,522 837,490 811,485 201,485"/>
+                <Baseline points="206,507 237,506 268,506 299,506 331,506 362,506 393,506 425,506 456,506 487,507 519,507 550,507 581,507 612,507 644,508 675,508 706,509 738,509 769,510 800,511 832,512"/>
+                <TextEquiv>
+                    <Unicode>The Dharmalaksana Buddhist Institute:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="200,554 359,562 383,545 400,555 485,553 485,533 462,517 391,517 370,533 311,516 269,526 200,517"/>
+                <Baseline points="205,542 230,543 255,543 280,544 305,544 330,544 355,544 380,544 405,544 430,544 455,543 480,542"/>
+                <TextEquiv>
+                    <Unicode>Hong Kong, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15101.k.9&#13;
+FAXIANG XUE HUI JI KAN&#13;
+PERICDICAL PUBLICATIONS&#13;
+Faxiang xuehui jikan. The Dharmalaksana&#13;
+Buddhist Institute Buddhist Journal.&#13;
+Vol. 1. (Oct. 1968)&#13;
+The Dharmalaksana Buddhist Institute:&#13;
+Hong Kong, 1968.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.755+01:00</Created>
+        <LastChange>2023-07-03T14:51:12.543+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758464" pageNr="285" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=UWEYAXZULLOKSLZKKCSOLKFH&amp;fileType=view" imageId="35195770"/>
+    </Metadata>
+    <Page imageFilename="42758464.jpg" imageWidth="976" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388672543" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="87,45 897,45 897,736 87,736"/>
+            <TextLine id="line_1688388633761_319" custom="readingOrder {index:0;}">
+                <Coords points="549,49 821,53 820,103 548,99"/>
+                <Baseline points="548,94 820,98"/>
+                <TextEquiv>
+                    <Unicode>15266.fa.279</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="86,161 136,161 161,186 194,160 405,161 404,106 85,109"/>
+                <Baseline points="91,151 115,149 139,151 164,151 188,152 212,151 237,149 261,151 286,152 310,151 334,151 359,152 383,151 407,152"/>
+                <TextEquiv>
+                    <Unicode>FENG CHENG XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="82,235 356,235 383,258 482,241 480,194 460,206 419,169 356,224 311,189 283,208 81,199"/>
+                <Baseline points="87,229 112,229 136,229 160,230 185,229 209,230 234,229 258,229 282,229 307,230 331,234 355,235 380,235 404,240 429,240 453,237 477,238 484,240"/>
+                <TextEquiv>
+                    <Unicode>XU (Qingxan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="123,410 828,410 828,379 787,370 502,367 474,395 435,369 123,370"/>
+                <Baseline points="128,401 152,401 177,401 201,403 225,401 250,403 274,403 299,403 323,403 347,403 372,401 396,403 420,403 445,404 469,404 494,404 518,403 542,403 567,403 591,403 615,404 640,404 664,404 689,403 713,403 737,403 762,403 786,403 811,401 830,403"/>
+                <TextEquiv>
+                    <Unicode>Fengcheng xian zhi. [Description of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="125,442 874,450 874,408 681,410 654,431 548,410 125,416"/>
+                <Baseline points="130,435 154,435 178,437 203,435 227,435 251,435 276,435 300,435 325,435 349,437 373,437 398,438 422,438 446,438 471,438 495,438 520,438 544,438 568,438 593,437 617,438 641,438 666,438 690,438 715,437 739,438 763,438 788,438 812,438 837,438 861,438 876,438"/>
+                <TextEquiv>
+                    <Unicode>district in Jiangxi province. A reprint of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="126,477 165,485 194,472 265,484 279,476 430,480 430,462 374,443 315,444 283,458 256,442 126,450"/>
+                <Baseline points="131,469 156,469 180,471 204,471 229,471 253,471 277,469 302,472 326,469 351,471 375,471 399,472 424,474 432,476"/>
+                <TextEquiv>
+                    <Unicode>the 1825 edition.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="126,514 164,522 178,511 232,517 240,508 314,523 334,507 428,519 427,491 407,483 293,490 259,482 240,500 221,485 187,483 177,493 158,481 125,483"/>
+                <Baseline points="130,505 154,507 178,505 203,507 227,508 251,508 276,507 300,507 325,507 349,508 373,508 398,508 422,510 429,510"/>
+                <TextEquiv>
+                    <Unicode>25 ch. in 7 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="743,511 766,513 776,522 785,522 798,508 808,514 832,514 841,521 854,521 853,482 818,482 811,490 798,489 786,479 757,478 749,488 742,488"/>
+                <Baseline points="747,507 771,508 796,508 820,510 845,510 856,511"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="126,583 698,586 698,550 679,546 126,547"/>
+                <Baseline points="131,575 156,575 180,575 204,575 229,575 253,575 277,575 302,576 326,575 351,576 375,575 399,576 424,576 448,575 472,575 497,576 521,576 546,576 570,576 594,576 619,576 643,578 667,578 692,580 700,580"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="125,654 879,665 861,625 668,620 577,644 405,619 125,626"/>
+                <Baseline points="130,650 154,650 178,650 203,651 227,653 251,651 276,650 300,651 325,651 349,651 373,651 398,651 422,651 446,653 471,653 495,653 520,653 544,653 568,653 593,651 617,653 641,651 666,651 690,651 715,653 739,651 763,653 788,653 812,653 837,654 861,656 880,659"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huazhong difang,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="125,701 138,706 207,706 205,674 198,673 188,665 156,664 150,670 145,666 142,669 136,668 131,675 124,675"/>
+                <Baseline points="130,695 154,697 178,698 203,700 209,702"/>
+                <TextEquiv>
+                    <Unicode>279.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266.fa.279&#13;
+FENG CHENG XIAN ZHI&#13;
+XU (Qingxan)&#13;
+Fengcheng xian zhi. [Description of the&#13;
+district in Jiangxi province. A reprint of&#13;
+the 1825 edition.&#13;
+25 ch. in 7 vols.&#13;
+27 cm.&#13;
+Chengwen chubanshe: Taipei, 1975.&#13;
+Zhongguo fangzhi congshu. Huazhong difang,&#13;
+279.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

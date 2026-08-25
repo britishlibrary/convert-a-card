@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.395+01:00</Created>
+        <LastChange>2023-05-04T12:46:51.875+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758230" pageNr="83"/>
+    </Metadata>
+    <Page imageFilename="28445635964.jpg" imageWidth="948" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197211876" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="64,17 61,604 902,604 905,17"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="514,66 665,66 694,52 708,64 765,66 817,46 817,26 760,25 745,34 609,27 598,38 514,29"/>
+                <Baseline points="519,54 545,55 572,55 598,56 625,56 652,55 678,55 705,55 732,54 758,54 785,55 812,55"/>
+                <TextEquiv>
+                    <Unicode>CHI.1993.a.357</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="118,177 136,186 169,186 178,177 191,186 296,185 305,178 348,185 365,174 365,134 343,134 326,151 223,152 199,141 178,153 118,149"/>
+                <Baseline points="123,174 149,175 175,175 202,175 228,175 254,175 281,175 307,175 333,175 360,175"/>
+                <TextEquiv>
+                    <Unicode>TAN (Songshou)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="101,250 568,242 568,204 101,205"/>
+                <Baseline points="106,234 131,233 156,232 182,232 207,231 232,231 258,230 283,230 309,230 334,230 359,230 385,231 410,231 436,231 461,231 486,232 512,232 537,232 563,232"/>
+                <TextEquiv>
+                    <Unicode>Fa xian Xuan zang xi jing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683193653746_194" custom="readingOrder {index:3;}">
+                <Coords points="594,383 673,383 673,433 594,433"/>
+                <Baseline points="594,428 673,428"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="122,481 167,483 174,490 190,490 198,482 331,482 331,461 318,460 303,445 260,449 252,457 217,452 201,461 193,453 168,458 154,445 122,444"/>
+                <Baseline points="127,474 155,476 183,477 212,478 240,478 269,477 297,477 326,478"/>
+                <TextEquiv>
+                    <Unicode>65 p.: ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="121,586 713,578 721,538 613,539 588,556 121,556"/>
+                <Baseline points="126,576 155,576 185,576 214,576 244,576 273,576 303,576 332,576 362,576 391,576 421,575 450,575 480,575 509,575 539,575 568,575 598,575 627,574 657,574 686,574 716,573"/>
+                <TextEquiv>
+                    <Unicode>a1. FAXIAN a2. XUANZANG a3. YIJING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1993.a.357&#13;
+TAN (Songshou)&#13;
+Fa xian Xuan zang xi jing&#13;
+1992&#13;
+65 p.: ill.&#13;
+a1. FAXIAN a2. XUANZANG a3. YIJING</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

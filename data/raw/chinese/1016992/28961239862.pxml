@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.067+01:00</Created>
+        <LastChange>2023-06-22T15:24:22.255+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758415" pageNr="243"/>
+    </Metadata>
+    <Page imageFilename="28961239862.jpg" imageWidth="952" imageHeight="761">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440262255" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="25,44 25,610 839,610 839,44"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="572,81 607,82 615,74 800,74 800,30 572,37"/>
+                <Baseline points="577,68 604,68 631,68 658,68 686,67 713,67 740,67 767,68 795,68"/>
+                <TextEquiv>
+                    <Unicode>15602.e.16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="38,170 141,146 240,152 262,141 325,154 406,141 406,116 85,116 38,102"/>
+                <Baseline points="43,141 68,141 94,141 119,141 145,141 170,140 196,140 222,140 247,140 273,140 298,141 324,141 349,141 375,141 401,141"/>
+                <TextEquiv>
+                    <Unicode>FAN SHU OU JI XU BIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="20,218 65,218 79,208 113,227 126,218 224,218 237,211 238,176 215,164 176,188 145,188 101,174 61,180 21,173"/>
+                <Baseline points="25,206 50,206 76,206 102,206 128,206 154,207 180,208 206,210 232,211"/>
+                <TextEquiv>
+                    <Unicode>SUN (Dianqi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="82,284 451,282 463,280 463,248 338,248 327,259 82,253"/>
+                <Baseline points="87,276 113,276 140,276 166,276 193,276 219,276 246,276 272,276 299,276 325,276 352,276 378,276 405,276 431,276 458,276"/>
+                <TextEquiv>
+                    <Unicode>Fan shu ou ji xu bian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_137" custom="readingOrder {index:4;}">
+                <Coords points="555,447 568,447 597,447 626,446 655,445 654,430 625,431 597,432 568,432 554,432"/>
+                <Baseline points="555,447 568,447 597,447 626,446 655,445"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="89,547 111,554 141,530 195,525 211,532 274,525 288,538 320,525 335,537 368,538 399,523 399,511 321,493 204,505 189,492 143,492 124,510 89,493"/>
+                <Baseline points="94,520 119,521 144,521 169,520 194,520 219,520 244,519 269,519 294,519 319,519 344,519 369,520 394,522"/>
+                <TextEquiv>
+                    <Unicode>4, 541 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="90,603 300,593 480,602 503,590 504,565 323,565 312,554 293,565 267,549 246,565 91,557"/>
+                <Baseline points="95,587 120,587 145,587 170,587 195,587 220,587 246,587 271,587 296,587 321,587 346,587 372,587 397,588 422,588 447,588 472,589 498,589"/>
+                <TextEquiv>
+                    <Unicode>Classified bibliography</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15602. e. 16.
+FAN SHU OU JI XU BIAN
+SUN (Dianqi)
+Fan shu ou ji xu bian
+ 1422
+2/gAvn /34 Röche .
+
+12 . 1450
+A, 541 p.; 19 cm.
+Classified bibliography
+ch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

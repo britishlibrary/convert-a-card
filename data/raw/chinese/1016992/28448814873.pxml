@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.975+01:00</Created>
+        <LastChange>2023-05-04T12:51:16.720+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758269" pageNr="117"/>
+    </Metadata>
+    <Page imageFilename="28448814873.jpg" imageWidth="944" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197476720" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="58,29 66,567 913,556 909,20"/>
+            <TextLine id="line_1682501845557_610" custom="readingOrder {index:0;}">
+                <Coords points="545,26 851,24 851,74 545,76"/>
+                <Baseline points="545,71 851,69"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.679</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="193,239 252,238 267,228 285,237 370,234 369,202 269,205 265,210 254,204 192,205"/>
+                <Baseline points="198,234 225,232 253,232 281,231 309,231 337,230 365,228"/>
+                <TextEquiv>
+                    <Unicode>KONG (Fanli)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;}">
+                <Coords points="264,273 512,269 521,267 521,234 448,240 424,233 412,241 362,233 264,237"/>
+                <Baseline points="229,263 296,258 323,257 351,257 378,257 406,257 433,257 461,256 488,255 516,253"/>
+                <TextEquiv>
+                    <Unicode>Fan chen da nian pu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195544853_750" custom="readingOrder {index:3;}">
+                <Coords points="487,282 551,280 552,330 488,332"/>
+                <Baseline points="488,327 552,325"/>
+                <TextEquiv>
+                    <Unicode>1985</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="223,368 238,370 244,365 249,369 269,366 273,370 280,370 288,362 306,362 306,348 295,348 284,339 276,340 268,332 264,334 223,332"/>
+                <Baseline points="228,357 264,357 301,357"/>
+                <TextEquiv>
+                    <Unicode>534p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="265,535 557,530 557,485 535,485 525,495 406,493 394,505 381,494 339,496 328,507 265,501"/>
+                <Baseline points="270,524 295,523 321,523 346,523 372,522 398,522 423,522 449,521 475,521 500,521 526,522 552,522"/>
+                <TextEquiv>
+                    <Unicode>a1. FAN (Chengda)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.679&#13;
+KONG (Fanli)&#13;
+Fan chen da nian pu&#13;
+1985&#13;
+534p.&#13;
+a1. FAN (Chengda)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

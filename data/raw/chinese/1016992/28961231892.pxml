@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.538+01:00</Created>
+        <LastChange>2023-06-27T09:47:51.610+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758376" pageNr="211"/>
+    </Metadata>
+    <Page imageFilename="28961231892.jpg" imageWidth="968" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687852071610" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:0;}">
+            <Coords points="229,79 229,544 836,544 836,79"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="525,106 801,113 841,103 841,84 826,78 766,77 746,89 722,79 697,87 677,77 590,84 526,76"/>
+                <Baseline points="530,99 555,100 581,100 606,101 632,101 657,101 683,100 708,100 734,100 759,101 785,101 810,102 836,103"/>
+                <TextEquiv>
+                    <Unicode>CHI.1991.a.1332</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="246,287 270,293 314,285 391,288 400,284 400,255 335,253 323,265 311,259 246,260"/>
+                <Baseline points="251,281 279,282 308,283 337,283 366,282 395,282"/>
+                <TextEquiv>
+                    <Unicode>FANG (BAO)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="287,324 363,319 399,325 484,323 484,289 287,287"/>
+                <Baseline points="292,310 318,311 345,310 372,309 398,309 425,309 452,311 560,315"/>
+                <TextEquiv>
+                    <Unicode>FANG WANG XI YI JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:3;}">
+                <Coords points="459,381 465,381 468,385 474,381 484,382 487,379 494,383 502,380 507,384 511,381 516,382 517,354 507,351 502,355 492,351 485,355 481,352 474,353 468,349 460,349"/>
+                <Baseline points="464,374 511,376"/>
+                <TextEquiv>
+                    <Unicode>1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:4;}">
+                <Coords points="284,417 317,415 334,418 342,414 347,418 352,415 358,416 359,399 354,399 344,389 328,389 321,384 314,386 310,382 285,380"/>
+                <Baseline points="289,409 321,411 353,411"/>
+                <TextEquiv>
+                    <Unicode>173p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:5;}">
+                <Coords points="284,450 350,444 549,450 550,422 514,413 463,422 374,412 285,416"/>
+                <Baseline points="289,441 314,440 340,440 365,440 391,440 416,440 442,441 467,441 493,441 518,441 544,440"/>
+                <TextEquiv>
+                    <Unicode>ISBN 7-30535-148-1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:6;}">
+                <Coords points="224,540 266,542 274,547 337,546 360,531 369,531 369,514 358,515 343,506 298,506 288,516 272,516 265,508 224,512"/>
+                <Baseline points="229,529 256,532 283,534 310,534 337,533 364,531"/>
+                <TextEquiv>
+                    <Unicode>s1. L16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1991.a.1332&#13;
+FANG (BAO)&#13;
+FANG WANG XI YI JI&#13;
+1990&#13;
+173p.&#13;
+ISBN 7-30535-148-1&#13;
+s1. L16</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

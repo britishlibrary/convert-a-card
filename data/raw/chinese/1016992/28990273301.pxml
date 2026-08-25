@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.818+01:00</Created>
+        <LastChange>2023-07-03T14:54:10.843+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758469" pageNr="289" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=SCRFOASCFOTEIKWZQVYBGIOH&amp;fileType=view" imageId="35195775"/>
+    </Metadata>
+    <Page imageFilename="42758469.jpg" imageWidth="956" imageHeight="800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388850843" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="44,32 924,32 924,781 44,781"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="617,88 676,88 696,98 735,82 770,98 791,81 799,90 868,98 868,75 835,57 791,61 780,70 753,57 731,72 672,41 616,40"/>
+                <Baseline points="623,82 647,82 670,84 694,86 718,86 742,86 766,86 790,86 814,87 838,87 862,89 870,90"/>
+                <TextEquiv>
+                    <Unicode>15673.c.102</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="95,134 204,139 246,132 284,145 296,142 296,93 267,95 249,112 213,85 151,84 140,93 95,95"/>
+                <Baseline points="100,129 106,127 130,127 154,129 178,127 202,127 226,129 250,129 274,127 298,125"/>
+                <TextEquiv>
+                    <Unicode>FENG CAI LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="63,209 90,226 103,216 145,218 151,212 159,219 273,213 273,184 256,174 164,175 156,184 136,174 78,174 63,184"/>
+                <Baseline points="68,207 92,207 116,207 140,207 164,208 188,208 211,208 235,208 259,207 275,208"/>
+                <TextEquiv>
+                    <Unicode>FENG CAI LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="94,278 146,282 160,293 186,279 305,280 304,255 286,244 262,245 244,256 232,244 201,244 179,255 171,247 134,253 123,242 93,243"/>
+                <Baseline points="98,274 122,275 146,275 170,277 194,277 218,277 242,278 266,278 290,277 307,277"/>
+                <TextEquiv>
+                    <Unicode>Feng cai lu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="105,455 111,455 114,459 121,457 128,466 136,466 141,460 145,465 152,466 167,453 173,456 179,450 187,450 192,415 121,421 109,413"/>
+                <Baseline points="111,454 119,452 143,452 167,447 191,447"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="95,517 157,521 170,530 225,530 238,517 263,528 282,519 337,524 336,489 282,488 271,477 243,488 156,480 94,485"/>
+                <Baseline points="100,513 124,514 148,514 172,516 196,517 219,517 243,517 267,517 291,517 315,517 339,519 341,517"/>
+                <TextEquiv>
+                    <Unicode>228 p.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="92,586 815,597 815,560 452,572 237,552 215,570 92,551"/>
+                <Baseline points="97,581 121,581 145,581 168,583 192,581 216,583 240,583 264,583 288,584 312,584 336,584 360,586 384,586 407,586 431,586 455,586 479,586 503,588 527,588 551,588 575,588 599,588 623,589 647,589 670,589 694,591 718,591 742,592 766,591 790,592 814,592 817,592"/>
+                <TextEquiv>
+                    <Unicode>Essays about aspects of cultural life in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="94,622 163,627 202,621 208,627 297,634 304,632 303,604 262,592 208,596 203,602 148,593 93,599"/>
+                <Baseline points="98,619 122,619 146,619 170,621 194,621 218,621 242,621 266,623 290,623 305,623"/>
+                <TextEquiv>
+                    <Unicode>south China</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15673.c.102&#13;
+FENG CAI LU&#13;
+FENG CAI LU&#13;
+Feng cai lu&#13;
+1980&#13;
+228 p.; 19 cm&#13;
+Essays about aspects of cultural life in&#13;
+south China</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

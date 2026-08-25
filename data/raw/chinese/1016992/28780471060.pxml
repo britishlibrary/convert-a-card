@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.649+01:00</Created>
+        <LastChange>2023-05-04T12:58:42.713+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758311" pageNr="154"/>
+    </Metadata>
+    <Page imageFilename="28780471060.jpg" imageWidth="980" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197922713" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="154,95 154,691 899,688 899,92"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="609,124 632,130 648,122 713,120 813,130 833,122 833,102 801,86 789,86 774,99 728,92 714,102 683,88 629,92 610,85"/>
+                <Baseline points="614,114 640,114 667,114 694,115 721,116 747,116 774,117 801,117 828,117"/>
+                <TextEquiv>
+                    <Unicode>15222.f.63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="194,179 754,180 754,142 194,139"/>
+                <Baseline points="199,171 226,171 254,171 281,170 309,170 336,170 364,170 391,170 419,170 446,170 474,170 501,170 529,171 556,171 584,171 611,171 639,171 666,171 694,172 721,172 749,172"/>
+                <TextEquiv>
+                    <Unicode>FAN GONG JING JI ZHAN SHI FAN PING SHU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="159,274 226,275 241,267 262,280 290,273 341,274 353,283 368,282 368,237 334,237 326,245 304,238 288,245 280,237 159,237"/>
+                <Baseline points="164,266 192,266 220,266 249,265 277,266 306,266 334,266 363,265"/>
+                <TextEquiv>
+                    <Unicode>ZENG (Xubai)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="193,375 792,378 792,360 731,341 343,341 326,356 193,340"/>
+                <Baseline points="198,367 227,367 256,368 286,368 315,369 345,369 374,369 404,370 433,370 463,370 492,370 521,370 551,370 580,370 610,370 639,370 669,371 698,371 728,372 757,372 787,373"/>
+                <TextEquiv>
+                    <Unicode>Fangong jingjizhan shifan pingshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="201,406 831,409 815,381 201,392"/>
+                <Baseline points="206,403 237,403 268,404 299,404 330,405 361,405 392,405 423,405 454,405 485,405 516,405 547,405 578,405 609,405 640,405 671,405 702,405 733,405 764,406 795,406 826,406"/>
+                <TextEquiv>
+                    <Unicode>[A commentary on the anti- Communist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="197,450 271,444 334,450 345,444 351,450 390,451 426,444 426,427 400,418 377,422 356,415 340,425 309,413 291,421 197,420"/>
+                <Baseline points="202,438 229,438 256,438 284,438 311,438 338,438 366,439 393,439 436,442"/>
+                <TextEquiv>
+                    <Unicode>economic war.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="194,489 221,490 229,482 272,482 281,490 294,490 302,482 320,482 320,460 311,460 294,446 280,451 273,447 256,461 247,453 194,453"/>
+                <Baseline points="199,475 228,474 257,474 286,474 315,475"/>
+                <TextEquiv>
+                    <Unicode>pps.23.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="194,545 898,554 887,517 194,516"/>
+                <Baseline points="199,541 233,541 268,540 303,540 337,540 372,540 407,540 441,540 476,541 511,541 546,542 580,542 615,543 650,543 684,544 719,545 754,545 788,546 823,546 858,547 893,547"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo xinwen chubanshe: Taipei, 1956.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="195,626 280,626 287,624 288,604 280,604 273,597 239,596 232,589 196,589"/>
+                <Baseline points="201,615 228,614 255,615 283,617"/>
+                <TextEquiv>
+                    <Unicode>18cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="189,682 660,682 660,663 612,645 443,657 408,645 189,645"/>
+                <Baseline points="194,671 219,672 245,672 270,672 296,672 322,673 347,673 373,673 398,673 424,674 450,674 475,674 501,674 526,675 552,675 578,675 603,676 629,676 655,677"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo baike xiaocongshu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15222.f.63&#13;
+FAN GONG JING JI ZHAN SHI FAN PING SHU&#13;
+ZENG (Xubai)&#13;
+Fangong jingjizhan shifan pingshu.&#13;
+[A commentary on the anti- Communist&#13;
+economic war.]&#13;
+pps.23.&#13;
+Zhongguo xinwen chubanshe: Taipei, 1956.&#13;
+18cm.&#13;
+Zhongguo baike xiaocongshu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.010+01:00</Created>
+        <LastChange>2023-06-27T10:11:00.562+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758410" pageNr="239"/>
+    </Metadata>
+    <Page imageFilename="28961239462.jpg" imageWidth="944" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853460563" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="85,72 85,661 839,661 839,72"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="518,123 784,122 807,109 807,73 762,73 746,88 518,85"/>
+                <Baseline points="523,113 548,113 573,113 599,113 624,113 649,113 675,113 700,113 725,113 751,113 776,112 802,112"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.c.15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="80,258 134,259 146,246 159,258 217,258 227,250 238,258 271,258 279,250 314,258 329,248 329,214 298,213 285,226 205,226 165,213 80,220"/>
+                <Baseline points="85,247 111,247 138,247 164,247 191,247 217,247 244,247 270,246 297,246 324,247"/>
+                <TextEquiv>
+                    <Unicode>FAN (Zhongyan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="117,313 552,306 571,293 571,269 117,268"/>
+                <Baseline points="122,297 148,296 174,296 200,296 226,295 252,295 278,295 304,295 330,295 357,295 383,295 409,295 435,295 461,295 487,294 513,294 539,293 566,293"/>
+                <TextEquiv>
+                    <Unicode>Fan Wen zheng gong wen ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853437457_367" custom="readingOrder {index:3;}">
+                <Coords points="668,442 794,439 795,489 669,492"/>
+                <Baseline points="669,487 795,484"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="116,550 135,554 143,547 181,555 207,554 219,547 241,557 260,547 285,556 302,554 302,534 287,533 258,517 230,516 194,525 160,517 117,521"/>
+                <Baseline points="121,538 146,542 171,544 196,544 221,544 246,544 271,544 297,548"/>
+                <TextEquiv>
+                    <Unicode>1 han (8v.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:5;}">
+                <Coords points="129,578 164,579 199,580 235,581 268,582 268,567 235,566 199,565 164,564 129,563"/>
+                <Baseline points="129,578 164,579 199,580 235,581 268,582"/>
+                <TextEquiv>
+                    <Unicode>Reprint: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_142" custom="readingOrder {index:6;}">
+                <Coords points="129,648 160,647 192,645 224,643 256,642 269,642 269,627 256,627 223,628 191,630 159,632 129,633"/>
+                <Baseline points="129,648 160,647 192,645 224,643 256,642 269,642"/>
+                <TextEquiv>
+                    <Unicode>s1. H17.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_146" custom="readingOrder {index:7;}">
+                <Coords points="603,635 606,635 638,635 670,635 702,635 734,635 766,636 766,621 734,620 702,620 670,620 638,620 606,620 603,620"/>
+                <Baseline points="603,635 606,635 638,635 670,635 702,635 734,635 766,636"/>
+                <TextEquiv>
+                    <Unicode>T. p. verso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.c.15&#13;
+FAN (Zhongyan)&#13;
+Fan Wen zheng gong wen ji&#13;
+1984&#13;
+1 han (8v.)&#13;
+Reprint: &#13;
+s1. H17.1&#13;
+T. p. verso</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

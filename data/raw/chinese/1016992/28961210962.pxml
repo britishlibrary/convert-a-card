@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.937+01:00</Created>
+        <LastChange>2023-05-04T13:59:17.477+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758333" pageNr="173"/>
+    </Metadata>
+    <Page imageFilename="28961210962.jpg" imageWidth="948" imageHeight="777">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201557477" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="57,46 56,738 934,737 935,45"/>
+            <TextLine id="line_1654531686421_1155" custom="readingOrder {index:0;}">
+                <Coords points="576,82 592,90 803,90 818,84 819,63 801,63 791,53 762,53 750,65 728,53 712,53 703,62 680,61 670,52 577,54"/>
+                <Baseline points="581,87 813,88"/>
+                <TextEquiv>
+                    <Unicode>15673.d.34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="88,178 195,179 254,164 272,176 309,168 336,178 358,160 369,170 406,170 427,157 427,133 155,138 88,117"/>
+                <Baseline points="93,161 118,162 143,162 168,162 194,162 219,162 244,162 270,161 295,161 320,161 346,160 371,159 396,158 422,157"/>
+                <TextEquiv>
+                    <Unicode>FENG QING QI QU LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="54,229 135,221 367,226 391,212 391,200 369,189 54,189"/>
+                <Baseline points="59,215 84,215 109,215 134,215 159,215 184,215 209,215 235,215 260,215 285,215 310,215 335,214 360,213 386,211"/>
+                <TextEquiv>
+                    <Unicode>FENG QING QI QU LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="161,288 234,290 254,283 273,291 326,279 349,287 370,279 412,283 412,258 398,255 382,264 358,255 331,264 313,255 161,257"/>
+                <Baseline points="166,280 192,279 219,279 246,279 273,279 299,279 326,279 353,278 380,278 407,277"/>
+                <TextEquiv>
+                    <Unicode>feng qing qi qu lu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201506202_2183" custom="readingOrder {index:4;}">
+                <Coords points="164,357 232,358 231,408 163,407"/>
+                <Baseline points="163,402 231,403"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:5;}">
+                <Coords points="73,698 149,704 206,692 253,701 320,699 337,691 337,672 326,669 253,672 205,661 149,674 101,661 73,666"/>
+                <Baseline points="78,691 103,692 128,692 154,692 179,692 205,692 230,691 255,691 281,690 306,690 332,689"/>
+                <TextEquiv>
+                    <Unicode>K892.474 26.79264</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="348,698 415,698 417,663 403,661 397,667 386,669 377,662 367,664 361,660 350,660"/>
+                <Baseline points="354,687 382,687 411,690"/>
+                <TextEquiv>
+                    <Unicode>K892</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201533200_2195" custom="readingOrder {index:7;}">
+                <Coords points="79,685 136,687 134,737 77,735"/>
+                <Baseline points="77,730 134,732"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="848,693 861,694 869,690 893,690 898,692 908,690 908,656 899,657 896,661 847,661"/>
+                <Baseline points="853,684 878,684 904,683"/>
+                <TextEquiv>
+                    <Unicode>[44]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:9;}">
+                <Coords points="668,729 747,726 766,737 839,727 895,730 903,728 903,694 863,692 851,700 778,692 753,692 745,700 668,697"/>
+                <Baseline points="673,720 698,719 723,718 748,718 773,718 798,718 823,717 848,717 873,717 898,717"/>
+                <TextEquiv>
+                    <Unicode>10184.57 82—3924</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15673.d.34&#13;
+FENG QING QI QU LU&#13;
+FENG QING QI QU LU&#13;
+feng qing qi qu lu&#13;
+1982&#13;
+K892.474 26.79264&#13;
+K892&#13;
+1982&#13;
+[44]&#13;
+10184.57 82—3924</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

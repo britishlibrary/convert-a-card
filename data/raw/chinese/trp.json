@@ -1,0 +1,285 @@
+[
+  {
+    "type": "trpDocMetadata",
+    "docId": 1016992,
+    "title": "P5 for Transkribus",
+    "uploadTimestamp": 1653923011523,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 401,
+    "pageId": 42758136,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "externalId": "NA",
+    "authority": "NA",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1016992",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1086565,
+    "title": "TRAINING_VALIDATION_SET_English Typewritten Catalogue Cards",
+    "uploadTimestamp": 1658867263595,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 20,
+    "pageId": 44924554,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=BUVUXXPFQLDSZAHJPPNIOLNJ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BUVUXXPFQLDSZAHJPPNIOLNJ",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1086565",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1086584,
+    "title": "TRAINING_VALIDATION_SET_English Typewritten Catalogue Cards",
+    "uploadTimestamp": 1658872231405,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 20,
+    "pageId": 44924600,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=BUVUXXPFQLDSZAHJPPNIOLNJ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BUVUXXPFQLDSZAHJPPNIOLNJ",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1086584",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1363290,
+    "title": "P5 cards 391-401 for P2PaLA testing",
+    "uploadTimestamp": 1678806888968,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 10,
+    "externalId": "NA",
+    "authority": "NA",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1016992",
+    "origDocId": 1016992,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1408282,
+    "title": "P5 for LA",
+    "uploadTimestamp": 1682415077928,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 401,
+    "pageId": 54480976,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "externalId": "NA",
+    "authority": "NA",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1016992",
+    "origDocId": 1016992,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1419911,
+    "title": "TRAINING_VALIDATION_SET_English Typewritten Catalogue Cards PyLaia GT-150",
+    "uploadTimestamp": 1683208036930,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 25,
+    "pageId": 55113103,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=OJGQBNDXXCNSTTLUCMSRCPIJ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=OJGQBNDXXCNSTTLUCMSRCPIJ",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1419911",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1420741,
+    "title": "P5 for Transkribus cards 176-401",
+    "uploadTimestamp": 1683278055551,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 226,
+    "pageId": 55287615,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=ZGKLTICTXUWERBUNJSYETCRJ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=ZGKLTICTXUWERBUNJSYETCRJ",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1420741",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": false
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1485391,
+    "title": "TRAINING_VALIDATION_SET_English Typewritten Catalogue Cards PyLaia GT-225",
+    "uploadTimestamp": 1687926328602,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 25,
+    "pageId": 56751163,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=BEBTUPUTHNWKOHXUHIIWQHAR",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=BEBTUPUTHNWKOHXUHIIWQHAR",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1485391",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": true
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1487106,
+    "title": "TRAINING_VALIDATION_SET_English Typewritten Catalogue Cards PyLaia GT-225 v.2",
+    "uploadTimestamp": 1687996034395,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 25,
+    "pageId": 56877539,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1487106",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": true
+  },
+  {
+    "type": "trpDocMetadata",
+    "docId": 1488506,
+    "title": "TRAINING_VALIDATION_SET_English Typewritten Catalogue Cards GT-250",
+    "uploadTimestamp": 1688130676090,
+    "uploader": "adi.keinan-schoonbaert@bl.uk",
+    "uploaderId": 23823,
+    "nrOfPages": 25,
+    "pageId": 56925284,
+    "url": "https://files.transkribus.eu/Get?fileType=view&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "thumbUrl": "https://files.transkribus.eu/Get?fileType=thumb&id=RZJGELCWVZVTNFLXPORWMIFQ",
+    "status": 0,
+    "fimgStoreColl": "TrpDoc_DEA_1488506",
+    "origDocId": 0,
+    "collectionList": {
+      "colList": [
+        {
+          "colId": 150453,
+          "colName": "Convert-a-Card Pinyin D5",
+          "description": "created by adi.keinan-schoonbaert@bl.uk",
+          "crowdsourcing": false,
+          "elearning": false,
+          "nrOfDocuments": 0
+        }
+      ]
+    },
+    "isInMain": true
+  }
+]

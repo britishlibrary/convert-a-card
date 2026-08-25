@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.638+01:00</Created>
+        <LastChange>2023-07-03T17:05:05.955+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758528" pageNr="340" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ZLFGJDBGWGSFRXTEIVJAFJXG&amp;fileType=view" imageId="35195834"/>
+    </Metadata>
+    <Page imageFilename="42758528.jpg" imageWidth="952" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688396705956" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="38,21 873,21 873,769 38,769"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="607,77 663,83 698,76 721,82 728,75 769,82 785,68 834,82 834,50 809,38 793,37 772,58 731,48 720,59 697,38 607,41"/>
+                <Baseline points="612,73 636,71 660,71 684,73 708,73 732,73 755,73 779,73 803,71 827,73 836,74"/>
+                <TextEquiv>
+                    <Unicode>15625.a.11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="36,155 77,154 88,146 96,153 119,154 136,146 136,112 122,112 118,108 81,111 67,101 60,108 48,108 36,115"/>
+                <Baseline points="41,142 65,142 88,142 112,142 136,142 138,142"/>
+                <TextEquiv>
+                    <Unicode>FA YU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="33,224 288,222 287,173 258,195 211,192 200,181 182,192 170,181 146,179 51,181 33,193"/>
+                <Baseline points="38,215 61,215 85,215 109,215 133,217 157,215 181,215 204,214 228,215 252,217 276,219 290,220"/>
+                <TextEquiv>
+                    <Unicode>RUAN (Yicheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="74,289 119,289 126,296 144,298 152,289 167,290 178,285 178,264 171,263 162,254 136,254 127,264 115,264 102,253 73,252"/>
+                <Baseline points="79,282 103,284 127,284 150,284 174,284 179,284"/>
+                <TextEquiv>
+                    <Unicode>Fa yu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="129,450 323,474 353,448 479,474 823,458 823,401 697,416 539,392 502,419 475,392 359,412 244,392 217,417 179,386 129,406"/>
+                <Baseline points="134,449 158,447 182,450 206,452 230,454 254,452 277,452 301,450 325,449 349,447 373,447 397,449 420,449 444,450 468,452 492,454 516,454 539,452 563,454 587,455 611,454 635,449 659,452 682,452 706,450 730,449 754,446 778,444 801,444 825,452"/>
+                <TextEquiv>
+                    <Unicode>[1980]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="72,572 742,553 744,490 657,528 617,484 578,520 547,497 522,520 481,496 446,524 419,502 361,514 312,555 73,545"/>
+                <Baseline points="77,568 100,570 123,570 147,571 171,571 195,570 219,570 242,570 266,568 290,568 314,565 338,563 362,562 385,558 409,557 433,558 457,560 481,560 504,555 528,555 552,554 576,555 600,555 624,554 647,552 671,551 695,549 719,547 743,546"/>
+                <TextEquiv>
+                    <Unicode>2 v.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="75,642 799,631 768,600 75,618"/>
+                <Baseline points="80,639 87,639 111,639 134,639 158,639 182,639 206,638 230,639 254,639 277,638 301,638 325,638 349,638 373,636 397,636 420,636 444,636 468,636 492,635 516,635 539,633 563,635 587,635 611,633 635,633 659,633 682,632 706,632 730,632 754,632 778,630 801,630"/>
+                <TextEquiv>
+                    <Unicode>A collection of writings on legal matters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.11&#13;
+FA YU&#13;
+RUAN (Yicheng)&#13;
+Fa yu&#13;
+[1980]&#13;
+2 v.; 19 cm.&#13;
+A collection of writings on legal matters</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

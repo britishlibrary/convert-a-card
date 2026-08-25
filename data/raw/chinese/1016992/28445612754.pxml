@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.023+01:00</Created>
+        <LastChange>2023-05-03T17:39:05.294+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758156" pageNr="18"/>
+    </Metadata>
+    <Page imageFilename="28445612754.jpg" imageWidth="952" imageHeight="780">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128345295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="28,9 28,620 904,617 905,11"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="612,51 648,62 675,89 687,88 723,56 733,66 786,53 822,58 832,54 833,31 795,17 778,30 732,31 707,6 693,4 669,6 658,17 613,18"/>
+                <Baseline points="617,47 643,48 669,49 695,49 722,49 748,49 774,49 800,50 827,52"/>
+                <TextEquiv>
+                    <Unicode>15662.a.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="47,129 475,130 476,78 364,98 191,94 171,77 126,95 48,82"/>
+                <Baseline points="52,116 78,117 104,117 130,117 156,117 182,117 208,118 234,118 261,118 287,118 313,118 339,119 365,119 391,119 417,118 443,118 470,118"/>
+                <TextEquiv>
+                    <Unicode>FENG HAO: CHANG AN: XI AN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="42,194 208,202 216,194 244,193 262,205 280,197 280,149 260,148 250,157 191,151 170,163 118,151 96,164 42,155"/>
+                <Baseline points="47,184 72,185 97,185 123,185 148,185 173,185 199,185 224,185 249,185 275,185"/>
+                <TextEquiv>
+                    <Unicode>MA (Zhenglin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="82,263 428,266 537,250 517,221 277,218 249,234 82,226"/>
+                <Baseline points="87,251 113,252 139,252 165,252 191,252 217,252 244,252 270,252 296,252 322,252 348,252 374,252 401,252 427,252 453,252 479,252 505,251 532,251"/>
+                <TextEquiv>
+                    <Unicode>Feng hao: Chang an: Xi an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683128337714_345" custom="readingOrder {index:4;}">
+                <Coords points="468,394 554,394 554,444 468,444"/>
+                <Baseline points="468,439 554,439"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="87,533 750,538 750,513 668,493 531,510 194,487 87,501"/>
+                <Baseline points="92,525 124,525 157,526 189,526 222,527 255,527 287,527 320,527 353,527 385,526 418,526 451,526 483,526 516,525 549,525 581,525 614,525 647,525 679,525 712,526 745,527"/>
+                <TextEquiv>
+                    <Unicode>120 p.:[3] lvs. of plates, maps; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="88,604 522,603 544,621 807,600 807,573 649,577 597,549 445,578 88,572"/>
+                <Baseline points="93,596 128,596 163,597 199,597 234,597 270,598 305,598 341,598 376,598 412,598 447,598 482,598 518,597 553,597 589,597 624,597 660,597 695,597 731,597 766,597 802,597"/>
+                <TextEquiv>
+                    <Unicode>History of the capital of Shanxi province</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15662.a.2&#13;
+FENG HAO: CHANG AN: XI AN&#13;
+MA (Zhenglin)&#13;
+Feng hao: Chang an: Xi an&#13;
+1979&#13;
+120 p.:[3] lvs. of plates, maps; 19 cm&#13;
+History of the capital of Shanxi province</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

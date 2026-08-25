@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.347+01:00</Created>
+        <LastChange>2023-05-04T12:46:37.141+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758227" pageNr="80"/>
+    </Metadata>
+    <Page imageFilename="28445631294.jpg" imageWidth="980" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197197142" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="46,52 45,681 931,680 932,51"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="618,91 781,89 797,78 809,90 892,93 892,61 866,52 722,62 713,52 618,51"/>
+                <Baseline points="623,79 649,79 675,80 702,80 728,80 755,81 781,81 807,81 834,81 860,82 887,82"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1223</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="114,163 273,162 281,170 293,162 335,163 340,129 307,129 294,116 282,116 253,133 183,133 170,124 150,133 114,132"/>
+                <Baseline points="119,155 146,155 173,155 200,155 227,154 254,154 281,154 308,154 335,155"/>
+                <TextEquiv>
+                    <Unicode>FAN HOU ZHE XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="58,252 587,266 587,208 536,226 58,220"/>
+                <Baseline points="63,247 90,247 117,247 144,247 172,248 199,248 226,248 254,248 281,248 308,248 336,248 363,248 390,248 418,248 445,248 472,248 500,248 527,249 554,249 582,249"/>
+                <TextEquiv>
+                    <Unicode>JOAD (Cyril Edwin Mitchinson)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="774,255 795,259 844,258 842,215 825,215 819,222 806,224 802,228 773,232"/>
+                <Baseline points="779,250 808,248 838,248"/>
+                <TextEquiv>
+                    <Unicode>and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="62,290 344,284 369,298 421,287 480,298 472,253 362,256 342,269 284,254 63,253"/>
+                <Baseline points="67,280 92,280 118,280 143,280 169,280 194,280 220,280 245,280 271,281 296,281 322,281 347,281 373,281 398,282 424,282 449,283 475,283"/>
+                <TextEquiv>
+                    <Unicode>STRACHEY (Giles Lylton)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="98,394 892,402 914,371 444,365 402,332 348,370 99,358"/>
+                <Baseline points="103,383 143,384 183,384 223,384 264,384 304,385 344,385 384,385 425,386 465,386 505,386 545,387 586,387 626,387 666,388 706,388 747,389 787,389 827,390 867,390 908,391"/>
+                <TextEquiv>
+                    <Unicode>Fanhou zhexue. [A radio discussion on philo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913109094_380" custom="readingOrder {index:6;}">
+                <Coords points="101,427 887,432 828,399 101,397"/>
+                <Baseline points="106,427 882,432"/>
+                <TextEquiv>
+                    <Unicode>sophy between Joad and Strachey; translated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913112238_385" custom="readingOrder {index:7;}">
+                <Coords points="90,462 615,474 615,429 434,445 417,431 396,447 328,427 90,429"/>
+                <Baseline points="95,461 610,461"/>
+                <TextEquiv>
+                    <Unicode>by Wu Guangjian. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="98,506 137,506 145,498 218,506 230,498 248,498 248,478 240,478 226,462 195,467 182,479 169,477 161,468 99,469"/>
+                <Baseline points="104,490 131,490 159,491 187,492 215,493 243,493"/>
+                <TextEquiv>
+                    <Unicode>pps. 97.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="107,570 804,578 804,552 768,540 363,551 108,533"/>
+                <Baseline points="112,559 146,560 180,561 215,561 249,562 283,563 318,563 352,564 386,565 421,565 455,566 489,567 524,567 558,568 592,568 627,569 661,569 695,570 730,570 764,571 799,571"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="99,650 223,642 327,659 346,646 406,658 443,649 443,622 415,612 359,612 340,630 294,612 272,620 100,612"/>
+                <Baseline points="104,636 129,636 155,636 181,637 206,637 232,638 258,639 283,639 309,640 335,641 360,642 386,643 412,643 438,643"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, 1223.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1223&#13;
+FAN HOU ZHE XUE&#13;
+JOAD (Cyril Edwin Mitchinson)&#13;
+and&#13;
+STRACHEY (Giles Lylton)&#13;
+Fanhou zhexue. [A radio discussion on philo-&#13;
+sophy between Joad and Strachey; translated&#13;
+by Wu Guangjian. A reprint.]&#13;
+pps. 97.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1969.&#13;
+Renren wenku, 1223.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

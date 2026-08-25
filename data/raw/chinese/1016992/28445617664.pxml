@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.343+01:00</Created>
+        <LastChange>2023-05-03T17:45:13.839+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758172" pageNr="32"/>
+    </Metadata>
+    <Page imageFilename="28445617664.jpg" imageWidth="952" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128713840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="50,38 52,456 920,456 918,38"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="613,74 836,73 836,44 818,49 807,37 787,43 777,38 762,53 727,37 708,54 676,32 614,34"/>
+                <Baseline points="618,64 644,64 671,65 697,65 724,66 751,66 777,67 804,67 831,68"/>
+                <TextEquiv>
+                    <Unicode>15674.i.44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="106,131 119,130 127,122 172,125 177,130 195,123 256,122 269,114 268,72 248,72 232,89 106,92"/>
+                <Baseline points="111,116 136,117 162,117 187,117 213,117 238,116 264,115"/>
+                <TextEquiv>
+                    <Unicode>FEI XI JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657282116437_470" custom="readingOrder {index:2;}">
+                <Coords points="57,161 195,161 195,211 57,211"/>
+                <Baseline points="57,206 195,206"/>
+                <TextEquiv>
+                    <Unicode>SHI (He)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="90,314 901,328 901,269 90,276"/>
+                <Baseline points="95,301 135,301 175,301 215,301 255,302 295,302 335,302 375,302 415,302 455,302 495,302 535,302 575,302 615,302 655,302 695,302 735,303 775,303 815,304 855,304 896,305"/>
+                <TextEquiv>
+                    <Unicode>Fei xi ji. [Poems satirising the gang of four.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="96,354 129,354 138,345 216,346 231,331 259,346 285,339 306,347 353,346 360,330 334,316 291,319 259,308 206,315 162,308 147,322 95,317"/>
+                <Baseline points="101,340 126,340 151,340 177,339 202,338 228,337 253,337 278,337 304,337 329,338 355,340"/>
+                <TextEquiv>
+                    <Unicode>pp. 98. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="99,411 869,418 869,380 845,373 764,391 731,373 99,373"/>
+                <Baseline points="96,405 142,405 180,405 218,406 256,406 294,406 332,406 370,406 408,406 446,406 484,406 522,406 560,406 598,406 636,406 674,406 712,406 750,406 788,407 826,408 864,409"/>
+                <TextEquiv>
+                    <Unicode>Shang hai wen yi chu ban she: Shanghai, 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15674.i.44&#13;
+FEI XI JI&#13;
+SHI (He)&#13;
+Fei xi ji. [Poems satirising the gang of four.]&#13;
+pp. 98. 19 cm.&#13;
+Shang hai wen yi chu ban she: Shanghai, 1979.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

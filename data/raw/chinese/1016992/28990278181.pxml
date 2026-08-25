@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.347+01:00</Created>
+        <LastChange>2023-07-03T16:41:50.790+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758505" pageNr="321" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=XVXOIVHNOWTCFCUYUTHBUULS&amp;fileType=view" imageId="35195811"/>
+    </Metadata>
+    <Page imageFilename="42758505.jpg" imageWidth="956" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395310791" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="39,10 886,10 886,759 39,759"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="560,58 582,74 617,74 625,66 653,74 677,62 731,63 756,74 769,65 792,66 791,21 769,36 745,31 733,39 559,29"/>
+                <Baseline points="565,60 589,60 612,60 636,62 660,62 684,62 708,63 732,63 756,62 780,62 794,63"/>
+                <TextEquiv>
+                    <Unicode>15504.a.42</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="52,134 536,144 536,97 479,98 456,117 443,105 102,104 87,89 52,107"/>
+                <Baseline points="57,133 62,133 85,132 109,132 133,132 157,133 181,133 205,132 229,132 253,132 276,132 300,132 324,132 348,132 372,133 396,133 420,132 444,132 468,133 491,133 515,133 539,132"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN YUN JU SI SHI JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="33,199 520,202 520,170 33,171"/>
+                <Baseline points="39,195 46,195 70,195 93,195 117,195 141,195 165,195 189,195 213,195 237,195 261,195 284,194 308,194 332,194 356,194 380,195 404,195 428,195 452,195 475,195 499,194 523,194"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN YUN JU SI SHI JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="65,273 559,280 559,240 505,232 478,246 65,236"/>
+                <Baseline points="70,265 93,265 117,265 141,265 165,267 189,267 213,267 237,267 261,265 284,267 308,265 332,265 356,265 380,265 404,265 428,265 452,267 475,265 499,267 523,267 547,269 560,270"/>
+                <TextEquiv>
+                    <Unicode>Fang Shan Yun Ju Si shi jing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="63,394 323,419 596,414 581,362 499,369 479,390 413,356 261,357 210,376 122,352 63,374"/>
+                <Baseline points="68,388 92,393 116,394 140,396 163,396 187,396 211,397 235,399 259,401 283,401 307,401 331,401 354,401 378,402 402,404 426,404 450,407 466,409 471,407 479,404 503,404 526,401 550,402 574,404 598,404"/>
+                <TextEquiv>
+                    <Unicode>1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="71,444 696,444 696,425 619,401 580,425 408,411 372,432 302,408 233,428 71,417"/>
+                <Baseline points="76,437 100,440 124,440 148,442 171,442 195,442 219,442 243,442 267,442 291,442 315,440 339,442 362,440 386,440 410,440 434,440 458,440 482,439 506,439 530,439 553,440 577,439 601,439 625,439 649,439 673,439 697,439 698,439"/>
+                <TextEquiv>
+                    <Unicode>4, 142 p., [62] p. of plates.; 36 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="74,513 884,516 876,482 74,482"/>
+                <Baseline points="79,506 101,507 125,507 149,507 173,509 197,509 221,509 245,509 269,509 292,507 316,509 340,509 364,511 388,511 412,509 436,509 460,507 483,507 507,509 531,507 555,509 579,509 603,509 627,511 651,511 674,509 698,511 722,511 746,509 770,509 794,511 818,509 842,509 866,509 886,509"/>
+                <TextEquiv>
+                    <Unicode>The Buddhist scriptures carved on stone between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="77,554 835,553 823,516 76,520"/>
+                <Baseline points="81,542 105,542 128,544 152,544 176,544 200,542 224,544 248,544 272,542 296,544 319,546 343,544 367,544 391,546 415,544 439,546 463,546 487,546 511,546 534,546 558,547 582,547 606,547 630,547 654,547 678,547 702,547 725,547 749,547 773,546 797,546 821,546 838,546"/>
+                <TextEquiv>
+                    <Unicode>the Sui and the Ming; edited by the Buddhist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="73,587 101,594 131,588 140,594 150,588 189,595 198,589 276,593 276,563 228,563 202,553 194,562 73,557"/>
+                <Baseline points="78,581 101,581 125,581 149,582 173,581 197,582 221,582 245,582 269,582 278,582"/>
+                <TextEquiv>
+                    <Unicode>Association</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15504.a.42&#13;
+FANG SHAN YUN JU SI SHI JING&#13;
+FANG SHAN YUN JU SI SHI JING&#13;
+Fang Shan Yun Ju Si shi jing&#13;
+1978.&#13;
+4, 142 p., [62] p. of plates.; 36 cm.&#13;
+The Buddhist scriptures carved on stone between&#13;
+the Sui and the Ming; edited by the Buddhist&#13;
+Association</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

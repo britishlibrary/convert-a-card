@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.780+01:00</Created>
+        <LastChange>2023-06-21T18:37:29.605+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961236442.jpg" imageWidth="956" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687365449605" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="63,25 63,600 926,600 926,25"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="611,70 669,75 677,68 696,73 703,66 787,64 794,71 840,73 856,65 855,31 837,21 786,27 757,43 741,35 699,41 679,29 610,21"/>
+                <Baseline points="615,61 641,62 667,62 693,61 719,60 746,60 772,59 798,58 824,58 851,59"/>
+                <TextEquiv>
+                    <Unicode>15674.i.127</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="60,155 81,163 91,154 126,155 140,146 152,155 249,150 249,117 119,117 99,109 85,109 75,117 60,115"/>
+                <Baseline points="65,143 90,142 116,142 141,142 167,142 192,142 218,142 244,143"/>
+                <TextEquiv>
+                    <Unicode>FANG GE JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="57,210 110,205 123,218 147,209 200,218 208,210 260,211 282,203 282,174 261,164 239,175 190,181 58,170"/>
+                <Baseline points="63,201 89,201 116,201 143,201 170,201 196,201 223,201 250,203 277,204"/>
+                <TextEquiv>
+                    <Unicode>HE (Jingzhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="125,276 239,282 251,274 286,282 317,269 318,246 286,238 259,255 248,244 221,249 126,244"/>
+                <Baseline points="130,266 156,267 182,269 208,270 234,271 260,271 286,270 312,268"/>
+                <TextEquiv>
+                    <Unicode>Fang ge ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_106" custom="readingOrder {index:4;}">
+                <Coords points="240,456 246,456 272,456 299,456 325,457 352,458 353,443 326,442 299,441 272,441 246,441 240,441"/>
+                <Baseline points="240,456 246,456 272,456 299,456 325,457 352,458"/>
+                <TextEquiv>
+                    <Unicode>1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="128,523 162,531 175,522 200,530 234,524 250,531 270,515 281,522 386,522 386,500 362,492 319,494 310,485 238,492 230,501 191,485 127,486"/>
+                <Baseline points="133,514 160,515 188,516 215,516 243,515 270,515 298,514 325,513 353,513 381,514"/>
+                <TextEquiv>
+                    <Unicode>230 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="132,594 732,586 732,554 132,557"/>
+                <Baseline points="137,583 166,583 196,583 225,583 255,583 284,583 314,583 343,583 373,583 402,583 432,583 461,582 491,582 520,582 550,582 579,581 609,581 638,580 668,580 697,579 727,579"/>
+                <TextEquiv>
+                    <Unicode>Poems written in the 1950s and 60s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15674. i. 127.
+FANG GE JI
+HE (Jingzhi)
+Fang ge ji
+36 2/1 4/ 4 682 24.Kk.46
+M7. 1478
+230 p.; 19 cm.
+Poems written in the 1950s and 60s
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

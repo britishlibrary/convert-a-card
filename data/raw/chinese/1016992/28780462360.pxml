@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.539+01:00</Created>
+        <LastChange>2023-05-04T12:54:04.004+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758303" pageNr="147" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780462360.jpg" imageWidth="984" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197644004" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="61,106 61,601 843,601 843,106"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="567,135 592,146 640,146 687,130 743,146 759,138 798,146 813,136 813,103 800,101 751,101 736,115 675,113 663,101 567,101"/>
+                <Baseline points="572,131 598,132 624,132 650,132 676,132 703,131 729,131 755,131 781,132 808,133"/>
+                <TextEquiv>
+                    <Unicode>15346.e.117</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="62,196 692,210 831,192 831,156 62,154"/>
+                <Baseline points="67,182 106,182 146,182 186,182 226,182 266,182 306,182 346,182 386,182 426,182 466,182 506,182 546,182 586,182 626,183 666,183 706,183 746,183 786,184 826,184"/>
+                <TextEquiv>
+                    <Unicode>FAR EAST PRACTICAL ENGLISH-CHINESE DICTIONARY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="116,274 217,269 232,276 299,274 312,283 329,274 369,281 369,237 345,243 116,238"/>
+                <Baseline points="121,266 148,266 175,266 202,266 229,266 256,267 283,267 310,267 337,267 364,266"/>
+                <TextEquiv>
+                    <Unicode>LIANG (Shiqiu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="156,379 726,386 726,358 702,349 390,358 325,340 279,359 156,340"/>
+                <Baseline points="161,372 189,372 217,372 245,372 273,372 301,372 329,372 357,372 385,373 413,373 441,373 469,373 497,373 525,374 553,374 581,374 609,374 637,374 665,373 693,373 721,373"/>
+                <TextEquiv>
+                    <Unicode>Yuandong Ying-Han wuyong cidian.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="151,418 766,416 766,389 648,379 151,381"/>
+                <Baseline points="156,406 186,406 216,406 246,406 277,407 307,407 337,407 367,407 398,408 428,408 458,408 488,408 519,409 549,409 579,409 609,409 640,409 670,409 700,408 730,408 761,408"/>
+                <TextEquiv>
+                    <Unicode>Far East practical English-Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="146,450 298,450 306,458 328,458 351,446 351,430 336,421 221,419 216,413 191,423 170,415 146,421"/>
+                <Baseline points="151,442 178,441 206,441 234,441 262,442 290,442 318,444 346,445"/>
+                <TextEquiv>
+                    <Unicode>dictionary.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="151,490 199,490 205,484 217,484 223,490 315,490 315,467 293,452 229,453 216,466 151,460"/>
+                <Baseline points="156,481 181,480 207,479 233,479 258,479 284,480 310,479"/>
+                <TextEquiv>
+                    <Unicode>pp. 2400.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520038207_166" custom="readingOrder {index:7;}">
+                <Coords points="138,511 841,520 840,570 137,561"/>
+                <Baseline points="137,556 840,565"/>
+                <TextEquiv>
+                    <Unicode>The Far East Book Co.: Hong Kong, 1964.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15346.e.117&#13;
+FAR EAST PRACTICAL ENGLISH-CHINESE DICTIONARY&#13;
+LIANG (Shiqiu)&#13;
+Yuandong Ying-Han wuyong cidian.&#13;
+Far East practical English-Chinese&#13;
+dictionary.&#13;
+pp. 2400.&#13;
+The Far East Book Co.: Hong Kong, 1964.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

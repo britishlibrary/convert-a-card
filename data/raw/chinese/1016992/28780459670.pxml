@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.442+01:00</Created>
+        <LastChange>2023-05-04T12:52:41.272+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758296" pageNr="141"/>
+    </Metadata>
+    <Page imageFilename="28780459670.jpg" imageWidth="984" imageHeight="799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197561272" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="130,97 131,513 841,513 840,97"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="602,143 830,138 845,129 845,96 601,109"/>
+                <Baseline points="606,132 632,132 658,132 684,132 710,131 736,131 762,130 788,130 814,129 840,128"/>
+                <TextEquiv>
+                    <Unicode>15329.a.785</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="139,203 235,197 245,207 309,210 318,202 372,195 372,166 245,158 225,168 193,157 139,157"/>
+                <Baseline points="144,190 171,190 199,190 227,190 255,190 283,190 311,190 339,191 367,191"/>
+                <TextEquiv>
+                    <Unicode>FEI NÜ CHI QING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513620411_582" custom="readingOrder {index:2;}">
+                <Coords points="143,230 423,227 423,277 143,280"/>
+                <Baseline points="143,275 423,272"/>
+                <TextEquiv>
+                    <Unicode>YANG (Tiancheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="180,379 606,378 618,372 618,336 484,352 445,338 429,354 303,340 284,359 264,343 180,350"/>
+                <Baseline points="185,369 210,369 235,370 260,370 285,370 310,370 336,370 361,369 386,369 411,369 436,369 461,369 487,369 512,369 537,369 562,369 587,369 613,370"/>
+                <TextEquiv>
+                    <Unicode>Feinü chiqing. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="181,418 209,419 222,411 260,409 288,418 295,410 327,408 327,390 316,389 302,375 285,384 257,380 244,395 202,381 179,388"/>
+                <Baseline points="185,410 212,407 239,405 267,403 294,403 322,404"/>
+                <TextEquiv>
+                    <Unicode>pp. 246.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="175,485 789,474 789,452 744,436 687,452 175,445"/>
+                <Baseline points="180,472 210,472 240,471 270,471 300,471 331,470 361,470 391,470 421,470 451,470 482,469 512,469 542,469 572,469 602,469 633,469 663,469 693,469 723,469 753,469 784,469"/>
+                <TextEquiv>
+                    <Unicode>Jingang chubanshe: Hong Kong, 1967.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15329.a.785&#13;
+FEI NÜ CHI QING&#13;
+YANG (Tiancheng)&#13;
+Feinü chiqing. [A novel.]&#13;
+pp. 246.&#13;
+Jingang chubanshe: Hong Kong, 1967.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

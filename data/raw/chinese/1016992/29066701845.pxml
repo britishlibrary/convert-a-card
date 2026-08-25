@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.076+01:00</Created>
+        <LastChange>2023-08-16T15:05:17.600+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758562" pageNr="370" tsid="128197489" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=XCGXPFNJNPQEDHIEHADTXVNY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFXXZNRVIYOOPJICQGZJBCXD" imageId="35195868"/>
+    </Metadata>
+    <Page imageFilename="42758562.jpg" imageWidth="984" imageHeight="797">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692191117600" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="86,40 878,40 878,749 86,749"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="552,94 663,98 674,91 709,98 720,91 773,98 773,59 732,58 712,78 684,57 677,64 648,64 626,54 616,63 603,50 552,50"/>
+                <Baseline points="557,90 582,91 606,91 631,91 655,91 680,91 705,91 729,91 754,91 775,91"/>
+                <TextEquiv>
+                    <Unicode>15324.1.47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="116,161 158,161 186,186 216,161 247,152 263,163 295,162 309,175 327,161 416,157 416,121 116,120"/>
+                <Baseline points="121,152 145,152 170,154 195,152 219,154 244,152 268,152 293,152 318,150 342,152 367,152 391,154 416,152 418,152"/>
+                <TextEquiv>
+                    <Unicode>FENG SHE SHI HUA JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="81,232 773,234 773,193 474,193 451,216 388,194 299,193 276,216 232,193 81,194"/>
+                <Baseline points="86,227 111,226 136,226 160,226 185,226 209,226 234,226 259,226 283,226 308,226 332,226 357,226 382,226 406,226 431,227 455,226 480,226 505,226 529,226 554,226 578,226 603,224 628,226 652,224 677,224 701,224 726,227 751,226 775,226"/>
+                <TextEquiv>
+                    <Unicode>HONG KONG. Fengshe. Fengshe shihua ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="116,262 198,275 236,261 298,274 321,265 435,274 435,243 413,234 372,233 349,245 339,236 246,236 233,245 220,235 172,245 116,236"/>
+                <Baseline points="121,260 145,262 170,260 195,260 219,260 244,260 268,260 293,260 318,260 342,260 367,260 391,260 416,262 436,264"/>
+                <TextEquiv>
+                    <Unicode>bianji weiyuanhui.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="291,312 315,311 329,321 354,317 362,323 380,314 393,313 405,321 424,315 422,275 408,275 377,299 348,281 337,293 290,291"/>
+                <Baseline points="296,306 321,306 346,311 370,313 385,314 385,314 401,309 426,313"/>
+                <TextEquiv>
+                    <Unicode>5-lf. -26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="292,333 320,332 327,328 332,333 339,331 361,345 367,343 365,320 360,321 354,317 342,321 328,321 314,311 290,312"/>
+                <Baseline points="296,319 321,326 346,327 367,326"/>
+                <TextEquiv>
+                    <Unicode>2 -1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="219,326 251,331 255,326 263,325 261,287 246,287 236,298 217,298"/>
+                <Baseline points="224,321 249,323 264,323"/>
+                <TextEquiv>
+                    <Unicode>:.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="190,362 223,370 250,353 269,362 283,356 297,370 324,358 345,375 370,358 384,370 445,370 444,326 399,319 369,342 356,331 311,331 284,344 252,343 214,322 189,329"/>
+                <Baseline points="195,352 219,349 244,349 268,350 293,354 318,352 342,352 367,355 375,357 382,354 406,354 431,355 447,354"/>
+                <TextEquiv>
+                    <Unicode>1-0?]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="129,368 143,371 152,362 171,361 171,293 162,291 149,302 143,299 129,300"/>
+                <Baseline points="134,355 149,354 173,354"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="485,410 844,402 844,362 811,374 641,365 595,384 526,324 485,323"/>
+                <Baseline points="490,396 501,396 526,396 551,395 575,396 600,398 624,396 649,396 674,396 698,396 723,396 747,398 772,396 797,395 821,395 846,393"/>
+                <TextEquiv>
+                    <Unicode>Peens. paintines and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="116,410 147,402 198,411 253,396 426,410 453,398 410,370 380,385 338,370 282,369 261,383 248,373 185,382 116,373"/>
+                <Baseline points="121,396 145,396 170,400 195,398 219,396 244,396 268,396 293,398 318,398 342,398 367,396 391,398 416,398 441,398 455,396"/>
+                <TextEquiv>
+                    <Unicode>Fengshe shihua ji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="119,440 858,434 845,401 119,411"/>
+                <Baseline points="124,431 145,432 170,432 195,432 219,432 244,431 268,432 293,432 318,431 342,431 367,431 391,431 416,431 441,431 465,429 490,429 514,429 539,431 564,431 588,431 613,431 637,431 662,429 687,429 711,429 736,429 760,429 785,429 810,429 834,428 859,429"/>
+                <TextEquiv>
+                    <Unicode>calligraphy by the members of the art club</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="122,474 168,474 190,485 214,473 250,473 267,480 266,452 252,452 240,442 223,446 193,442 177,447 121,443"/>
+                <Baseline points="127,465 152,467 177,469 201,469 226,469 250,470 268,470"/>
+                <TextEquiv>
+                    <Unicode>Fengshe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="721,506 739,505 751,514 763,515 779,502 783,506 814,505 828,513 842,507 842,483 831,484 816,473 750,473 741,464 732,472 720,473"/>
+                <Baseline points="726,500 751,501 775,501 800,501 824,503 844,503"/>
+                <TextEquiv>
+                    <Unicode>27 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="123,522 154,521 182,507 387,514 388,485 322,474 305,486 294,475 247,492 232,476 219,476 176,493 164,481 124,481"/>
+                <Baseline points="129,505 144,506 168,506 193,506 218,506 242,506 267,505 291,505 316,503 341,503 365,503 390,503"/>
+                <TextEquiv>
+                    <Unicode>pp. 86, plates.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="114,573 176,586 563,578 563,548 482,534 457,557 438,543 294,540 114,556"/>
+                <Baseline points="119,572 144,572 168,573 193,573 218,573 242,573 267,573 291,573 316,573 341,573 365,573 390,572 414,573 439,575 464,573 488,573 513,572 537,572 562,573 565,572"/>
+                <TextEquiv>
+                    <Unicode>Fengshe: Hong Kong, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="127,658 153,658 161,649 214,650 221,644 289,658 287,611 273,611 263,619 233,610 214,627 195,609 178,609 171,616 126,613"/>
+                <Baseline points="132,639 157,641 182,644 206,644 231,644 255,644 280,646 290,647"/>
+                <TextEquiv>
+                    <Unicode>[vol. 2.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="711,741 803,747 841,746 849,739 866,754 876,753 875,701 862,701 846,716 781,717 763,707 751,715 734,700 711,713"/>
+                <Baseline points="716,739 741,737 765,737 790,737 815,737 839,739 864,739 878,739"/>
+                <TextEquiv>
+                    <Unicode>Chinese (</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

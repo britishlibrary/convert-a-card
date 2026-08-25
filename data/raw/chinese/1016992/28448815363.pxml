@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.056+01:00</Created>
+        <LastChange>2023-05-04T14:03:16.235+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758273" pageNr="121"/>
+    </Metadata>
+    <Page imageFilename="28448815363.jpg" imageWidth="972" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201796236" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="96,113 96,681 802,681 802,113"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="544,148 580,154 601,145 609,153 629,154 639,146 766,145 766,118 744,109 720,119 544,116"/>
+                <Baseline points="549,137 575,138 602,139 628,139 655,139 681,139 708,139 734,139 761,139"/>
+                <TextEquiv>
+                    <Unicode>15013.aa.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="148,204 751,202 761,161 148,173"/>
+                <Baseline points="153,196 183,196 213,195 243,195 273,194 303,194 333,194 364,193 394,193 424,192 454,192 484,192 514,191 544,191 575,191 605,190 635,190 665,190 695,190 725,190 756,190"/>
+                <TextEquiv>
+                    <Unicode>FAMILY INSTRUCTIONS FOR THE YEN CLAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195673443_807" custom="readingOrder {index:2;}">
+                <Coords points="113,239 322,238 322,288 113,289"/>
+                <Baseline points="113,284 322,283"/>
+                <TextEquiv>
+                    <Unicode>YAN (Zhitui)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="147,388 795,386 776,350 146,355"/>
+                <Baseline points="152,378 183,378 215,377 247,377 279,377 311,376 343,376 375,375 407,375 439,374 471,374 502,373 534,373 566,372 598,372 630,372 662,372 694,372 726,373 758,374 790,375"/>
+                <TextEquiv>
+                    <Unicode>Family instructions for the Yen clan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="150,421 709,418 700,381 149,389"/>
+                <Baseline points="155,413 182,413 209,412 237,412 264,411 292,411 319,410 347,410 374,409 402,409 429,409 456,409 484,409 511,408 539,408 566,408 594,408 621,407 649,407 676,407 704,407"/>
+                <TextEquiv>
+                    <Unicode>Yen-shih chia-hsün; an annotated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="155,459 719,447 705,421 154,426"/>
+                <Baseline points="160,447 187,447 215,447 243,447 270,447 298,447 326,447 353,446 381,446 409,446 437,446 464,446 492,446 520,446 547,445 575,444 603,444 630,443 658,442 686,442 714,440"/>
+                <TextEquiv>
+                    <Unicode>translation with introduction by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="146,490 191,491 198,498 222,497 231,489 299,488 314,498 327,490 363,490 363,469 335,456 304,460 296,468 248,457 228,466 147,460"/>
+                <Baseline points="152,479 177,479 203,480 229,480 255,480 280,481 306,481 332,481 358,482"/>
+                <TextEquiv>
+                    <Unicode>Teng Ssu-yü.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="152,531 199,530 206,523 218,530 320,531 351,522 386,530 418,522 418,501 351,492 331,507 306,493 239,493 209,508 152,502"/>
+                <Baseline points="157,516 182,517 208,518 233,518 259,517 285,516 310,516 336,516 361,515 387,516 413,517"/>
+                <TextEquiv>
+                    <Unicode>pp. xxxiv, 245.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="152,594 601,594 601,555 519,556 505,570 449,557 255,557 242,569 152,557"/>
+                <Baseline points="157,584 182,584 208,584 234,584 260,584 286,584 311,583 337,583 363,583 389,583 415,583 441,583 466,583 492,583 518,583 544,583 570,582 596,582"/>
+                <TextEquiv>
+                    <Unicode>E. J. Brill: Leiden, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="145,666 532,674 630,650 648,666 782,666 782,630 762,628 145,629"/>
+                <Baseline points="150,656 181,655 212,655 244,654 275,654 306,654 338,654 369,654 400,654 432,654 463,654 494,655 526,655 557,655 588,655 620,655 651,655 682,655 714,655 745,654 777,654"/>
+                <TextEquiv>
+                    <Unicode>Monographies du T'oung Pao, vol. IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15013.aa.4&#13;
+FAMILY INSTRUCTIONS FOR THE YEN CLAN&#13;
+YAN (Zhitui)&#13;
+Family instructions for the Yen clan.&#13;
+Yen-shih chia-hsün; an annotated&#13;
+translation with introduction by&#13;
+Teng Ssu-yü.&#13;
+pp. xxxiv, 245.&#13;
+E. J. Brill: Leiden, 1968.&#13;
+Monographies du T'oung Pao, vol. IV.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

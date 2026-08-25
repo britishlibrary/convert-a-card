@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.246+01:00</Created>
+        <LastChange>2023-05-04T12:52:05.173+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758283" pageNr="130"/>
+    </Metadata>
+    <Page imageFilename="28448819413.jpg" imageWidth="956" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197525173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="51,46 51,655 908,653 908,43"/>
+            <TextLine id="line_1654530883116_803" custom="readingOrder {index:0;}">
+                <Coords points="588,83 599,90 801,88 809,86 810,54 734,55 717,44 695,62 676,52 589,46"/>
+                <Baseline points="593,83 804,88"/>
+                <TextEquiv>
+                    <Unicode>15610.h.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="71,164 682,161 682,123 71,121"/>
+                <Baseline points="76,150 106,151 136,152 166,153 196,153 226,154 256,154 286,154 316,154 346,154 376,154 406,154 436,154 466,154 496,154 526,153 556,153 586,153 616,153 646,153 677,153"/>
+                <TextEquiv>
+                    <Unicode>FA JIA REN WU JI QI ZHU ZUO JIAN JIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="60,221 109,215 121,226 136,225 142,219 161,219 168,226 180,226 190,223 191,185 182,181 147,183 114,173 106,166 61,159"/>
+                <Baseline points="65,214 103,211 130,211 157,213 185,216"/>
+                <TextEquiv>
+                    <Unicode>QI (Li)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="124,289 756,290 756,258 737,253 124,253"/>
+                <Baseline points="129,279 160,280 191,280 222,281 253,281 284,281 315,282 346,282 377,282 408,282 440,282 471,282 502,282 533,282 564,282 595,282 626,282 657,282 688,283 719,283 751,283"/>
+                <TextEquiv>
+                    <Unicode>Fa jia ren wu ji qi zhu zuo jian jie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682512603491_184" custom="readingOrder {index:4;}">
+                <Coords points="725,409 826,409 826,459 725,459"/>
+                <Baseline points="725,454 826,454"/>
+                <TextEquiv>
+                    <Unicode>1976</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="129,529 245,525 261,538 317,523 370,525 402,538 435,523 435,509 358,493 283,505 255,490 214,486 176,511 152,493 129,493"/>
+                <Baseline points="134,522 160,523 187,523 214,523 241,523 268,522 295,521 322,521 349,521 376,521 403,522 430,523"/>
+                <TextEquiv>
+                    <Unicode>5, 307 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="135,595 722,594 795,613 864,596 853,565 693,571 621,549 553,572 135,563"/>
+                <Baseline points="140,589 177,589 215,589 253,589 291,589 329,590 367,590 404,590 442,590 480,590 518,590 556,590 594,590 631,590 669,590 707,591 745,591 783,591 821,591 859,591"/>
+                <TextEquiv>
+                    <Unicode>Legalist thinkers and their works, Zhou to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="135,645 146,645 156,636 179,636 185,642 207,642 212,637 217,638 217,609 207,604 169,605 164,600 153,604 135,604"/>
+                <Baseline points="140,629 176,629 212,630"/>
+                <TextEquiv>
+                    <Unicode>Qing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15610.h.7&#13;
+FA JIA REN WU JI QI ZHU ZUO JIAN JIE&#13;
+QI (Li)&#13;
+Fa jia ren wu ji qi zhu zuo jian jie&#13;
+1976&#13;
+5, 307 p.; 19 cm.&#13;
+Legalist thinkers and their works, Zhou to&#13;
+Qing</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

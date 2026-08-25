@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.374+01:00</Created>
+        <LastChange>2023-05-04T12:52:28.960+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758291" pageNr="137"/>
+    </Metadata>
+    <Page imageFilename="28780452330.jpg" imageWidth="952" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197548960" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="35,25 52,682 931,682 931,29"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="584,74 740,73 793,82 827,69 826,52 770,31 750,50 732,51 666,36 585,37"/>
+                <Baseline points="589,65 614,65 640,66 666,66 692,68 718,68 744,69 770,70 796,70 822,70"/>
+                <TextEquiv>
+                    <Unicode>15660.m.53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="90,130 109,120 271,128 364,115 364,80 347,80 335,68 298,85 147,84 121,65 90,76"/>
+                <Baseline points="95,112 121,113 147,114 174,114 200,114 227,114 253,114 279,114 306,114 332,114 359,115"/>
+                <TextEquiv>
+                    <Unicode>FENG NI KAO LÜE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="33,202 58,218 72,210 178,208 206,217 322,206 322,177 296,165 172,177 107,173 98,165 47,171 33,163"/>
+                <Baseline points="38,193 78,197 105,198 131,198 158,198 184,198 211,199 237,198 264,198 290,198 317,197"/>
+                <TextEquiv>
+                    <Unicode>FENG NI KAO LÜE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="128,274 187,282 258,272 378,275 409,262 409,244 391,244 373,228 329,246 283,245 275,237 260,248 248,238 184,245 128,238"/>
+                <Baseline points="133,266 160,267 187,268 214,268 241,268 268,268 295,267 322,267 349,267 376,268 404,268"/>
+                <TextEquiv>
+                    <Unicode>Feng ni kao lüe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683196298367_1020" custom="readingOrder {index:4;}">
+                <Coords points="561,403 638,403 638,453 561,453"/>
+                <Baseline points="561,448 638,448"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="110,521 249,530 277,522 371,523 390,512 390,501 290,484 273,484 260,496 211,493 198,484 174,494 110,484"/>
+                <Baseline points="115,511 142,512 169,513 196,513 223,514 250,514 277,515 304,515 331,515 358,515 385,514"/>
+                <TextEquiv>
+                    <Unicode>4 vols.; 22 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513313214_456" custom="readingOrder {index:6;}">
+                <Coords points="125,539 475,542 475,592 125,589"/>
+                <Baseline points="125,584 475,587"/>
+                <TextEquiv>
+                    <Unicode>Bound together with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513337083_465" custom="readingOrder {index:7;}">
+                <Coords points="744,540 858,538 859,588 745,590"/>
+                <Baseline points="745,585 859,583"/>
+                <TextEquiv>
+                    <Unicode>Zai xu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513373955_480" custom="readingOrder {index:8;}">
+                <Coords points="131,578 404,579 404,629 131,628"/>
+                <Baseline points="131,623 404,624"/>
+                <TextEquiv>
+                    <Unicode>feng ni kao lüe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682513377387_485" custom="readingOrder {index:9;}">
+                <Coords points="623,581 918,584 918,634 623,631"/>
+                <Baseline points="623,626 918,629"/>
+                <TextEquiv>
+                    <Unicode>reprints of earl-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:10;}">
+                <Coords points="136,666 684,665 684,635 652,629 529,644 451,629 312,643 136,630"/>
+                <Baseline points="141,656 167,656 194,657 221,657 248,657 275,657 302,657 329,658 356,658 383,658 410,658 436,658 463,658 490,658 517,657 544,657 571,657 598,657 625,657 652,657 679,656"/>
+                <TextEquiv>
+                    <Unicode>ier works, collections of seals</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15660.m.53&#13;
+FENG NI KAO LÜE&#13;
+FENG NI KAO LÜE&#13;
+Feng ni kao lüe&#13;
+1982&#13;
+4 vols.; 22 cm.&#13;
+Bound together with&#13;
+Zai xu&#13;
+feng ni kao lüe&#13;
+reprints of earl-&#13;
+ier works, collections of seals</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

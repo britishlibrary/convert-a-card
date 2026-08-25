@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.284+01:00</Created>
+        <LastChange>2023-05-10T17:09:48.402+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758359" pageNr="196"/>
+    </Metadata>
+    <Page imageFilename="28961220432.jpg" imageWidth="980" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731388402" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="114,101 114,595 903,595 903,101"/>
+            <TextLine id="line_1654531875422_1330" custom="readingOrder {index:0;}">
+                <Coords points="547,132 706,138 718,130 726,138 779,138 800,127 801,104 782,93 743,93 719,110 672,101 660,113 641,101 548,100"/>
+                <Baseline points="552,133 795,136"/>
+                <TextEquiv>
+                    <Unicode>15235.a.386</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="176,210 585,210 585,155 176,154"/>
+                <Baseline points="181,194 207,194 234,195 260,195 287,195 314,196 340,196 367,196 393,196 420,196 447,196 473,196 500,196 526,196 553,196 580,197"/>
+                <TextEquiv>
+                    <Unicode>FEMMES DERRIERE UN VOILE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="133,274 218,268 232,282 250,272 281,282 306,273 387,282 388,238 373,232 359,245 295,237 273,246 239,229 223,237 134,236"/>
+                <Baseline points="138,260 165,263 192,264 219,264 246,264 273,264 300,264 327,265 354,267 382,269"/>
+                <TextEquiv>
+                    <Unicode>DING (Yaokang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731325864_2198" custom="readingOrder {index:3;}">
+                <Coords points="165,327 811,334 811,384 165,377"/>
+                <Baseline points="165,372 811,379"/>
+                <TextEquiv>
+                    <Unicode>Femmes derrière un voile. [Blumen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="165,410 847,425 881,418 882,381 663,398 629,381 166,380"/>
+                <Baseline points="170,400 205,400 240,400 275,400 311,401 346,401 381,402 417,402 452,403 487,404 523,404 558,405 593,406 628,407 664,407 699,408 734,409 770,409 805,409 840,410 876,410"/>
+                <TextEquiv>
+                    <Unicode>schatten hinter dem Vorhang, an abridged</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="165,442 881,458 881,428 804,420 699,435 166,413"/>
+                <Baseline points="170,435 205,436 240,436 275,436 311,437 346,437 381,438 417,439 452,439 487,440 523,441 558,441 593,442 628,443 664,443 699,444 734,445 770,445 805,446 840,447 876,447"/>
+                <TextEquiv>
+                    <Unicode>translation of Gelian huaying, a Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="162,482 277,482 278,461 268,460 250,445 241,445 233,453 163,453"/>
+                <Baseline points="168,471 194,470 220,471 246,472 303,470"/>
+                <TextEquiv>
+                    <Unicode>novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="163,522 194,523 206,514 228,512 259,524 288,528 302,514 317,513 317,494 305,494 291,480 281,485 258,482 253,487 242,481 226,497 204,484 163,485"/>
+                <Baseline points="168,510 196,508 225,508 254,508 283,509 312,508"/>
+                <TextEquiv>
+                    <Unicode>pp. 436.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="163,586 635,586 635,562 589,548 516,570 419,548 163,548"/>
+                <Baseline points="168,575 193,575 219,575 245,576 270,576 296,576 322,576 347,577 373,577 399,577 424,578 450,579 476,579 501,580 527,580 553,581 578,582 604,582 630,583"/>
+                <TextEquiv>
+                    <Unicode>Calmann-Levy: Paris, 1962.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15235.a.386&#13;
+FEMMES DERRIERE UN VOILE&#13;
+DING (Yaokang)&#13;
+Femmes derrière un voile. [Blumen-&#13;
+schatten hinter dem Vorhang, an abridged&#13;
+translation of Gelian huaying, a Chinese&#13;
+novel.]&#13;
+pp. 436.&#13;
+Calmann-Levy: Paris, 1962.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

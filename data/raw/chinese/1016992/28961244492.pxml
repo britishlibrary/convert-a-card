@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.348+01:00</Created>
+        <LastChange>2023-06-29T13:29:55.014+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758436" pageNr="261"/>
+    </Metadata>
+    <Page imageFilename="28961244492.jpg" imageWidth="960" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038195014" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="39,36 36,673 897,675 900,38"/>
+            <TextLine id="line_1654764388925_367" custom="readingOrder {index:0;}">
+                <Coords points="542,83 868,82 868,41 853,49 836,37 721,42 704,58 677,44 542,44"/>
+                <Baseline points="547,80 863,80"/>
+                <TextEquiv>
+                    <Unicode>15408.k.195-198</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="34,154 369,154 378,150 378,89 319,93 306,106 221,106 203,94 33,104"/>
+                <Baseline points="39,143 64,143 90,142 116,143 141,143 167,143 193,144 218,144 244,144 270,144 295,144 321,143 347,141 373,139"/>
+                <TextEquiv>
+                    <Unicode>FA ZANG CUI JIN CHAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="43,224 222,226 222,180 181,191 161,189 152,181 130,193 43,189"/>
+                <Baseline points="48,217 76,216 104,216 132,216 160,215 188,215 217,216"/>
+                <TextEquiv>
+                    <Unicode>CHAO (Hui)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="76,290 209,298 283,288 303,298 443,282 442,255 348,264 313,252 230,254 216,268 76,261"/>
+                <Baseline points="81,284 106,284 132,284 157,285 183,285 208,285 234,284 259,284 285,284 310,283 336,283 361,282 387,282 412,281 438,281"/>
+                <TextEquiv>
+                    <Unicode>Fa zang cui jin chao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036210326_600" custom="readingOrder {index:4;}">
+                <Coords points="443,420 535,419 535,469 443,470"/>
+                <Baseline points="443,465 535,464"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036233845_613" custom="readingOrder {index:5;}">
+                <Coords points="78,545 276,546 276,596 78,595"/>
+                <Baseline points="78,590 276,591"/>
+                <TextEquiv>
+                    <Unicode>4 v.; 19cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036236894_618" custom="readingOrder {index:6;}">
+                <Coords points="719,542 879,543 879,593 719,592"/>
+                <Baseline points="719,587 879,588"/>
+                <TextEquiv>
+                    <Unicode>195-198</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="87,659 532,658 603,650 603,624 503,612 422,612 406,627 86,621"/>
+                <Baseline points="92,648 117,648 142,647 167,647 193,646 218,646 243,646 269,646 294,645 319,645 345,645 370,644 395,644 420,644 446,643 471,643 496,643 522,642 547,642 572,642 598,641"/>
+                <TextEquiv>
+                    <Unicode>Song Buddhist work in 10 juan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.k.195-198&#13;
+FA ZANG CUI JIN CHAO&#13;
+CHAO (Hui)&#13;
+Fa zang cui jin chao&#13;
+1980&#13;
+4 v.; 19cm.&#13;
+195-198&#13;
+Song Buddhist work in 10 juan</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

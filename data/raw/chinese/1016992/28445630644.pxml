@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.266+01:00</Created>
+        <LastChange>2023-05-04T12:46:19.534+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758221" pageNr="75"/>
+    </Metadata>
+    <Page imageFilename="28445630644.jpg" imageWidth="956" imageHeight="718">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197179534" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="97,18 97,516 921,515 921,17"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="645,66 888,55 887,18 644,22"/>
+                <Baseline points="650,54 675,55 701,55 727,55 753,53 779,52 805,51 831,50 857,50 883,52"/>
+                <TextEquiv>
+                    <Unicode>15676. f. 118.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="103,203 163,198 184,210 210,200 278,201 295,210 309,196 320,196 320,167 297,157 275,167 241,168 218,150 203,165 103,165"/>
+                <Baseline points="108,194 133,195 159,195 185,195 211,194 237,194 263,194 289,194 315,196"/>
+                <TextEquiv>
+                    <Unicode>LI (Jianwu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="135,277 335,272 335,238 297,239 289,233 278,239 135,243"/>
+                <Baseline points="140,262 167,261 194,261 221,262 248,262 275,262 302,262 330,262"/>
+                <TextEquiv>
+                    <Unicode>Fan ma ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683192914244_86" custom="readingOrder {index:3;}">
+                <Coords points="670,374 761,373 761,423 670,424"/>
+                <Baseline points="670,419 761,418"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="143,502 799,512 926,489 855,461 142,473"/>
+                <Baseline points="148,499 186,499 225,499 263,499 302,499 341,499 379,498 418,498 457,497 495,497 534,496 573,496 611,495 650,494 689,494 727,493 766,492 805,492 843,491 882,490 921,490"/>
+                <TextEquiv>
+                    <Unicode>111 p., 1 leaf of plates: ill., port.; 21 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15676. f. 118.&#13;
+LI (Jianwu)&#13;
+Fan ma ji&#13;
+1981&#13;
+111 p., 1 leaf of plates: ill., port.; 21 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

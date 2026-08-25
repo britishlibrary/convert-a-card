@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.126+01:00</Created>
+        <LastChange>2023-06-22T15:31:21.385+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961240192.jpg" imageWidth="960" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440681385" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="36,55 36,769 909,769 909,55"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="599,79 623,98 887,98 887,50 784,52 766,66 599,60"/>
+                <Baseline points="604,86 629,87 654,88 679,89 705,89 730,89 755,89 780,89 806,88 831,88 856,88 882,88"/>
+                <TextEquiv>
+                    <Unicode>15290.e.35/26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="32,163 94,160 169,170 176,163 244,156 244,123 32,120"/>
+                <Baseline points="37,153 62,153 87,153 112,152 138,152 163,153 188,153 213,154 239,155"/>
+                <TextEquiv>
+                    <Unicode>FAN SHENG LU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="31,237 673,227 674,201 31,204"/>
+                <Baseline points="36,228 67,227 99,227 130,227 162,227 194,227 225,226 257,226 289,226 320,225 352,225 384,224 415,224 447,223 479,223 510,222 542,222 574,221 605,220 637,220 669,219"/>
+                <TextEquiv>
+                    <Unicode>XI HU LAO REN FAN SHENG LU SAN ZHONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="69,307 712,297 711,264 636,260 535,277 496,261 69,269"/>
+                <Baseline points="75,296 106,296 138,296 169,296 201,296 232,295 264,295 295,294 327,294 358,293 390,293 422,292 453,292 485,291 516,291 548,291 579,290 611,290 642,290 674,290 706,290"/>
+                <TextEquiv>
+                    <Unicode>Xi hu lao ren fan sheng lu san zhong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_191" custom="readingOrder {index:4;}">
+                <Coords points="697,462 705,462 744,462 784,463 823,465 863,466 863,451 824,450 785,448 744,447 705,447 697,447"/>
+                <Baseline points="697,462 705,462 744,462 784,463 823,465 863,466"/>
+                <TextEquiv>
+                    <Unicode> 70 [1981]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_193" custom="readingOrder {index:5;}">
+                <Coords points="72,590 112,589 153,588 193,587 234,586 275,585 315,584 356,583 394,582 394,567 356,568 315,569 275,570 234,571 193,572 153,573 112,574 72,575"/>
+                <Baseline points="72,590 112,589 153,588 193,587 234,586 275,585 315,584 356,583 394,582"/>
+                <TextEquiv>
+                    <Unicode>544 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_197" custom="readingOrder {index:6;}">
+                <Coords points="646,713 673,713 713,713 753,713 793,712 833,711 874,709 873,694 832,696 793,697 753,698 713,698 673,698 646,698"/>
+                <Baseline points="646,713 673,713 713,713 753,713 793,712 833,711 874,709"/>
+                <TextEquiv>
+                    <Unicode>Facsimiles of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_198" custom="readingOrder {index:7;}">
+                <Coords points="74,759 99,759 124,759 150,759 175,758 201,757 226,756 251,755 277,755 302,755 328,755 379,754 406,754 434,752 462,754 463,739 434,737 405,739 379,739 328,740 302,740 277,740 251,740 225,741 200,742 174,743 150,744 124,744 99,744 74,744"/>
+                <Baseline points="74,759 99,759 124,759 150,759 175,758 201,757 226,756 251,755 277,755 302,755 328,755 379,754 406,754 434,752 462,754"/>
+                <TextEquiv>
+                    <Unicode>Song works on Hangzhou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15290. e. 35/26.
+FAN SHENG LU
+XI HU LAO REN FAN SHENG LU SAN ZHONG
+Xi hu lao ren fan sheng lu san zhong
+ 2 21 2 44  %
+ 14.— 2 N.X29 „ 6  10 C971
+Sll. p.; 21 en „-( % 4 k4 1 2 4.)
+1.3 N41 2. 4 2 4. P/a 48 f.
+3.R+-Facsimiles of
+chi¬
+gzhod
+Song works on H</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

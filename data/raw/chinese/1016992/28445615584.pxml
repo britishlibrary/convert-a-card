@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.204+01:00</Created>
+        <LastChange>2023-05-03T17:42:44.230+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758165" pageNr="26"/>
+    </Metadata>
+    <Page imageFilename="28445615584.jpg" imageWidth="984" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128564231" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="39,53 39,739 917,737 917,51"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="560,81 846,81 846,46 839,45 728,44 712,61 703,52 667,59 645,44 560,45"/>
+                <Baseline points="565,72 590,72 615,72 640,72 665,73 690,73 715,74 740,75 765,75 790,75 815,74 841,73"/>
+                <TextEquiv>
+                    <Unicode>15248.a.17/122</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="49,143 224,146 238,160 255,146 352,146 406,162 429,139 545,139 545,107 418,106 401,92 309,114 256,109 240,92 49,101"/>
+                <Baseline points="54,127 79,128 105,129 130,130 156,130 181,130 207,131 233,131 258,131 284,131 309,131 335,131 360,131 386,131 412,131 437,131 463,132 488,132 514,133 540,134"/>
+                <TextEquiv>
+                    <Unicode>FEN LEI TONG XING GUANG ZHOU HUA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281511618_225" custom="readingOrder {index:2;}">
+                <Coords points="48,165 255,168 254,218 47,215"/>
+                <Baseline points="47,210 254,213"/>
+                <TextEquiv>
+                    <Unicode>LIN (Yutang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="81,378 910,383 910,354 880,349 81,349"/>
+                <Baseline points="86,371 129,372 172,372 215,373 258,373 301,374 344,374 387,374 430,374 473,374 517,374 560,374 603,374 646,374 689,374 732,374 775,374 818,374 861,375 905,375"/>
+                <TextEquiv>
+                    <Unicode>Fangyan zhuanhao. [Articles on Chinese dialects</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="85,418 497,419 528,402 582,422 825,418 825,389 723,384 85,389"/>
+                <Baseline points="90,408 126,408 163,408 199,408 236,409 272,409 309,409 345,409 382,409 418,409 455,409 491,409 528,410 564,410 601,410 637,410 674,410 710,410 747,410 783,410 820,410"/>
+                <TextEquiv>
+                    <Unicode>by Lin Yutang and others. Reprinted from a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="81,451 879,456 879,429 815,420 81,421"/>
+                <Baseline points="86,440 125,440 164,441 204,442 243,442 282,443 322,443 361,443 400,444 440,444 479,444 518,444 558,445 597,445 636,445 676,445 715,445 754,445 794,445 833,445 873,446"/>
+                <TextEquiv>
+                    <Unicode>special issue (Vol. 8, nos. 85-7) of Guoli Zhong-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="81,483 874,490 874,463 808,451 81,458"/>
+                <Baseline points="86,476 125,476 164,477 203,477 242,477 281,477 320,477 360,477 399,477 438,478 477,478 516,478 555,478 594,478 634,479 673,479 712,479 751,480 790,480 829,480 869,480"/>
+                <TextEquiv>
+                    <Unicode>shan daxue yuyan lishi xue yanjiu suo zhoukan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="80,522 504,528 599,507 871,527 868,490 80,485"/>
+                <Baseline points="85,509 124,510 163,510 202,511 241,511 280,512 319,512 358,512 397,513 436,513 475,513 514,513 553,513 592,513 631,513 670,513 709,513 748,513 787,513 826,513 866,513"/>
+                <TextEquiv>
+                    <Unicode>With a reprint of a monograph on Cantonese by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="77,551 890,558 875,525 77,520"/>
+                <Baseline points="82,543 122,543 162,544 202,545 242,545 282,545 322,546 363,546 403,546 443,547 483,547 523,547 563,547 603,547 644,548 684,548 724,548 764,548 804,549 844,549 885,550"/>
+                <TextEquiv>
+                    <Unicode>Tan Jigiang, entitled Fenlei tongxing Guangzhou</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281579830_235" custom="readingOrder {index:9;}">
+                <Coords points="86,538 170,538 170,588 86,588"/>
+                <Baseline points="86,583 170,583"/>
+                <TextEquiv>
+                    <Unicode>hua.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="73,626 196,626 206,617 214,626 269,626 270,604 258,604 248,592 231,588 201,590 193,598 184,589 131,587 116,596 74,595"/>
+                <Baseline points="79,613 105,613 131,614 158,615 184,616 211,617 237,617 264,618"/>
+                <TextEquiv>
+                    <Unicode>pp. 120, 74.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="736,623 746,621 765,626 778,618 786,627 825,627 840,620 840,600 827,600 821,596 774,597 758,588 736,588"/>
+                <Baseline points="741,616 772,615 803,616 835,616"/>
+                <TextEquiv>
+                    <Unicode>20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="83,674 591,690 697,681 698,657 83,645"/>
+                <Baseline points="88,666 118,668 148,668 178,669 208,670 239,670 269,671 299,671 329,672 359,672 390,672 420,672 450,673 480,673 510,673 541,673 571,673 601,674 631,674 661,674 692,675"/>
+                <TextEquiv>
+                    <Unicode>Dongfang wenhua shuju: Taipei, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281635842_251" custom="readingOrder {index:13;}">
+                <Coords points="82,662 891,665 891,715 82,712"/>
+                <Baseline points="82,707 891,710"/>
+                <TextEquiv>
+                    <Unicode>Guoli Beijing daxue Zhgguo minsu xuehui minsu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657281665497_260" custom="readingOrder {index:14;}">
+                <Coords points="95,682 306,688 305,738 94,732"/>
+                <Baseline points="94,727 305,733"/>
+                <TextEquiv>
+                    <Unicode>congshu, 122.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15248.a.17/122&#13;
+FEN LEI TONG XING GUANG ZHOU HUA&#13;
+LIN (Yutang)&#13;
+Fangyan zhuanhao. [Articles on Chinese dialects&#13;
+by Lin Yutang and others. Reprinted from a&#13;
+special issue (Vol. 8, nos. 85-7) of Guoli Zhong-&#13;
+shan daxue yuyan lishi xue yanjiu suo zhoukan.&#13;
+With a reprint of a monograph on Cantonese by&#13;
+Tan Jigiang, entitled Fenlei tongxing Guangzhou&#13;
+hua.]&#13;
+pp. 120, 74.&#13;
+20 cm.&#13;
+Dongfang wenhua shuju: Taipei, 1974.&#13;
+Guoli Beijing daxue Zhgguo minsu xuehui minsu&#13;
+congshu, 122.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

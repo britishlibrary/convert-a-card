@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.339+01:00</Created>
+        <LastChange>2023-05-10T17:13:24.901+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758363" pageNr="199" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961222642.jpg" imageWidth="956" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683731604901" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="42,36 44,610 875,610 873,36"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="592,70 614,82 638,76 653,82 813,81 827,74 827,50 800,44 706,50 648,39 592,41"/>
+                <Baseline points="597,68 622,70 647,71 672,71 697,71 722,71 747,70 772,70 797,70 822,71"/>
+                <TextEquiv>
+                    <Unicode>15654.b.10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="60,162 102,162 122,150 343,151 343,120 138,120 101,88 61,84"/>
+                <Baseline points="65,146 92,144 119,143 146,143 174,143 201,144 228,145 256,145 283,145 310,145 338,144"/>
+                <TextEquiv>
+                    <Unicode>FEI SHUI DA ZHAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="65,213 305,217 316,211 317,180 294,173 276,184 159,181 140,173 129,181 66,181"/>
+                <Baseline points="70,202 96,202 123,202 150,202 177,203 203,204 230,204 257,206 284,206 311,207"/>
+                <TextEquiv>
+                    <Unicode>SHI (Jinzhong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="127,277 423,278 423,253 373,253 366,245 341,255 307,245 283,255 269,245 215,245 206,254 127,245"/>
+                <Baseline points="132,269 158,268 184,269 210,269 236,269 262,270 288,271 314,271 340,271 366,272 392,271 418,270"/>
+                <TextEquiv>
+                    <Unicode>Fei shui da zhan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683731578715_2282" custom="readingOrder {index:4;}">
+                <Coords points="557,407 653,410 652,460 556,457"/>
+                <Baseline points="556,452 652,455"/>
+                <TextEquiv>
+                    <Unicode>1976</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="137,518 418,518 418,498 360,486 227,496 190,485 172,497 160,486 137,485"/>
+                <Baseline points="142,508 169,509 196,510 223,511 250,511 277,511 304,511 331,510 358,510 385,510 413,511"/>
+                <TextEquiv>
+                    <Unicode>2, 54 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="133,587 508,594 529,580 529,564 495,556 197,563 133,552"/>
+                <Baseline points="138,577 163,578 189,578 215,578 240,579 266,579 292,579 318,579 343,579 369,579 395,579 421,579 446,579 472,579 498,580 524,580"/>
+                <TextEquiv>
+                    <Unicode>The 4th century battle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15654.b.10&#13;
+FEI SHUI DA ZHAN&#13;
+SHI (Jinzhong)&#13;
+Fei shui da zhan&#13;
+1976&#13;
+2, 54 p.; 19 cm.&#13;
+The 4th century battle</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

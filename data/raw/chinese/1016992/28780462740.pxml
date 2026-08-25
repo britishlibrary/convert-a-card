@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.588+01:00</Created>
+        <LastChange>2023-05-04T12:54:12.403+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758306" pageNr="150"/>
+    </Metadata>
+    <Page imageFilename="28780462740.jpg" imageWidth="948" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197652404" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="95,46 101,522 856,510 852,35"/>
+            <TextLine id="line_1682520273461_250" custom="readingOrder {index:0;}">
+                <Coords points="543,41 832,42 832,92 543,91"/>
+                <Baseline points="543,86 832,87"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.206</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531460113_978" custom="readingOrder {index:1;}">
+                <Coords points="129,249 192,246 205,236 220,246 343,248 366,238 366,221 345,213 325,222 300,213 274,221 246,221 238,213 129,213"/>
+                <Baseline points="134,243 361,241"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Rongzhao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531462901_983" custom="readingOrder {index:2;}">
+                <Coords points="149,284 174,274 336,285 377,268 436,269 453,286 494,286 494,253 480,249 149,251"/>
+                <Baseline points="154,273 489,272"/>
+                <TextEquiv>
+                    <Unicode>Fang zhong yan yan jiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1682520687161_263" custom="readingOrder {index:3;}">
+                <Coords points="450,291 513,289 514,339 451,341"/>
+                <Baseline points="451,336 514,334"/>
+                <TextEquiv>
+                    <Unicode>1987</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="164,368 222,365 233,372 243,362 296,367 319,361 319,350 306,349 293,336 255,336 227,345 202,334 194,338 188,333 164,333"/>
+                <Baseline points="169,360 198,360 227,360 256,360 285,360 314,360"/>
+                <TextEquiv>
+                    <Unicode>291p.:ill.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="165,403 230,395 309,402 331,392 363,399 428,395 443,386 443,370 420,358 405,367 306,364 293,372 241,364 232,375 220,366 165,368"/>
+                <Baseline points="170,391 196,390 223,390 250,389 277,389 304,388 330,388 357,388 384,387 411,387 438,387"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962-01-0521-8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="165,490 281,489 297,478 297,465 291,465 279,453 206,453 201,458 193,453 177,453 165,458"/>
+                <Baseline points="170,477 200,478 231,477 261,478 292,479"/>
+                <TextEquiv>
+                    <Unicode>s1.H17.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.206&#13;
+CHEN (Rongzhao)&#13;
+Fang zhong yan yan jiu&#13;
+1987&#13;
+291p.:ill.&#13;
+ISBN 962-01-0521-8&#13;
+s1.H17.1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.284+01:00</Created>
+        <LastChange>2023-06-29T13:29:23.498+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758430" pageNr="257"/>
+    </Metadata>
+    <Page imageFilename="28961242582.jpg" imageWidth="948" imageHeight="782">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038163498" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="33,35 39,743 908,751 902,43"/>
+            <TextLine id="line_1688030818490_287" custom="readingOrder {index:0;}">
+                <Coords points="555,39 788,43 787,93 554,89"/>
+                <Baseline points="554,84 787,88"/>
+                <TextEquiv>
+                    <Unicode>15674.f.71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654764289042_324" custom="readingOrder {index:1;}">
+                <Coords points="50,137 497,130 511,94 267,110 119,108 77,85 50,96"/>
+                <Baseline points="55,132 506,132"/>
+                <TextEquiv>
+                    <Unicode>FAN CHENG DA YI ZHU LI CUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="59,226 127,225 136,234 158,228 286,232 286,186 267,193 136,189 128,197 59,192"/>
+                <Baseline points="64,220 91,220 118,220 145,220 172,220 199,220 226,221 253,221 281,221"/>
+                <TextEquiv>
+                    <Unicode>FAN (Chengda)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="126,286 281,289 292,277 307,290 336,278 355,290 448,274 507,290 507,258 415,253 400,268 384,253 349,264 327,253 128,255"/>
+                <Baseline points="131,279 157,279 184,279 210,280 237,280 263,280 290,280 316,281 343,281 369,281 396,281 422,281 449,281 475,280 502,280"/>
+                <TextEquiv>
+                    <Unicode>fan cheng da yi zhu li cun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035530301_313" custom="readingOrder {index:4;}">
+                <Coords points="134,360 202,361 201,411 133,410"/>
+                <Baseline points="133,405 201,406"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="44,708 150,700 159,707 357,706 357,676 273,676 265,684 247,676 44,677"/>
+                <Baseline points="49,698 74,699 99,699 124,699 150,699 175,698 200,698 225,698 251,698 276,698 301,698 326,698 352,699"/>
+                <TextEquiv>
+                    <Unicode>I214.42 44.246 I214.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035636546_370" custom="readingOrder {index:6;}">
+                <Coords points="44,692 101,693 100,743 43,742"/>
+                <Baseline points="43,737 100,738"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035639697_375" custom="readingOrder {index:7;}">
+                <Coords points="692,656 878,657 878,707 692,706"/>
+                <Baseline points="692,701 878,702"/>
+                <TextEquiv>
+                    <Unicode>82-70-39 [31]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035642128_380" custom="readingOrder {index:8;}">
+                <Coords points="622,694 881,694 881,744 622,744"/>
+                <Baseline points="622,739 881,739"/>
+                <TextEquiv>
+                    <Unicode>10018.516 83-8789</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15674.f.71&#13;
+FAN CHENG DA YI ZHU LI CUN&#13;
+FAN (Chengda)&#13;
+fan cheng da yi zhu li cun&#13;
+1983&#13;
+I214.42 44.246 I214.4&#13;
+1983&#13;
+82-70-39 [31]&#13;
+10018.516 83-8789</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

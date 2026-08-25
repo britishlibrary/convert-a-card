@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.633+01:00</Created>
+        <LastChange>2023-06-21T17:56:24.127+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758383" pageNr="217"/>
+    </Metadata>
+    <Page imageFilename="28961234682.jpg" imageWidth="956" imageHeight="784">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687362984127" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="73,17 73,656 900,656 900,17"/>
+            <TextLine id="line_1654764033016_99" custom="readingOrder {index:0;}">
+                <Coords points="536,67 868,57 868,17 701,15 620,-1 536,6"/>
+                <Baseline points="541,63 863,62"/>
+                <TextEquiv>
+                    <Unicode>CHI.1988.a.619	</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="68,194 159,193 168,203 184,194 344,199 345,158 231,165 167,157 150,172 127,157 69,156"/>
+                <Baseline points="73,188 99,188 126,188 152,189 179,189 206,189 232,190 259,190 285,191 312,191 339,192"/>
+                <TextEquiv>
+                    <Unicode>WANG (Zhongwen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="99,270 866,272 873,233 100,232"/>
+                <Baseline points="105,257 143,258 181,258 219,259 257,260 295,260 333,260 372,261 410,261 448,261 486,261 524,261 562,261 600,261 639,262 677,262 715,262 753,262 791,262 829,262 868,262"/>
+                <TextEquiv>
+                    <Unicode>Fang la fan: Shui hu bei zhuan (yin shou bu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_123" custom="readingOrder {index:3;}">
+                <Coords points="308,521 310,521 336,521 362,521 388,523 414,526 416,511 389,508 363,506 336,506 310,506 308,506"/>
+                <Baseline points="308,521 310,521 336,521 362,521 388,523 414,526"/>
+                <TextEquiv>
+                    <Unicode>1986</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="141,578 172,577 172,549 154,549 153,550 141,549"/>
+                <Baseline points="146,572 167,572"/>
+                <TextEquiv>
+                    <Unicode>v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;}">
+                <Coords points="102,644 609,645 609,606 501,617 472,605 102,605"/>
+                <Baseline points="107,635 133,635 159,634 185,634 211,634 237,634 263,634 290,634 316,634 342,635 368,635 394,635 420,635 447,636 473,636 499,636 525,637 551,637 577,637 604,638"/>
+                <TextEquiv>
+                    <Unicode>t1. SHUI HU ZHUAN. s1. LF07.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI. 1988. a. 619.
+WANG (Zhongwen)
+Fang la fan: Shui hu bei zhuan (yin shou bu)
+1 15231 2. 45 (31 42
+)i
+
+V.
+t1. SHUI HU ZHUAN. s1. LF07.
+chi-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

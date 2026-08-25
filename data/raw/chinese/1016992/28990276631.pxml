@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.177+01:00</Created>
+        <LastChange>2023-07-03T16:24:02.477+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758494" pageNr="311" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=ROSADTDUPTHELOWAURLZIAJE&amp;fileType=view" imageId="35195800"/>
+    </Metadata>
+    <Page imageFilename="42758494.jpg" imageWidth="956" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394242477" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="41,74 911,74 911,731 41,731"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="581,134 686,139 695,130 703,138 737,138 751,129 774,146 796,138 794,77 750,111 732,111 716,97 698,112 681,110 635,88 625,99 580,101"/>
+                <Baseline points="586,125 610,124 634,125 658,127 682,129 705,130 729,130 753,130 777,130 799,129"/>
+                <TextEquiv>
+                    <Unicode>15635.g.5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="68,186 343,186 349,135 310,134 298,146 239,141 216,160 183,133 153,161 129,145 84,155 67,147"/>
+                <Baseline points="73,176 97,178 121,178 145,178 168,178 192,178 216,178 240,176 264,178 288,178 312,178 336,180 353,178"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHI SHI HUA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="35,268 859,268 858,234 375,246 34,220"/>
+                <Baseline points="41,251 65,253 89,253 113,253 137,253 160,256 184,256 208,256 232,256 256,256 280,256 304,258 328,259 352,259 376,259 399,259 423,261 447,261 471,261 495,261 519,261 543,261 567,262 591,264 615,264 639,264 662,266 686,267 710,267 734,267 758,267 782,269 806,267 830,267 854,267 862,269"/>
+                <TextEquiv>
+                    <Unicode>SHANGHAI. Shang hai shi fang zhi ke xue yan jiu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="44,306 587,321 585,267 43,267"/>
+                <Baseline points="50,293 60,290 84,290 108,290 132,290 138,293 162,297 186,299 210,294 234,296 258,297 282,297 305,299 329,301 353,299 377,299 401,299 425,301 449,302 473,304 497,305 521,307 544,309 568,310 589,310"/>
+                <TextEquiv>
+                    <Unicode>yuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="98,400 791,417 836,393 707,362 671,381 420,362 397,386 97,356"/>
+                <Baseline points="103,385 127,392 151,393 175,392 199,393 223,396 247,395 270,396 294,396 318,396 342,396 366,398 390,398 414,396 438,398 462,399 486,399 509,401 533,399 557,399 581,401 605,401 629,403 653,403 677,403 701,403 725,403 748,403 772,404 796,404 820,403 838,403"/>
+                <TextEquiv>
+                    <Unicode>Fang zhi shi hua. [History of textiles in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="96,432 114,436 177,434 209,448 211,412 192,409 183,402 161,413 148,402 95,405"/>
+                <Baseline points="101,425 125,427 149,428 173,428 197,430 213,430"/>
+                <TextEquiv>
+                    <Unicode>China.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="102,473 832,482 831,452 731,440 689,461 605,428 513,450 405,426 210,454 101,436"/>
+                <Baseline points="106,457 130,462 154,463 178,465 202,465 226,465 250,465 274,465 297,466 321,468 345,465 369,468 393,468 417,468 441,468 465,468 489,470 513,471 537,471 560,471 584,471 608,471 632,471 656,473 680,473 704,471 728,471 752,473 776,473 799,473 823,473 835,474"/>
+                <TextEquiv>
+                    <Unicode>pp. 2, 2, 238; illus; 4 col. pls. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="100,537 688,561 725,541 890,553 890,521 99,506"/>
+                <Baseline points="105,530 129,532 152,533 176,533 200,533 224,533 248,535 272,535 296,535 320,537 344,537 368,537 392,538 415,537 439,538 463,538 487,538 511,538 535,540 559,540 583,540 607,541 631,541 654,541 678,543 702,543 726,541 750,543 774,543 798,543 822,544 846,544 870,544 892,546"/>
+                <TextEquiv>
+                    <Unicode>Shang hai ke xue ji shu chu ban she: Shanghai,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="98,570 103,570 116,580 120,576 148,578 155,573 159,577 191,578 191,553 185,553 165,539 97,539"/>
+                <Baseline points="103,567 127,567 151,568 175,568 194,570"/>
+                <TextEquiv>
+                    <Unicode>1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="109,638 262,658 528,644 602,666 618,650 690,658 689,621 359,604 214,627 108,611"/>
+                <Baseline points="114,637 138,637 162,637 186,637 210,639 234,639 258,640 282,640 305,642 329,642 353,642 377,642 401,643 425,643 449,643 473,643 497,645 521,645 544,645 568,645 592,645 616,645 640,645 664,646 688,646 693,646"/>
+                <TextEquiv>
+                    <Unicode>Zhong guo ke ji shi hua cong shu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15635.g.5&#13;
+FANG ZHI SHI HUA&#13;
+SHANGHAI. Shang hai shi fang zhi ke xue yan jiu&#13;
+yuan&#13;
+Fang zhi shi hua. [History of textiles in&#13;
+China.]&#13;
+pp. 2, 2, 238; illus; 4 col. pls. 19 cm.&#13;
+Shang hai ke xue ji shu chu ban she: Shanghai,&#13;
+1978.&#13;
+Zhong guo ke ji shi hua cong shu.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.478+01:00</Created>
+        <LastChange>2023-06-29T13:30:27.096+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758445" pageNr="269" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961246302.jpg" imageWidth="952" imageHeight="791">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038227096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="19,16 19,542 885,542 885,16"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,58 616,66 637,59 670,66 687,59 829,57 829,26 807,21 631,18 623,26 598,26"/>
+                <Baseline points="603,52 630,53 658,54 685,54 713,55 741,54 768,54 796,52 824,51"/>
+                <TextEquiv>
+                    <Unicode>15625.a.10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="25,122 416,114 433,103 434,70 367,70 353,84 130,84 112,69 81,83 26,69"/>
+                <Baseline points="30,107 56,106 83,106 109,106 136,107 162,107 189,107 215,107 242,108 268,108 295,108 321,108 348,108 374,108 401,108 428,108"/>
+                <TextEquiv>
+                    <Unicode>FA LÜ CHANG SHI SHOU CE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="21,209 84,199 104,206 252,202 253,157 210,173 171,165 141,170 111,158 94,166 22,164"/>
+                <Baseline points="27,193 54,192 82,191 109,191 137,190 165,190 192,191 220,192 248,195"/>
+                <TextEquiv>
+                    <Unicode>JIN (Mosheng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="127,267 527,259 545,250 545,225 266,231 224,220 171,240 127,229"/>
+                <Baseline points="132,256 157,257 183,258 208,258 234,258 259,258 285,258 310,257 336,257 361,256 387,255 412,255 438,254 463,253 489,253 514,252 540,252"/>
+                <TextEquiv>
+                    <Unicode>Fa lü chang shi shou ce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037328465_986" custom="readingOrder {index:4;}">
+                <Coords points="753,392 846,394 845,444 752,442"/>
+                <Baseline points="752,437 845,439"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="126,507 263,499 284,513 338,497 353,507 386,496 400,505 458,499 458,480 373,468 303,484 258,469 201,469 187,483 162,469 126,470"/>
+                <Baseline points="131,496 157,497 184,498 211,498 238,498 265,498 292,498 318,498 345,497 372,497 399,496 426,495 453,495"/>
+                <TextEquiv>
+                    <Unicode>12, 218 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15625.a.10&#13;
+FA LÜ CHANG SHI SHOU CE&#13;
+JIN (Mosheng)&#13;
+Fa lü chang shi shou ce&#13;
+1979&#13;
+12, 218 p.; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

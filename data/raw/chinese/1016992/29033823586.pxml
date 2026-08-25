@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.893+01:00</Created>
+        <LastChange>2023-07-03T17:27:51.220+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758547" pageNr="357" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=RGSPTVNANITUXWIFRCWFDSQT&amp;fileType=view" imageId="35195853"/>
+    </Metadata>
+    <Page imageFilename="42758547.jpg" imageWidth="984" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688398071221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="50,71 804,71 804,674 50,674"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="584,128 636,138 649,129 687,130 697,120 707,130 803,126 804,84 798,83 774,84 744,108 720,92 682,105 657,83 634,99 585,93"/>
+                <Baseline points="589,124 607,124 631,124 656,123 680,121 705,121 730,121 754,121 779,121 804,121"/>
+                <TextEquiv>
+                    <Unicode>15402.b.A7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="95,205 183,210 228,197 280,225 303,202 365,202 365,172 316,172 275,154 260,169 178,170 169,162 160,171 95,170"/>
+                <Baseline points="100,198 121,196 146,196 170,196 195,195 219,195 244,195 269,195 293,196 318,196 342,196 367,196"/>
+                <TextEquiv>
+                    <Unicode>FANG YAN SU ZHENG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="45,274 253,283 289,268 304,282 345,282 367,266 405,282 441,277 441,224 423,219 383,220 361,239 339,217 307,217 284,240 177,231 138,249 45,249"/>
+                <Baseline points="50,267 75,269 100,267 124,267 149,269 173,267 198,267 223,267 247,269 272,267 297,267 321,267 346,267 370,265 395,265 420,267 443,272"/>
+                <TextEquiv>
+                    <Unicode>YANG (Xiong)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="83,378 559,381 662,372 663,347 611,329 578,343 424,331 391,361 358,345 84,347"/>
+                <Baseline points="88,370 98,370 123,372 147,372 172,370 196,370 221,370 246,370 270,370 295,369 319,369 344,369 369,369 393,369 418,369 443,367 467,365 492,364 516,365 541,365 566,367 590,365 615,364 639,364 664,362"/>
+                <TextEquiv>
+                    <Unicode>Fangyan suzheng. [The Fang Yen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="83,415 747,410 748,379 83,386"/>
+                <Baseline points="88,406 109,406 134,408 159,408 183,408 208,406 233,405 257,405 282,403 306,403 331,403 356,403 380,402 405,402 429,402 454,402 479,402 503,403 528,400 552,400 577,398 602,398 626,397 651,398 676,398 700,397 725,397 749,400"/>
+                <TextEquiv>
+                    <Unicode>a comparative vocabulary of dialects,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="86,450 487,442 514,466 546,437 667,443 687,426 592,402 542,424 87,422"/>
+                <Baseline points="91,443 98,443 123,443 147,443 172,441 196,441 221,441 246,441 270,439 295,441 319,439 344,439 369,439 393,439 418,439 443,439 467,438 492,438 516,436 541,436 566,436 590,434 615,433 639,433 664,433 727,434"/>
+                <TextEquiv>
+                    <Unicode>attributed to Yang Xiong. Edited by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="85,490 309,478 514,491 514,466 491,453 427,442 409,454 283,444 249,459 85,451"/>
+                <Baseline points="90,479 114,479 139,477 164,477 188,477 213,479 237,477 262,479 287,477 311,477 336,475 361,475 385,475 410,475 434,475 459,475 484,475 508,479 516,479"/>
+                <TextEquiv>
+                    <Unicode>Dai Zhen of the Ch'ing.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="86,525 123,530 159,515 165,522 235,522 236,499 225,499 215,487 201,493 186,484 151,502 127,489 87,493"/>
+                <Baseline points="91,518 114,516 139,516 164,515 188,515 213,513 237,511"/>
+                <TextEquiv>
+                    <Unicode>pp. 141.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:8;}">
+                <Coords points="89,593 136,593 151,602 190,593 203,603 233,586 242,594 325,593 326,555 308,545 239,556 219,576 193,555 174,566 165,557 90,558"/>
+                <Baseline points="95,587 106,585 131,585 155,587 180,585 205,585 229,585 254,585 278,584 303,584 328,584"/>
+                <TextEquiv>
+                    <Unicode>Taipei, 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:9;}">
+                <Coords points="88,669 164,674 177,666 185,674 204,668 235,675 262,666 314,666 314,639 300,640 291,631 189,631 173,642 159,631 88,634"/>
+                <Baseline points="93,664 95,662 119,662 144,661 169,662 193,661 218,662 242,662 267,661 292,661 316,659"/>
+                <TextEquiv>
+                    <Unicode>Sibu beiyao.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15402.b.A7&#13;
+FANG YAN SU ZHENG&#13;
+YANG (Xiong)&#13;
+Fangyan suzheng. [The Fang Yen,&#13;
+a comparative vocabulary of dialects,&#13;
+attributed to Yang Xiong. Edited by&#13;
+Dai Zhen of the Ch'ing.]&#13;
+pp. 141.&#13;
+Taipei, 1966.&#13;
+Sibu beiyao.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

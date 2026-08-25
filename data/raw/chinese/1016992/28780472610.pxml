@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.737+01:00</Created>
+        <LastChange>2023-05-04T13:04:47.581+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758316" pageNr="159"/>
+    </Metadata>
+    <Page imageFilename="28780472610.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683198287581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="47,58 39,602 908,602 916,58"/>
+            <TextLine id="line_1654531533615_1045" custom="readingOrder {index:0;}">
+                <Coords points="527,82 552,98 638,94 646,87 666,98 700,87 725,95 795,88 795,76 767,61 719,61 693,74 671,55 649,69 631,60 569,62 554,53 527,60"/>
+                <Baseline points="532,91 790,91"/>
+                <TextEquiv>
+                    <Unicode>15597.d.106</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531538045_1050" custom="readingOrder {index:1;}">
+                <Coords points="63,119 804,123 804,100 767,90 531,105 497,85 64,83"/>
+                <Baseline points="68,121 799,125"/>
+                <TextEquiv>
+                    <Unicode>LA FACE CACHÉE DE LA CHINE: TEXTES CHOISIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531540997_1055" custom="readingOrder {index:2;}">
+                <Coords points="64,167 273,162 289,178 311,178 433,159 433,126 422,122 215,124 202,136 179,123 64,121"/>
+                <Baseline points="69,157 428,158"/>
+                <TextEquiv>
+                    <Unicode>PRESENTÉS ET TRADUITS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="52,233 497,235 517,230 517,196 434,189 358,207 280,181 238,198 52,197"/>
+                <Baseline points="57,225 82,225 107,224 132,224 158,224 183,224 208,224 233,224 259,224 284,224 309,224 335,224 360,224 385,224 410,224 436,224 461,224 486,224 512,224"/>
+                <TextEquiv>
+                    <Unicode>LA FACE CACHÉE DE LA CHINE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="94,302 835,304 835,274 794,261 694,281 390,277 323,252 226,281 94,268"/>
+                <Baseline points="99,293 135,292 172,292 208,292 245,292 281,292 318,292 354,292 391,292 427,292 464,292 501,292 537,292 574,292 610,292 647,293 683,293 720,293 756,293 793,293 830,293"/>
+                <TextEquiv>
+                    <Unicode>La face cachée de la Chine: textes choisis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="92,339 867,331 867,308 816,298 92,308"/>
+                <Baseline points="97,328 135,328 173,327 211,327 250,326 288,326 326,326 364,326 403,326 441,326 479,326 517,327 556,327 594,327 632,327 670,327 709,327 747,327 785,327 823,327 862,327"/>
+                <TextEquiv>
+                    <Unicode>présentés et traduits/par Jean-Philippe Béja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683198263623_1721" custom="readingOrder {index:6;}">
+                <Coords points="91,325 906,326 906,376 91,375"/>
+                <Baseline points="91,370 906,371"/>
+                <TextEquiv>
+                    <Unicode>et Wojtek Zafanolli. — Paris: Editions Pierre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="95,405 167,402 175,410 191,410 204,397 232,408 252,402 279,406 296,397 296,376 266,372 257,363 236,373 220,371 204,386 141,364 126,372 95,374"/>
+                <Baseline points="100,395 127,395 154,396 181,396 209,396 236,396 263,395 291,393"/>
+                <TextEquiv>
+                    <Unicode>Emile, 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="94,442 146,441 173,450 182,441 218,437 260,442 273,431 285,442 339,439 339,420 297,405 271,413 243,404 221,420 214,413 172,413 164,405 94,403"/>
+                <Baseline points="99,432 125,432 151,432 177,433 203,433 229,433 255,432 281,432 307,432 334,432"/>
+                <TextEquiv>
+                    <Unicode>292 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="94,506 837,505 819,477 94,473"/>
+                <Baseline points="99,501 135,501 172,500 208,500 245,500 282,500 318,501 355,501 392,501 428,501 465,502 502,502 538,502 575,502 612,503 648,503 685,503 722,503 758,503 795,503 832,503"/>
+                <TextEquiv>
+                    <Unicode>Contains stories by Liu Ke, Xu Mingxu, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="95,546 768,544 758,517 427,509 400,525 319,507 291,527 95,509"/>
+                <Baseline points="100,537 133,536 166,536 199,536 232,536 265,536 298,536 332,536 365,536 398,536 431,536 464,536 497,536 530,536 564,536 597,536 630,536 663,536 696,536 729,536 763,536"/>
+                <TextEquiv>
+                    <Unicode>Liu Binyan, first published in various</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="102,579 156,586 168,578 272,576 272,554 259,549 220,554 195,546 168,552 102,549"/>
+                <Baseline points="107,569 133,570 160,570 187,571 213,571 240,571 267,570"/>
+                <TextEquiv>
+                    <Unicode>magazines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15597.d.106&#13;
+LA FACE CACHÉE DE LA CHINE: TEXTES CHOISIS&#13;
+PRESENTÉS ET TRADUITS&#13;
+LA FACE CACHÉE DE LA CHINE&#13;
+La face cachée de la Chine: textes choisis,&#13;
+présentés et traduits/par Jean-Philippe Béja&#13;
+et Wojtek Zafanolli. — Paris: Editions Pierre-&#13;
+Emile, 1981&#13;
+292 p.; 21 cm.&#13;
+Contains stories by Liu Ke, Xu Mingxu, and&#13;
+Liu Binyan, first published in various&#13;
+magazines</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

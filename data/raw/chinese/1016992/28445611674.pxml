@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.777+01:00</Created>
+        <LastChange>2023-05-03T17:31:27.553+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758145" pageNr="8"/>
+    </Metadata>
+    <Page imageFilename="28445611674.jpg" imageWidth="944" imageHeight="777">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127887553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="59,-3 52,714 898,717 897,4"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="549,28 816,34 818,-3 767,-7 754,4 719,9 703,-2 654,-4 618,10 575,-11 550,-2"/>
+                <Baseline points="555,20 580,21 606,22 632,23 657,24 683,24 709,25 734,26 760,27 786,28 812,28"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="127,121 174,116 189,130 208,122 321,121 331,130 358,130 372,123 373,87 284,96 222,85 185,84 176,93 162,85 128,85"/>
+                <Baseline points="133,112 159,113 185,113 211,113 237,114 263,115 289,115 315,117 341,118 367,121"/>
+                <TextEquiv>
+                    <Unicode>LI (Chuanming)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="162,184 807,184 790,149 163,140"/>
+                <Baseline points="168,177 199,178 231,178 262,179 294,179 326,180 357,181 389,182 421,182 452,183 484,184 516,185 547,185 579,186 611,187 642,187 674,188 706,188 737,188 769,188 801,188"/>
+                <TextEquiv>
+                    <Unicode>Feng jian mi xin shi zen me hui shi?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683127882011_85" custom="readingOrder {index:3;}">
+                <Coords points="544,435 648,435 648,485 544,485"/>
+                <Baseline points="544,480 648,480"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:4;}">
+                <Coords points="119,552 160,555 168,562 175,563 182,562 191,554 209,554 221,549 222,535 198,533 190,526 182,525 175,517 146,516 139,521 135,517 122,517"/>
+                <Baseline points="125,540 155,543 185,545 216,547"/>
+                <TextEquiv>
+                    <Unicode>146p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+                <Coords points="116,618 319,617 319,591 263,588 256,581 219,586 194,581 177,595 163,595 148,580 117,588"/>
+                <Baseline points="121,607 148,607 176,608 203,608 231,609 258,609 286,610 314,609"/>
+                <TextEquiv>
+                    <Unicode>s1. Culture</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:6;}">
+                <Coords points="119,686 168,690 181,680 348,689 348,653 259,653 253,647 167,658 119,653"/>
+                <Baseline points="124,675 151,675 178,676 206,676 233,676 260,676 288,676 315,676 343,677"/>
+                <TextEquiv>
+                    <Unicode>s2. Feudalism</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.17&#13;
+LI (Chuanming)&#13;
+Feng jian mi xin shi zen me hui shi?&#13;
+1984&#13;
+146p.&#13;
+s1. Culture&#13;
+s2. Feudalism</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

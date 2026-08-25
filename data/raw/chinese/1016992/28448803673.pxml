@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.647+01:00</Created>
+        <LastChange>2023-05-04T12:49:11.864+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758247" pageNr="98"/>
+    </Metadata>
+    <Page imageFilename="28448803673.jpg" imageWidth="992" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197351864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="88,85 88,500 854,502 854,87"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="543,114 568,131 613,124 637,130 652,120 712,122 719,113 737,123 785,122 805,110 805,89 784,85 650,93 635,85 543,85"/>
+                <Baseline points="548,120 573,119 598,118 623,118 648,117 674,117 699,116 724,116 749,115 774,113 800,112"/>
+                <TextEquiv>
+                    <Unicode>15329.a.726</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="154,186 326,184 370,199 383,186 452,180 452,147 285,141 275,151 155,148"/>
+                <Baseline points="160,178 186,178 212,178 238,178 264,178 290,178 316,179 342,179 368,179 394,179 420,178 447,178"/>
+                <TextEquiv>
+                    <Unicode>FEI XIANG TAI YANG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913772020_1044" custom="readingOrder {index:2;}">
+                <Coords points="93,272 136,274 170,265 184,275 208,267 242,267 261,275 277,265 277,236 247,229 239,237 209,237 196,228 179,237 92,237"/>
+                <Baseline points="98,271 272,269"/>
+                <TextEquiv>
+                    <Unicode>LUO (Jin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="143,378 641,378 647,331 142,340"/>
+                <Baseline points="148,364 174,365 200,365 226,366 252,366 278,366 304,366 330,366 356,366 382,365 408,365 434,365 460,364 486,364 512,364 538,364 564,364 590,364 616,364 643,364"/>
+                <TextEquiv>
+                    <Unicode>Fei xiang taiyang. [Essays.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="142,418 176,416 182,410 200,410 204,406 224,417 233,410 260,411 275,402 274,385 262,385 243,373 205,377 197,386 181,381 141,380"/>
+                <Baseline points="147,405 177,404 208,403 239,402 270,401"/>
+                <TextEquiv>
+                    <Unicode>pp. 50.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="139,485 808,470 808,446 766,436 139,446"/>
+                <Baseline points="144,472 178,472 213,472 248,471 282,471 317,470 352,470 386,469 421,469 456,468 490,468 525,468 560,467 594,467 629,467 664,466 698,466 733,466 768,466 803,466"/>
+                <TextEquiv>
+                    <Unicode>Changfeng chubanshe: Singapore, 1964.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15329.a.726&#13;
+FEI XIANG TAI YANG&#13;
+LUO (Jin)&#13;
+Fei xiang taiyang. [Essays.]&#13;
+pp. 50.&#13;
+Changfeng chubanshe: Singapore, 1964.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

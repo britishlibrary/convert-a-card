@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.650+01:00</Created>
+        <LastChange>2023-05-03T17:32:59.551+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758139" pageNr="3"/>
+    </Metadata>
+    <Page imageFilename="28445611354.jpg" imageWidth="960" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683127979552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="61,53 67,568 912,568 906,53"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="667,89 736,96 788,87 807,99 829,90 911,91 912,58 859,58 836,72 815,61 778,65 762,55 668,59"/>
+                <Baseline points="672,80 698,80 724,80 750,80 776,81 802,82 828,82 854,83 880,83 906,84"/>
+                <TextEquiv>
+                    <Unicode>15530.c.315</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="56,151 127,133 340,133 408,137 433,155 456,137 541,130 541,107 494,94 56,94"/>
+                <Baseline points="61,126 86,126 111,126 136,125 161,125 186,125 211,125 236,125 261,125 286,125 311,125 336,125 361,125 386,125 411,125 436,125 461,125 486,126 511,126 536,127"/>
+                <TextEquiv>
+                    <Unicode>FENG KANG HOU SHU HUA YIN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="98,214 246,217 263,227 284,217 316,223 341,215 342,184 324,173 295,188 271,180 245,189 197,164 182,176 100,178"/>
+                <Baseline points="104,204 129,205 155,207 181,207 207,208 232,209 258,209 284,210 310,212 336,213"/>
+                <TextEquiv>
+                    <Unicode>FENG (Kangho)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="129,283 599,295 637,290 638,251 384,260 130,237"/>
+                <Baseline points="134,272 160,273 186,275 212,275 238,276 265,277 291,277 317,278 343,278 369,279 396,279 422,279 448,280 474,280 500,281 527,281 553,281 579,282 605,283 632,283"/>
+                <TextEquiv>
+                    <Unicode>Feng Kang hou shu hua yin ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683127973510_142" custom="readingOrder {index:4;}">
+                <Coords points="87,416 185,416 185,466 87,466"/>
+                <Baseline points="87,461 185,461"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="139,530 364,539 379,529 407,539 471,538 488,528 488,509 425,506 412,493 363,492 341,507 328,493 253,485 225,501 140,492"/>
+                <Baseline points="144,521 170,523 196,524 222,525 248,526 274,526 300,527 326,527 352,527 378,527 404,528 430,528 456,529 483,530"/>
+                <TextEquiv>
+                    <Unicode>106 p.: ill.; 27 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15530.c.315&#13;
+FENG KANG HOU SHU HUA YIN JI&#13;
+FENG (Kangho)&#13;
+Feng Kang hou shu hua yin ji&#13;
+1984&#13;
+106 p.: ill.; 27 cm</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

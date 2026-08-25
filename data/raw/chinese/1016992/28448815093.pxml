@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.015+01:00</Created>
+        <LastChange>2023-05-04T14:03:10.170+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758271" pageNr="119"/>
+    </Metadata>
+    <Page imageFilename="28448815093.jpg" imageWidth="1012" imageHeight="798">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201790171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="130,106 130,790 1000,789 994,105"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="571,138 640,146 674,135 735,146 871,138 886,147 923,139 923,124 895,105 856,113 788,100 745,106 729,121 704,109 671,120 619,93 572,101"/>
+                <Baseline points="576,128 602,131 628,132 654,133 681,134 707,134 733,134 760,134 786,134 812,134 839,134 865,134 891,135 918,137"/>
+                <TextEquiv>
+                    <Unicode>15293.a.35/231-234</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="145,180 302,176 325,186 551,170 551,139 497,128 393,142 377,133 145,138"/>
+                <Baseline points="150,168 176,169 202,169 229,169 255,169 282,169 308,169 334,169 361,169 387,169 414,169 440,169 466,169 493,169 519,169 546,170"/>
+                <TextEquiv>
+                    <Unicode>FAN BO ZI XIAN SHENG YI MO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195592718_772" custom="readingOrder {index:2;}">
+                <Coords points="151,223 388,226 387,276 150,273"/>
+                <Baseline points="150,268 387,271"/>
+                <TextEquiv>
+                    <Unicode>FAN (Dangshi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;}">
+                <Coords points="184,410 638,410 638,394 599,377 509,388 435,373 407,384 184,372"/>
+                <Baseline points="189,394 215,395 241,396 267,397 293,398 319,399 345,399 371,400 397,400 424,401 450,401 476,401 502,402 528,402 554,402 580,403 606,404 950,409"/>
+                <TextEquiv>
+                    <Unicode>Fan Bozi xiansheng quanji. [Collected prose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:4;}">
+                <Coords points="187,441 870,450 883,421 188,412"/>
+                <Baseline points="192,434 226,433 260,433 294,433 329,433 363,433 397,434 431,435 466,435 500,436 534,437 568,437 603,438 637,439 671,439 705,440 740,440 774,440 808,440 842,439 877,438"/>
+                <TextEquiv>
+                    <Unicode>and poems. With a collection of letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+                <Coords points="186,476 902,482 911,437 837,456 186,445"/>
+                <Baseline points="191,467 226,467 262,467 298,468 334,468 369,469 405,470 441,470 477,470 512,471 548,472 584,472 620,472 655,473 691,473 727,474 763,474 798,475 834,475 870,476 906,476"/>
+                <TextEquiv>
+                    <Unicode>reproduced in facsimile, entitled Fan Bozi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="189,509 918,522 936,490 190,485"/>
+                <Baseline points="194,503 230,503 267,503 304,503 341,503 378,504 414,504 451,505 488,505 525,506 562,506 598,507 635,507 672,508 709,508 746,509 782,510 819,510 856,511 893,511 930,512"/>
+                <TextEquiv>
+                    <Unicode>xiansheng yimo. Postscripts by Zeng Keduan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+                <Coords points="193,546 444,541 476,555 540,540 756,563 757,515 733,528 571,517 541,532 503,512 194,514"/>
+                <Baseline points="199,537 226,537 254,538 281,538 309,539 337,539 364,539 392,540 420,540 447,540 475,540 503,541 530,541 558,542 586,542 613,542 641,543 669,543 696,544 724,545 752,545"/>
+                <TextEquiv>
+                    <Unicode>dated 1966 and 1969. A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:8;}">
+                <Coords points="179,585 197,586 211,574 241,586 312,587 312,561 279,557 272,549 223,549 209,562 194,549 180,549"/>
+                <Baseline points="184,573 214,572 245,573 276,575 307,574"/>
+                <TextEquiv>
+                    <Unicode>4 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:9;}">
+                <Coords points="812,586 839,586 857,590 861,586 892,586 892,563 886,563 877,557 843,557 834,550 812,549"/>
+                <Baseline points="817,580 852,580 887,581"/>
+                <TextEquiv>
+                    <Unicode>22cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:10;}">
+                <Coords points="189,658 629,655 696,674 726,665 727,618 615,631 189,620"/>
+                <Baseline points="194,646 220,647 246,648 273,649 299,650 326,650 352,650 378,650 405,650 431,650 458,650 484,650 510,650 537,651 563,651 590,651 616,652 642,653 669,654 695,655 722,657"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:11;}">
+                <Coords points="186,736 817,751 840,746 841,714 593,714 525,681 457,712 187,700"/>
+                <Baseline points="192,727 224,728 256,728 288,728 320,729 352,729 384,730 417,730 449,731 481,731 513,732 545,732 577,733 609,734 642,735 674,736 706,737 738,738 770,740 802,741 854,744"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo sh-iao congkan. Xuji,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:12;}">
+                <Coords points="171,770 258,769 290,776 316,770 316,746 300,750 284,738 271,739 267,734 229,741 224,735 190,738 173,733"/>
+                <Baseline points="177,760 203,759 230,760 257,761 284,763 311,762"/>
+                <TextEquiv>
+                    <Unicode>231-234.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.35/231-234&#13;
+FAN BO ZI XIAN SHENG YI MO&#13;
+FAN (Dangshi)&#13;
+Fan Bozi xiansheng quanji. [Collected prose&#13;
+and poems. With a collection of letters&#13;
+reproduced in facsimile, entitled Fan Bozi&#13;
+xiansheng yimo. Postscripts by Zeng Keduan&#13;
+dated 1966 and 1969. A reprint.]&#13;
+4 vols.&#13;
+22cm.&#13;
+Wenhai chubanshe: Taipei, 1975.&#13;
+Jindai Zhongguo sh-iao congkan. Xuji,&#13;
+231-234.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.391+01:00</Created>
+        <LastChange>2023-06-29T13:30:08.061+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758439" pageNr="264"/>
+    </Metadata>
+    <Page imageFilename="28961244812.jpg" imageWidth="956" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038208062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="93,40 96,713 921,715 918,42"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="544,72 838,74 849,68 850,35 799,36 779,49 545,45"/>
+                <Baseline points="549,65 575,66 602,66 629,67 656,67 683,68 709,68 736,68 763,68 790,68 817,68 844,67"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.776</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="89,202 551,202 567,191 567,161 89,160"/>
+                <Baseline points="94,194 120,194 146,194 172,194 198,194 224,194 250,194 276,194 302,193 328,193 354,193 380,193 406,193 432,193 458,193 484,194 510,195 536,195 562,196"/>
+                <TextEquiv>
+                    <Unicode>FA YING HAN NONG YE CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="117,258 602,257 602,219 117,213"/>
+                <Baseline points="122,242 147,243 172,244 197,244 222,244 247,245 272,245 297,245 322,245 347,245 372,245 397,245 422,245 447,245 472,245 497,246 522,246 547,247 572,248 597,249"/>
+                <TextEquiv>
+                    <Unicode>Fa ying han nong ye ci dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="129,410 880,419 880,387 129,388"/>
+                <Baseline points="134,404 171,405 208,406 245,406 282,406 319,407 356,407 393,407 430,408 467,408 504,408 541,409 578,409 615,410 652,410 689,411 726,411 763,412 800,413 837,414 875,415"/>
+                <TextEquiv>
+                    <Unicode>= Dictionnaire d'agriculture Français-Anglais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036802317_807" custom="readingOrder {index:4;}">
+                <Coords points="126,403 764,412 763,462 125,453"/>
+                <Baseline points="125,448 747,455"/>
+                <TextEquiv>
+                    <Unicode>-Chinois (Agrometeorologie)/P.Brochet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="127,560 582,571 581,545 494,533 405,540 303,524 238,542 127,525"/>
+                <Baseline points="132,553 158,554 184,554 210,555 236,555 262,555 289,556 315,556 341,556 367,556 393,556 419,556 446,557 472,557 498,558 524,559 550,561 577,562"/>
+                <TextEquiv>
+                    <Unicode>107 p. - Includes indexes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="127,626 829,649 907,640 908,613 128,597"/>
+                <Baseline points="132,619 170,620 209,620 247,621 286,622 324,623 363,624 401,624 440,625 478,626 517,627 555,628 594,629 632,630 671,631 709,631 748,632 786,632 825,633 863,633 902,634"/>
+                <TextEquiv>
+                    <Unicode>t1. Dictionnaire d'agriculture français-anglais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688036904496_828" custom="readingOrder {index:7;}">
+                <Coords points="132,620 910,632 909,682 131,670"/>
+                <Baseline points="131,665 909,677"/>
+                <TextEquiv>
+                    <Unicode>-chinois. a1. BROCHET (Patrick). a2. QI (Laifu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="127,706 408,702 408,691 379,677 269,677 259,669 215,677 185,668 169,676 156,669 128,675"/>
+                <Baseline points="132,696 159,696 186,696 213,696 240,697 267,697 294,697 321,698 348,699 375,700 403,701"/>
+                <TextEquiv>
+                    <Unicode>s1. Dictionaries.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="539,714 795,714 794,686 703,676 688,684 656,677 643,685 609,676 591,685 578,676 552,677 538,685"/>
+                <Baseline points="544,701 571,704 598,704 626,704 653,704 680,702 708,701 735,701 762,702 790,704"/>
+                <TextEquiv>
+                    <Unicode>s2. Agriculture.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.776&#13;
+FA YING HAN NONG YE CI DIAN&#13;
+Fa ying han nong ye ci dian&#13;
+= Dictionnaire d'agriculture Français-Anglais&#13;
+-Chinois (Agrometeorologie)/P.Brochet&#13;
+107 p. - Includes indexes.&#13;
+t1. Dictionnaire d'agriculture français-anglais&#13;
+-chinois. a1. BROCHET (Patrick). a2. QI (Laifu)&#13;
+s1. Dictionaries.&#13;
+s2. Agriculture.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.554+01:00</Created>
+        <LastChange>2023-06-29T13:30:41.224+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758451" pageNr="273"/>
+    </Metadata>
+    <Page imageFilename="28961247592.jpg" imageWidth="972" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038241224" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="78,83 78,660 817,661 817,84"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="516,130 693,124 753,131 808,112 808,92 776,77 631,100 614,85 516,91"/>
+                <Baseline points="521,118 546,117 572,117 597,116 623,116 649,116 674,116 700,115 726,115 751,114 777,113 803,111"/>
+                <TextEquiv>
+                    <Unicode>15221.a.126/8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="101,167 144,178 173,162 241,165 259,178 278,163 442,156 442,133 368,124 170,134 130,117 101,120"/>
+                <Baseline points="106,158 131,157 156,157 182,156 207,156 233,156 258,156 284,156 309,156 335,156 360,156 386,156 411,157 437,157"/>
+                <TextEquiv>
+                    <Unicode>FA GUO SHE HUI SU MIAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037772704_1175" custom="readingOrder {index:2;}">
+                <Coords points="83,213 227,213 227,263 83,263"/>
+                <Baseline points="83,258 227,258"/>
+                <TextEquiv>
+                    <Unicode>MA (Sen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="124,430 772,426 783,394 124,397"/>
+                <Baseline points="129,425 161,424 193,423 226,423 258,422 291,422 323,422 356,421 388,421 421,421 453,421 485,420 518,420 550,420 583,419 615,419 648,418 680,418 713,417 745,416 778,415"/>
+                <TextEquiv>
+                    <Unicode>Faguo shehui sumiao. (Sketches of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="121,466 221,467 237,460 250,467 332,465 356,474 375,466 389,476 390,440 341,429 324,437 303,431 235,440 220,429 204,437 121,436"/>
+                <Baseline points="126,454 151,456 177,457 203,457 229,457 255,456 281,456 307,456 333,456 359,458 411,457"/>
+                <TextEquiv>
+                    <Unicode>French society.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="120,506 175,506 185,496 198,504 215,506 224,506 231,499 266,498 266,475 243,463 227,470 197,466 180,481 161,476 120,477"/>
+                <Baseline points="125,496 152,494 179,493 206,494 233,494 261,493"/>
+                <TextEquiv>
+                    <Unicode>pp. 146.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="670,493 698,499 711,489 779,490 779,464 768,461 728,461 724,465 713,461 670,461"/>
+                <Baseline points="675,486 708,486 741,484 774,485"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="119,570 733,560 712,525 627,541 560,525 225,546 119,533"/>
+                <Baseline points="124,558 154,558 184,558 214,558 244,557 275,557 305,557 335,557 365,557 395,556 426,556 456,556 486,555 516,555 546,555 577,555 607,555 637,555 667,554 697,554 728,554"/>
+                <TextEquiv>
+                    <Unicode>Daxue shenghuoshe: Hong Kong, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="129,635 527,633 527,605 500,596 474,610 427,596 324,608 255,596 229,610 129,598"/>
+                <Baseline points="134,626 159,626 185,626 211,626 237,626 263,626 289,626 315,625 340,625 366,625 392,625 418,625 444,625 470,624 496,624 522,624"/>
+                <TextEquiv>
+                    <Unicode>Daxue sheng congshu, 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15221.a.126/8&#13;
+FA GUO SHE HUI SU MIAO&#13;
+MA (Sen)&#13;
+Faguo shehui sumiao. (Sketches of the&#13;
+French society.)&#13;
+pp. 146.&#13;
+19 cm.&#13;
+Daxue shenghuoshe: Hong Kong, 1972.&#13;
+Daxue sheng congshu, 8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

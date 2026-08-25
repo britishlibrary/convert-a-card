@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.811+01:00</Created>
+        <LastChange>2023-06-27T10:04:10.617+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758396" pageNr="227" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961236602.jpg" imageWidth="956" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687853050618" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="60,95 60,542 897,541 897,94"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="610,114 635,115 660,117 686,118 711,118 736,119 762,119 787,119 812,118 838,118 838,103 812,103 787,104 762,104 736,104 711,103 686,103 661,102 636,100 611,99"/>
+                <Baseline points="610,114 635,115 660,117 686,118 711,118 736,119 762,119 787,119 812,118 838,118"/>
+                <TextEquiv>
+                    <Unicode>15678.a.20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="66,162 332,162 343,157 343,120 244,120 225,134 202,126 180,133 149,125 66,130"/>
+                <Baseline points="71,155 97,154 124,153 151,153 177,153 204,153 231,153 257,154 284,154 311,154 338,154"/>
+                <TextEquiv>
+                    <Unicode>FANG FANG ZHI YA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687852999804_235" custom="readingOrder {index:2;}">
+                <Coords points="66,198 271,202 270,252 65,248"/>
+                <Baseline points="65,243 270,247"/>
+                <TextEquiv>
+                    <Unicode>CHENG (Yiru) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853011854_242" custom="readingOrder {index:3;}">
+                <Coords points="469,208 705,213 704,263 468,258"/>
+                <Baseline points="468,253 704,258"/>
+                <TextEquiv>
+                    <Unicode>and MI (Jiale)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="116,354 815,367 873,335 117,317"/>
+                <Baseline points="121,344 158,345 195,346 232,347 270,347 307,348 344,349 382,349 419,349 456,350 494,350 531,350 568,350 605,351 643,351 680,351 717,352 755,352 792,352 829,353 867,353"/>
+                <TextEquiv>
+                    <Unicode>Fang fang zhi ya. [Children's story in rhyme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="120,389 899,387 852,361 496,357 476,376 120,357"/>
+                <Baseline points="125,381 163,381 201,382 240,382 278,383 317,383 355,384 394,384 432,385 471,385 509,386 547,386 586,387 624,387 663,387 701,387 740,387 778,387 817,387 855,387 894,387"/>
+                <TextEquiv>
+                    <Unicode>about dental hygiene. Illustrated by Zhou Zhi -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1687853042704_255" custom="readingOrder {index:6;}">
+                <Coords points="113,376 216,375 216,425 113,426"/>
+                <Baseline points="113,421 216,420"/>
+                <TextEquiv>
+                    <Unicode>cheng.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="118,467 170,456 183,466 264,466 278,452 304,466 389,458 389,435 372,429 354,438 329,428 267,435 247,423 189,425 172,438 118,429"/>
+                <Baseline points="123,451 149,452 175,452 201,452 227,452 253,452 279,452 305,451 331,452 357,453 384,454"/>
+                <TextEquiv>
+                    <Unicode>pp. [18]; illus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="524,458 564,456 601,459 610,465 625,466 626,436 603,437 586,429 575,437 551,427 525,427"/>
+                <Baseline points="529,452 559,451 589,453 620,455"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="111,530 902,529 873,492 791,511 111,485"/>
+                <Baseline points="116,519 155,520 194,520 233,520 272,520 311,521 350,521 389,521 428,522 467,522 506,522 545,522 584,523 623,523 662,523 701,524 740,524 779,525 818,525 857,526 897,526"/>
+                <TextEquiv>
+                    <Unicode>Shao nian er tong chu ban she: Shanghai, 1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15678.a.20&#13;
+FANG FANG ZHI YA&#13;
+CHENG (Yiru) &#13;
+and MI (Jiale)&#13;
+Fang fang zhi ya. [Children's story in rhyme&#13;
+about dental hygiene. Illustrated by Zhou Zhi -&#13;
+cheng.]&#13;
+pp. [18]; illus.&#13;
+18 cm.&#13;
+Shao nian er tong chu ban she: Shanghai, 1978.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

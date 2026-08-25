@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.860+01:00</Created>
+        <LastChange>2023-07-03T17:26:13.780+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758545" pageNr="355" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=TBWIILBHURKFXIYZFJWYLDNE&amp;fileType=view" imageId="35195851"/>
+    </Metadata>
+    <Page imageFilename="42758545.jpg" imageWidth="980" imageHeight="811">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397973781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="109,83 889,83 889,706 109,706"/>
+            <TextLine id="line_1688397953597_2354" custom="readingOrder {index:0;}">
+                <Coords points="591,96 841,99 840,149 590,146"/>
+                <Baseline points="590,141 840,144"/>
+                <TextEquiv>
+                    <Unicode>15328.a.201</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="128,213 178,209 204,226 221,209 278,203 331,233 353,216 397,213 396,166 213,162 204,153 186,164 127,165"/>
+                <Baseline points="133,200 158,199 182,199 207,200 231,200 256,200 280,202 305,202 329,203 354,203 378,203 399,203"/>
+                <TextEquiv>
+                    <Unicode>FENG CHEN TIE HAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="104,273 126,273 143,282 176,268 191,283 212,273 249,282 267,264 285,263 285,253 273,253 257,237 104,238"/>
+                <Baseline points="109,265 115,264 140,264 164,264 189,264 213,264 238,265 262,264 287,261"/>
+                <TextEquiv>
+                    <Unicode>ZHU (Yu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="138,410 599,425 588,378 466,378 443,401 364,379 292,391 138,380"/>
+                <Baseline points="143,401 168,403 192,404 217,404 241,406 265,406 290,406 314,406 339,406 363,406 388,407 412,409 437,409 461,409 486,409 510,409 535,409 559,411 584,412 600,416"/>
+                <TextEquiv>
+                    <Unicode>Fengchen tiehan. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="146,457 176,458 186,449 200,448 270,450 270,429 262,429 242,410 231,418 204,416 192,428 181,420 145,421"/>
+                <Baseline points="151,441 177,442 202,442 226,442 251,442 272,442"/>
+                <TextEquiv>
+                    <Unicode>pp. 240.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="709,448 725,458 759,457 771,445 783,452 798,451 810,459 826,457 825,411 814,411 805,419 785,418 774,412 752,414 747,409 741,414 708,412"/>
+                <Baseline points="714,445 739,445 763,445 788,447 812,447 828,448"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="159,514 743,527 742,498 706,480 654,479 635,498 561,479 445,495 158,482"/>
+                <Baseline points="163,505 187,509 212,510 236,510 261,512 285,512 310,512 334,512 358,512 383,512 407,514 432,514 456,514 481,515 505,517 530,517 554,517 579,518 603,518 628,518 652,517 677,518 701,518 726,518 744,518"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1969.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.201&#13;
+FENG CHEN TIE HAN&#13;
+ZHU (Yu)&#13;
+Fengchen tiehan. [Novel.]&#13;
+pp. 240.&#13;
+18 cm.&#13;
+Wulin chubanshe: Hong Kong, 1969.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

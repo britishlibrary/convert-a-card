@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.650+01:00</Created>
+        <LastChange>2023-06-21T17:58:21.581+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961234812.jpg" imageWidth="984" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687363101581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="74,71 74,754 854,754 854,71"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="560,105 732,102 750,114 783,107 840,114 859,102 853,69 742,67 709,81 561,66"/>
+                <Baseline points="566,95 592,95 618,95 644,96 670,97 696,97 723,98 749,99 775,100 801,101 827,101 854,102"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="87,156 632,162 678,145 679,116 88,106"/>
+                <Baseline points="92,136 121,136 150,136 179,136 208,137 237,137 266,138 295,138 324,139 353,139 382,140 411,141 440,142 469,142 498,143 527,144 556,144 585,145 614,146 643,147 673,147"/>
+                <TextEquiv>
+                    <Unicode>FANG KE MING GONG (GUAN CHENG) ZOU YI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="74,225 101,225 129,225 156,226 184,226 212,227 239,227 267,228 294,228 322,229 330,229 330,214 322,214 294,213 267,213 239,212 212,212 184,211 156,211 129,210 101,210 74,210"/>
+                <Baseline points="74,225 101,225 129,225 156,226 184,226 212,227 239,227 267,228 294,228 322,229 330,229"/>
+                <TextEquiv>
+                    <Unicode>FANG (Chuanmu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="104,454 706,465 706,431 679,428 104,420"/>
+                <Baseline points="109,446 138,447 168,449 197,450 227,450 257,451 286,452 316,452 345,453 375,453 405,453 434,454 464,454 493,454 523,454 553,454 582,455 612,455 641,455 671,456 701,456"/>
+                <TextEquiv>
+                    <Unicode>Fang Keming gong (Guancheng) Zouyi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="104,497 602,493 626,507 714,498 715,469 469,480 427,461 105,455"/>
+                <Baseline points="109,484 139,483 169,484 199,484 229,484 259,484 289,485 319,486 349,486 379,487 409,487 439,488 469,488 499,489 529,489 559,490 589,490 619,490 649,490 679,490 709,490"/>
+                <TextEquiv>
+                    <Unicode>[Collected memorials, edited by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="103,525 826,537 826,513 775,501 103,500"/>
+                <Baseline points="108,517 143,518 179,519 214,520 250,520 286,521 321,521 357,521 393,522 428,522 464,523 500,523 535,524 571,524 607,525 642,525 678,526 714,526 749,527 785,528 821,528"/>
+                <TextEquiv>
+                    <Unicode>author's grandson, Fang Chuanmu. With a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="103,562 153,562 159,570 187,561 208,570 231,565 256,570 272,562 279,570 293,570 295,526 269,542 261,533 232,530 118,534 104,526"/>
+                <Baseline points="108,552 133,553 159,553 185,554 211,554 237,554 263,556 289,559"/>
+                <TextEquiv>
+                    <Unicode>biography.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="99,594 125,595 132,590 174,595 180,601 196,597 207,602 215,594 234,589 234,578 222,573 200,573 187,564 178,564 172,570 154,565 100,564"/>
+                <Baseline points="104,588 129,587 154,588 179,589 204,589 229,588"/>
+                <TextEquiv>
+                    <Unicode>2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="98,674 685,682 692,648 99,636"/>
+                <Baseline points="103,664 132,664 161,665 190,665 219,665 248,666 277,666 307,666 336,667 365,667 394,668 423,668 452,668 481,669 511,669 540,670 569,670 598,670 627,671 656,671 686,671"/>
+                <TextEquiv>
+                    <Unicode>Wenhai Chubanshe: Taipei, 1966-67.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="96,745 743,746 727,717 530,717 495,685 372,720 96,708"/>
+                <Baseline points="101,733 132,734 164,734 196,734 228,735 260,736 292,736 323,737 355,738 387,738 419,739 451,739 483,740 515,740 546,740 578,741 610,741 642,741 674,741 706,741 738,740"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shil congkan, 103.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293. a. 29/103
+FANG KEMING GONG (GUANCHENG) ZOUKI
+FANG (Chuanmu) 3 
+18 8 22
+
+*6
+8.
+Fang Keming gong (Guancheng) Zouyi.
+[Collected memorials, edited by the
+author's grandson, Fang Chuanmu. With a
+biography.
+2 vols.
+Wenhai Chubanshe: Taipei, 1966-67.
+Jindai Zhongguo shil congkan, 103.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

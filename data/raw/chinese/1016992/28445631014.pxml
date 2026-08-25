@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.312+01:00</Created>
+        <LastChange>2023-05-04T12:46:30.672+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758225" pageNr="78"/>
+    </Metadata>
+    <Page imageFilename="28445631014.jpg" imageWidth="1008" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197190672" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,46 67,622 948,622 946,46"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="535,82 639,82 649,74 658,82 706,76 723,83 745,70 746,45 705,44 686,58 673,44 656,44 643,56 624,44 536,44"/>
+                <Baseline points="540,71 565,74 590,74 615,74 640,74 665,73 690,74 715,76 740,80"/>
+                <TextEquiv>
+                    <Unicode>15675.b.7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="92,139 258,140 279,146 295,135 295,92 224,92 202,106 160,101 152,93 92,93"/>
+                <Baseline points="97,127 124,126 152,126 179,127 207,127 234,127 262,127 290,127"/>
+                <TextEquiv>
+                    <Unicode>FAN HUA MENG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="74,218 287,215 287,191 266,180 200,180 190,187 182,180 103,181 88,173 74,182"/>
+                <Baseline points="79,209 104,209 129,209 155,209 180,209 205,209 231,209 256,209 282,208"/>
+                <TextEquiv>
+                    <Unicode>FANHUA MENG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913030720_315" custom="readingOrder {index:3;}">
+                <Coords points="99,347 862,353 861,325 799,317 99,324"/>
+                <Baseline points="104,354 857,352"/>
+                <TextEquiv>
+                    <Unicode>Ershi zai fanhua meng. [A novel. Preface</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;}">
+                <Coords points="117,386 934,393 914,356 117,357"/>
+                <Baseline points="122,380 162,381 202,381 243,381 283,382 323,382 364,382 404,382 444,382 485,382 525,382 565,381 606,381 646,381 686,381 727,381 767,382 807,382 848,383 888,383 929,384"/>
+                <TextEquiv>
+                    <Unicode>by Huating guoke Xuelü, dated 1907. A reprint,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913036574_323" custom="readingOrder {index:5;}">
+                <Coords points="109,424 715,435 779,422 779,395 109,397"/>
+                <Baseline points="114,421 774,423"/>
+                <TextEquiv>
+                    <Unicode>with the running title: Fanhua meng.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:6;}">
+                <Coords points="727,459 766,459 772,454 785,459 832,459 841,450 846,450 847,439 833,439 822,429 783,429 777,434 769,427 728,427"/>
+                <Baseline points="732,449 759,450 786,450 813,452 841,455"/>
+                <TextEquiv>
+                    <Unicode>20 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:7;}">
+                <Coords points="117,463 390,464 406,457 406,440 373,426 320,436 295,425 248,426 231,436 212,425 117,428"/>
+                <Baseline points="122,451 147,451 172,451 198,450 223,450 248,450 274,450 299,451 324,451 350,452 375,453 401,454"/>
+                <TextEquiv>
+                    <Unicode>40 hui in 1 vol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:8;}">
+                <Coords points="118,530 656,531 656,509 631,493 568,492 551,509 534,493 421,505 119,493"/>
+                <Baseline points="124,520 150,520 176,520 203,520 229,520 255,520 282,520 308,520 334,520 361,520 387,521 413,521 440,521 466,522 492,522 519,522 545,522 571,523 598,523 624,523 651,523"/>
+                <TextEquiv>
+                    <Unicode>Tianyi chubanshe: Taipei, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:9;}">
+                <Coords points="115,601 818,603 818,568 793,564 115,564"/>
+                <Baseline points="120,589 154,590 189,590 223,590 258,591 293,591 327,591 362,590 397,590 431,590 466,590 501,589 535,589 570,589 605,589 639,589 674,589 709,589 743,589 778,590 813,591"/>
+                <TextEquiv>
+                    <Unicode>Hanben Zhongguo tongsu xiaoshuo congkan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.b.7&#13;
+FAN HUA MENG&#13;
+FANHUA MENG&#13;
+Ershi zai fanhua meng. [A novel. Preface&#13;
+by Huating guoke Xuelü, dated 1907. A reprint,&#13;
+with the running title: Fanhua meng.]&#13;
+20 cm.&#13;
+40 hui in 1 vol.&#13;
+Tianyi chubanshe: Taipei, 1974.&#13;
+Hanben Zhongguo tongsu xiaoshuo congkan.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.299+01:00</Created>
+        <LastChange>2023-06-29T13:29:27.768+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758431" pageNr="258"/>
+    </Metadata>
+    <Page imageFilename="28961243602.jpg" imageWidth="964" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038167796" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="64,33 64,738 932,738 932,33"/>
+            <TextLine id="line_1654764310710_335" custom="readingOrder {index:0;}">
+                <Coords points="655,65 901,60 900,30 860,21 839,21 829,31 795,20 773,38 713,21 654,33"/>
+                <Baseline points="660,61 896,59"/>
+                <TextEquiv>
+                    <Unicode>15665.c.44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="73,150 521,146 520,72 72,76"/>
+                <Baseline points="78,136 103,136 129,136 155,136 181,136 206,136 232,135 258,135 284,135 309,135 335,134 361,134 387,134 412,134 438,134 464,135 490,135 516,136"/>
+                <TextEquiv>
+                    <Unicode>FAMOUS DISHES FROM QUANJUDE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="73,228 603,210 646,195 622,165 72,189"/>
+                <Baseline points="78,214 106,213 134,211 162,211 190,209 218,208 246,208 275,207 303,206 331,205 359,205 387,204 415,203 443,202 472,201 500,200 528,200 556,198 584,197 612,195 641,194"/>
+                <TextEquiv>
+                    <Unicode>BEI JING QUAN JU DE MING CAI PU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="146,282 417,270 563,279 592,274 592,241 383,245 372,256 350,245 146,245"/>
+                <Baseline points="151,269 176,269 202,269 227,269 253,269 279,269 304,269 330,269 356,269 381,269 407,269 433,269 458,270 484,270 510,270 535,270 561,270 587,270"/>
+                <TextEquiv>
+                    <Unicode>bei Jing quan ju de ming cai pu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035797719_429" custom="readingOrder {index:4;}">
+                <Coords points="836,311 905,311 905,361 836,361"/>
+                <Baseline points="836,356 905,356"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="68,700 147,705 187,695 231,703 292,688 304,700 376,705 376,666 190,669 181,678 156,668 68,669"/>
+                <Baseline points="73,691 100,692 127,693 154,693 181,693 208,693 235,693 262,692 289,692 316,692 343,691 371,691"/>
+                <TextEquiv>
+                    <Unicode>TS972.1 85.931 TS972</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035833171_444" custom="readingOrder {index:6;}">
+                <Coords points="68,688 122,688 122,738 68,738"/>
+                <Baseline points="68,733 122,733"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688035855249_459" custom="readingOrder {index:7;}">
+                <Coords points="722,651 915,650 915,700 722,701"/>
+                <Baseline points="722,696 915,695"/>
+                <TextEquiv>
+                    <Unicode>81-37-21 [77]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="656,737 756,738 773,727 794,739 857,731 912,744 935,736 935,705 912,698 897,706 875,701 863,711 785,700 772,713 756,700 730,707 656,701"/>
+                <Baseline points="661,727 687,726 714,726 741,726 768,726 795,727 822,727 849,727 876,727 903,727 930,727"/>
+                <TextEquiv>
+                    <Unicode>17071-14 82— 10679</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15665.c.44&#13;
+FAMOUS DISHES FROM QUANJUDE&#13;
+BEI JING QUAN JU DE MING CAI PU&#13;
+bei Jing quan ju de ming cai pu&#13;
+1982&#13;
+TS972.1 85.931 TS972&#13;
+1982&#13;
+81-37-21 [77]&#13;
+17071-14 82— 10679</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

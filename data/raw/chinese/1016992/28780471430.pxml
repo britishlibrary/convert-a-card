@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.688+01:00</Created>
+        <LastChange>2023-05-04T13:00:42.249+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758313" pageNr="156" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780471430.jpg" imageWidth="952" imageHeight="770">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683198042250" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,43 38,612 895,612 895,43"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="523,82 776,82 789,74 789,37 742,37 712,52 523,44"/>
+                <Baseline points="528,71 553,71 579,71 604,71 630,71 656,71 681,71 707,71 732,72 758,72 784,72"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1127</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="41,218 84,218 96,210 107,218 169,216 179,212 180,170 157,169 146,177 113,173 94,188 87,181 42,180"/>
+                <Baseline points="47,205 72,205 97,205 123,206 148,207 174,208"/>
+                <TextEquiv>
+                    <Unicode>DU (Mu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="98,286 457,283 457,263 407,251 98,249"/>
+                <Baseline points="103,270 129,270 156,270 183,271 210,271 237,271 264,271 290,271 317,271 344,271 371,270 398,270 425,270 452,270"/>
+                <TextEquiv>
+                    <Unicode>Fan chuan shi ji zhu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683198005798_1643" custom="readingOrder {index:3;}">
+                <Coords points="663,396 893,400 892,450 662,446"/>
+                <Baseline points="662,441 892,445"/>
+                <TextEquiv>
+                    <Unicode>[1978]m1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="92,505 108,514 160,509 197,516 222,507 240,514 325,514 343,505 343,491 295,485 287,477 231,477 216,491 199,477 93,482"/>
+                <Baseline points="97,501 123,503 150,505 177,505 204,505 230,505 257,505 284,504 311,505 338,506"/>
+                <TextEquiv>
+                    <Unicode>14, 12, 442 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="98,577 211,574 231,594 254,577 324,583 343,576 344,539 315,545 119,541 99,548"/>
+                <Baseline points="103,566 129,566 155,567 181,567 207,567 233,568 259,568 285,568 311,569 338,569"/>
+                <TextEquiv>
+                    <Unicode>a1 FENG (Jiwu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="96,610 133,610 143,606 147,610 162,609 168,615 205,618 227,612 227,580 209,575 200,579 96,582"/>
+                <Baseline points="101,602 131,601 161,602 191,602 222,601"/>
+                <TextEquiv>
+                    <Unicode>s1 LPO6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1127&#13;
+DU (Mu)&#13;
+Fan chuan shi ji zhu&#13;
+[1978]m1982&#13;
+14, 12, 442 p.&#13;
+a1 FENG (Jiwu)&#13;
+s1 LPO6</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

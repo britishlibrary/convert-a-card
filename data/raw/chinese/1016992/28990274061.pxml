@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.967+01:00</Created>
+        <LastChange>2023-07-03T16:09:27.184+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758479" pageNr="298" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=PZYNROVCFQRTDTLATUSNPIQT&amp;fileType=view" imageId="35195785"/>
+    </Metadata>
+    <Page imageFilename="42758479.jpg" imageWidth="960" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393367185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="68,54 915,52 917,628 83,631"/>
+            <TextLine id="line_1688393317010_686" custom="readingOrder {index:0;}">
+                <Coords points="632,47 863,51 862,101 631,97"/>
+                <Baseline points="631,92 862,96"/>
+                <TextEquiv>
+                    <Unicode>15643.c.4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="108,164 120,170 132,166 166,170 176,162 184,170 217,168 217,119 206,119 197,128 177,131 158,131 146,119 137,127 108,127"/>
+                <Baseline points="113,159 137,159 161,158 185,158 209,159 219,159"/>
+                <TextEquiv>
+                    <Unicode>FEN HE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="82,236 104,242 112,234 163,228 181,242 202,233 276,232 303,242 321,231 320,195 301,182 274,205 232,205 205,192 180,192 169,204 145,192 81,195"/>
+                <Baseline points="87,230 111,228 135,227 159,227 183,228 207,228 231,228 255,228 279,228 303,230 322,231"/>
+                <TextEquiv>
+                    <Unicode>QIAO (Jiacai)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="110,295 131,299 174,299 183,294 193,299 234,298 234,264 195,265 185,275 172,264 136,264 131,269 110,264"/>
+                <Baseline points="115,292 139,292 163,292 187,294 211,292 235,292"/>
+                <TextEquiv>
+                    <Unicode>Fen he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688393318946_691" custom="readingOrder {index:4;}">
+                <Coords points="725,430 808,429 809,479 726,480"/>
+                <Baseline points="726,475 809,474"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="121,610 250,626 274,602 416,601 648,634 647,554 581,569 549,554 528,572 471,557 424,585 306,565 276,583 164,565 120,582"/>
+                <Baseline points="126,607 150,607 174,609 198,609 222,609 246,610 270,609 294,609 318,607 342,607 366,605 390,605 414,605 438,607 462,607 486,607 510,605 533,607 557,609 581,610 605,613 629,618 650,621"/>
+                <TextEquiv>
+                    <Unicode>125 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15643.c.4&#13;
+FEN HE&#13;
+QIAO (Jiacai)&#13;
+Fen he&#13;
+1983&#13;
+125 p.; 21 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

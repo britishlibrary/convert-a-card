@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.901+01:00</Created>
+        <LastChange>2023-05-04T12:51:03.221+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758264" pageNr="113"/>
+    </Metadata>
+    <Page imageFilename="28448811203.jpg" imageWidth="944" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197463221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,13 50,581 903,576 898,10"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="525,51 614,46 653,58 761,42 808,58 884,53 884,20 854,27 831,13 719,21 707,31 669,20 608,20 596,32 583,21 525,21"/>
+                <Baseline points="530,44 556,45 583,46 610,46 637,46 664,46 691,45 717,45 744,44 771,44 798,44 825,45 852,46 879,47"/>
+                <TextEquiv>
+                    <Unicode>CHI.1992.a.437/1-2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="122,194 175,198 192,190 205,200 227,193 249,201 262,194 293,194 302,200 313,197 314,161 297,157 286,168 238,169 210,157 190,164 122,164"/>
+                <Baseline points="127,186 153,188 179,189 205,189 231,190 257,190 283,190 309,190"/>
+                <TextEquiv>
+                    <Unicode>SHI (Fayun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="147,229 317,232 329,225 353,233 369,222 402,229 401,199 183,203 146,195"/>
+                <Baseline points="151,218 178,221 205,222 233,222 260,222 287,221 315,220 342,219 369,219 397,221"/>
+                <TextEquiv>
+                    <Unicode>Fan yi ming yi ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195404124_694" custom="readingOrder {index:3;}">
+                <Coords points="560,247 619,245 621,295 562,297"/>
+                <Baseline points="562,292 621,290"/>
+                <TextEquiv>
+                    <Unicode>1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="160,330 184,330 187,327 192,329 200,329 200,304 195,304 192,301 185,301 177,293 160,293"/>
+                <Baseline points="165,319 195,319"/>
+                <TextEquiv>
+                    <Unicode>2v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="126,562 319,562 331,555 331,524 126,526"/>
+                <Baseline points="131,553 158,554 186,555 214,555 242,555 270,554 298,554 326,553"/>
+                <TextEquiv>
+                    <Unicode>s1.Buddhism</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1992.a.437/1-2&#13;
+SHI (Fayun)&#13;
+Fan yi ming yi ji&#13;
+1990&#13;
+2v.&#13;
+s1.Buddhism</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

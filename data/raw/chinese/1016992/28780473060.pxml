@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.825+01:00</Created>
+        <LastChange>2023-05-04T13:51:03.670+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758323" pageNr="165" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28780473060.jpg" imageWidth="948" imageHeight="787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201063670" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="44,41 48,668 910,667 906,40"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="649,83 750,82 758,75 785,83 873,81 872,52 856,45 823,45 799,60 778,45 767,45 753,60 733,46 648,46"/>
+                <Baseline points="654,73 680,74 707,74 733,73 760,72 787,72 813,71 840,71 867,72"/>
+                <TextEquiv>
+                    <Unicode>15682.d.12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="51,154 500,163 501,124 51,121"/>
+                <Baseline points="56,147 81,147 107,147 133,148 159,148 185,148 210,149 236,149 262,150 288,150 314,150 340,151 365,151 391,152 417,152 443,152 469,153 495,153"/>
+                <TextEquiv>
+                    <Unicode>FA YU GUAN YONG YU CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="44,234 315,226 315,187 295,181 272,196 253,189 221,197 184,197 170,188 152,197 87,197 70,188 43,197"/>
+                <Baseline points="49,223 75,222 101,222 127,222 153,221 179,221 205,220 231,219 257,219 283,218 310,217"/>
+                <TextEquiv>
+                    <Unicode>HUANG (Jingzhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="77,295 347,299 407,283 538,282 537,248 452,263 435,253 76,263"/>
+                <Baseline points="82,289 107,289 132,289 157,289 182,289 207,289 232,288 257,287 282,286 307,285 332,284 357,283 382,282 407,281 432,280 457,279 482,277 507,276 533,275"/>
+                <TextEquiv>
+                    <Unicode>Fa yu guan yong yu ci dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201001198_1892" custom="readingOrder {index:4;}">
+                <Coords points="660,314 879,313 879,363 660,364"/>
+                <Baseline points="660,359 879,358"/>
+                <TextEquiv>
+                    <Unicode>Dictionnaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201027004_1909" custom="readingOrder {index:5;}">
+                <Coords points="67,401 641,387 642,437 68,451"/>
+                <Baseline points="68,446 642,432"/>
+                <TextEquiv>
+                    <Unicode>des locutions usuelles francaises</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201043463_1916" custom="readingOrder {index:6;}">
+                <Coords points="703,465 805,465 805,515 703,515"/>
+                <Baseline points="703,510 805,510"/>
+                <TextEquiv>
+                    <Unicode>1976</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="97,578 115,587 133,577 262,578 280,564 309,579 317,571 375,570 391,561 391,548 322,545 303,534 270,551 144,541 124,555 96,541"/>
+                <Baseline points="102,569 127,569 153,569 179,569 205,569 231,568 256,568 282,567 308,566 334,565 360,563 386,561"/>
+                <TextEquiv>
+                    <Unicode>1, 341 p.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="94,652 616,642 757,627 770,604 93,612"/>
+                <Baseline points="98,640 131,639 164,639 198,638 231,637 264,636 298,635 331,634 364,633 398,632 431,631 464,630 498,629 531,628 564,627 598,626 631,625 664,624 698,623 731,622 765,621"/>
+                <TextEquiv>
+                    <Unicode>French phrases with Chinese equivalents</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15682.d.12&#13;
+FA YU GUAN YONG YU CI DIAN&#13;
+HUANG (Jingzhi)&#13;
+Fa yu guan yong yu ci dian&#13;
+Dictionnaire&#13;
+des locutions usuelles francaises&#13;
+1976&#13;
+1, 341 p.; 19 cm&#13;
+French phrases with Chinese equivalents</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.802+01:00</Created>
+        <LastChange>2023-07-03T14:53:49.263+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758468" pageNr="288" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=IDZVKEXAQAAHHNUHLLVBKMRF&amp;fileType=view" imageId="35195774"/>
+    </Metadata>
+    <Page imageFilename="42758468.jpg" imageWidth="952" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688388829264" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="60,18 913,18 913,782 60,782"/>
+            <TextLine id="line_1688388788712_418" custom="readingOrder {index:0;}">
+                <Coords points="618,29 859,28 859,78 618,79"/>
+                <Baseline points="618,74 859,73"/>
+                <TextEquiv>
+                    <Unicode>15677.b.22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="60,138 552,130 550,77 296,95 232,84 208,107 185,85 145,108 118,84 61,88"/>
+                <Baseline points="65,130 79,130 103,128 126,126 150,126 174,128 198,126 222,126 245,126 269,125 293,125 317,123 341,122 364,122 388,123 412,122 436,122 460,122 483,120 507,120 531,118 555,118"/>
+                <TextEquiv>
+                    <Unicode>FENG CAO XIAO SHUO ZI XUAN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="55,220 71,225 145,213 159,226 176,217 217,218 232,226 245,218 246,178 227,177 214,190 203,184 196,191 185,179 152,181 141,191 128,180 56,182"/>
+                <Baseline points="60,214 80,214 104,214 128,212 152,214 176,212 199,212 223,210 247,210"/>
+                <TextEquiv>
+                    <Unicode>FENG (Cao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="90,281 585,282 607,271 608,232 494,233 466,256 442,235 418,257 363,236 335,260 282,239 248,262 228,241 174,262 91,241"/>
+                <Baseline points="95,277 109,277 133,277 157,277 180,277 204,277 228,277 252,277 276,276 299,276 323,276 347,274 371,272 395,272 418,272 442,271 466,271 490,269 513,271 537,269 561,269 585,268 609,269"/>
+                <TextEquiv>
+                    <Unicode>Feng Cao xiao shuo zi xuan ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="134,467 150,474 182,461 195,474 217,466 238,474 285,465 311,482 338,463 352,475 395,462 408,474 430,472 431,421 352,419 316,441 275,407 252,424 173,401 135,410"/>
+                <Baseline points="139,455 147,455 171,455 195,456 218,460 242,460 266,461 290,461 314,460 337,456 361,456 385,453 409,450 433,448"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="94,600 374,611 483,571 680,594 730,569 732,543 673,539 646,512 453,521 376,584 281,563 196,589 97,565"/>
+                <Baseline points="99,599 112,601 136,602 160,602 184,604 207,602 231,602 255,601 279,601 302,601 326,601 350,599 374,598 398,591 421,586 445,577 445,577 469,571 493,571 517,571 540,572 564,572 588,572 612,574 636,575 659,574 683,572 707,569 731,566 732,566"/>
+                <TextEquiv>
+                    <Unicode>277 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15677.b.22&#13;
+FENG CAO XIAO SHUO ZI XUAN JI&#13;
+FENG (Cao)&#13;
+Feng Cao xiao shuo zi xuan ji&#13;
+1979&#13;
+277 p.; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

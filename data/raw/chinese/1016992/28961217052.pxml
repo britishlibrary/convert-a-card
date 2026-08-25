@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.165+01:00</Created>
+        <LastChange>2023-05-10T15:12:52.102+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758349" pageNr="188"/>
+    </Metadata>
+    <Page imageFilename="28961217052.jpg" imageWidth="992" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683724372103" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="82,58 78,537 905,537 909,58"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="596,95 680,98 688,90 757,88 767,98 808,98 819,87 871,87 871,68 854,68 839,53 776,53 756,71 734,61 596,53"/>
+                <Baseline points="601,83 627,83 654,83 680,84 707,84 733,84 760,84 786,84 813,83 839,83 866,82"/>
+                <TextEquiv>
+                    <Unicode>15039.a.36/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531777096_1247" custom="readingOrder {index:1;}">
+                <Coords points="82,149 868,154 875,107 82,116"/>
+                <Baseline points="87,153 870,148"/>
+                <TextEquiv>
+                    <Unicode>FENG CHIA COLLEGE OF ENGINEERING AND BUSINESS,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1654531780932_1252" custom="readingOrder {index:2;}">
+                <Coords points="109,185 566,186 586,171 586,156 565,152 109,155"/>
+                <Baseline points="114,183 581,180"/>
+                <TextEquiv>
+                    <Unicode>GENERAL CATALOGUE 1975-1976</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="77,226 726,226 726,203 704,197 271,189 253,207 220,189 77,189"/>
+                <Baseline points="82,213 115,213 149,214 182,214 216,215 250,215 283,216 317,216 351,216 384,217 418,217 451,217 485,217 519,218 552,218 586,218 620,219 653,219 687,219 721,219"/>
+                <TextEquiv>
+                    <Unicode>TAIZHONG. Fengjia gongshang xueyuan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="121,324 906,338 906,305 869,292 121,293"/>
+                <Baseline points="126,315 164,316 203,317 242,317 281,317 319,318 358,318 397,318 436,318 474,318 513,318 552,319 591,319 629,319 668,320 707,320 746,321 784,322 823,323 862,324 901,325"/>
+                <TextEquiv>
+                    <Unicode>Feng Chia College of Engineering and Business,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="125,362 311,355 376,370 424,350 486,367 598,362 609,338 580,324 509,336 434,324 420,337 126,325"/>
+                <Baseline points="130,349 156,349 182,350 208,350 235,350 261,351 287,351 313,351 340,351 366,351 392,351 419,351 445,352 471,352 497,352 524,352 550,352 576,353 603,353"/>
+                <TextEquiv>
+                    <Unicode>General Catalogue 1975-1976.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="117,402 172,391 184,402 519,394 519,373 497,364 454,372 418,361 394,378 284,358 262,374 220,355 176,373 117,366"/>
+                <Baseline points="122,389 148,388 174,388 200,388 226,387 252,387 278,387 304,387 331,387 357,387 383,387 409,387 435,388 461,388 487,389 514,389"/>
+                <TextEquiv>
+                    <Unicode>pp. 364; illus. 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="121,463 394,480 422,458 914,460 914,438 812,429 121,429"/>
+                <Baseline points="126,456 165,456 204,456 243,456 282,456 321,456 360,456 400,456 439,457 478,457 517,457 556,458 595,458 634,459 674,459 713,459 752,460 791,460 830,460 869,460 909,460"/>
+                <TextEquiv>
+                    <Unicode>Feng Chia College of Engineering and Business:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="115,499 398,506 417,499 418,475 390,482 368,464 297,462 273,480 261,469 191,465 173,473 161,462 152,469 116,463"/>
+                <Baseline points="120,490 146,491 173,491 199,492 226,493 252,494 279,494 305,495 332,495 358,495 385,495 412,494"/>
+                <TextEquiv>
+                    <Unicode>Taichung, [1975].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15039.a.36/1&#13;
+FENG CHIA COLLEGE OF ENGINEERING AND BUSINESS,&#13;
+GENERAL CATALOGUE 1975-1976&#13;
+TAIZHONG. Fengjia gongshang xueyuan.&#13;
+Feng Chia College of Engineering and Business,&#13;
+General Catalogue 1975-1976.&#13;
+pp. 364; illus. 21 cm.&#13;
+Feng Chia College of Engineering and Business:&#13;
+Taichung, [1975].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

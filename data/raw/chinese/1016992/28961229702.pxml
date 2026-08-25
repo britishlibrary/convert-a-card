@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.487+01:00</Created>
+        <LastChange>2023-05-16T13:01:57.709+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758373" pageNr="208" status="In Progress"/>
+    </Metadata>
+    <Page imageFilename="28961229702.jpg" imageWidth="960" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684234917709" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,25 55,592 861,577 851,25"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="623,72 655,82 683,73 723,74 734,64 766,73 793,65 815,75 838,66 856,72 856,37 831,31 783,39 754,31 734,48 702,30 678,38 652,31 638,40 623,37"/>
+                <Baseline points="628,65 655,62 683,61 711,60 739,60 767,59 795,60 823,60 851,60"/>
+                <TextEquiv>
+                    <Unicode>15530.d.23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="56,131 104,145 128,121 406,122 426,136 525,117 525,79 144,93 95,69 56,80"/>
+                <Baseline points="61,117 86,117 112,116 137,116 163,116 188,115 214,115 239,115 265,114 290,114 316,114 341,114 367,114 392,113 418,113 443,113 469,113 494,112 520,112"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHAO LING ZUO PIN XUAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="62,224 271,218 323,227 339,216 339,176 311,173 285,190 252,178 228,190 205,181 131,186 106,173 62,178"/>
+                <Baseline points="67,211 93,212 120,212 147,212 173,211 200,211 227,210 253,210 280,211 307,212 334,213"/>
+                <TextEquiv>
+                    <Unicode>FANG (Zhaoling)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="87,291 588,282 576,245 494,261 462,238 322,259 86,253"/>
+                <Baseline points="92,281 117,281 143,281 169,281 195,281 221,281 247,280 272,280 298,279 324,279 350,278 376,277 402,277 427,276 453,275 479,275 505,274 531,273 557,273 583,272"/>
+                <TextEquiv>
+                    <Unicode>Fang Zhao ling zuo pin xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:4;}">
+                <Coords points="537,363 797,364 793,364 793,379 821,364 537,348"/>
+                <Baseline points="537,363 797,364 793,364"/>
+                <TextEquiv>
+                    <Unicode>Portfolio Fang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="74,436 852,436 852,406 800,402 74,397"/>
+                <Baseline points="79,429 117,429 155,430 194,431 232,431 271,432 309,432 347,432 386,432 424,432 463,432 501,432 539,432 578,432 616,431 655,431 693,431 731,431 770,431 808,432 847,432"/>
+                <TextEquiv>
+                    <Unicode>Zhaoling. - Hong Kong: Hong Kong University</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="74,494 162,493 194,485 215,497 242,492 267,498 288,484 288,446 210,453 188,471 161,456 144,461 125,452 99,461 74,454"/>
+                <Baseline points="79,480 104,481 130,483 155,483 181,484 206,484 232,483 257,481 283,477"/>
+                <TextEquiv>
+                    <Unicode>Press. 1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="103,586 127,572 164,587 199,570 234,577 352,570 373,556 439,560 438,529 337,531 325,540 291,539 277,525 238,525 222,537 208,525 169,540 102,517"/>
+                <Baseline points="108,558 133,559 158,560 183,560 208,560 233,560 258,560 283,559 308,558 333,558 358,557 383,556 408,555 434,554"/>
+                <TextEquiv>
+                    <Unicode>76 p.: ill.; 41 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15530. d. 23.
+FANG ZHAO LING ZUO PIN XUAN
+FANG (Zhaoling)
+Fang Zhao ling zuo pin xuan
+5 2  t 2. Portfolio. Fang
+Zhaoling. - Hong Kong: Hong Kong University
+Press. 1983
+76 p.: ill.; 41 om</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

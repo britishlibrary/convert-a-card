@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.780+01:00</Created>
+        <LastChange>2023-05-04T13:47:43.253+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758320" pageNr="162"/>
+    </Metadata>
+    <Page imageFilename="28780472880.jpg" imageWidth="984" imageHeight="808">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683200863254" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="56,82 59,705 856,705 853,82"/>
+            <TextLine id="line_1654531565757_1078" custom="readingOrder {index:0;}">
+                <Coords points="488,112 759,115 779,108 779,77 672,79 657,91 617,81 602,92 576,78 488,77"/>
+                <Baseline points="493,112 774,115"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/615</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683200796484_1815" custom="readingOrder {index:1;}">
+                <Coords points="76,203 319,203 319,253 76,253"/>
+                <Baseline points="76,248 319,248"/>
+                <TextEquiv>
+                    <Unicode>SONE (Shoun)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="69,412 767,409 767,388 709,373 70,373"/>
+                <Baseline points="75,401 109,403 143,404 178,405 212,405 246,406 281,406 315,407 349,407 384,407 418,407 452,408 487,408 521,408 555,408 590,408 624,408 658,408 693,409 727,409 762,409"/>
+                <TextEquiv>
+                    <Unicode>Fa-Yue jiaobing ji. [History of the War</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="83,447 767,450 758,413 594,434 83,415"/>
+                <Baseline points="88,436 121,437 155,438 189,438 222,439 256,439 290,440 323,440 357,440 391,440 425,441 458,441 492,441 526,441 559,441 593,442 627,442 660,443 694,443 728,444 762,445"/>
+                <TextEquiv>
+                    <Unicode>between France and Vietnam. Annam(?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683200831923_1830" custom="readingOrder {index:4;}">
+                <Coords points="78,430 815,438 815,488 78,480"/>
+                <Baseline points="78,475 815,483"/>
+                <TextEquiv>
+                    <Unicode>Edited by Wang Tao with Japanese reading</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="85,514 209,499 275,523 357,507 708,522 709,483 562,498 86,485"/>
+                <Baseline points="90,506 120,506 151,507 181,507 212,507 243,508 273,508 304,508 335,508 365,509 396,509 427,509 457,509 488,509 519,510 549,510 580,510 611,511 641,511 672,512 703,512"/>
+                <TextEquiv>
+                    <Unicode>marks. Reprint of the 1893 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="76,554 110,554 119,547 179,555 228,548 241,555 320,553 320,527 275,524 265,515 239,517 227,527 204,517 158,517 138,533 107,518 76,517"/>
+                <Baseline points="81,544 107,543 133,541 159,541 185,541 211,541 237,541 263,542 289,542 315,543"/>
+                <TextEquiv>
+                    <Unicode>pp. 594; illus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;}">
+                <Coords points="79,615 646,618 646,593 543,598 523,581 79,581"/>
+                <Baseline points="84,606 111,607 139,608 167,608 195,609 223,609 251,609 278,609 306,609 334,609 362,609 390,609 418,609 446,609 473,609 501,610 529,610 557,610 585,611 613,612 641,612"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe = Taipei, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:8;}">
+                <Coords points="84,650 709,658 716,628 85,618"/>
+                <Baseline points="90,641 121,642 152,642 183,643 214,643 245,644 276,644 307,644 338,644 369,645 400,645 431,645 462,645 493,645 524,646 555,646 586,646 617,646 648,647 679,647 711,647"/>
+                <TextEquiv>
+                    <Unicode>lindai zhongguo shiliao congkan, 615.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="77,698 217,697 225,694 226,672 218,672 207,661 188,667 177,661 164,665 160,661 120,660 111,668 97,660 90,667 78,667"/>
+                <Baseline points="82,687 109,687 137,688 164,689 192,689 220,692"/>
+                <TextEquiv>
+                    <Unicode>s1.H08.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.29/615&#13;
+SONE (Shoun)&#13;
+Fa-Yue jiaobing ji. [History of the War&#13;
+between France and Vietnam. Annam(?)&#13;
+Edited by Wang Tao with Japanese reading&#13;
+marks. Reprint of the 1893 edition.]&#13;
+pp. 594; illus.&#13;
+Wenhai chubanshe = Taipei, 1970.&#13;
+lindai zhongguo shiliao congkan, 615.&#13;
+s1.H08.2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

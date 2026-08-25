@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.824+01:00</Created>
+        <LastChange>2023-07-03T17:24:40.389+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758543" pageNr="353" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=HJYWIMUIJRPNBDPGAOQGIXEH&amp;fileType=view" imageId="35195849"/>
+    </Metadata>
+    <Page imageFilename="42758543.jpg" imageWidth="992" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688397880389" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="51,39 870,39 870,748 51,748"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="586,90 606,98 704,92 767,99 777,89 826,106 852,98 852,62 798,55 761,77 743,59 722,59 702,74 662,49 645,61 586,61"/>
+                <Baseline points="591,89 616,90 641,90 666,92 690,90 715,90 740,90 765,90 790,90 814,92 839,94 854,94"/>
+                <TextEquiv>
+                    <Unicode>15235.cc.187</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="46,134 86,146 135,131 188,146 203,137 351,136 351,99 287,94 265,111 247,93 203,89 107,98 94,86 82,98 46,98"/>
+                <Baseline points="51,127 76,127 100,127 125,127 150,127 175,127 199,127 224,127 249,127 274,128 299,128 323,128 348,128 353,127"/>
+                <TextEquiv>
+                    <Unicode>FA JI YAO SONG JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="52,220 207,220 221,234 343,225 373,234 373,181 356,192 259,185 213,199 194,187 52,187"/>
+                <Baseline points="57,216 82,216 107,218 132,218 157,218 181,218 206,218 231,218 256,219 280,219 305,221 330,221 355,221 375,219"/>
+                <TextEquiv>
+                    <Unicode>WILLEMEN (Charles)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="87,325 776,341 775,300 86,294"/>
+                <Baseline points="92,318 117,318 142,318 166,318 191,318 216,318 241,320 266,320 290,320 315,320 340,322 365,322 390,322 414,322 439,322 464,322 489,322 513,322 538,322 563,322 588,323 613,323 637,323 662,323 687,323 712,325 737,327 761,327 778,328"/>
+                <TextEquiv>
+                    <Unicode>Dharmapada: a concordance to Udanavarga,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="85,358 754,364 754,341 705,330 290,342 85,324"/>
+                <Baseline points="90,353 115,353 140,352 165,352 190,353 214,353 239,353 264,353 289,355 314,355 338,355 363,355 388,356 413,355 437,356 462,356 487,356 512,356 537,356 561,358 586,358 611,358 636,358 661,358 685,358 710,358 735,360 755,358"/>
+                <TextEquiv>
+                    <Unicode>Dhammapada, and the Chinese Dharmapada</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="85,387 812,403 869,401 868,373 84,364"/>
+                <Baseline points="90,386 115,386 140,386 165,386 190,386 214,388 239,388 264,388 289,390 314,390 338,388 363,390 388,390 413,390 437,390 462,390 487,390 512,390 537,390 561,391 586,391 611,391 636,391 661,391 685,393 710,393 735,393 760,395 785,395 809,395 834,395 859,395 870,395"/>
+                <TextEquiv>
+                    <Unicode>literature. [Followed by the text in Chinese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="87,423 852,442 851,403 87,396"/>
+                <Baseline points="92,421 117,423 142,421 166,423 191,423 216,424 241,423 266,423 290,424 315,424 340,423 365,424 390,426 414,426 439,426 464,426 489,428 513,426 538,428 563,428 588,428 613,428 637,429 662,429 687,429 712,429 737,429 761,429 786,431 811,431 836,429 852,428"/>
+                <TextEquiv>
+                    <Unicode>of the Fa-chi yao-sung ching, TT Honen bu IV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="92,466 101,466 105,463 110,467 126,466 132,469 154,465 158,469 163,469 163,441 155,441 142,428 128,428 124,432 117,433 108,428 100,430 92,428"/>
+                <Baseline points="97,456 122,456 147,456 165,457"/>
+                <TextEquiv>
+                    <Unicode>213.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="89,498 459,506 459,472 407,478 385,457 332,487 295,456 239,456 214,479 188,462 156,474 89,469"/>
+                <Baseline points="94,492 118,492 143,490 168,492 193,495 218,495 242,494 267,494 292,494 317,495 342,495 366,495 391,495 416,494 441,495 461,497"/>
+                <TextEquiv>
+                    <Unicode>ff. 55, [25]. 26 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="84,571 865,577 865,548 668,530 84,529"/>
+                <Baseline points="89,558 114,560 138,558 163,558 188,560 213,560 237,560 262,560 287,561 312,561 337,561 361,561 386,563 411,563 436,563 461,563 485,563 510,563 535,563 560,565 585,565 609,565 634,565 659,565 684,565 709,565 733,566 758,566 783,568 808,566 832,568 857,568 867,570"/>
+                <TextEquiv>
+                    <Unicode>Institut Belge des Hautes Etudes Bouddhiques:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="85,601 375,607 374,579 339,570 286,569 269,583 197,565 166,574 84,571"/>
+                <Baseline points="90,594 115,593 140,593 165,594 190,594 214,594 239,596 264,598 289,598 314,598 338,599 363,599 376,599"/>
+                <TextEquiv>
+                    <Unicode>Bruxelles, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="80,673 645,674 644,642 622,634 529,651 494,632 359,629 325,647 223,624 173,642 79,635"/>
+                <Baseline points="84,662 109,662 133,662 158,662 183,659 208,661 233,662 257,664 282,664 307,666 332,666 356,666 381,666 406,666 431,667 456,667 480,669 505,671 530,669 555,669 580,669 604,671 629,671 647,672"/>
+                <TextEquiv>
+                    <Unicode>Série "Etudes et Textes", no. 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15235.cc.187&#13;
+FA JI YAO SONG JING&#13;
+WILLEMEN (Charles)&#13;
+Dharmapada: a concordance to Udanavarga,&#13;
+Dhammapada, and the Chinese Dharmapada&#13;
+literature. [Followed by the text in Chinese&#13;
+of the Fa-chi yao-sung ching, TT Honen bu IV&#13;
+213.]&#13;
+ff. 55, [25]. 26 cm.&#13;
+Institut Belge des Hautes Etudes Bouddhiques:&#13;
+Bruxelles, 1974.&#13;
+Série "Etudes et Textes", no. 3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

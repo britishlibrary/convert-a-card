@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:48.929+01:00</Created>
+        <LastChange>2023-05-03T17:36:34.194+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758151" pageNr="14"/>
+    </Metadata>
+    <Page imageFilename="28445612334.jpg" imageWidth="980" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683128194194" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="34,96 31,644 907,642 907,97"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,127 676,131 721,122 844,138 894,129 894,89 786,90 772,103 716,105 695,92 598,92"/>
+                <Baseline points="603,121 629,121 655,121 681,121 707,121 733,121 759,121 785,121 811,121 837,121 863,122 889,122"/>
+                <TextEquiv>
+                    <Unicode>15329.a.790/9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="81,195 135,195 159,210 175,195 244,186 342,203 360,186 407,194 432,216 474,190 474,157 443,141 420,157 172,157 157,141 81,150"/>
+                <Baseline points="86,182 111,182 136,181 162,181 187,181 213,181 238,181 264,181 289,181 315,181 340,181 366,181 391,181 417,181 442,181 468,181"/>
+                <TextEquiv>
+                    <Unicode>FENG HUANG CUN DE ZHAN GU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="40,265 764,266 764,236 720,229 173,244 40,224"/>
+                <Baseline points="45,257 80,257 116,257 152,257 187,257 223,257 259,258 294,258 330,258 366,259 402,259 437,259 473,259 509,259 544,260 580,260 616,260 651,259 687,259 723,259 759,258"/>
+                <TextEquiv>
+                    <Unicode>TAIWAN. Taiwan sheng zhengfu xinwenchu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="72,370 845,370 826,333 558,334 533,354 414,333 72,338"/>
+                <Baseline points="78,361 116,362 154,362 192,362 230,363 268,363 306,363 344,363 382,363 420,363 459,363 497,363 535,363 573,363 611,363 649,363 687,363 725,363 763,364 801,364 840,364"/>
+                <TextEquiv>
+                    <Unicode>Fenghuang cun de zhangu. [A collection of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="78,409 720,418 853,410 862,379 78,374"/>
+                <Baseline points="83,397 121,397 160,397 198,398 237,398 276,398 314,399 353,399 392,399 430,399 469,400 508,400 546,400 585,400 624,400 662,400 701,400 740,400 778,400 817,400 856,400"/>
+                <TextEquiv>
+                    <Unicode>essays, notes, and short stories, by Taiwan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657127246024_608" custom="readingOrder {index:5;}">
+                <Coords points="73,394 242,393 242,443 73,444"/>
+                <Baseline points="73,439 242,438"/>
+                <TextEquiv>
+                    <Unicode>writers.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="72,481 201,481 265,467 289,467 306,482 392,480 392,453 328,437 303,437 263,459 229,459 177,439 139,459 114,444 72,445"/>
+                <Baseline points="77,466 102,468 128,469 154,469 180,470 205,469 231,469 257,469 283,468 308,468 334,468 360,468 386,468"/>
+                <TextEquiv>
+                    <Unicode>pp. 284. 19cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="78,546 912,547 872,508 804,527 771,508 78,511"/>
+                <Baseline points="83,536 124,536 165,537 206,538 247,538 289,538 330,539 371,539 412,539 453,539 495,539 536,539 577,540 618,540 659,540 701,540 742,541 783,541 824,542 865,542 907,543"/>
+                <TextEquiv>
+                    <Unicode>Taiwan sheng zhengfu xinwenchu: [Taipei], 1966.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="75,619 227,616 257,629 376,611 553,626 594,613 564,580 526,598 482,580 75,580"/>
+                <Baseline points="80,608 105,608 130,608 156,608 181,609 207,609 232,609 257,609 283,610 308,610 334,611 359,611 384,611 410,612 435,612 461,612 486,613 511,613 537,613 562,613 588,614"/>
+                <TextEquiv>
+                    <Unicode>Shengzheng wenyi congshu, 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15329.a.790/9&#13;
+FENG HUANG CUN DE ZHAN GU&#13;
+TAIWAN. Taiwan sheng zhengfu xinwenchu.&#13;
+Fenghuang cun de zhangu. [A collection of&#13;
+essays, notes, and short stories, by Taiwan&#13;
+writers.]&#13;
+pp. 284. 19cm.&#13;
+Taiwan sheng zhengfu xinwenchu: [Taipei], 1966.&#13;
+Shengzheng wenyi congshu, 9.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

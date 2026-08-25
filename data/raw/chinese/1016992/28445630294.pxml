@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.236+01:00</Created>
+        <LastChange>2023-05-04T14:02:00.590+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758218" pageNr="73"/>
+    </Metadata>
+    <Page imageFilename="28445630294.jpg" imageWidth="980" imageHeight="799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201720590" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="108,100 109,609 956,609 955,100"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="532,153 808,154 826,142 827,122 806,123 793,109 718,115 705,124 533,116"/>
+                <Baseline points="537,141 562,142 588,143 614,144 640,144 666,145 691,145 717,145 743,146 769,146 795,147 821,147"/>
+                <TextEquiv>
+                    <Unicode>15330.b.205/4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="161,242 202,245 219,258 238,242 390,241 399,250 416,237 442,242 442,166 179,166 161,178"/>
+                <Baseline points="166,231 193,230 220,230 247,229 274,230 301,230 328,230 355,230 382,230 409,230 437,230"/>
+                <TextEquiv>
+                    <Unicode>FAN REN HE SHEN MA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658912864803_148" custom="readingOrder {index:2;}">
+                <Coords points="112,279 129,291 238,290 247,299 262,291 305,291 313,298 352,293 351,253 321,260 250,253 221,260 209,249 180,257 112,257"/>
+                <Baseline points="117,292 347,290"/>
+                <TextEquiv>
+                    <Unicode>JIANG (Feng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;}">
+                <Coords points="163,399 936,402 945,355 163,365"/>
+                <Baseline points="168,387 206,387 245,387 283,387 322,387 361,387 399,387 438,387 476,387 515,387 554,387 592,387 631,387 669,387 708,387 747,386 785,386 824,386 862,386 901,386 940,386"/>
+                <TextEquiv>
+                    <Unicode>Fanren he shenma. [Greek and Roman legends].</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;}">
+                <Coords points="163,442 196,442 226,428 250,435 256,441 268,440 275,434 293,434 293,406 286,406 276,396 239,397 219,414 208,405 163,405"/>
+                <Baseline points="168,424 198,426 228,426 258,425 288,426"/>
+                <TextEquiv>
+                    <Unicode>pp. 85.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="172,507 699,494 699,478 644,460 468,478 172,469"/>
+                <Baseline points="177,494 202,494 228,494 254,494 280,494 306,494 332,494 357,494 383,494 409,494 435,493 461,493 487,493 513,493 538,493 564,493 590,493 616,493 642,493 668,493 694,494"/>
+                <TextEquiv>
+                    <Unicode>Shijieshuju: Singapore, 1962.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="162,579 632,570 632,545 597,535 162,545"/>
+                <Baseline points="167,565 192,565 218,565 243,565 269,565 294,565 320,565 345,565 371,565 397,565 422,565 448,565 473,564 499,564 524,564 550,564 575,565 601,565 627,565"/>
+                <TextEquiv>
+                    <Unicode>Xila Luoma Shenhua xuanji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15330.b.205/4&#13;
+FAN REN HE SHEN MA&#13;
+JIANG (Feng)&#13;
+Fanren he shenma. [Greek and Roman legends].&#13;
+pp. 85.&#13;
+Shijieshuju: Singapore, 1962.&#13;
+Xila Luoma Shenhua xuanji.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

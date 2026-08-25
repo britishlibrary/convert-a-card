@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.435+01:00</Created>
+        <LastChange>2023-05-16T11:46:16.013+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758369" pageNr="205"/>
+    </Metadata>
+    <Page imageFilename="28961228522.jpg" imageWidth="968" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684230376013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="22,59 23,646 894,646 893,59"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="652,108 665,114 709,107 719,115 765,109 777,115 812,109 868,114 867,78 832,78 818,90 792,81 755,90 739,77 722,82 712,76 653,76"/>
+                <Baseline points="658,101 683,101 709,102 734,103 760,104 786,105 811,105 837,105 863,103"/>
+                <TextEquiv>
+                    <Unicode>15642.a.26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="19,196 418,208 447,198 448,165 235,171 19,157"/>
+                <Baseline points="24,187 50,187 76,188 102,188 128,188 154,189 180,189 206,190 233,190 259,190 285,191 311,191 337,192 363,192 389,192 415,192 442,193"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHI XUE LIANG ZHONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="44,273 480,282 510,268 511,235 45,228"/>
+                <Baseline points="50,258 75,259 100,260 125,260 151,260 176,261 201,261 226,261 252,261 277,261 302,261 328,261 353,262 378,262 403,263 429,264 454,265 479,267 505,269"/>
+                <TextEquiv>
+                    <Unicode>Fang zhi xue liang zhong</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230252735_213" custom="readingOrder {index:3;}">
+                <Coords points="827,301 877,301 877,351 827,351"/>
+                <Baseline points="827,346 877,346"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="66,363 146,369 154,362 234,359 234,343 226,343 215,332 139,335 130,343 113,331 103,339 90,332 67,335"/>
+                <Baseline points="72,349 98,351 124,352 150,352 176,353 202,353 229,352"/>
+                <TextEquiv>
+                    <Unicode>198 p. ; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="60,411 115,415 123,409 130,416 157,416 175,408 186,416 222,418 241,408 274,419 297,414 297,389 161,390 61,381"/>
+                <Baseline points="65,404 90,406 115,407 140,407 165,408 191,408 216,408 241,408 266,408 292,409"/>
+                <TextEquiv>
+                    <Unicode>Title page dated 1983.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="65,442 839,458 892,449 893,422 66,411"/>
+                <Baseline points="71,430 111,430 152,431 193,431 234,432 275,433 315,433 356,434 397,435 438,436 479,436 519,437 560,438 601,439 642,440 683,440 723,441 764,442 805,443 846,443 887,444"/>
+                <TextEquiv>
+                    <Unicode>Includesi Fang chih chin i / Li Chin-hsi ; Fang chih shang / Kan P'eng-y"un.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230218119_206" custom="readingOrder {index:7;}">
+                <Coords points="57,445 691,457 690,507 56,495"/>
+                <Baseline points="56,490 690,502"/>
+                <TextEquiv>
+                    <Unicode>1. China--History, Local--Historiography--Collected works.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230263135_220" custom="readingOrder {index:8;}">
+                <Coords points="837,460 883,461 882,511 836,510"/>
+                <Baseline points="836,505 882,506"/>
+                <TextEquiv>
+                    <Unicode>1890</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230273402_227" custom="readingOrder {index:9;}">
+                <Coords points="177,471 224,471 224,521 177,521"/>
+                <Baseline points="177,516 224,516"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230287102_235" custom="readingOrder {index:10;}">
+                <Coords points="429,476 474,477 473,527 428,526"/>
+                <Baseline points="428,521 473,522"/>
+                <TextEquiv>
+                    <Unicode>1861</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230296319_242" custom="readingOrder {index:11;}">
+                <Coords points="603,477 649,478 648,528 602,527"/>
+                <Baseline points="602,522 648,523"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:12;}">
+                <Coords points="56,569 261,573 262,548 244,541 56,542"/>
+                <Baseline points="61,563 88,563 116,564 144,564 172,565 200,565 228,566 256,566"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 84233614/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:13;}">
+                <Coords points="63,591 521,603 542,602 543,570 64,571"/>
+                <Baseline points="69,587 95,587 121,587 147,587 173,588 199,588 225,588 251,588 277,589 303,589 329,589 355,590 381,590 407,590 433,591 459,591 485,592 511,593 537,593"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: DS734.7.F368 1984 (Orien China)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:14;}">
+                <Coords points="61,615 90,617 97,609 110,619 160,619 173,614 196,620 228,618 229,596 212,595 204,588 172,597 165,592 112,589 100,596 61,591"/>
+                <Baseline points="66,609 92,610 118,611 144,611 170,611 196,611 223,612"/>
+                <TextEquiv>
+                    <Unicode>ID: UKD086-B186</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:15;}">
+                <Coords points="403,626 417,626 421,630 446,630 453,634 463,626 502,624 502,600 485,601 481,596 472,601 467,598 403,597"/>
+                <Baseline points="408,616 437,616 467,616 497,617"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:16;}">
+                <Coords points="569,627 661,625 684,626 693,633 743,634 754,629 754,593 725,593 719,599 687,596 679,604 658,605 569,596"/>
+                <Baseline points="574,618 599,619 624,620 649,621 674,621 699,621 724,621 749,622"/>
+                <TextEquiv>
+                    <Unicode>DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:17;}">
+                <Coords points="59,642 171,643 176,649 188,643 247,642 247,621 232,613 224,618 59,616"/>
+                <Baseline points="64,633 89,634 114,634 140,634 165,634 191,635 216,635 242,636"/>
+                <TextEquiv>
+                    <Unicode>CALL: 15642.a.26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15642.a.26&#13;
+FANG ZHI XUE LIANG ZHONG&#13;
+Fang zhi xue liang zhong&#13;
+1984&#13;
+198 p. ; 19 cm.&#13;
+Title page dated 1983.&#13;
+Includesi Fang chih chin i / Li Chin-hsi ; Fang chih shang / Kan P'eng-y"un.&#13;
+1. China--History, Local--Historiography--Collected works.&#13;
+1890&#13;
+1984&#13;
+1861&#13;
+1984&#13;
+LCCN: 84233614/ACN&#13;
+L.C. CALL NO: DS734.7.F368 1984 (Orien China)&#13;
+ID: UKD086-B186&#13;
+CC: 9114&#13;
+DCF: a [CJK]&#13;
+CALL: 15642.a.26.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.053+01:00</Created>
+        <LastChange>2023-06-22T15:23:18.547+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758414" pageNr="242"/>
+    </Metadata>
+    <Page imageFilename="28961239792.jpg" imageWidth="976" imageHeight="799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687440198547" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="161,112 161,668 873,668 873,112"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="610,133 639,146 731,135 817,137 825,145 849,138 864,146 878,137 878,98 807,116 770,108 718,113 706,101 610,112"/>
+                <Baseline points="615,132 640,132 666,133 692,133 718,133 744,134 769,134 795,134 821,134 847,133 873,133"/>
+                <TextEquiv>
+                    <Unicode>15266.fd.106</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="195,191 247,202 310,192 465,194 477,187 478,124 196,123"/>
+                <Baseline points="200,180 227,180 254,180 281,180 308,180 336,180 363,180 390,180 417,180 444,181 472,182"/>
+                <TextEquiv>
+                    <Unicode>FAN SHUI XIAN ZHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;}">
+                <Coords points="161,270 186,271 211,271 236,271 261,271 286,271 311,270 336,269 361,268 385,268 385,253 361,253 335,254 310,255 286,256 261,256 236,256 211,256 186,256 162,255"/>
+                <Baseline points="161,270 186,271 211,271 236,271 261,271 286,271 311,270 336,269 361,268 385,268"/>
+                <TextEquiv>
+                    <Unicode>TIAN (Jingi) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="200,378 861,376 861,353 826,348 200,350"/>
+                <Baseline points="205,370 237,371 270,372 302,372 335,372 367,372 400,372 432,372 465,372 497,372 530,372 563,372 595,371 628,371 660,371 693,371 725,371 758,371 790,371 823,372 856,372"/>
+                <TextEquiv>
+                    <Unicode>Fanshui xian zhi. [Description of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="202,417 860,417 860,389 831,381 681,397 202,381"/>
+                <Baseline points="207,406 239,406 271,406 304,407 336,407 369,407 401,407 433,407 466,407 498,407 531,407 563,407 595,407 628,407 660,407 693,407 725,407 757,407 790,407 822,407 855,407"/>
+                <TextEquiv>
+                    <Unicode>district in Henan province. Facsimile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="203,440 228,441 253,442 278,442 303,442 329,442 354,442 379,442 404,442 429,442 455,442 480,442 505,443 530,445 556,446 568,449 572,435 558,431 531,430 506,428 480,427 455,427 429,427 404,427 379,427 354,427 329,427 303,427 278,427 253,427 229,426 204,425"/>
+                <Baseline points="203,440 228,441 253,442 278,442 303,442 329,442 354,442 379,442 404,442 429,442 455,442 480,442 505,443 530,445 556,446 568,449"/>
+                <TextEquiv>
+                    <Unicode>of the 1928 edition.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="206,483 321,491 508,483 508,468 464,453 421,462 398,453 368,460 333,453 310,470 282,453 206,453"/>
+                <Baseline points="211,475 237,476 264,477 290,478 317,478 343,478 370,478 396,478 423,478 449,478 476,478 503,479"/>
+                <TextEquiv>
+                    <Unicode>12 ch. in 2 vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="196,555 789,554 763,516 670,535 594,517 196,518"/>
+                <Baseline points="201,545 230,546 259,546 288,546 317,547 346,547 375,547 405,547 434,547 463,547 492,547 521,547 550,547 579,547 609,547 638,547 667,547 696,548 725,548 754,548 784,548"/>
+                <TextEquiv>
+                    <Unicode>Chengwen chubanshe: Taipei, 1968.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="200,626 779,627 767,597 684,591 640,611 587,596 200,597"/>
+                <Baseline points="205,619 233,619 261,620 290,620 318,620 347,620 375,620 404,621 432,621 461,621 489,621 517,621 546,621 574,621 603,622 631,622 660,622 688,623 717,623 745,624 774,624"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo fangzhi congshu. Huabei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="199,666 280,667 287,674 316,675 332,662 416,665 416,640 400,629 369,634 344,629 324,646 309,636 262,636 252,628 199,630"/>
+                <Baseline points="204,656 229,657 255,658 281,658 307,658 333,658 359,658 385,657 411,657"/>
+                <TextEquiv>
+                    <Unicode>difang, 106.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15266. fd. 106
+FAN SHUI XIAN ZHI
+TIAN (Jingi) 
+
+
+Fanshui xian zhi. [Description of the
+district in Henan province. Facsimile
+of the 1928 edition.
+12 ch. in 2 vols.
+Chengwen chubanshe: Taipei, 1968.
+Zhongguo fangzhi congshu. Huabei
+difang, 106.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

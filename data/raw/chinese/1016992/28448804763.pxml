@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.746+01:00</Created>
+        <LastChange>2023-05-04T12:50:23.031+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758254" pageNr="104"/>
+    </Metadata>
+    <Page imageFilename="28448804763.jpg" imageWidth="980" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197423032" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="127,47 129,595 915,597 913,47"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="604,90 882,98 918,90 919,64 902,53 778,53 764,66 728,53 707,66 694,53 605,52"/>
+                <Baseline points="609,81 634,81 659,80 685,81 710,81 735,82 761,82 786,83 811,84 837,85 862,85 887,86 913,86"/>
+                <TextEquiv>
+                    <Unicode>15328.b.431/345</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="152,170 191,169 204,178 215,170 242,167 262,171 299,168 299,124 264,124 249,138 234,132 152,132"/>
+                <Baseline points="157,160 184,158 211,158 239,158 266,159 294,160"/>
+                <TextEquiv>
+                    <Unicode>FEI LI JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683195090094_571" custom="readingOrder {index:2;}">
+                <Coords points="135,208 357,208 357,258 135,258"/>
+                <Baseline points="135,253 357,253"/>
+                <TextEquiv>
+                    <Unicode>ZHU (Xining)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="174,394 820,401 820,353 616,374 574,356 377,356 360,373 174,357"/>
+                <Baseline points="179,378 210,380 242,382 274,383 306,384 338,385 369,386 401,386 433,386 465,386 497,386 528,386 560,386 592,385 624,386 656,386 687,386 719,387 751,388 783,389 815,391"/>
+                <TextEquiv>
+                    <Unicode>Feili ji. [Short stories and prose.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="170,434 206,434 214,426 265,434 274,425 292,427 305,420 305,411 289,405 274,389 247,396 233,393 220,399 170,398"/>
+                <Baseline points="175,423 200,421 225,421 250,422 275,423 300,422"/>
+                <TextEquiv>
+                    <Unicode>pp. 251.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="697,434 727,434 736,425 743,426 750,433 804,434 804,412 797,412 779,398 754,397 742,405 733,396 698,397"/>
+                <Baseline points="702,423 734,423 766,423 799,424"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="170,500 766,497 766,465 695,453 624,468 367,461 343,477 170,462"/>
+                <Baseline points="175,489 204,489 233,489 262,489 292,489 321,489 350,489 380,489 409,489 438,489 468,489 497,489 526,489 555,490 585,490 614,490 643,491 673,491 702,492 731,493 761,493"/>
+                <TextEquiv>
+                    <Unicode>Huangguan chubanshe: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="167,570 580,570 580,546 557,533 514,532 490,551 470,533 207,541 167,532"/>
+                <Baseline points="172,558 197,558 222,558 247,559 272,559 297,559 323,559 348,559 373,560 398,560 423,560 449,561 474,561 499,561 524,562 549,563 575,563"/>
+                <TextEquiv>
+                    <Unicode>Huangguan congshu, 345.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.b.431/345&#13;
+FEI LI JI&#13;
+ZHU (Xining)&#13;
+Feili ji. [Short stories and prose.]&#13;
+pp. 251.&#13;
+19 cm.&#13;
+Huangguan chubanshe: Taipei, 1972.&#13;
+Huangguan congshu, 345.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

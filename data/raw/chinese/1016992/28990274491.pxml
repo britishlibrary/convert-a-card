@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.048+01:00</Created>
+        <LastChange>2023-07-03T16:15:40.116+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758485" pageNr="303" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=AVIWBWYBOEDGGJTBQQETJVHW&amp;fileType=view" imageId="35195791"/>
+    </Metadata>
+    <Page imageFilename="42758485.jpg" imageWidth="948" imageHeight="779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393740116" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="39,0 928,0 928,702 39,702"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="579,50 633,58 680,49 689,39 702,49 753,43 774,57 811,50 810,26 796,29 784,20 728,27 706,19 681,28 665,14 656,23 578,22"/>
+                <Baseline points="584,37 608,41 632,41 655,42 679,44 703,44 726,44 750,44 774,44 797,45 813,47"/>
+                <TextEquiv>
+                    <Unicode>15592.c.19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="33,112 858,106 858,69 33,74"/>
+                <Baseline points="39,97 63,97 86,97 110,97 134,97 158,97 181,97 205,97 229,97 252,97 276,97 300,96 323,97 347,97 371,99 395,97 418,97 442,97 466,97 489,96 513,97 537,97 560,97 584,97 608,97 632,97 655,97 679,97 703,97 726,97 750,97 774,97 797,99 821,99 845,97 861,99"/>
+                <TextEquiv>
+                    <Unicode>FEI XIAOTONG AND SOCIOLOGY IN REVOLUTIONARY CHINA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="38,187 72,199 84,186 118,185 134,196 156,183 171,195 224,179 339,194 339,134 312,156 233,152 225,161 203,161 174,141 38,151"/>
+                <Baseline points="44,181 56,180 80,181 104,180 127,180 151,180 175,180 199,180 222,180 246,180 270,180 293,180 317,180 341,176"/>
+                <TextEquiv>
+                    <Unicode>ARKUSH (R. David)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="74,259 828,259 806,207 74,218"/>
+                <Baseline points="80,243 104,243 127,246 151,248 175,248 199,248 222,248 246,248 270,246 293,248 317,248 341,246 365,246 388,246 412,246 436,246 459,246 483,246 507,244 530,246 554,246 578,246 602,246 625,244 649,244 673,244 696,244 720,244 744,244 767,244 791,243 815,243 831,243"/>
+                <TextEquiv>
+                    <Unicode>Fei Xiaotong and sociology in revolutionary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="73,289 878,285 878,249 73,258"/>
+                <Baseline points="79,281 97,282 121,284 145,282 169,284 192,282 216,282 240,284 263,282 287,282 311,282 334,281 358,282 382,282 406,281 429,281 453,281 477,281 500,281 524,279 548,279 572,279 595,279 619,279 643,278 666,279 690,279 714,278 737,279 761,279 785,279 809,276 832,276 856,276 880,276"/>
+                <TextEquiv>
+                    <Unicode>China / R. David Arkush. — Cambridge (Mass) &amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="74,321 877,321 869,283 742,304 74,290"/>
+                <Baseline points="80,316 96,316 120,317 143,316 167,316 191,314 214,314 238,316 262,316 286,314 309,314 333,316 357,314 380,314 404,316 428,314 451,314 475,314 499,314 523,314 546,312 570,312 594,312 617,311 641,309 665,311 688,311 712,314 736,312 760,312 783,312 807,311 831,311 854,309 878,309"/>
+                <TextEquiv>
+                    <Unicode>London: Council on East Asian Studies, Harvard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="77,362 903,353 886,319 77,322"/>
+                <Baseline points="83,342 107,347 131,349 154,349 178,347 202,347 225,346 249,349 273,347 297,347 320,347 344,347 368,347 391,349 415,349 439,347 462,349 486,349 510,347 534,349 557,349 581,347 605,346 628,344 652,342 676,344 699,344 723,342 747,342 771,342 794,342 818,346 842,347 865,347 889,349 906,350"/>
+                <TextEquiv>
+                    <Unicode>University, 1981 (Harvard University Press dist.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="74,394 882,390 883,357 814,354 75,364"/>
+                <Baseline points="80,387 102,387 126,385 150,387 173,383 197,383 221,385 244,385 268,383 292,385 316,385 339,383 363,385 387,385 410,387 434,387 458,385 481,385 505,385 529,385 553,383 576,383 600,382 624,380 647,382 671,383 695,382 718,382 742,382 766,379 790,380 813,382 837,382 861,380 884,382"/>
+                <TextEquiv>
+                    <Unicode>xviii, 386 p.: 1 ill.; 24 cm. — (Harvard East</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="69,422 112,434 181,423 444,435 444,388 383,403 324,391 69,403"/>
+                <Baseline points="75,418 99,420 123,420 146,420 170,421 194,421 218,420 241,420 265,418 289,418 312,418 336,421 360,420 383,418 407,418 431,418 445,420"/>
+                <TextEquiv>
+                    <Unicode>Asian Monographs; 98)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="74,499 648,506 784,497 802,465 75,458"/>
+                <Baseline points="80,491 93,489 116,489 140,488 164,489 188,489 211,489 235,488 259,489 282,489 306,488 330,488 353,489 377,489 401,489 425,491 448,489 472,489 496,489 519,489 543,489 567,488 590,488 614,488 638,488 662,488 685,486 709,486 733,488 756,486 780,486 804,486"/>
+                <TextEquiv>
+                    <Unicode>Bibliography: pp. 323-366; includes index</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="71,566 169,571 180,559 197,570 213,561 237,571 280,562 374,571 417,562 417,529 279,540 239,523 215,540 205,530 163,540 71,533"/>
+                <Baseline points="77,559 101,559 124,557 148,559 172,557 195,557 219,559 243,559 267,557 290,559 314,557 338,557 361,556 385,556 409,557 420,559"/>
+                <TextEquiv>
+                    <Unicode>ISBN: 0-674-29815-2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15592.c.19&#13;
+FEI XIAOTONG AND SOCIOLOGY IN REVOLUTIONARY CHINA&#13;
+ARKUSH (R. David)&#13;
+Fei Xiaotong and sociology in revolutionary&#13;
+China / R. David Arkush. — Cambridge (Mass) &amp;&#13;
+London: Council on East Asian Studies, Harvard&#13;
+University, 1981 (Harvard University Press dist.)&#13;
+xviii, 386 p.: 1 ill.; 24 cm. — (Harvard East&#13;
+Asian Monographs; 98)&#13;
+Bibliography: pp. 323-366; includes index&#13;
+ISBN: 0-674-29815-2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

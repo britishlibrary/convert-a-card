@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:53.951+01:00</Created>
+        <LastChange>2023-07-03T16:08:01.367+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758478" pageNr="297" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=AMTAAHJBOOWGHPZJKERUVTVD&amp;fileType=view" imageId="35195784"/>
+    </Metadata>
+    <Page imageFilename="42758478.jpg" imageWidth="992" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393281367" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="66,31 872,31 872,638 66,638"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="600,88 624,98 647,97 660,86 713,90 720,83 746,91 768,82 779,90 831,91 837,69 813,51 790,49 773,63 740,56 704,62 683,41 630,53 599,35"/>
+                <Baseline points="605,81 630,82 655,82 680,82 704,82 729,82 754,82 779,84 804,84 829,84 839,82"/>
+                <TextEquiv>
+                    <Unicode>15318.e.24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="90,136 309,134 308,93 292,104 275,87 268,94 184,95 154,82 138,95 89,93"/>
+                <Baseline points="95,124 120,127 145,127 170,129 195,129 220,127 244,127 269,127 294,127 311,127"/>
+                <TextEquiv>
+                    <Unicode>FEN JIE XIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="61,218 144,226 164,214 177,226 219,217 240,227 371,219 370,194 335,175 323,184 252,179 239,191 228,180 178,178 148,189 136,177 107,177 96,188 60,178"/>
+                <Baseline points="66,211 91,211 115,211 140,211 165,211 190,213 215,213 239,213 264,213 289,215 314,216 339,221 364,218 373,217"/>
+                <TextEquiv>
+                    <Unicode>ZHANG (Kangkang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="94,322 243,330 351,315 371,329 489,330 489,298 459,281 419,294 362,282 339,306 266,285 232,299 203,284 94,283"/>
+                <Baseline points="99,312 119,314 143,314 168,316 193,314 218,314 243,314 268,314 292,316 317,316 342,314 367,316 392,316 417,317 441,317 466,317 491,317"/>
+                <TextEquiv>
+                    <Unicode>Fen jie xian. [Novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="99,361 166,353 175,362 240,362 269,351 280,362 320,354 353,363 391,353 391,340 374,330 318,333 308,322 273,323 251,345 207,320 156,335 99,322"/>
+                <Baseline points="104,354 129,352 153,352 178,352 203,352 228,352 253,352 278,350 302,350 327,350 352,352 377,352 393,354"/>
+                <TextEquiv>
+                    <Unicode>pp. 462. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="95,426 679,431 662,388 565,404 539,388 245,385 212,400 95,385"/>
+                <Baseline points="100,418 125,418 150,418 175,418 200,418 225,418 249,418 274,418 299,420 324,420 349,420 374,420 398,418 423,420 448,420 473,420 498,421 522,420 547,423 572,421 597,421 622,421 647,423 671,421 680,423"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Shanghai, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15318.e.24&#13;
+FEN JIE XIAN&#13;
+ZHANG (Kangkang)&#13;
+Fen jie xian. [Novel.]&#13;
+pp. 462. 19 cm.&#13;
+Renmin chubanshe: Shanghai, 1975.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

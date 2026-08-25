@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.519+01:00</Created>
+        <LastChange>2023-06-29T13:30:33.702+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758448" pageNr="271"/>
+    </Metadata>
+    <Page imageFilename="28961247442.jpg" imageWidth="964" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038233703" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,55 50,766 929,766 929,55"/>
+            <TextLine id="line_1654764498501_439" custom="readingOrder {index:0;}">
+                <Coords points="644,88 886,90 886,63 867,63 856,53 822,53 812,63 792,53 765,62 741,53 644,55"/>
+                <Baseline points="649,88 881,91"/>
+                <TextEquiv>
+                    <Unicode>15682.d.44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="99,138 200,139 208,131 223,145 334,138 344,133 344,102 99,103"/>
+                <Baseline points="104,131 130,130 156,130 182,130 208,131 234,131 260,131 286,131 312,131 339,130"/>
+                <TextEquiv>
+                    <Unicode>FA HAN CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="45,228 559,224 550,189 44,193"/>
+                <Baseline points="50,219 75,218 100,218 125,218 150,218 176,218 201,217 226,217 251,217 276,217 302,217 327,217 352,217 377,217 402,218 428,217 453,217 478,217 503,217 528,217 554,217"/>
+                <TextEquiv>
+                    <Unicode>ZENG DING BEN FA HAN CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="80,299 588,290 587,261 79,263"/>
+                <Baseline points="85,286 111,286 137,286 163,286 189,286 216,286 242,286 268,285 294,285 320,285 347,285 373,285 399,284 425,284 451,284 478,284 504,284 530,284 556,284 583,284"/>
+                <TextEquiv>
+                    <Unicode>Zeng ding ben Fa Han ci dian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037569278_1081" custom="readingOrder {index:4;}">
+                <Coords points="611,315 849,315 849,365 611,365"/>
+                <Baseline points="611,360 849,360"/>
+                <TextEquiv>
+                    <Unicode>Nouveau petit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037586008_1094" custom="readingOrder {index:5;}">
+                <Coords points="83,348 602,352 602,402 83,398"/>
+                <Baseline points="83,393 602,397"/>
+                <TextEquiv>
+                    <Unicode>dictionnaire français chinois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="93,576 159,578 174,563 217,579 440,568 440,542 385,546 368,532 297,548 249,549 212,533 160,549 93,541"/>
+                <Baseline points="98,560 123,562 149,563 175,564 201,564 227,564 253,564 279,563 305,563 331,563 357,562 383,562 409,562 435,563"/>
+                <TextEquiv>
+                    <Unicode>vii, 1174 p.; 19 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:7;}">
+                <Coords points="91,642 282,643 296,634 322,649 352,650 424,635 424,615 406,605 381,615 365,605 293,609 283,598 242,607 91,605"/>
+                <Baseline points="96,632 122,632 149,633 176,633 203,633 230,633 257,633 284,633 311,633 338,634 365,634 392,634 419,634"/>
+                <TextEquiv>
+                    <Unicode>ISBN 962 07 0054 6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15682.d.44&#13;
+FA HAN CI DIAN&#13;
+ZENG DING BEN FA HAN CI DIAN&#13;
+Zeng ding ben Fa Han ci dian&#13;
+Nouveau petit&#13;
+dictionnaire français chinois&#13;
+vii, 1174 p.; 19 cm&#13;
+ISBN 962 07 0054 6</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

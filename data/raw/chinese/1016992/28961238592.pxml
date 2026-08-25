@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.880+01:00</Created>
+        <LastChange>2023-06-21T18:51:38.549+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961238592.jpg" imageWidth="952" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687366298550" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="53,0 53,548 883,548 883,0"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="638,35 803,30 831,42 839,34 877,33 876,-5 850,-3 830,-13 803,12 782,5 737,12 689,-23 666,-1 637,-1"/>
+                <Baseline points="642,25 667,25 692,26 718,26 743,25 769,25 794,24 820,23 845,23 871,22"/>
+                <TextEquiv>
+                    <Unicode>15684.c.21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="49,119 75,121 111,106 140,122 151,116 276,113 275,83 157,89 86,86 67,69 48,74"/>
+                <Baseline points="53,106 80,105 107,104 134,103 161,103 188,103 215,103 242,103 270,102"/>
+                <TextEquiv>
+                    <Unicode>FAN YI LUN JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="77,195 113,193 127,184 141,184 151,194 210,189 239,195 249,186 296,191 307,185 306,148 273,141 265,149 219,155 151,149 129,158 76,158"/>
+                <Baseline points="81,181 108,180 136,179 163,179 191,179 218,179 246,179 273,177 301,174"/>
+                <TextEquiv>
+                    <Unicode>LIU (Jingzhi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="104,256 194,266 206,258 293,252 304,259 340,258 357,247 357,231 331,220 310,221 297,234 248,221 103,230"/>
+                <Baseline points="109,250 136,250 163,250 190,250 217,250 244,250 271,249 298,249 325,247 352,246"/>
+                <TextEquiv>
+                    <Unicode>Fan yi lun ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_113" custom="readingOrder {index:4;}">
+                <Coords points="414,330 439,330 478,330 517,330 555,330 594,331 633,331 671,331 710,332 749,332 787,333 797,333 798,318 787,318 749,317 710,317 671,316 633,316 594,316 555,315 517,315 478,315 439,315 414,315"/>
+                <Baseline points="414,330 439,330 478,330 517,330 555,330 594,331 633,331 671,331 710,332 749,332 787,333 797,333"/>
+                <TextEquiv>
+                    <Unicode>Essays on Translation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_117" custom="readingOrder {index:5;}">
+                <Coords points="786,420 810,419 865,423 866,408 810,404 785,405"/>
+                <Baseline points="786,420 810,419 865,423"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="110,542 442,539 462,523 498,538 524,523 524,497 304,497 268,514 248,498 109,509"/>
+                <Baseline points="114,531 139,531 164,531 189,531 215,531 240,531 265,530 291,530 316,529 341,528 367,527 392,526 417,525 443,524 468,522 493,521 519,520"/>
+                <TextEquiv>
+                    <Unicode>xv, iii, 387 p.; 22 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15684. c. 21.
+FAN YI LUN JI
+LIU (Jingzhi)
+Fan yi lun ji
+ 1 2 4. - Essays on Translation /2
+2 1 1 5/0. — 8 1/2 —14t 198
+xv, iii, 387 p.; 22 om
+chi-p
+ONEBCSS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

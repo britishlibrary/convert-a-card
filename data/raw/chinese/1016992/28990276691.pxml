@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.193+01:00</Created>
+        <LastChange>2023-07-03T16:24:49.313+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758495" pageNr="312" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=OMXRCSJOWUXIJRCKXFCGEUJB&amp;fileType=view" imageId="35195801"/>
+    </Metadata>
+    <Page imageFilename="42758495.jpg" imageWidth="1008" imageHeight="826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394289314" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="80,99 940,99 940,765 80,765"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="606,151 625,162 653,154 663,162 710,162 724,150 741,161 768,162 776,154 788,163 814,162 813,114 801,114 780,136 761,128 756,134 741,119 730,130 709,129 694,115 675,113 650,122 605,122"/>
+                <Baseline points="612,149 637,149 663,151 688,152 713,152 738,154 763,152 789,152 814,152 817,154"/>
+                <TextEquiv>
+                    <Unicode>15635.g.3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="98,231 159,232 180,242 232,224 288,268 325,234 350,231 350,171 317,170 303,185 283,177 237,200 223,200 207,184 98,191"/>
+                <Baseline points="104,224 125,221 151,221 176,223 201,221 226,221 251,221 277,221 302,221 327,221 352,223"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHI SHI HUA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="74,293 911,299 911,265 804,248 74,257"/>
+                <Baseline points="80,283 105,283 130,283 156,283 181,285 206,285 231,285 256,287 282,287 307,287 332,287 357,287 382,287 407,288 433,287 458,288 483,288 508,288 533,290 559,288 584,290 609,290 634,290 659,290 684,290 710,290 735,292 760,292 785,292 810,290 836,292 861,290 886,292 911,292 914,290"/>
+                <TextEquiv>
+                    <Unicode>SHANGHAI. Shanghai shi fangzhi kexue yanjiuyuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="110,430 938,450 938,395 110,397"/>
+                <Baseline points="115,426 141,426 166,428 191,428 216,428 241,428 266,429 292,429 317,429 342,429 367,429 392,431 418,431 443,429 468,429 493,429 518,429 543,431 569,431 594,429 619,429 644,429 669,429 695,431 720,431 745,431 770,431 795,431 820,431 846,431 871,431 896,431 921,434 940,436"/>
+                <TextEquiv>
+                    <Unicode>Fangzhi shihua. [History of textiles in China.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="109,471 128,483 183,466 350,482 375,469 418,482 496,473 496,455 445,434 411,448 342,434 284,447 249,434 231,452 206,434 184,451 109,448"/>
+                <Baseline points="114,468 139,468 164,465 189,465 214,466 240,466 265,466 290,468 315,468 340,466 365,468 391,468 416,468 441,466 466,466 491,470 498,470"/>
+                <TextEquiv>
+                    <Unicode>pp. 2, 2, 238; 9 pls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="562,467 574,474 606,474 615,466 629,474 684,473 684,452 670,452 654,443 629,445 621,451 603,433 593,433 582,434 571,446 562,446"/>
+                <Baseline points="567,466 592,466 617,465 643,466 668,466 686,466"/>
+                <TextEquiv>
+                    <Unicode>19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="109,533 671,536 759,565 937,547 936,514 108,508"/>
+                <Baseline points="114,533 139,533 164,533 189,535 214,535 240,535 265,535 290,535 315,537 340,537 365,537 391,538 416,537 441,537 466,537 491,537 517,537 542,537 567,537 592,537 617,537 643,535 668,537 693,537 718,537 743,538 768,538 794,538 819,538 844,538 869,538 894,538 920,538 940,540"/>
+                <TextEquiv>
+                    <Unicode>Shanghai kexue jishu chubanshe: Shanghai, 1978.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="104,675 168,691 615,688 615,653 499,647 475,665 453,646 295,657 104,644"/>
+                <Baseline points="110,678 135,678 161,678 186,679 211,681 236,679 261,679 287,681 312,683 337,681 362,681 387,681 413,681 438,681 463,683 488,683 513,683 538,683 564,683 589,681 614,681 617,683"/>
+                <TextEquiv>
+                    <Unicode>Zhongguo keji shihua congshu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15635.g.3&#13;
+FANG ZHI SHI HUA&#13;
+SHANGHAI. Shanghai shi fangzhi kexue yanjiuyuan&#13;
+Fangzhi shihua. [History of textiles in China.]&#13;
+pp. 2, 2, 238; 9 pls.&#13;
+19 cm.&#13;
+Shanghai kexue jishu chubanshe: Shanghai, 1978.&#13;
+Zhongguo keji shihua congshu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

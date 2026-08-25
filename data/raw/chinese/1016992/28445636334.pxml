@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.410+01:00</Created>
+        <LastChange>2023-05-04T12:46:59.486+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758231" pageNr="84"/>
+    </Metadata>
+    <Page imageFilename="28445636334.jpg" imageWidth="984" imageHeight="826">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197219487" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="73,78 74,626 931,627 930,79"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="631,138 914,139 915,89 632,86"/>
+                <Baseline points="636,132 663,131 690,130 717,129 745,129 772,129 799,129 827,130 854,130 881,132 909,134"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.550</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="92,204 145,210 153,202 204,200 222,201 235,210 256,208 256,165 239,157 224,157 218,163 192,157 118,163 112,157 92,157"/>
+                <Baseline points="97,196 122,197 148,196 174,195 199,195 225,196 251,198"/>
+                <TextEquiv>
+                    <Unicode>LI(Da)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="100,276 389,267 414,290 451,280 492,298 509,293 508,239 387,239 359,217 334,238 211,238 192,221 174,221 149,248 98,238"/>
+                <Baseline points="104,266 130,266 157,265 183,264 210,263 237,262 263,261 290,260 316,259 343,258 370,258 396,257 423,257 449,257 476,257 503,257"/>
+                <TextEquiv>
+                    <Unicode>Fa li xue da gang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683193710324_217" custom="readingOrder {index:3;}">
+                <Coords points="164,381 259,380 259,430 164,431"/>
+                <Baseline points="164,426 259,425"/>
+                <TextEquiv>
+                    <Unicode>1898-1966</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683193712870_222" custom="readingOrder {index:4;}">
+                <Coords points="89,424 130,422 132,472 91,474"/>
+                <Baseline points="91,469 132,467"/>
+                <TextEquiv>
+                    <Unicode>1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="102,506 120,506 128,498 142,506 163,497 200,499 207,506 233,499 246,506 254,498 328,496 328,479 299,468 224,475 215,468 161,468 151,478 142,469 127,475 102,471"/>
+                <Baseline points="107,489 134,489 161,489 188,489 215,489 242,489 269,489 296,489 323,490"/>
+                <TextEquiv>
+                    <Unicode>3, 4, 132 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="104,546 602,546 602,517 570,510 104,509"/>
+                <Baseline points="109,533 134,534 160,535 186,535 211,535 237,535 263,535 288,535 314,535 340,535 365,534 391,534 417,534 442,534 468,534 494,534 519,534 545,534 571,535 597,536"/>
+                <TextEquiv>
+                    <Unicode>1. Jurisprudence. 2. Law--Philosophy. 1. Title.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="101,599 130,601 136,595 146,602 198,599 204,603 212,595 217,600 240,598 264,605 264,572 212,576 101,572"/>
+                <Baseline points="106,592 131,593 157,593 182,593 208,592 233,592 259,592"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB087-B219</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="435,603 536,594 768,602 784,593 784,577 768,573 650,581 632,573 435,573"/>
+                <Baseline points="440,594 466,594 492,594 518,594 544,594 570,594 596,594 622,594 648,595 674,595 700,595 726,594 752,594 779,594"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114 DCF: a [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="92,626 323,627 323,598 280,596 258,606 249,599 214,597 92,602"/>
+                <Baseline points="97,615 124,615 152,616 179,617 207,617 235,617 262,617 290,617 318,616"/>
+                <TextEquiv>
+                    <Unicode>CALL: CHI.1987.a.558</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.550&#13;
+LI(Da)&#13;
+Fa li xue da gang&#13;
+1898-1966&#13;
+1983&#13;
+3, 4, 132 p.; 21 cm.&#13;
+1. Jurisprudence. 2. Law--Philosophy. 1. Title.&#13;
+ID: UKB087-B219&#13;
+CC: 9114 DCF: a [CJK]&#13;
+CALL: CHI.1987.a.558</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

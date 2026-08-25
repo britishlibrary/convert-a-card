@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:58</Creator>
+        <Created>2022-05-30T15:59:55.440+01:00</Created>
+        <LastChange>2023-08-16T15:22:12.015+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758588" pageNr="393" tsid="128197541" status="IN_PROGRESS" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=EKOHZIXIWPNTXTGZGTVAUPLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUKUIYDQYNLJTZCOTPDHGNIJ" imageId="35195894"/>
+    </Metadata>
+    <Page imageFilename="42758588.jpg" imageWidth="988" imageHeight="816">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1692192132015" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="93,19 891,19 891,745 93,745"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="560,73 669,83 686,74 697,83 737,75 786,90 814,81 813,56 797,57 778,40 755,41 733,65 716,52 685,62 663,44 589,42 578,33 559,41"/>
+                <Baseline points="565,69 590,70 615,70 639,70 664,72 689,74 714,75 738,74 763,75 788,77 812,78 816,78"/>
+                <TextEquiv>
+                    <Unicode>15222.e.284</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="95,104 122,114 267,110 317,119 340,109 339,77 94,72"/>
+                <Baseline points="100,103 125,102 149,102 174,103 199,105 223,106 248,108 273,108 297,108 322,108 342,110"/>
+                <TextEquiv>
+                    <Unicode>FAN DU LIN LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="88,190 138,202 212,199 225,210 339,200 405,210 414,205 413,156 364,174 324,161 298,172 279,158 267,170 232,155 218,169 199,157 110,154 87,166"/>
+                <Baseline points="93,187 118,189 143,189 167,190 192,190 217,190 241,192 266,192 291,192 315,194 340,195 365,195 389,199 414,202 416,202"/>
+                <TextEquiv>
+                    <Unicode>ENGELS (Friedrich)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="214,263 221,261 223,263 238,252 260,270 274,256 280,256 278,230 265,230 255,220 248,220 238,229 231,228 221,219 212,219"/>
+                <Baseline points="218,246 243,248 268,248 281,250"/>
+                <TextEquiv>
+                    <Unicode>ti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="133,293 201,298 266,280 303,298 324,287 352,298 364,285 377,298 407,290 433,301 433,217 369,244 340,225 305,226 261,269 211,251 179,219 133,222"/>
+                <Baseline points="138,284 162,284 187,284 212,282 236,278 261,278 286,278 310,278 335,278 360,282 384,286 409,286 434,286 435,286"/>
+                <TextEquiv>
+                    <Unicode>1 e. 17 T46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="124,334 869,354 868,318 676,297 648,315 418,298 393,325 314,297 123,298"/>
+                <Baseline points="128,324 153,325 177,327 202,327 227,327 251,327 276,329 301,330 325,330 350,330 375,333 399,335 424,333 449,335 473,335 498,333 523,335 547,337 572,337 597,338 621,340 646,342 671,342 695,340 720,342 745,342 769,342 794,343 819,345 843,345 868,347 870,347"/>
+                <TextEquiv>
+                    <Unicode>Fan Dulin lun. [Anti-Dthring (Herrn Eugen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="121,370 769,386 749,347 120,332"/>
+                <Baseline points="126,358 151,361 176,361 200,361 225,363 250,363 274,363 299,365 324,365 348,366 373,366 398,368 422,368 447,370 472,368 496,370 521,370 546,371 570,371 595,373 620,373 644,375 669,375 694,375 718,376 743,376 768,380 771,378"/>
+                <TextEquiv>
+                    <Unicode>Dührings Umwalzung der Wissenschaft).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="124,402 844,426 822,388 123,369"/>
+                <Baseline points="129,394 154,394 179,394 204,396 228,398 253,398 278,399 302,399 327,399 352,401 376,401 401,403 426,404 450,406 475,406 500,406 524,406 549,406 574,408 598,409 623,411 648,409 672,411 697,412 722,411 746,411 771,412 796,414 820,414 845,419"/>
+                <TextEquiv>
+                    <Unicode>Translated by Zhonggong zhongyang Makesi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="120,434 856,466 855,441 800,420 119,407"/>
+                <Baseline points="125,429 149,431 174,432 199,432 223,432 248,434 273,434 297,434 322,435 347,435 371,439 396,439 421,439 445,439 470,439 495,440 519,440 544,442 569,442 593,442 618,444 643,444 667,445 692,444 717,445 741,445 766,445 791,449 816,449 840,452 858,455"/>
+                <TextEquiv>
+                    <Unicode>Engesi, Liening, Sidalin zhuzuo bianyiju.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="120,473 159,465 172,474 275,470 288,482 308,473 375,489 427,482 426,457 401,447 315,457 299,442 257,441 241,457 207,438 156,448 134,436 120,446"/>
+                <Baseline points="125,467 149,465 174,467 199,467 223,468 248,470 273,470 297,468 322,470 347,472 371,473 396,473 421,475 429,477"/>
+                <TextEquiv>
+                    <Unicode>6 vols &amp; 1 suppl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="781,486 810,491 830,491 835,487 863,489 891,498 889,463 877,458 874,462 840,466 823,455 807,460 795,458 780,465"/>
+                <Baseline points="786,483 811,483 835,483 860,485 885,488 891,488"/>
+                <TextEquiv>
+                    <Unicode>28 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="118,541 670,560 669,531 641,510 552,529 117,508"/>
+                <Baseline points="123,536 148,536 172,536 197,536 222,537 246,537 271,539 296,539 320,541 345,541 370,542 394,542 419,542 444,544 468,544 493,546 518,547 542,549 567,549 592,551 616,549 641,549 666,551 671,552"/>
+                <TextEquiv>
+                    <Unicode>Renmin chubanshe: Peking, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="709,732 726,738 846,735 856,745 872,746 885,739 883,695 866,695 846,715 831,702 814,709 773,705 757,692 743,703 722,689 707,690"/>
+                <Baseline points="714,728 738,728 763,728 788,730 812,732 837,732 862,735 886,733"/>
+                <TextEquiv>
+                    <Unicode>Chinese (E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

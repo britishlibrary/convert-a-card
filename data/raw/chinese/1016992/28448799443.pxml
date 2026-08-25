@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.474+01:00</Created>
+        <LastChange>2023-05-04T12:47:17.314+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758236" pageNr="88"/>
+    </Metadata>
+    <Page imageFilename="28448799443.jpg" imageWidth="956" imageHeight="792">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197237314" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="6,93 9,631 886,626 883,88"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="562,137 828,146 830,107 774,101 759,115 745,108 724,117 698,109 660,115 645,104 564,98"/>
+                <Baseline points="568,126 593,128 619,129 644,131 670,132 696,133 721,135 747,136 772,136 798,137 824,137"/>
+                <TextEquiv>
+                    <Unicode>15652.a.4(3)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="27,196 724,202 756,194 757,171 28,157"/>
+                <Baseline points="32,183 88,184 125,184 162,185 199,185 235,186 272,186 309,186 346,187 383,187 419,188 456,188 493,188 530,189 567,189 603,189 640,189 677,189 714,189 751,189"/>
+                <TextEquiv>
+                    <Unicode>FENG JIAN SHE HUI - WEI, JIN, NAN BEI CHAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913410068_695" custom="readingOrder {index:2;}">
+                <Coords points="17,239 34,252 110,246 123,259 145,262 282,257 283,223 272,221 173,229 133,213 114,227 18,219"/>
+                <Baseline points="22,254 277,259"/>
+                <TextEquiv>
+                    <Unicode>TANG (Changru)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:3;}">
+                <Coords points="57,354 802,378 838,374 839,350 58,316"/>
+                <Baseline points="62,345 100,346 139,347 177,348 216,350 254,351 293,352 331,353 370,355 408,356 447,357 486,358 524,360 563,361 601,362 640,363 678,364 717,365 755,366 794,367 833,368"/>
+                <TextEquiv>
+                    <Unicode>Zhong guo tong shi can kao zi liao. Gu dai bu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:4;}">
+                <Coords points="66,386 867,411 868,381 819,375 67,357"/>
+                <Baseline points="71,379 110,380 150,382 189,384 229,385 269,386 308,388 348,389 387,390 427,391 467,392 506,393 546,394 585,395 625,396 665,397 704,398 744,400 783,401 823,402 863,403"/>
+                <TextEquiv>
+                    <Unicode>fen di san ce. Feng jian she hui: Wei, Jin, Nan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:5;}">
+                <Coords points="58,419 851,443 820,409 59,389"/>
+                <Baseline points="63,410 102,413 141,415 180,416 219,418 258,419 297,420 337,422 376,423 415,424 454,425 493,425 532,427 571,428 611,429 650,430 689,431 728,432 767,434 806,436 846,438"/>
+                <TextEquiv>
+                    <Unicode>Bei chao. [Compilation of historical material,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:6;}">
+                <Coords points="61,450 812,482 838,476 839,446 61,428"/>
+                <Baseline points="66,445 104,447 142,448 181,450 219,451 257,452 296,453 334,454 372,456 411,457 449,458 487,459 526,460 564,461 602,462 641,464 679,465 717,467 756,468 794,470 833,471"/>
+                <TextEquiv>
+                    <Unicode>overall editors Jian Bogan and Zheng Tianting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913424097_706" custom="readingOrder {index:7;}">
+                <Coords points="391,499 832,514 842,482 392,468"/>
+                <Baseline points="396,494 836,510"/>
+                <TextEquiv>
+                    <Unicode>First published in 1965.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:8;}">
+                <Coords points="61,530 95,531 122,513 151,530 264,530 301,498 338,497 338,459 270,461 243,487 202,496 188,510 156,493 116,503 61,493"/>
+                <Baseline points="66,515 92,518 119,519 146,520 172,520 199,520 226,520 252,520"/>
+                <TextEquiv>
+                    <Unicode>pp. 11, 408.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:9;}">
+                <Coords points="346,529 396,527 404,535 453,538 452,509 425,509 416,502 407,502 395,512 384,501 360,498 347,501"/>
+                <Baseline points="352,524 384,523 416,526 449,526"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:10;}">
+                <Coords points="49,587 591,605 592,575 538,564 480,582 431,565 289,577 249,557 50,558"/>
+                <Baseline points="54,582 80,582 107,583 133,584 160,585 187,585 213,586 240,587 266,588 293,589 320,590 346,591 373,592 399,592 426,593 453,594 479,595 506,596 532,597 559,597 586,598"/>
+                <TextEquiv>
+                    <Unicode>Zhong hua shu ju: Peking, 1979.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15652.a.4(3)&#13;
+FENG JIAN SHE HUI - WEI, JIN, NAN BEI CHAO&#13;
+TANG (Changru)&#13;
+Zhong guo tong shi can kao zi liao. Gu dai bu&#13;
+fen di san ce. Feng jian she hui: Wei, Jin, Nan&#13;
+Bei chao. [Compilation of historical material,&#13;
+overall editors Jian Bogan and Zheng Tianting&#13;
+First published in 1965.]&#13;
+pp. 11, 408.&#13;
+21 cm.&#13;
+Zhong hua shu ju: Peking, 1979.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

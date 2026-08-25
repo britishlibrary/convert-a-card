@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.929+01:00</Created>
+        <LastChange>2023-05-04T12:45:18.273+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758202" pageNr="58"/>
+    </Metadata>
+    <Page imageFilename="28445627244.jpg" imageWidth="952" imageHeight="786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197118273" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="28,32 22,702 911,696 912,39"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="561,81 865,90 884,86 885,65 864,52 814,52 798,64 774,52 733,60 716,45 677,44 655,45 637,60 621,44 562,43"/>
+                <Baseline points="567,72 609,72 636,72 663,73 690,74 717,75 744,76 771,76 798,77 825,77 852,78 879,79"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.535</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="48,209 117,209 127,201 144,211 279,209 279,176 272,173 197,178 144,171 124,181 116,173 48,171"/>
+                <Baseline points="53,197 80,198 108,198 135,198 163,198 190,198 218,199 245,200 273,203"/>
+                <TextEquiv>
+                    <Unicode>FANG (Chunru)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="67,282 742,298 757,252 67,237"/>
+                <Baseline points="72,265 107,266 143,267 179,268 214,269 250,270 286,270 322,271 357,271 393,271 429,272 465,272 500,273 536,273 572,274 608,275 643,276 679,277 715,278 751,280"/>
+                <TextEquiv>
+                    <Unicode>Fang Chun ru Yang Shu hui ju zuo xuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129415245_867" custom="readingOrder {index:3;}">
+                <Coords points="650,339 697,339 697,389 650,389"/>
+                <Baseline points="650,384 697,384"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="54,410 455,418 538,411 539,390 55,377"/>
+                <Baseline points="60,397 86,397 112,398 138,398 165,398 191,399 217,399 243,399 270,400 296,400 322,401 349,401 375,401 401,402 427,402 454,402 480,403 506,403 533,404"/>
+                <TextEquiv>
+                    <Unicode>5, 494 p., [2] p. of plates ; port. ; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="43,459 765,466 747,437 44,427"/>
+                <Baseline points="49,449 84,450 120,450 155,450 191,451 226,451 262,452 297,452 333,453 368,453 404,454 439,454 475,454 510,455 546,455 581,456 617,456 652,457 688,457 723,458 759,458"/>
+                <TextEquiv>
+                    <Unicode>Colephon title alse in pinyin: Fang Chunru Yang Shuhui juzuoxuan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657632945188_401" custom="readingOrder {index:6;}">
+                <Coords points="48,469 424,476 423,526 47,519"/>
+                <Baseline points="47,514 423,521"/>
+                <TextEquiv>
+                    <Unicode>1. Chinese drama--20th century. I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657632952842_406" custom="readingOrder {index:7;}">
+                <Coords points="536,477 786,479 786,529 536,527"/>
+                <Baseline points="536,522 786,524"/>
+                <TextEquiv>
+                    <Unicode>Plays. Selections. II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633015427_424" custom="readingOrder {index:8;}">
+                <Coords points="32,492 293,497 292,547 31,542"/>
+                <Baseline points="31,537 292,542"/>
+                <TextEquiv>
+                    <Unicode>Plays. Selections. III.        </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633042986_433" custom="readingOrder {index:9;}">
+                <Coords points="518,503 897,507 897,557 518,553"/>
+                <Baseline points="518,548 897,552"/>
+                <TextEquiv>
+                    <Unicode>IV. Title: Fang Chunru Yang Shuhui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657633091761_443" custom="readingOrder {index:10;}">
+                <Coords points="26,515 138,518 137,568 25,565"/>
+                <Baseline points="25,560 137,563"/>
+                <TextEquiv>
+                    <Unicode>juzuoxuan.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="52,618 98,618 109,608 116,615 150,620 170,614 182,619 248,616 248,591 236,588 52,590"/>
+                <Baseline points="58,608 84,609 110,609 136,609 163,609 189,610 215,610 242,609"/>
+                <TextEquiv>
+                    <Unicode>LCCN: 86170433/ACN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="54,638 450,638 516,650 516,612 54,618"/>
+                <Baseline points="60,632 85,633 110,633 135,633 160,634 185,634 210,634 235,634 260,635 285,635 310,635 335,635 360,636 385,636 410,636 435,637 460,637 485,638 511,639"/>
+                <TextEquiv>
+                    <Unicode>L.C. CALL NO: PL2683.F36 1984 (Orien China)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="48,661 76,663 85,657 114,665 146,661 158,665 164,660 214,666 215,639 162,642 154,636 109,639 96,634 81,645 69,637 48,637"/>
+                <Baseline points="53,655 79,656 105,656 131,656 157,656 183,657 209,657"/>
+                <TextEquiv>
+                    <Unicode>ID: UKB087-B194</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="392,674 491,674 491,643 474,645 445,642 436,646 430,643 393,642"/>
+                <Baseline points="398,663 427,662 456,663 486,664"/>
+                <TextEquiv>
+                    <Unicode>CC: 9114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="558,673 631,675 652,654 660,654 679,674 735,674 749,665 750,637 721,637 714,644 644,637 635,645 612,648 589,638 559,637"/>
+                <Baseline points="564,663 589,664 615,665 641,666 666,666 692,667 718,667 744,666"/>
+                <TextEquiv>
+                    <Unicode>DCF: [CJK]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="53,690 108,687 116,696 134,698 150,691 280,691 280,668 251,660 233,660 224,668 162,661 154,669 119,662 106,672 87,662 53,661"/>
+                <Baseline points="58,679 85,680 112,681 139,682 166,682 193,682 220,683 247,683 274,682"/>
+                <TextEquiv>
+                    <Unicode>CALL: CHI. 1987.a.535.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.535&#13;
+FANG (Chunru)&#13;
+Fang Chun ru Yang Shu hui ju zuo xuan&#13;
+1984&#13;
+5, 494 p., [2] p. of plates ; port. ; 21 cm.&#13;
+Colephon title alse in pinyin: Fang Chunru Yang Shuhui juzuoxuan.&#13;
+1. Chinese drama--20th century. I.&#13;
+Plays. Selections. II.&#13;
+Plays. Selections. III.        &#13;
+IV. Title: Fang Chunru Yang Shuhui&#13;
+juzuoxuan.&#13;
+LCCN: 86170433/ACN&#13;
+L.C. CALL NO: PL2683.F36 1984 (Orien China)&#13;
+ID: UKB087-B194&#13;
+CC: 9114&#13;
+DCF: [CJK]&#13;
+CALL: CHI. 1987.a.535.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

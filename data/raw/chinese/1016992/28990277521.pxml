@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.276+01:00</Created>
+        <LastChange>2023-07-03T16:33:20.824+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758501" pageNr="317" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=NFBZGHYOSDJKVZRKRLCWRDLN&amp;fileType=view" imageId="35195807"/>
+    </Metadata>
+    <Page imageFilename="42758501.jpg" imageWidth="952" imageHeight="788">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394800824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="38,13 900,13 900,761 38,761"/>
+            <TextLine id="line_1688394731546_1263" custom="readingOrder {index:0;}">
+                <Coords points="512,26 838,27 838,77 512,76"/>
+                <Baseline points="512,71 838,72"/>
+                <TextEquiv>
+                    <Unicode>15322.f.58/5083</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="51,97 480,98 480,53 217,42 177,65 150,39 51,53"/>
+                <Baseline points="57,87 80,84 104,84 128,84 152,85 175,85 199,87 223,87 247,87 271,88 294,87 318,87 342,88 366,90 390,88 413,88 437,90 461,88 483,87"/>
+                <TextEquiv>
+                    <Unicode>FANG WU JIAN ZHU DE GU SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="32,216 118,205 140,218 171,208 207,217 232,210 231,164 215,164 202,177 163,177 150,164 136,164 123,177 100,170 86,177 71,163 49,164 31,155"/>
+                <Baseline points="38,202 61,201 85,202 109,201 133,201 156,202 180,202 204,202 228,202 234,204"/>
+                <TextEquiv>
+                    <Unicode>XIAO (Feng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="65,273 527,274 518,232 465,250 426,234 408,252 376,234 305,236 288,252 272,236 65,236"/>
+                <Baseline points="71,266 77,264 101,267 125,267 149,267 172,267 196,269 220,267 244,267 267,267 291,266 315,266 339,264 363,264 386,266 410,266 434,264 458,264 481,264 505,263 529,263"/>
+                <TextEquiv>
+                    <Unicode>Fang wu jian zhu de gu shi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="394,443 409,443 426,459 513,449 530,466 561,442 641,442 644,397 610,391 565,392 535,420 498,388 465,409 442,392 396,415"/>
+                <Baseline points="399,443 407,443 431,447 455,445 478,445 502,443 526,440 550,437 573,437 597,437 621,434 645,432"/>
+                <TextEquiv>
+                    <Unicode>1972</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="66,561 871,554 873,491 767,515 733,488 578,491 532,535 432,544 234,514 66,527"/>
+                <Baseline points="72,553 90,554 114,556 137,556 161,554 185,554 209,554 233,554 256,554 280,554 304,553 328,553 351,553 375,553 399,553 423,553 447,550 470,548 494,547 518,547 542,547 566,547 589,548 613,547 637,545 661,545 684,545 708,547 732,543 756,542 780,539 803,535 827,535 851,534 875,531"/>
+                <TextEquiv>
+                    <Unicode>46 p.: ill.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15322.f.58/5083&#13;
+FANG WU JIAN ZHU DE GU SHI&#13;
+XIAO (Feng)&#13;
+Fang wu jian zhu de gu shi&#13;
+1972&#13;
+46 p.: ill.; 19 cm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

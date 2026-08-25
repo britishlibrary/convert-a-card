@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.439+01:00</Created>
+        <LastChange>2023-05-04T12:47:07.817+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758233" pageNr="86"/>
+    </Metadata>
+    <Page imageFilename="28445636584.jpg" imageWidth="988" imageHeight="820">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197227817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="65,77 67,628 914,630 912,79"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="547,130 782,130 782,79 732,86 547,85"/>
+                <Baseline points="552,121 577,121 602,120 627,120 652,121 677,121 702,122 727,122 752,121 777,120"/>
+                <TextEquiv>
+                    <Unicode>15100.a.30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="86,195 349,189 401,201 523,188 523,154 464,148 351,163 292,148 86,153"/>
+                <Baseline points="91,182 116,181 141,181 166,181 191,181 216,181 241,182 266,182 291,182 317,182 342,183 367,183 392,183 417,184 442,184 467,185 492,186 518,186"/>
+                <TextEquiv>
+                    <Unicode>FALAN KE BU KEMAN ZHI MI JUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="81,266 200,266 212,274 231,266 282,266 319,274 333,266 334,228 313,228 302,238 231,228 201,235 183,228 82,230"/>
+                <Baseline points="86,256 112,255 139,255 166,255 193,255 220,255 247,255 274,255 301,256 328,256"/>
+                <TextEquiv>
+                    <Unicode>HOWARD (Peter)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913326881_617" custom="readingOrder {index:3;}">
+                <Coords points="105,402 898,390 859,364 105,375"/>
+                <Baseline points="110,401 893,400"/>
+                <TextEquiv>
+                    <Unicode>Falanke Bukeman zhi mijue. [Frank Buchman's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1658913329258_622" custom="readingOrder {index:4;}">
+                <Coords points="121,434 720,442 739,404 287,403 246,420 121,407"/>
+                <Baseline points="126,430 733,432"/>
+                <TextEquiv>
+                    <Unicode>secret. Translated by Yu Zhaolin.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;}">
+                <Coords points="114,479 125,479 129,474 169,474 174,469 189,469 195,474 243,474 242,451 235,451 220,437 184,437 166,451 160,445 113,445"/>
+                <Baseline points="119,465 148,465 178,463 208,461 238,464"/>
+                <TextEquiv>
+                    <Unicode>pp. 87.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:6;}">
+                <Coords points="775,466 883,465 883,444 869,444 859,437 832,436 825,442 810,429 776,430"/>
+                <Baseline points="780,458 812,458 845,459 878,461"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:7;}">
+                <Coords points="117,538 715,534 694,501 116,507"/>
+                <Baseline points="122,530 151,530 180,529 210,529 239,529 269,529 298,529 327,529 357,529 386,529 416,529 445,529 474,529 504,529 533,529 563,529 592,529 621,529 651,529 680,529 710,528"/>
+                <TextEquiv>
+                    <Unicode>Chunqiu zazhishe: Hong Kong, 1970.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:8;}">
+                <Coords points="122,610 407,608 407,573 391,565 371,578 279,572 248,581 231,573 223,581 183,582 122,565"/>
+                <Baseline points="127,594 152,595 177,597 202,597 227,597 252,597 277,597 302,596 327,596 352,597 377,598 402,599"/>
+                <TextEquiv>
+                    <Unicode>(Second edition)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15100.a.30&#13;
+FALAN KE BU KEMAN ZHI MI JUE&#13;
+HOWARD (Peter)&#13;
+Falanke Bukeman zhi mijue. [Frank Buchman's&#13;
+secret. Translated by Yu Zhaolin.]&#13;
+pp. 87.&#13;
+18 cm.&#13;
+Chunqiu zazhishe: Hong Kong, 1970.&#13;
+(Second edition)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

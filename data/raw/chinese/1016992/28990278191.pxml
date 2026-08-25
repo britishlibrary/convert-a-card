@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.362+01:00</Created>
+        <LastChange>2023-07-03T16:42:27.435+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758507" pageNr="322" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=LWCPCHKCBXBNWYYEVUIVETJL&amp;fileType=view" imageId="35195813"/>
+    </Metadata>
+    <Page imageFilename="42758507.jpg" imageWidth="964" imageHeight="781">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688395347435" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="41,22 906,22 906,744 41,744"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="618,80 725,82 736,75 745,82 831,81 830,44 802,42 792,54 771,55 754,40 742,55 722,55 705,41 668,41 656,30 640,29 617,48"/>
+                <Baseline points="623,72 647,73 671,72 695,73 719,75 744,75 768,75 792,75 816,77 834,77"/>
+                <TextEquiv>
+                    <Unicode>15612.c.2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="48,150 534,153 534,127 501,99 458,131 414,102 389,127 356,109 338,127 313,110 290,127 246,113 206,126 179,99 131,127 104,101 48,102"/>
+                <Baseline points="53,147 77,147 101,146 125,147 149,146 173,147 197,146 221,147 245,147 269,147 294,147 318,147 342,147 366,147 390,147 414,149 438,149 462,149 486,149 511,147 535,149 536,149"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN YUN JU SI SHI JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="35,218 544,215 544,176 524,172 459,187 35,177"/>
+                <Baseline points="41,208 65,208 89,207 114,208 138,207 162,207 186,207 210,208 234,207 258,207 282,207 306,207 331,207 355,207 379,207 403,207 427,207 451,207 475,207 499,207 523,207 547,207"/>
+                <TextEquiv>
+                    <Unicode>FANG SHAN YUN JU SI SHI JING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="66,282 488,277 573,291 573,250 521,239 492,257 474,239 396,239 373,257 342,245 66,259"/>
+                <Baseline points="72,278 96,276 120,276 144,278 168,276 192,276 216,276 241,278 265,278 289,276 313,276 337,276 361,276 385,276 409,276 433,276 457,276 482,276 506,276 530,276 554,276 575,278"/>
+                <TextEquiv>
+                    <Unicode>Fang shan yun ju si shi jing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="56,460 254,475 345,454 394,474 424,446 592,456 593,399 412,418 387,395 331,426 307,401 268,429 219,401 189,430 153,398 118,421 57,404"/>
+                <Baseline points="62,451 88,449 112,449 136,453 160,456 184,459 208,459 233,459 257,457 281,457 305,456 329,454 353,453 377,451 401,449 425,445 449,446 474,446 498,446 522,446 546,445 570,445 594,448"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="75,552 135,551 159,563 189,562 203,551 218,562 262,547 273,554 320,551 320,521 261,522 237,510 211,524 162,526 154,519 132,522 118,509 75,509"/>
+                <Baseline points="80,546 104,546 128,547 152,551 176,549 200,549 224,549 249,547 273,547 297,546 321,547 323,547"/>
+                <TextEquiv>
+                    <Unicode>182 p.; 30 cm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="73,623 904,620 904,590 856,587 73,584"/>
+                <Baseline points="78,615 102,615 126,615 151,613 175,613 199,615 223,615 247,613 271,613 295,613 319,613 343,613 368,615 392,613 416,613 440,613 464,613 488,613 512,613 536,613 560,613 584,613 609,613 633,612 657,612 681,613 705,613 729,613 753,613 777,615 801,615 825,615 850,615 874,615 898,615 906,617"/>
+                <TextEquiv>
+                    <Unicode>Reproductions of rubbings of the Buddhist canon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="67,651 711,666 711,626 669,620 67,631"/>
+                <Baseline points="73,650 98,649 122,650 146,650 170,650 194,650 218,650 242,650 266,650 290,650 314,650 339,650 363,650 387,650 411,650 435,650 459,650 483,649 507,649 531,652 556,650 580,650 604,649 628,650 652,650 676,650 700,652 713,650"/>
+                <TextEquiv>
+                    <Unicode>from the temple south-west of Peking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15612.c.2&#13;
+FANG SHAN YUN JU SI SHI JING&#13;
+FANG SHAN YUN JU SI SHI JING&#13;
+Fang shan yun ju si shi jing&#13;
+1981&#13;
+182 p.; 30 cm&#13;
+Reproductions of rubbings of the Buddhist canon&#13;
+from the temple south-west of Peking</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

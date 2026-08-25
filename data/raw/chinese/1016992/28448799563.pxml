@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.490+01:00</Created>
+        <LastChange>2023-05-04T12:47:21.181+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758237" pageNr="89"/>
+    </Metadata>
+    <Page imageFilename="28448799563.jpg" imageWidth="952" imageHeight="790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197241181" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="50,20 54,671 925,672 921,21"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="598,66 615,74 704,65 739,67 745,74 818,75 837,67 837,53 815,52 795,37 688,45 656,29 599,36"/>
+                <Baseline points="604,57 629,59 654,60 680,60 705,60 730,61 756,61 781,62 806,63 832,66"/>
+                <TextEquiv>
+                    <Unicode>15654.c.14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="67,121 85,131 108,131 128,128 141,115 289,106 297,102 297,74 105,78 82,62 66,66"/>
+                <Baseline points="71,102 98,102 126,102 153,102 181,102 209,101 236,101 264,100 292,98"/>
+                <TextEquiv>
+                    <Unicode>FENG JIAN LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="69,195 113,189 176,203 189,196 280,201 287,194 335,202 359,192 360,169 212,163 195,171 126,164 112,150 70,157"/>
+                <Baseline points="74,186 99,185 124,186 150,187 175,187 201,189 226,189 252,190 277,190 303,190 328,188 354,187"/>
+                <TextEquiv>
+                    <Unicode>DU FENG JIAN LUN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="129,266 223,264 261,274 272,264 290,275 305,265 422,267 419,231 306,237 281,228 225,237 129,229"/>
+                <Baseline points="134,256 159,256 185,257 211,258 236,258 262,259 288,259 314,260 339,260 365,260 391,260 417,259"/>
+                <TextEquiv>
+                    <Unicode>Du Feng jian lun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683194158188_343" custom="readingOrder {index:4;}">
+                <Coords points="134,457 233,455 234,505 135,507"/>
+                <Baseline points="135,502 234,500"/>
+                <TextEquiv>
+                    <Unicode>1974</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="138,546 410,546 419,543 420,520 350,516 338,508 313,508 300,521 264,519 213,502 184,514 139,509"/>
+                <Baseline points="143,534 170,533 197,533 224,533 251,534 278,534 305,535 332,535 359,536 386,536 414,535"/>
+                <TextEquiv>
+                    <Unicode>3, 68 p.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="142,607 907,625 908,581 142,573"/>
+                <Baseline points="147,600 184,601 222,602 260,602 298,603 336,603 373,603 411,604 449,604 487,605 525,605 562,606 600,606 638,607 676,607 714,608 751,609 789,609 827,610 865,611 903,612"/>
+                <TextEquiv>
+                    <Unicode>On the essay by the Tang writer, Liu Zongyuan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15654.c.14&#13;
+FENG JIAN LUN&#13;
+DU FENG JIAN LUN&#13;
+Du Feng jian lun&#13;
+1974&#13;
+3, 68 p.; 19 cm.&#13;
+On the essay by the Tang writer, Liu Zongyuan</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

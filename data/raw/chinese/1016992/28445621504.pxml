@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.678+01:00</Created>
+        <LastChange>2023-05-03T17:53:26.059+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758191" pageNr="49"/>
+    </Metadata>
+    <Page imageFilename="28445621504.jpg" imageWidth="960" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683129206060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="33,45 35,756 942,756 940,45"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="550,83 628,90 668,78 777,82 786,72 895,82 895,44 549,51"/>
+                <Baseline points="555,75 580,76 606,76 632,76 658,75 683,75 709,74 735,73 761,72 786,71 812,71 838,71 864,71 890,72"/>
+                <TextEquiv>
+                    <Unicode>15408.k.357-359</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="624,118 662,128 667,122 788,123 808,114 831,114 831,93 736,94 720,82 702,93 648,98 624,93"/>
+                <Baseline points="629,110 657,113 685,114 713,115 741,115 769,115 797,113 826,110"/>
+                <TextEquiv>
+                    <Unicode>- card one -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="46,141 273,135 272,75 45,78"/>
+                <Baseline points="51,130 78,130 105,130 132,130 159,129 186,129 213,128 240,128 268,129"/>
+                <TextEquiv>
+                    <Unicode>FANG ZHOU JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="49,227 345,218 360,211 360,185 316,180 300,195 242,180 48,189"/>
+                <Baseline points="54,212 79,212 104,213 129,213 154,213 179,212 204,212 229,212 254,211 279,211 304,210 329,210 355,210"/>
+                <TextEquiv>
+                    <Unicode>PO YANG WU JIA JI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="83,291 206,298 393,285 392,260 374,252 353,252 338,268 314,253 279,253 267,266 83,253"/>
+                <Baseline points="88,283 115,283 142,283 169,282 196,282 223,282 251,282 278,282 305,281 332,281 359,280 387,280"/>
+                <TextEquiv>
+                    <Unicode>Po yang wu jia ji</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683129191631_758" custom="readingOrder {index:5;}">
+                <Coords points="442,415 536,415 536,465 442,465"/>
+                <Baseline points="442,460 536,460"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657286219561_1187" custom="readingOrder {index:6;}">
+                <Coords points="91,544 341,543 341,593 91,594"/>
+                <Baseline points="91,589 341,588"/>
+                <TextEquiv>
+                    <Unicode>3 v.; 19 cm. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="78,653 806,649 806,627 735,612 78,621"/>
+                <Baseline points="83,645 118,644 154,644 190,643 226,643 262,642 298,642 334,641 370,641 406,641 442,641 477,640 513,640 549,640 585,640 621,640 657,640 693,640 729,640 765,640 801,640"/>
+                <TextEquiv>
+                    <Unicode>Anthology of Jiangxi writers, in 15 juan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="91,691 559,681 638,697 654,691 654,660 91,662"/>
+                <Baseline points="96,682 123,681 151,681 178,681 206,680 234,680 261,680 289,680 316,680 344,680 372,680 399,680 427,680 454,680 482,680 510,680 537,681 565,681 592,681 620,681 648,681"/>
+                <TextEquiv>
+                    <Unicode>compiled by Shi Jian of the Qing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="85,730 301,738 398,725 511,742 531,724 581,730 605,716 545,693 523,704 502,684 320,709 85,693"/>
+                <Baseline points="91,720 116,720 141,720 167,720 192,720 218,720 243,720 269,720 294,720 320,720 345,720 370,720 396,720 421,720 447,720 472,720 498,720 523,720 549,719 574,719 600,719"/>
+                <TextEquiv>
+                    <Unicode>For contents, see card two</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657286271461_1200" custom="readingOrder {index:10;}">
+                <Coords points="629,697 720,697 720,747 629,747"/>
+                <Baseline points="629,742 720,742"/>
+                <TextEquiv>
+                    <Unicode>/...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15408.k.357-359&#13;
+- card one -&#13;
+FANG ZHOU JI&#13;
+PO YANG WU JIA JI&#13;
+Po yang wu jia ji&#13;
+1980&#13;
+3 v.; 19 cm. -&#13;
+Anthology of Jiangxi writers, in 15 juan,&#13;
+compiled by Shi Jian of the Qing&#13;
+For contents, see card two&#13;
+/...</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

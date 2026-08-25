@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.495+01:00</Created>
+        <LastChange>2023-06-29T13:30:30.331+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758447" pageNr="270"/>
+    </Metadata>
+    <Page imageFilename="28961247202.jpg" imageWidth="960" imageHeight="799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038230358" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="33,84 33,555 876,555 876,84"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="572,131 593,137 613,130 769,138 803,133 803,105 667,104 651,93 572,92"/>
+                <Baseline points="577,122 604,123 632,123 659,124 687,125 715,125 742,126 770,126 798,125"/>
+                <TextEquiv>
+                    <Unicode>15682.e.24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="33,172 218,181 239,202 269,182 303,183 342,218 384,178 423,178 424,143 354,141 333,125 311,140 252,139 238,124 210,137 34,131"/>
+                <Baseline points="38,160 63,161 88,161 114,161 139,162 164,162 190,163 215,163 240,164 266,165 291,165 316,166 342,167 367,167 392,168 418,168"/>
+                <TextEquiv>
+                    <Unicode>FA-HAN TIE LU CI DIAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="35,260 741,266 722,237 628,229 35,227"/>
+                <Baseline points="40,251 74,251 109,252 144,253 179,253 214,254 248,254 283,255 318,255 353,256 388,256 422,256 457,257 492,257 527,258 562,258 596,258 631,259 666,259 701,260 736,260"/>
+                <TextEquiv>
+                    <Unicode>PEKING. "Fa-Han tielu cidian" bianhui zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="72,400 818,401 818,378 769,372 72,365"/>
+                <Baseline points="77,390 113,391 150,392 187,392 224,393 261,393 297,393 334,394 371,394 408,394 445,395 481,395 518,395 555,395 592,396 629,396 665,396 702,396 739,397 776,397 813,397"/>
+                <TextEquiv>
+                    <Unicode>Fa-Han tielu cidian. Dictionnaire Français-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="72,433 512,437 512,419 486,406 441,405 426,418 403,404 378,417 352,405 248,415 217,404 202,417 181,405 73,404"/>
+                <Baseline points="77,425 102,426 127,427 152,427 178,427 203,428 228,428 254,428 279,428 304,428 329,429 355,429 380,429 405,429 431,430 456,430 481,431 507,431"/>
+                <TextEquiv>
+                    <Unicode>Chinois du chemin de fer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="67,474 334,472 368,482 423,473 423,451 380,437 337,445 319,437 303,453 287,437 237,436 215,452 193,434 149,433 134,447 67,437"/>
+                <Baseline points="72,464 98,464 125,464 151,464 178,464 205,464 231,464 258,464 284,464 311,464 338,464 364,464 391,464 418,465"/>
+                <TextEquiv>
+                    <Unicode>pp. [4], 847, table.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="654,474 697,474 700,471 719,475 728,472 761,474 770,470 771,458 751,453 744,446 716,444 703,450 690,437 655,437"/>
+                <Baseline points="659,464 685,464 712,464 738,465 765,467"/>
+                <TextEquiv>
+                    <Unicode>21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="70,538 735,543 735,517 704,509 305,520 70,501"/>
+                <Baseline points="75,529 107,529 140,530 173,531 206,531 238,532 271,532 304,532 337,533 369,533 402,533 435,533 468,533 500,533 533,534 566,534 599,534 631,535 664,535 697,536 730,537"/>
+                <TextEquiv>
+                    <Unicode>Renmin teidao chubanshe: Peking, 1975.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15682.e.24&#13;
+FA-HAN TIE LU CI DIAN&#13;
+PEKING. "Fa-Han tielu cidian" bianhui zu&#13;
+Fa-Han tielu cidian. Dictionnaire Français-&#13;
+Chinois du chemin de fer.&#13;
+pp. [4], 847, table.&#13;
+21 cm.&#13;
+Renmin teidao chubanshe: Peking, 1975.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

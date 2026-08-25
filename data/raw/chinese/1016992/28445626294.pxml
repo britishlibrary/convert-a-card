@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:49.721+01:00</Created>
+        <LastChange>2023-05-04T12:44:26.212+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758194" pageNr="51"/>
+    </Metadata>
+    <Page imageFilename="28445626294.jpg" imageWidth="1000" imageHeight="762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197066213" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="141,90 143,684 920,684 918,90"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="594,120 616,130 709,118 879,122 897,108 897,89 777,90 765,103 732,93 699,102 667,90 594,97"/>
+                <Baseline points="599,116 625,117 652,117 678,117 705,117 732,117 758,117 785,117 812,116 838,116 865,114 892,114"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/266</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1657631335995_100" custom="readingOrder {index:1;}">
+                <Coords points="141,214 367,214 367,264 141,264"/>
+                <Baseline points="141,259 367,259"/>
+                <TextEquiv>
+                    <Unicode>WANG (Zhao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;}">
+                <Coords points="176,428 784,427 784,398 765,396 176,393"/>
+                <Baseline points="181,417 210,418 240,418 270,418 300,418 330,418 360,418 390,418 420,418 450,418 480,418 509,418 539,418 569,418 599,418 629,418 659,418 689,418 719,418 749,418 779,418"/>
+                <TextEquiv>
+                    <Unicode>Fangjia-yuan zayong jishi (fu yicao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:3;}">
+                <Coords points="174,461 870,458 870,429 380,444 174,428"/>
+                <Baseline points="179,450 213,451 247,452 281,453 316,453 350,453 384,454 419,454 453,454 487,454 522,454 556,454 590,453 624,453 659,453 693,453 727,452 762,452 796,452 830,452 865,452"/>
+                <TextEquiv>
+                    <Unicode>xi-zhong). [20 poems followed by notes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="174,497 815,495 815,471 761,457 725,479 609,460 174,469"/>
+                <Baseline points="179,486 210,486 242,486 273,486 305,486 336,486 368,486 399,487 431,487 462,487 494,487 526,487 557,487 589,487 620,487 652,487 683,487 715,486 746,486 778,486 810,485"/>
+                <TextEquiv>
+                    <Unicode>&amp; records on the Boxer rising. With</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:5;}">
+                <Coords points="183,530 809,539 906,529 906,496 183,500"/>
+                <Baseline points="188,522 223,522 259,522 294,522 330,521 366,521 401,521 437,521 473,521 508,520 544,520 580,520 615,520 651,520 687,520 722,520 758,520 794,520 829,520 865,520 901,521"/>
+                <TextEquiv>
+                    <Unicode>supplements of other 4 selections of poems]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;}">
+                <Coords points="180,567 194,565 216,572 226,562 256,562 261,557 277,563 330,562 330,538 318,532 275,531 261,544 242,544 228,535 180,534"/>
+                <Baseline points="185,555 213,556 241,556 269,556 297,555 325,554"/>
+                <TextEquiv>
+                    <Unicode>pps. 335.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;}">
+                <Coords points="175,594 758,602 795,596 795,571 174,568"/>
+                <Baseline points="180,590 210,590 241,589 271,589 302,589 332,589 363,588 393,588 424,588 454,588 485,588 515,588 546,588 576,588 607,588 637,588 668,588 698,588 729,588 759,588 790,588"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe = Taipei, 1966-67.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:8;}">
+                <Coords points="172,636 842,630 815,597 759,615 661,597 172,600"/>
+                <Baseline points="177,623 210,624 243,624 276,624 309,624 342,624 375,624 408,624 441,625 474,625 507,625 540,625 573,624 606,624 639,624 672,624 705,624 738,624 771,624 804,624 837,624"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan, 266.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:9;}">
+                <Coords points="179,680 288,681 289,643 280,643 270,653 253,652 242,644 231,644 225,650 206,645 198,653 180,653"/>
+                <Baseline points="185,673 218,675 251,674 284,675"/>
+                <TextEquiv>
+                    <Unicode>s1.L16</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.29/266&#13;
+WANG (Zhao)&#13;
+Fangjia-yuan zayong jishi (fu yicao&#13;
+xi-zhong). [20 poems followed by notes&#13;
+&amp; records on the Boxer rising. With&#13;
+supplements of other 4 selections of poems]&#13;
+pps. 335.&#13;
+Wenhai chubanshe = Taipei, 1966-67.&#13;
+Jindai Zhongguo shiliao congkan, 266.&#13;
+s1.L16</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

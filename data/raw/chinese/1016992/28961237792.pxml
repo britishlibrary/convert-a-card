@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.827+01:00</Created>
+        <LastChange>2023-06-21T18:43:44.901+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="28961237792.jpg" imageWidth="956" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1687365824901" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="57,64 57,622 926,622 926,64"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="594,91 607,99 668,93 827,98 827,73 808,61 768,60 759,69 706,75 685,61 594,60"/>
+                <Baseline points="599,89 626,89 654,89 682,90 710,91 738,91 766,91 794,91 822,89"/>
+                <TextEquiv>
+                    <Unicode>15670.c.30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="60,164 103,170 128,155 189,163 384,157 384,130 60,129"/>
+                <Baseline points="65,155 91,154 117,154 143,154 169,154 195,154 222,155 248,155 274,156 300,156 326,156 352,156 379,156"/>
+                <TextEquiv>
+                    <Unicode>FAN YU WEN XUE SHI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="52,234 122,235 138,242 151,235 193,235 223,242 233,237 234,193 215,189 197,201 150,197 138,188 122,200 52,197"/>
+                <Baseline points="57,224 85,224 114,224 142,224 171,225 199,226 228,227"/>
+                <TextEquiv>
+                    <Unicode>JIN (Kemu)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="149,306 218,303 239,314 273,302 486,305 486,271 468,269 431,271 420,282 149,269"/>
+                <Baseline points="154,293 179,295 204,296 229,297 254,297 279,298 304,298 330,298 355,298 380,297 405,297 430,297 455,297 481,297"/>
+                <TextEquiv>
+                    <Unicode>Fan yu wen xue shi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_139" custom="readingOrder {index:4;}">
+                <Coords points="812,497 826,496 863,493 900,489 898,474 862,478 825,481 812,482"/>
+                <Baseline points="812,497 826,496 863,493 900,489"/>
+                <TextEquiv>
+                    <Unicode>1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="159,546 221,536 231,546 395,554 462,539 525,546 536,530 504,516 467,522 454,509 385,522 285,509 268,526 235,509 220,521 160,509"/>
+                <Baseline points="165,534 191,536 217,537 243,537 269,537 295,537 321,537 347,537 373,537 399,537 425,537 451,537 477,537 503,539 530,540"/>
+                <TextEquiv>
+                    <Unicode>13, 4, 403 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="158,614 690,619 679,585 158,581"/>
+                <Baseline points="163,603 189,604 215,605 241,606 267,606 293,607 319,607 345,607 371,607 397,607 424,607 450,607 476,607 502,607 528,607 554,607 580,607 606,607 632,607 658,608 685,608"/>
+                <TextEquiv>
+                    <Unicode>History of Sanskrit literature</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15670. c. 30.
+FAN YU WEN XUE SHI
+JIN (Kemu)
+Fan yu wen xue shi
+*k 2
+X/4+.—32
+Pp/.36 3.:B.X% U R. 1400
+13, 4, 403 p.; 21 cm.
+History of Sanskrit literature
+chi-p</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.506+01:00</Created>
+        <LastChange>2023-05-04T12:47:24.866+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758238" pageNr="90"/>
+    </Metadata>
+    <Page imageFilename="28448799933.jpg" imageWidth="972" imageHeight="775">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197244867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="63,58 64,510 879,512 878,60"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="597,101 616,107 848,104 848,77 832,69 693,74 597,68"/>
+                <Baseline points="602,97 628,97 655,96 682,96 709,96 735,97 762,97 789,97 816,97 843,98"/>
+                <TextEquiv>
+                    <Unicode>15324.m.142</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="87,147 161,154 169,146 303,146 315,139 315,88 283,89 264,104 171,104 155,93 141,103 87,103"/>
+                <Baseline points="92,134 119,133 146,133 173,133 201,133 228,134 255,134 282,133 310,132"/>
+                <TextEquiv>
+                    <Unicode>FENG HUANG LIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="74,227 125,224 135,234 152,234 159,227 221,225 239,235 253,234 278,215 278,187 189,196 158,196 150,189 131,194 74,189"/>
+                <Baseline points="79,220 106,220 134,220 162,221 189,221 217,220 245,218 273,214"/>
+                <TextEquiv>
+                    <Unicode>LI (Xueao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;}">
+                <Coords points="107,363 836,379 849,354 721,334 107,333"/>
+                <Baseline points="112,354 148,356 185,357 221,358 258,358 295,359 331,360 368,360 404,361 441,361 478,361 514,362 551,362 587,363 624,363 661,364 697,364 734,365 770,365 807,367 857,367"/>
+                <TextEquiv>
+                    <Unicode>Fenghuang lin. [Two collections of poems.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="114,410 143,410 179,391 191,402 246,402 267,381 297,402 397,402 397,381 313,365 221,371 189,364 169,381 114,373"/>
+                <Baseline points="119,395 146,395 173,394 200,394 228,394 255,394 282,394 310,394 337,394 364,395 392,395"/>
+                <TextEquiv>
+                    <Unicode>pp. 129. 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;}">
+                <Coords points="105,474 749,482 780,458 743,436 669,455 611,437 106,437"/>
+                <Baseline points="110,461 143,461 176,461 209,462 242,462 276,463 309,463 342,463 375,464 408,464 442,465 475,465 508,466 541,467 574,467 608,468 641,469 674,469 707,470 740,471 774,472"/>
+                <TextEquiv>
+                    <Unicode>Renmin wenxue chubanshe: Peking, 1974.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15324.m.142&#13;
+FENG HUANG LIN&#13;
+LI (Xueao)&#13;
+Fenghuang lin. [Two collections of poems.]&#13;
+pp. 129. 19 cm.&#13;
+Renmin wenxue chubanshe: Peking, 1974.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

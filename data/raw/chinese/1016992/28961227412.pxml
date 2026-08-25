@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.402+01:00</Created>
+        <LastChange>2023-05-16T11:40:50.418+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758367" pageNr="203" status="Ground Truth"/>
+    </Metadata>
+    <Page imageFilename="28961227412.jpg" imageWidth="960" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684230050418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="56,58 56,423 892,421 892,56"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="635,98 694,98 704,90 847,88 847,70 820,52 809,52 790,71 760,61 737,71 707,60 635,60"/>
+                <Baseline points="640,85 665,84 690,84 715,84 741,84 766,85 791,85 816,84 842,83"/>
+                <TextEquiv>
+                    <Unicode>15590.b.6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="65,161 259,142 734,146 733,107 64,109"/>
+                <Baseline points="70,142 104,142 139,142 174,142 208,142 243,141 278,141 312,141 347,141 382,140 416,140 451,140 486,140 520,140 555,140 590,140 624,140 659,140 694,140 729,140"/>
+                <TextEquiv>
+                    <Unicode>FAR EASTERN ECONOMIC REVIEW.-HONG KONG:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="59,243 247,234 267,212 300,236 555,227 568,221 567,183 58,205"/>
+                <Baseline points="64,232 90,231 116,230 142,229 169,228 195,227 221,226 247,226 274,225 300,223 326,223 352,222 379,221 405,220 431,220 457,219 484,219 510,218 536,218 563,218"/>
+                <TextEquiv>
+                    <Unicode>FAR EASTERN ECONOMIC REVIEW</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="96,304 809,299 848,287 848,264 96,269"/>
+                <Baseline points="101,297 138,297 175,296 212,296 249,295 286,294 323,294 360,293 397,292 434,291 472,290 509,289 546,288 583,288 620,287 657,287 694,286 731,286 768,286 805,286 843,286"/>
+                <TextEquiv>
+                    <Unicode>Far Eastern economic review. - Hong Kong:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684230033368_154" custom="readingOrder {index:4;}">
+                <Coords points="94,293 495,290 495,340 94,343"/>
+                <Baseline points="94,338 495,335"/>
+                <TextEquiv>
+                    <Unicode>[The Review] , [19 ] -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="99,417 759,410 864,402 885,364 630,358 420,392 395,373 98,381"/>
+                <Baseline points="104,409 142,409 181,409 220,408 259,407 298,407 336,406 375,405 414,403 453,402 492,401 530,399 569,398 608,396 647,395 686,394 724,393 763,392 802,392 841,391 880,391"/>
+                <TextEquiv>
+                    <Unicode>Library holds vol. 125 no. 30 (26 July 1984)-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15590.b.6&#13;
+FAR EASTERN ECONOMIC REVIEW.-HONG KONG:&#13;
+FAR EASTERN ECONOMIC REVIEW&#13;
+Far Eastern economic review. - Hong Kong:&#13;
+[The Review] , [19 ] -&#13;
+Library holds vol. 125 no. 30 (26 July 1984)-</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

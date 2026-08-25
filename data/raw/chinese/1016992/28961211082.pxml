@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.967+01:00</Created>
+        <LastChange>2023-05-04T14:01:40.654+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758335" pageNr="175"/>
+    </Metadata>
+    <Page imageFilename="28961211082.jpg" imageWidth="976" imageHeight="812">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201700654" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="121,72 118,514 892,514 895,72"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="582,121 637,130 653,116 682,117 777,130 833,111 833,77 793,77 757,90 686,87 673,75 582,87"/>
+                <Baseline points="587,109 613,110 640,110 667,111 694,111 720,112 747,112 774,111 801,110 828,108"/>
+                <TextEquiv>
+                    <Unicode>15328.a.369</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="120,155 150,157 182,178 201,177 224,154 309,159 331,178 354,160 365,162 366,103 315,102 291,121 204,122 186,109 153,122 121,109"/>
+                <Baseline points="126,145 152,144 178,144 204,144 230,145 256,145 282,146 308,147 334,147 360,148"/>
+                <TextEquiv>
+                    <Unicode>FENG NU XIANG SI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201677988_2268" custom="readingOrder {index:2;}">
+                <Coords points="132,204 381,205 381,255 132,254"/>
+                <Baseline points="132,249 381,250"/>
+                <TextEquiv>
+                    <Unicode>LANGKE, pseud.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="164,386 694,400 682,341 594,358 471,346 446,367 404,349 165,345"/>
+                <Baseline points="170,369 197,371 224,372 251,373 279,374 306,375 333,375 361,376 388,376 415,376 443,377 470,377 497,377 525,378 552,378 579,379 607,380 634,380 661,381 689,383"/>
+                <TextEquiv>
+                    <Unicode>Fengnu xiangsi. [Two novels.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="166,429 192,434 204,423 215,427 225,418 239,426 247,426 255,418 306,418 305,389 294,389 285,380 268,386 247,384 225,404 204,389 165,389"/>
+                <Baseline points="171,413 197,412 223,412 249,411 275,412 301,412"/>
+                <TextEquiv>
+                    <Unicode>pp. 322.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="732,418 764,419 781,434 803,418 839,425 865,402 870,403 872,371 858,370 836,389 734,378"/>
+                <Baseline points="737,409 762,410 787,411 813,413 838,415 864,418"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="164,490 263,489 284,506 303,490 778,486 752,453 164,454"/>
+                <Baseline points="169,477 199,478 229,478 259,479 289,480 320,480 350,480 380,480 410,480 440,480 471,480 501,480 531,481 561,481 591,481 622,481 652,482 682,483 712,484 742,485 773,486"/>
+                <TextEquiv>
+                    <Unicode>Jingang chubanshe: Hong Kong, 1971.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.369&#13;
+FENG NU XIANG SI&#13;
+LANGKE, pseud.&#13;
+Fengnu xiangsi. [Two novels.)&#13;
+pp. 322.&#13;
+18 cm.&#13;
+Jingang chubanshe: Hong Kong, 1971.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=English Typewritten Catalogue Cards(htr_id=43783)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:50.214+01:00</Created>
+        <LastChange>2023-05-04T12:46:10.815+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758217" pageNr="72"/>
+    </Metadata>
+    <Page imageFilename="28445630194.jpg" imageWidth="956" imageHeight="766">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683197170816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="51,57 56,682 920,681 915,56"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="462,114 767,114 767,78 718,77 670,93 662,85 629,91 610,76 538,78 529,87 462,77"/>
+                <Baseline points="467,105 493,105 520,105 547,105 574,105 601,105 627,105 654,105 681,105 708,105 735,106 762,106"/>
+                <TextEquiv>
+                    <Unicode>CHI.1986.a.1852</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="77,210 220,202 233,211 303,202 434,210 434,167 77,173"/>
+                <Baseline points="82,202 108,202 135,201 162,201 188,200 215,200 242,199 268,199 295,199 322,199 348,199 375,199 402,199 429,199"/>
+                <TextEquiv>
+                    <Unicode>FAN SENG YUAN LIU KAO</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="104,262 489,259 481,224 104,225"/>
+                <Baseline points="109,253 134,252 159,252 184,251 209,251 234,250 259,250 284,250 309,250 334,249 359,250 384,250 409,250 434,251 459,251 484,252"/>
+                <TextEquiv>
+                    <Unicode>Fan seng yuan liu kao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683192861922_58" custom="readingOrder {index:3;}">
+                <Coords points="390,455 485,455 485,505 390,505"/>
+                <Baseline points="390,500 485,500"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="117,554 164,553 185,563 194,561 201,554 213,555 223,551 223,538 217,538 210,532 202,533 184,524 174,528 164,528 158,524 118,524"/>
+                <Baseline points="122,547 154,548 186,550 218,550"/>
+                <TextEquiv>
+                    <Unicode>111 p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="111,626 612,626 630,617 630,582 164,600 111,589"/>
+                <Baseline points="116,617 141,616 166,616 192,616 217,616 243,615 268,615 294,615 319,615 345,614 370,614 395,614 421,614 446,614 472,614 497,614 523,614 548,614 574,614 599,614 625,615"/>
+                <TextEquiv>
+                    <Unicode>a1. XI ZANG YAN JIU BIAN JI BU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="109,675 147,673 161,681 166,676 271,673 270,644 180,644 166,655 152,655 143,646 108,646"/>
+                <Baseline points="114,669 139,668 164,668 190,667 215,666 240,665 266,666"/>
+                <TextEquiv>
+                    <Unicode>s1. Tibet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1986.a.1852&#13;
+FAN SENG YUAN LIU KAO&#13;
+Fan seng yuan liu kao&#13;
+1982&#13;
+111 p.&#13;
+a1. XI ZANG YAN JIU BIAN JI BU&#13;
+s1. Tibet</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

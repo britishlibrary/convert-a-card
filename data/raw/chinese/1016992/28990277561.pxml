@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.295+01:00</Created>
+        <LastChange>2023-07-03T16:34:54.676+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758502" pageNr="318" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=YNNUQGCRFIEUZZLEBVVHMWNC&amp;fileType=view" imageId="35195808"/>
+    </Metadata>
+    <Page imageFilename="42758502.jpg" imageWidth="976" imageHeight="803">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688394894677" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="63,37 921,37 921,747 63,747"/>
+            <TextLine id="line_1688394819990_1285" custom="readingOrder {index:0;}">
+                <Coords points="538,55 899,48 900,98 539,105"/>
+                <Baseline points="539,100 900,93"/>
+                <TextEquiv>
+                    <Unicode>15400.e.1806-1807</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="68,149 127,153 143,170 177,152 245,162 325,148 391,152 391,113 258,113 247,101 234,113 68,115"/>
+                <Baseline points="73,149 78,149 102,147 126,147 151,146 175,146 199,146 224,147 248,146 273,146 297,146 321,146 346,144 370,144 394,144"/>
+                <TextEquiv>
+                    <Unicode>FANG WU GOU ZHAO XUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="58,241 141,244 155,234 170,249 181,239 257,242 258,190 245,191 224,212 171,192 148,213 136,202 59,202"/>
+                <Baseline points="63,234 87,234 112,234 136,234 160,234 185,232 209,232 234,234 258,232"/>
+                <TextEquiv>
+                    <Unicode>TANG (Ying)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="501,226 564,233 590,249 651,248 684,266 710,265 696,160 656,201 611,185 596,206 563,191 549,202 496,194"/>
+                <Baseline points="507,227 531,227 555,227 580,229 604,230 629,237 653,240 677,248 702,251 711,253"/>
+                <TextEquiv>
+                    <Unicode>and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="63,270 149,271 160,283 185,274 274,273 301,283 314,276 315,228 298,226 269,244 63,246"/>
+                <Baseline points="68,268 74,268 99,268 123,268 147,266 172,266 196,266 221,266 245,266 269,266 294,264 318,260"/>
+                <TextEquiv>
+                    <Unicode>WANG (Shoubao)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="95,409 919,402 919,377 847,364 531,383 478,361 445,393 96,382"/>
+                <Baseline points="100,404 117,404 141,406 165,406 190,404 214,404 238,404 263,403 287,403 312,403 336,403 360,401 385,399 409,399 434,401 458,403 482,403 507,401 531,399 555,399 580,398 604,398 629,398 653,396 677,396 702,396 726,394 750,394 775,394 799,394 824,393 848,393 872,393 897,393 921,394"/>
+                <TextEquiv>
+                    <Unicode>Fangwu gouzhao xue. [On domestic architecture.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="100,450 275,449 292,440 292,433 255,412 240,420 217,415 210,422 145,418 137,426 118,412 101,418"/>
+                <Baseline points="105,440 123,442 147,442 172,440 196,438 221,440 245,440 269,440 294,438"/>
+                <TextEquiv>
+                    <Unicode>A reprint.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="99,490 161,490 173,479 191,490 216,482 230,490 273,480 367,482 368,457 310,444 255,457 215,445 160,466 141,451 100,457"/>
+                <Baseline points="104,481 126,481 151,479 175,477 199,477 224,476 248,476 273,474 297,474 321,473 346,474 370,476"/>
+                <TextEquiv>
+                    <Unicode>pp. 230; illus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:8;}">
+                <Coords points="770,466 794,475 825,474 832,466 843,475 859,471 863,475 888,473 888,446 882,446 866,431 847,446 835,445 811,425 806,431 789,431 778,442 770,442"/>
+                <Baseline points="775,466 793,464 817,463 842,463 866,463 890,463"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:9;}">
+                <Coords points="100,554 808,543 788,505 696,526 612,498 565,519 100,517"/>
+                <Baseline points="105,546 126,546 151,544 175,544 199,544 224,544 248,544 273,542 297,544 321,542 346,542 370,542 394,542 419,541 443,541 468,541 492,539 516,539 541,539 565,538 590,536 614,536 638,536 663,536 687,536 711,536 736,536 760,534 785,534 809,534"/>
+                <TextEquiv>
+                    <Unicode>Taiwan shangwu yinshuguan: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:10;}">
+                <Coords points="100,619 494,619 494,588 477,578 351,582 335,597 290,577 260,590 100,588"/>
+                <Baseline points="105,616 107,614 131,614 156,612 180,612 204,612 229,612 253,611 277,612 302,612 326,612 351,611 375,609 399,607 424,607 448,609 473,607 497,611"/>
+                <TextEquiv>
+                    <Unicode>Renren wenku, 1806-07.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15400.e.1806-1807&#13;
+FANG WU GOU ZHAO XUE&#13;
+TANG (Ying)&#13;
+and&#13;
+WANG (Shoubao)&#13;
+Fangwu gouzhao xue. [On domestic architecture.&#13;
+A reprint.]&#13;
+pp. 230; illus.&#13;
+18 cm.&#13;
+Taiwan shangwu yinshuguan: Taipei, 1972.&#13;
+Renren wenku, 1806-07.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

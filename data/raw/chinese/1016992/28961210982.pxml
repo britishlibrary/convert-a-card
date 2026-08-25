@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:51.952+01:00</Created>
+        <LastChange>2023-05-04T14:00:51.958+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758334" pageNr="174"/>
+    </Metadata>
+    <Page imageFilename="28961210982.jpg" imageWidth="984" imageHeight="796">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1683201651959" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="53,50 54,651 900,651 899,50"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="542,82 570,91 582,82 600,90 645,82 843,87 843,55 792,48 734,50 723,42 705,59 655,53 647,61 633,53 542,52"/>
+                <Baseline points="547,77 573,76 599,76 626,76 652,77 679,77 705,78 732,79 758,79 785,79 811,79 838,77"/>
+                <TextEquiv>
+                    <Unicode>15293.a.29/748</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="62,141 189,133 218,154 241,132 302,132 333,154 383,132 431,137 445,129 445,63 115,63 96,82 62,82"/>
+                <Baseline points="67,126 93,125 120,124 146,124 173,123 200,123 226,123 253,124 280,124 306,124 333,124 360,125 386,125 413,126 440,126"/>
+                <TextEquiv>
+                    <Unicode>FENG PING SHAN JI SHI CE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683201597941_2233" custom="readingOrder {index:2;}">
+                <Coords points="74,173 340,171 340,221 74,223"/>
+                <Baseline points="74,218 340,216"/>
+                <TextEquiv>
+                    <Unicode>FENG (Pingshan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="116,354 783,362 876,353 876,322 116,325"/>
+                <Baseline points="107,346 158,348 196,348 233,348 271,348 308,349 346,349 383,349 421,349 458,349 496,348 533,348 571,348 608,348 646,348 683,348 721,348 758,348 796,348 833,349 871,349"/>
+                <TextEquiv>
+                    <Unicode>Feng Pingshan jishi ce. [Autobiography of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="122,389 875,394 896,357 122,358"/>
+                <Baseline points="107,380 165,382 203,382 241,382 279,382 318,382 356,382 394,382 432,382 470,382 509,382 547,382 585,382 623,382 661,382 700,382 738,382 776,382 814,382 852,382 891,382"/>
+                <TextEquiv>
+                    <Unicode>businessman and philanthropist. Facsimile of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="108,426 824,431 824,398 796,392 108,394"/>
+                <Baseline points="113,417 148,417 183,417 218,418 254,418 289,418 324,418 360,418 395,418 430,418 466,418 501,418 536,418 571,418 607,418 642,417 677,417 713,417 748,418 783,418 819,418"/>
+                <TextEquiv>
+                    <Unicode>MS. With 2 short essays in his honour by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="111,460 195,461 202,457 219,466 239,463 239,437 178,436 162,429 111,431"/>
+                <Baseline points="116,452 145,451 175,452 204,452 258,451"/>
+                <TextEquiv>
+                    <Unicode>others.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="109,507 144,506 172,492 218,506 232,506 241,495 338,498 346,494 346,473 329,474 307,461 241,474 213,461 185,461 162,479 152,470 108,469"/>
+                <Baseline points="113,490 138,490 163,490 189,490 214,489 239,489 265,488 290,488 315,487 341,485"/>
+                <TextEquiv>
+                    <Unicode>pp. 52; port.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="111,562 649,562 649,527 630,525 111,527"/>
+                <Baseline points="116,554 142,554 168,554 195,554 221,554 248,554 274,554 300,554 327,554 353,554 380,554 406,554 432,554 459,554 485,554 512,554 538,554 564,554 591,555 617,555 644,555"/>
+                <TextEquiv>
+                    <Unicode>Wenhai chubanshe: Taipei, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="115,634 654,642 767,626 733,597 671,613 115,603"/>
+                <Baseline points="120,625 152,626 184,626 216,626 248,627 280,627 312,627 344,627 376,626 408,626 441,626 473,626 505,626 537,626 569,626 601,626 633,626 665,627 697,627 729,628 762,629"/>
+                <TextEquiv>
+                    <Unicode>Jindai Zhongguo shiliao congkan, 748.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15293.a.29/748&#13;
+FENG PING SHAN JI SHI CE&#13;
+FENG (Pingshan)&#13;
+Feng Pingshan jishi ce. [Autobiography of a&#13;
+businessman and philanthropist. Facsimile of&#13;
+MS. With 2 short essays in his honour by&#13;
+others.]&#13;
+pp. 52; port.&#13;
+Wenhai chubanshe: Taipei, 1972.&#13;
+Jindai Zhongguo shiliao congkan, 748.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

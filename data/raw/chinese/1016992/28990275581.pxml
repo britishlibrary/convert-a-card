@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.097+01:00</Created>
+        <LastChange>2023-07-03T16:17:36.471+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758488" pageNr="306" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=GCSGKXGXFPBIBOJMIZTCLOJD&amp;fileType=view" imageId="35195794"/>
+    </Metadata>
+    <Page imageFilename="42758488.jpg" imageWidth="956" imageHeight="793">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393856472" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="31,51 896,51 896,731 31,731"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="563,106 576,114 608,106 656,114 676,103 703,118 729,105 790,106 810,120 810,86 788,72 727,79 593,65 576,78 563,70"/>
+                <Baseline points="568,101 592,103 616,103 640,105 664,105 687,106 711,105 735,105 759,103 783,103 807,103 812,103"/>
+                <TextEquiv>
+                    <Unicode>15675.g.220</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="26,174 255,163 437,173 437,130 61,132 26,118"/>
+                <Baseline points="31,164 55,165 79,165 103,165 127,164 151,164 175,164 199,164 222,162 246,164 270,164 294,164 318,164 342,164 366,164 390,162 414,162 437,164 439,164"/>
+                <TextEquiv>
+                    <Unicode>FEI HU DUI YU YE ZHU DUI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="33,251 46,245 105,250 116,240 132,251 259,250 258,202 219,222 205,213 167,221 132,204 121,211 32,209"/>
+                <Baseline points="38,238 62,238 85,238 109,238 133,240 157,240 181,240 205,240 229,240 253,242 261,242"/>
+                <TextEquiv>
+                    <Unicode>CHEN (Bochui)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="77,310 283,323 315,310 330,322 367,308 512,312 512,281 491,274 77,278"/>
+                <Baseline points="82,304 106,305 130,305 154,307 178,307 202,307 226,307 250,307 273,308 297,307 321,310 345,307 369,307 393,307 417,307 441,307 464,307 488,307 512,308 514,308"/>
+                <TextEquiv>
+                    <Unicode>Fei hu dui yu ye zhu dui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="87,464 639,466 639,424 617,419 539,418 514,443 483,417 434,433 408,407 366,429 268,408 237,426 219,410 141,432 87,423"/>
+                <Baseline points="92,455 116,455 140,457 164,457 187,458 211,458 235,458 259,457 283,452 307,450 331,450 355,452 378,455 402,455 426,457 450,458 474,458 498,460 522,458 546,458 570,458 593,457 617,455 641,457"/>
+                <TextEquiv>
+                    <Unicode>1979</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="101,525 151,514 160,523 213,516 231,530 247,522 270,530 287,515 388,522 400,520 400,493 298,485 283,495 270,485 249,495 239,485 183,479 142,503 113,477 100,482"/>
+                <Baseline points="105,511 128,512 152,512 176,514 200,514 224,515 248,514 272,514 296,514 320,514 343,514 367,512 391,512 402,514"/>
+                <TextEquiv>
+                    <Unicode>2, 237 p.; 21 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="104,585 894,585 894,552 204,569 104,551"/>
+                <Baseline points="109,578 133,579 157,581 181,581 205,581 229,581 253,581 277,581 300,581 324,581 348,581 372,581 396,581 420,581 444,579 468,581 492,581 515,581 539,581 563,581 587,579 611,579 635,579 659,579 683,581 707,581 730,581 754,581 778,581 802,581 826,581 850,581 874,581 896,578"/>
+                <TextEquiv>
+                    <Unicode>Short stories for children previously publish-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="100,618 375,641 894,624 894,595 855,588 100,593"/>
+                <Baseline points="105,616 128,617 152,619 176,619 200,621 224,621 248,621 272,619 296,619 320,619 343,619 367,619 391,619 415,617 439,619 463,619 487,619 511,619 535,619 558,617 582,617 606,617 630,617 654,617 678,617 702,614 726,616 750,617 773,617 797,616 821,616 845,616 869,617 893,617 896,619"/>
+                <TextEquiv>
+                    <Unicode>ed in magazines; with a postface by the author</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15675.g.220&#13;
+FEI HU DUI YU YE ZHU DUI&#13;
+CHEN (Bochui)&#13;
+Fei hu dui yu ye zhu dui&#13;
+1979&#13;
+2, 237 p.; 21 cm.&#13;
+Short stories for children previously publish-&#13;
+ed in magazines; with a postface by the author</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

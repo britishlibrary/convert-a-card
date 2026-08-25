@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.1.0:model_id=53164:lm=none:date=30_06_2023_16:57</Creator>
+        <Created>2022-05-30T15:59:54.033+01:00</Created>
+        <LastChange>2023-07-03T16:14:17.765+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758483" pageNr="302" status="Done" userId="23823" imgUrl="https://files.transkribus.eu/Get?id=PNRNGHVQTSKDTQZMFFJUUNRQ&amp;fileType=view" imageId="35195789"/>
+    </Metadata>
+    <Page imageFilename="42758483.jpg" imageWidth="980" imageHeight="813">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688393657765" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="60,75 830,75 830,720 60,720"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="532,138 549,132 578,141 593,129 641,138 652,127 678,138 696,131 710,139 771,138 770,90 718,94 700,113 687,113 654,106 634,87 531,88"/>
+                <Baseline points="537,127 551,127 576,128 600,127 625,128 649,128 674,128 698,130 723,130 747,128 772,125"/>
+                <TextEquiv>
+                    <Unicode>15328.a.438</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="55,202 74,210 115,170 295,168 294,120 140,119 126,131 84,104 54,105"/>
+                <Baseline points="60,164 84,164 109,163 133,163 158,163 182,163 207,164 231,164 256,164 280,164 297,164"/>
+                <TextEquiv>
+                    <Unicode>FEI YAN MO LONG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="76,257 181,254 201,266 216,258 289,266 298,262 297,216 284,215 265,234 214,227 204,217 175,229 150,230 141,221 75,226"/>
+                <Baseline points="81,253 106,253 130,253 155,251 179,249 204,248 228,249 253,254 277,257 300,259"/>
+                <TextEquiv>
+                    <Unicode>LIANG (Feng)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="111,430 571,442 571,393 543,405 402,394 365,421 315,394 228,406 110,395"/>
+                <Baseline points="115,414 140,417 164,419 189,421 213,422 238,422 262,424 287,426 311,426 336,427 360,429 385,429 409,426 434,427 458,427 483,426 507,429 532,429 556,432 574,434"/>
+                <TextEquiv>
+                    <Unicode>Feiyan molong. [A novel.]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="112,473 151,474 176,459 184,466 199,465 210,474 219,470 233,474 241,466 256,466 256,442 249,442 233,425 204,434 187,429 170,446 159,436 112,433"/>
+                <Baseline points="117,462 135,460 159,460 184,458 208,460 233,460 257,460"/>
+                <TextEquiv>
+                    <Unicode>pp. 159.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="628,470 654,475 670,473 684,463 696,474 746,474 758,465 756,435 748,435 733,448 708,426 690,446 657,418 637,441 627,442"/>
+                <Baseline points="633,460 657,462 682,463 706,465 731,466 755,466 760,466"/>
+                <TextEquiv>
+                    <Unicode>18 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="109,525 444,537 469,554 595,534 679,546 698,510 108,490"/>
+                <Baseline points="114,524 138,525 163,527 187,527 212,527 236,527 261,527 285,527 310,528 334,528 359,528 383,527 408,528 432,530 457,530 481,532 506,532 530,533 555,535 579,533 604,533 628,535 653,533 677,533 700,533"/>
+                <TextEquiv>
+                    <Unicode>Wulin chubanshe: Hong Kong, 1972.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15328.a.438&#13;
+FEI YAN MO LONG&#13;
+LIANG (Feng)&#13;
+Feiyan molong. [A novel.]&#13;
+pp. 159.&#13;
+18 cm.&#13;
+Wulin chubanshe: Hong Kong, 1972.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

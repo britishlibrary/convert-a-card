@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:53.571+01:00</Created>
+        <LastChange>2023-06-29T13:30:52.459+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758452" pageNr="274"/>
+    </Metadata>
+    <Page imageFilename="28961247702.jpg" imageWidth="948" imageHeight="780">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688038252459" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="83,35 86,710 899,710 896,35"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="557,69 780,75 794,61 806,73 890,74 891,25 558,21"/>
+                <Baseline points="562,60 588,61 615,61 642,61 669,61 696,62 723,62 750,62 777,62 804,63 831,63 858,63 885,64"/>
+                <TextEquiv>
+                    <Unicode>CHI.1987.a.1160</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="78,201 138,196 151,209 168,201 202,202 210,210 230,210 239,202 291,209 305,203 306,167 188,169 153,159 79,168"/>
+                <Baseline points="83,193 110,193 137,194 164,194 191,194 218,194 245,195 272,195 300,194"/>
+                <TextEquiv>
+                    <Unicode>LU (Yongbin)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="110,275 158,273 193,281 212,273 294,274 319,258 319,231 241,237 218,229 158,237 110,232"/>
+                <Baseline points="115,264 143,263 171,262 200,263 228,263 257,264 285,264 314,263"/>
+                <TextEquiv>
+                    <Unicode>Fa gu lu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="167,506 176,506 184,500 190,506 209,513 227,504 239,514 247,514 262,499 267,499 267,473 260,473 243,461 230,469 166,469"/>
+                <Baseline points="172,493 202,494 232,493 262,493"/>
+                <TextEquiv>
+                    <Unicode>1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1688037900619_1235" custom="readingOrder {index:4;}">
+                <Coords points="126,511 411,516 410,566 125,561"/>
+                <Baseline points="125,556 410,561"/>
+                <TextEquiv>
+                    <Unicode>Various pagings.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CHI.1987.a.1160&#13;
+LU (Yongbin)&#13;
+Fa gu lu&#13;
+1984&#13;
+Various pagings.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

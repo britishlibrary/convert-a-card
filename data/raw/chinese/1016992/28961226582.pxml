@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2022-05-30T15:59:52.386+01:00</Created>
+        <LastChange>2023-05-16T11:39:17.577+02:00</LastChange>
+        <TranskribusMetadata docId="1016992" pageId="42758366" pageNr="202"/>
+    </Metadata>
+    <Page imageFilename="28961226582.jpg" imageWidth="960" imageHeight="794">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1684229957577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="66,31 66,774 954,772 954,29"/>
+            <TextLine id="line_1654763937820_15" custom="readingOrder {index:0;}">
+                <Coords points="690,61 712,74 736,66 786,66 794,74 810,63 848,68 864,55 888,74 922,62 964,69 964,8 945,9 920,30 887,26 855,43 815,37 803,47 785,29 690,31"/>
+                <Baseline points="695,64 963,64"/>
+                <TextEquiv>
+                    <Unicode>15628.e.1/17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="81,138 831,138 831,94 751,84 81,93"/>
+                <Baseline points="86,120 123,120 160,121 197,121 234,121 271,121 308,121 345,121 382,120 419,120 456,120 493,120 530,120 567,120 604,120 641,121 678,121 715,121 752,122 789,122 826,123"/>
+                <TextEquiv>
+                    <Unicode>FAUNA SINICA: CRUSTACEA: FRESHWATER COPEPODA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="68,212 160,219 168,211 273,211 280,218 317,218 317,167 306,165 264,179 191,173 166,180 146,172 137,181 86,181 68,173"/>
+                <Baseline points="73,205 99,205 125,204 152,204 178,203 205,203 231,203 258,204 284,205 311,208"/>
+                <TextEquiv>
+                    <Unicode>LIU (Shiliang)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="100,283 171,277 179,285 262,291 271,282 379,279 394,268 394,250 347,244 336,253 233,254 189,244 161,256 99,246"/>
+                <Baseline points="105,275 130,274 156,273 182,273 208,273 234,273 259,273 285,273 311,272 337,271 363,271 389,268"/>
+                <TextEquiv>
+                    <Unicode>Han liu quan shi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684229951693_137" custom="readingOrder {index:4;}">
+                <Coords points="586,390 670,390 670,440 586,440"/>
+                <Baseline points="586,435 670,435"/>
+                <TextEquiv>
+                    <Unicode>1975</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684229877702_114" custom="readingOrder {index:5;}">
+                <Coords points="108,508 531,508 531,558 108,558"/>
+                <Baseline points="108,553 531,553"/>
+                <TextEquiv>
+                    <Unicode>125, 94 p.: ill.; 19 cm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="104,698 455,687 505,734 581,690 927,696 927,660 104,660"/>
+                <Baseline points="109,688 149,688 190,688 230,687 271,687 312,687 352,687 393,687 434,687 474,686 515,686 556,686 596,686 637,686 678,686 718,686 759,686 800,687 840,687 881,687 922,687"/>
+                <TextEquiv>
+                    <Unicode>Reprint of a 1938-published history of the sect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1684229930469_130" custom="readingOrder {index:7;}">
+                <Coords points="99,679 771,682 771,732 99,729"/>
+                <Baseline points="99,724 771,727"/>
+                <TextEquiv>
+                    <Unicode>founded in the Ming. With appendix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15628.e.1/17&#13;
+FAUNA SINICA: CRUSTACEA: FRESHWATER COPEPODA&#13;
+LIU (Shiliang)&#13;
+Han liu quan shi&#13;
+1975&#13;
+125, 94 p.: ill.; 19 cm.&#13;
+Reprint of a 1938-published history of the sect&#13;
+founded in the Ming. With appendix</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
